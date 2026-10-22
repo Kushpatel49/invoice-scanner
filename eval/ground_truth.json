@@ -1,0 +1,143 @@
+{
+ "inv01": {
+  "supplier": "GREEN LEAF",
+  "gstin": "32AVQPJ5385G2Z9",
+  "invoice_number": "B1/FS/011218",
+  "date": "2026-08-29",
+  "total": null,
+  "lines": 48,
+  "note": "page 1 of multi-page; no total on this page",
+  "rotate_deg": 90
+ },
+ "inv02": {
+  "supplier": "NUTRI LEAVES",
+  "gstin": null,
+  "invoice_number": "26-27/4244",
+  "date": "2026-08-28",
+  "total": 26766,
+  "lines": 26,
+  "note": "GSTIN at top edge belongs to the SH Foods bill underneath",
+  "rotate_deg": 90
+ },
+ "inv03": {
+  "supplier": "Muralya Dairy Products",
+  "gstin": "32AAGCM9238D1ZL",
+  "invoice_number": "INV/2026/108647",
+  "date": "2026-08-30",
+  "total": 4330,
+  "lines": 5,
+  "rotate_deg": 90
+ },
+ "inv04": {
+  "supplier": "NKA Fruits",
+  "gstin": null,
+  "invoice_number": "1294",
+  "date": "2026-08-29",
+  "total": 51000,
+  "lines": 12,
+  "rotate_deg": 90
+ },
+ "inv05": {
+  "supplier": "Arayacherril Varkey & Sons",
+  "gstin": "32AAQCA8177P1ZU",
+  "invoice_number": "2872",
+  "date": "2026-08-29",
+  "total": 1470,
+  "lines": 2,
+  "note": "printed RO 2199 struck out, handwritten 26AB0A0 2872",
+  "rotate_deg": 270
+ },
+ "inv06": {
+  "supplier": "R K MERCANTILE",
+  "gstin": "32AGVPR6347Q2ZA",
+  "invoice_number": "26-27/1064",
+  "date": "2026-08-29",
+  "total": 7665,
+  "lines": 1,
+  "rotate_deg": 90
+ },
+ "inv07": {
+  "supplier": "SH FOODS",
+  "gstin": "32ADPFS4356R1Z8",
+  "invoice_number": "SH/KK/1120/26-27",
+  "date": "2026-08-29",
+  "total": 9655,
+  "lines": 6,
+  "rotate_deg": 90
+ },
+ "inv08": {
+  "supplier": "A.K.S. TRADERS",
+  "gstin": "32CHKPM3220R1Z3",
+  "invoice_number": "1250",
+  "date": "2026-08-31",
+  "total": 3610,
+  "lines": 5,
+  "note": "handwritten less 2% -> balance 3537",
+  "rotate_deg": 0
+ },
+ "inv09": {
+  "supplier": "ALMOVA INTERNATIONAL",
+  "gstin": "32BZNPV6872Q1Z5",
+  "invoice_number": "ALM/B2B/1399",
+  "date": "2026-08-29",
+  "total": 9910,
+  "lines": 3,
+  "rotate_deg": 90
+ },
+ "inv10": {
+  "supplier": "AADIDEV MUSHROOM WORLD",
+  "gstin": null,
+  "invoice_number": "45314",
+  "date": "2026-08-31",
+  "total": 2340,
+  "lines": 1,
+  "rotate_deg": 270
+ },
+ "inv11": {
+  "supplier": "Eggs Daily",
+  "gstin": "32BFLPC3943R1Z3",
+  "invoice_number": "6133",
+  "date": "2026-08-29",
+  "total": 12465,
+  "lines": 5,
+  "note": "qty 40 corrected to 39 by hand",
+  "rotate_deg": 0
+ },
+ "inv12": {
+  "supplier": "Aeden Fruits International",
+  "gstin": "32AAPCA0115L1ZX",
+  "invoice_number": "COK26-27/1795",
+  "date": "2026-08-29",
+  "total": null,
+  "lines": 17,
+  "note": "continued on next page",
+  "rotate_deg": 0
+ },
+ "inv13": {
+  "supplier": "Uptown Urban Farms",
+  "gstin": null,
+  "invoice_number": "EKM/2026/1960",
+  "date": "2026-08-29",
+  "total": 2094,
+  "lines": 9,
+  "rotate_deg": 0
+ },
+ "inv14": {
+  "supplier": "MZ FARMS (Dr. Growmush)",
+  "gstin": null,
+  "invoice_number": "1333",
+  "date": "2026-08-29",
+  "total": 910,
+  "lines": 1,
+  "rotate_deg": 0
+ },
+ "inv15": {
+  "supplier": "THALIR FRESH",
+  "gstin": null,
+  "invoice_number": "1980",
+  "date": "2026-08-31",
+  "total": 1859,
+  "lines": 12,
+  "rotate_deg": 0
+ }
+}

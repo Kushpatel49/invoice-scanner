@@ -1,0 +1,2 @@
+# Python dependencies (the tesseract binary is also required; see README)
+Pillow>=9

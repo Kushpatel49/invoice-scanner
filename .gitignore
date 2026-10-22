@@ -1,0 +1,25 @@
+# secrets
+.env
+
+# scan outputs
+results*/
+review.html
+cost_report*.csv
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+
+# os / editors
+.DS_Store
+.idea/
+.vscode/
+
+# logs
+*.log

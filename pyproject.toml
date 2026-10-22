@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invoice-scanner"
+version = "0.1.0"
+description = "Scan photographed purchase bills into validated, ERP-ready JSON"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["Pillow>=9"]
+
+[project.scripts]
+invoice-scanner = "invoice_scanner.cli:main"
+
+[tool.setuptools]
+packages = ["invoice_scanner"]
