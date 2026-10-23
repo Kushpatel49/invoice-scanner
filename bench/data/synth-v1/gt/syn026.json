@@ -1,0 +1,315 @@
+{
+ "id": "syn026",
+ "template": "gst_modern",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "R K MERCANTILE",
+  "address_lines": [
+   "P26/27, Main Road",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "9919240150",
+  "gstin": "32XNRPQ6797X1ZM",
+  "fssai": "17477705383106",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "EKM/2026/2135",
+ "invoice_number_printed": "EKM/2026/2135",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-08-2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 3,
+   "unit": "Nos",
+   "rate": 171,
+   "tax_percent": 5,
+   "taxable": 513.0,
+   "cgst": 12.83,
+   "sgst": 12.83,
+   "amount": 538.66,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 60,
+   "unit": "Nos",
+   "rate": 145.19,
+   "tax_percent": 5,
+   "taxable": 8711.4,
+   "cgst": 217.79,
+   "sgst": 217.79,
+   "amount": 9146.98,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 16.7,
+   "unit": "KGS",
+   "rate": 373.25,
+   "tax_percent": 5,
+   "taxable": 6233.28,
+   "cgst": 155.83,
+   "sgst": 155.83,
+   "amount": 6544.94,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 28,
+   "unit": "KGS",
+   "rate": 276,
+   "tax_percent": 5,
+   "taxable": 7728.0,
+   "cgst": 193.2,
+   "sgst": 193.2,
+   "amount": 8114.4,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 8,
+   "unit": "Nos",
+   "rate": 174.5,
+   "tax_percent": 18,
+   "taxable": 1396.0,
+   "cgst": 125.64,
+   "sgst": 125.64,
+   "amount": 1647.28,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 21,
+   "unit": "Nos",
+   "rate": 326,
+   "tax_percent": 5,
+   "taxable": 6846.0,
+   "cgst": 171.15,
+   "sgst": 171.15,
+   "amount": 7188.3,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 31427.68,
+  "cgst": 876.44,
+  "sgst": 876.44,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 33180.56
+ },
+ "amount_in_words": "Thirty Three Thousand One Hundred Eighty INDIAN RUPEES and Fifty Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 684"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.447,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 684",
+    "box": [
+     1213.463,
+     230.166,
+     1424.463,
+     341.166
+    ],
+    "angle": 5.898,
+    "size": 60.879,
+    "font": "Caveat.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 21.056,
+   "center": [
+    317.59,
+    1379.01
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.48,
+   "print_lum": 30.0,
+   "row_px_estimate": 24.637,
+   "faint": false,
+   "size_mm": [
+    69.892,
+    103.893
+   ],
+   "fills": {
+    "store_name": "Tripunithura",
+    "received": "Rahim",
+    "date": "27/08/26"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.046,
+   "title_on_print": 0.116,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.982
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    2,
+    4,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    1167.646,
+    1524.404,
+    1302.635,
+    1578.399
+   ],
+   "width": 134.988,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    248.738,
+    252.001,
+    247.603
+   ],
+   "grain": 0.01,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.006,
+    "bow": -0.254,
+    "lift": -0.222
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.102,
+   "gradient_angle": 252.159,
+   "vignette": 0.138,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.31,
+    "strength": 0.104
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.014,
+    1.0,
+    0.941
+   ],
+   "white": 219.607,
+   "black": 41.298,
+   "gamma": 1.106,
+   "glare": null
+  },
+  "text_row_px": 25.682,
+  "text_px": 10.153,
+  "photo_px_per_mm": 4.448,
+  "camera": {
+   "blur_sigma": 0.55,
+   "blur_cap": 0.917,
+   "defocus": {
+    "sigma_far": 0.917,
+    "angle": 159.975
+   },
+   "motion": null,
+   "noise_sd": 2.791,
+   "sharpen_radius": 1.273,
+   "sharpen_percent": 42
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 73,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 1.042,
+   "skew_deg": 1.031,
+   "perspective": {
+    "amount": 0.013,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     -21.398,
+     955.161
+    ],
+    [
+     -36.443,
+     19.342
+    ],
+    [
+     1302.095,
+     -8.184
+    ],
+    [
+     1321.711,
+     941.456
+    ]
+   ]
+  }
+ }
+}

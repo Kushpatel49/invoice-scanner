@@ -1,0 +1,305 @@
+{
+ "id": "syn064",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "MALABAR FRESH FARMS PVT LTD",
+  "address_lines": [
+   "P59/23, Main Road",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "8415831904",
+  "gstin": null,
+  "fssai": null,
+  "email": "malabar@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "645",
+ "invoice_number_printed": "645",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "TOMATO HYBRID",
+   "hsn": "0702",
+   "quantity": 1,
+   "unit": "KGS",
+   "rate": 23.0,
+   "tax_percent": 0,
+   "taxable": 23.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 23.0,
+   "mrp": null
+  },
+  {
+   "description": "BEETROOT OOTY",
+   "hsn": "0706",
+   "quantity": 8.33,
+   "unit": "KGS",
+   "rate": 45.0,
+   "tax_percent": 0,
+   "taxable": 374.85,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 374.85,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 27,
+   "unit": "KGS",
+   "rate": 58.0,
+   "tax_percent": 0,
+   "taxable": 1566.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1566.0,
+   "mrp": null
+  },
+  {
+   "description": "BEANS BUSH",
+   "hsn": "0708",
+   "quantity": 10.95,
+   "unit": "KGS",
+   "rate": 92.0,
+   "tax_percent": 0,
+   "taxable": 1007.4,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1007.4,
+   "mrp": null
+  },
+  {
+   "description": "BRINJAL GREEN LONG",
+   "hsn": "0709",
+   "quantity": 11,
+   "unit": "KGS",
+   "rate": 50.0,
+   "tax_percent": 0,
+   "taxable": 550.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 550.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 3521.25,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.25,
+  "grand_total": 3521.0
+ },
+ "amount_in_words": "Three Thousand Five Hundred and Twenty One Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 638"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 6.728,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 638",
+    "box": [
+     807.888,
+     7.0,
+     971.888,
+     78.0
+    ],
+    "angle": 0.547,
+    "size": 52.0,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -38.679,
+   "center": [
+    250.209,
+    971.998
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.644,
+   "print_lum": 69.0,
+   "row_px_estimate": 47.593,
+   "faint": false,
+   "size_mm": [
+    69.69,
+    103.593
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Jithin",
+    "date": "29/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.118,
+   "title_on_print": 0.296,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.927
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    798.93,
+    118.505,
+    989.851,
+    194.874
+   ],
+   "width": 190.922,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.196,
+    249.488,
+    248.153
+   ],
+   "grain": 0.008,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.009,
+    "bow": 0.383,
+    "lift": 0.022
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.112,
+   "gradient_angle": 42.521,
+   "vignette": 0.146,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.237,
+    "strength": 0.23
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.009,
+    1.0,
+    0.965
+   ],
+   "white": 181.157,
+   "black": 59.745,
+   "gamma": 0.924,
+   "glare": {
+    "center": [
+     0.701,
+     0.188
+    ],
+    "radius": [
+     0.177,
+     0.111
+    ],
+    "strength": 0.252
+   }
+  },
+  "text_row_px": 43.128,
+  "text_px": 28.752,
+  "photo_px_per_mm": 5.09,
+  "camera": {
+   "blur_sigma": 0.935,
+   "blur_cap": 1.244,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.288,
+   "sharpen_radius": 1.599,
+   "sharpen_percent": 38
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 63,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.906,
+   "skew_deg": -4.584,
+   "perspective": {
+    "amount": 0.049,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     115.933,
+     21.005
+    ],
+    [
+     902.758,
+     100.616
+    ],
+    [
+     829.947,
+     1243.34
+    ],
+    [
+     2.892,
+     1204.561
+    ]
+   ]
+  }
+ }
+}

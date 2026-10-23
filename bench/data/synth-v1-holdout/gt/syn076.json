@@ -1,0 +1,372 @@
+{
+ "id": "syn076",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "THALIR FRESH",
+  "address_lines": [
+   "XIII/313, Temple Road",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "8436686486",
+  "gstin": "32AGSPN3670B1ZH",
+  "fssai": "15548727113497",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh, Kakkanad"
+ },
+ "invoice_number": "2398",
+ "invoice_number_printed": "2398",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "PLANTAIN FLOWER",
+   "hsn": "0709",
+   "quantity": 78,
+   "unit": "Pkt",
+   "rate": 38.0,
+   "tax_percent": 0,
+   "taxable": 2964.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2964.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA CUT",
+   "hsn": "0709",
+   "quantity": 52,
+   "unit": "Pkt",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 2184.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2184.0,
+   "mrp": null
+  },
+  {
+   "description": "KAYAM PAYAR CUT",
+   "hsn": "0709",
+   "quantity": 8,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 320.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 320.0,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT GRATED",
+   "hsn": "0801",
+   "quantity": 31,
+   "unit": "Pkt",
+   "rate": 65.0,
+   "tax_percent": 0,
+   "taxable": 2015.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2015.0,
+   "mrp": null
+  },
+  {
+   "description": "VENDAKKA CUT",
+   "hsn": "0709",
+   "quantity": 12,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 480.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 480.0,
+   "mrp": null
+  },
+  {
+   "description": "PAPPAYA CUT",
+   "hsn": "0709",
+   "quantity": 11,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 440.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 440.0,
+   "mrp": null
+  },
+  {
+   "description": "AVIAL CUT",
+   "hsn": "0709",
+   "quantity": 54,
+   "unit": "Pkt",
+   "rate": 43.0,
+   "tax_percent": 0,
+   "taxable": 2322.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2322.0,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR CUT",
+   "hsn": "0709",
+   "quantity": 37,
+   "unit": "Pkt",
+   "rate": 37.0,
+   "tax_percent": 0,
+   "taxable": 1369.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1369.0,
+   "mrp": null
+  },
+  {
+   "description": "JACKFRUIT RIPE",
+   "hsn": "0810",
+   "quantity": 6,
+   "unit": "Pkt",
+   "rate": 93.0,
+   "tax_percent": 0,
+   "taxable": 558.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 558.0,
+   "mrp": null
+  },
+  {
+   "description": "BEANS CUT",
+   "hsn": "0709",
+   "quantity": 11,
+   "unit": "Pkt",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 462.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 462.0,
+   "mrp": null
+  },
+  {
+   "description": "CHEERA CUT",
+   "hsn": "0709",
+   "quantity": 24,
+   "unit": "Pkt",
+   "rate": 48.0,
+   "tax_percent": 0,
+   "taxable": 1152.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1152.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 11,
+ "totals": {
+  "subtotal": 14266.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 14266.0
+ },
+ "amount_in_words": "FOURTEEN THOUSAND TWO HUNDRED SIXTY SIX INDIAN RUPEES ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-676"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.105,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-676",
+    "box": [
+     924.538,
+     0.0,
+     1090.538,
+     96.0
+    ],
+    "angle": -7.56,
+    "size": 49.6,
+    "font": "Caveat.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -38.224,
+   "center": [
+    524.853,
+    1378.84
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.655,
+   "print_lum": 67.0,
+   "row_px_estimate": 41.195,
+   "faint": false,
+   "size_mm": [
+    76.571,
+    113.821
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Neethu",
+    "name": "Neethu",
+    "date": "30.08.2026",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.297,
+   "title_on_print": 0.726,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.013,
+   "inside_page": 0.963
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    739.886,
+    1422.005,
+    870.884,
+    1474.405
+   ],
+   "width": 130.998,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.229,
+    252.54,
+    245.919
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.007,
+    "bow": -0.705,
+    "lift": 0.533
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "black table",
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.101,
+   "gradient_angle": 92.203,
+   "vignette": 0.098,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.323,
+    "strength": 0.082
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.989,
+    1.0,
+    1.025
+   ],
+   "white": 196.904,
+   "black": 31.924,
+   "gamma": 0.951,
+   "glare": null
+  },
+  "text_row_px": 39.336,
+  "text_px": 22.478,
+  "photo_px_per_mm": 4.99,
+  "camera": {
+   "blur_sigma": 0.643,
+   "blur_cap": 1.22,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.446,
+   "sharpen_radius": 1.346,
+   "sharpen_percent": 45
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 66,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.955,
+   "skew_deg": -0.48,
+   "perspective": {
+    "amount": 0.03,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     99.624,
+     21.385
+    ],
+    [
+     912.086,
+     18.952
+    ],
+    [
+     901.031,
+     1263.401
+    ],
+    [
+     100.193,
+     1252.964
+    ]
+   ]
+  }
+ }
+}

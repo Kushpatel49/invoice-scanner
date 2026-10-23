@@ -1,0 +1,330 @@
+{
+ "id": "syn097",
+ "template": "tally",
+ "supplier_kind": "exotic",
+ "supplier": {
+  "name": "HILLTOP EXOTIC FARMS",
+  "address_lines": [
+   "XIII/195, Near Railway Station",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "7042284322",
+  "gstin": "32OWKCE1933G1ZA",
+  "fssai": "14339203837125",
+  "email": "hilltopfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "M/s Aeden Fresh Kakkanad"
+ },
+ "invoice_number": "26-27/185",
+ "invoice_number_printed": "26-27/185",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ICEBERG LETTUCE",
+   "hsn": "0705",
+   "quantity": 39,
+   "unit": "Kilogram",
+   "rate": 79.75,
+   "tax_percent": 0,
+   "taxable": 3110.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3110.25,
+   "mrp": null
+  },
+  {
+   "description": "BASIL LEAVES",
+   "hsn": "0709",
+   "quantity": 35,
+   "unit": "PACK",
+   "rate": 42.15,
+   "tax_percent": 0,
+   "taxable": 1475.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1475.25,
+   "mrp": null
+  },
+  {
+   "description": "ZUCCHINI YELLOW",
+   "hsn": "0709",
+   "quantity": 37,
+   "unit": "Kilogram",
+   "rate": 116.33,
+   "tax_percent": 0,
+   "taxable": 4304.21,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4304.21,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE LETTUCE",
+   "hsn": "0705",
+   "quantity": 5.0,
+   "unit": "Kilogram",
+   "rate": 113.25,
+   "tax_percent": 0,
+   "taxable": 566.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 566.25,
+   "mrp": null
+  },
+  {
+   "description": "RED CABBAGE",
+   "hsn": "0704",
+   "quantity": 13,
+   "unit": "Kilogram",
+   "rate": 86.25,
+   "tax_percent": 0,
+   "taxable": 1121.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1121.25,
+   "mrp": null
+  },
+  {
+   "description": "BROCCOLI",
+   "hsn": "0704",
+   "quantity": 25.663,
+   "unit": "Kilogram",
+   "rate": 261,
+   "tax_percent": 0,
+   "taxable": 6698.04,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 6698.04,
+   "mrp": null
+  },
+  {
+   "description": "BABY POTATO",
+   "hsn": "0701",
+   "quantity": 26.723,
+   "unit": "Kilogram",
+   "rate": 69,
+   "tax_percent": 0,
+   "taxable": 1843.89,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1843.89,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 19119.14,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 19119.14
+ },
+ "amount_in_words": "Nineteen Thousand One Hundred and Nineteen INDIAN RUPEES and Fourteen Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-644"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.797,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-644",
+    "box": [
+     363.068,
+     0.0,
+     710.068,
+     250.0
+    ],
+    "angle": -24.173,
+    "size": 72.49,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 6.646,
+   "center": [
+    275.409,
+    1611.271
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.827,
+   "print_lum": 32.0,
+   "row_px_estimate": 15.323,
+   "faint": false,
+   "size_mm": [
+    76.761,
+    114.105
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sreeja",
+    "date": "30.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.952
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1357.947,
+    1857.924,
+    1517.741,
+    1921.841
+   ],
+   "width": 159.794,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.357,
+    251.217,
+    248.835
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.466,
+     "tilt": -0.014,
+     "depth": 0.119,
+     "width_mm": 1.477,
+     "panel_step": 0.004
+    },
+    {
+     "horizontal": false,
+     "pos": 0.509,
+     "tilt": -0.039,
+     "depth": 0.084,
+     "width_mm": 1.239,
+     "panel_step": 0.058
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.004,
+    "bow": -0.359,
+    "lift": 0.102
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "white table",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.026,
+   "gradient_angle": 334.974,
+   "vignette": 0.066,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.015,
+    1.0,
+    0.94
+   ],
+   "white": 217.558,
+   "black": 39.173,
+   "gamma": 0.994,
+   "glare": null
+  },
+  "text_row_px": 14.669,
+  "text_px": 12.049,
+  "photo_px_per_mm": 4.085,
+  "camera": {
+   "blur_sigma": 0.491,
+   "blur_cap": 0.524,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.305,
+   "sharpen_radius": 1.422,
+   "sharpen_percent": 62
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 76,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.957,
+   "skew_deg": 1.221,
+   "perspective": {
+    "amount": 0.004,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     52.963,
+     950.328
+    ],
+    [
+     31.126,
+     80.551
+    ],
+    [
+     1256.837,
+     54.965
+    ],
+    [
+     1276.736,
+     923.351
+    ]
+   ]
+  }
+ }
+}

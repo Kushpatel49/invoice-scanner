@@ -1,0 +1,347 @@
+{
+ "id": "syn096",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "GREEN LEAF",
+  "address_lines": [
+   "XIII/367, M.G. Road",
+   "Kalamassery, Kerala - 683104"
+  ],
+  "phone": "7358658392",
+  "gstin": null,
+  "fssai": null,
+  "email": "green@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Green Angadi Kakkanad"
+ },
+ "invoice_number": "5744",
+ "invoice_number_printed": "5744",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ONION SMALL (SAMBAR)",
+   "hsn": "0703",
+   "quantity": 25.46,
+   "unit": "KGS",
+   "rate": 103.0,
+   "tax_percent": 0,
+   "taxable": 2622.38,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2622.38,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 9.2,
+   "unit": "KGS",
+   "rate": 157.0,
+   "tax_percent": 0,
+   "taxable": 1444.4,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1444.4,
+   "mrp": null
+  },
+  {
+   "description": "CURRY LEAVES",
+   "hsn": "0709",
+   "quantity": 5,
+   "unit": "KGS",
+   "rate": 69.0,
+   "tax_percent": 0,
+   "taxable": 345.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 345.0,
+   "mrp": null
+  },
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 7.9,
+   "unit": "KGS",
+   "rate": 53.0,
+   "tax_percent": 0,
+   "taxable": 418.7,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 418.7,
+   "mrp": null
+  },
+  {
+   "description": "AMARANTHUS GREEN BUNCH",
+   "hsn": "0709",
+   "quantity": 18,
+   "unit": "UNT",
+   "rate": 18.0,
+   "tax_percent": 0,
+   "taxable": 324.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 324.0,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 21.2,
+   "unit": "KGS",
+   "rate": 107.0,
+   "tax_percent": 0,
+   "taxable": 2268.4,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2268.4,
+   "mrp": null
+  },
+  {
+   "description": "BAJI CHILLY",
+   "hsn": "0709",
+   "quantity": 7,
+   "unit": "KGS",
+   "rate": 63.0,
+   "tax_percent": 0,
+   "taxable": 441.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 441.0,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 7,
+   "unit": "KGS",
+   "rate": 50.0,
+   "tax_percent": 0,
+   "taxable": 350.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 350.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 8213.88,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.12,
+  "grand_total": 8214.0
+ },
+ "amount_in_words": "Eight Thousand Two Hundred Fourteen Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-682"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "yellow",
+  "px_per_mm": 7.156,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-682",
+    "box": [
+     949.001,
+     0.0,
+     1175.001,
+     104.0
+    ],
+    "angle": -2.721,
+    "size": 66.4,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -17.295,
+   "center": [
+    322.516,
+    1298.709
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.806,
+   "print_lum": 31.0,
+   "row_px_estimate": 35.013,
+   "faint": false,
+   "size_mm": [
+    76.564,
+    113.811
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Rakhi",
+    "date": "26/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.153,
+   "title_on_print": 0.377,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.986
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1011.623,
+    160.634,
+    1150.468,
+    216.172
+   ],
+   "width": 138.844,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.619,
+    237.968,
+    169.614
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.297,
+     "tilt": -0.0,
+     "depth": 0.136,
+     "width_mm": 1.027,
+     "panel_step": 0.051
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": -0.828,
+    "lift": 0.159
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    176,
+    178,
+    182
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.041,
+   "gradient_angle": 64.221,
+   "vignette": 0.046,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.39,
+    "strength": 0.057
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.994,
+    1.0,
+    1.029
+   ],
+   "white": 222.874,
+   "black": 22.951,
+   "gamma": 1.058,
+   "glare": null
+  },
+  "text_row_px": 33.162,
+  "text_px": 19.77,
+  "photo_px_per_mm": 4.564,
+  "camera": {
+   "blur_sigma": 0.454,
+   "blur_cap": 1.116,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.284,
+   "sharpen_radius": 0.934,
+   "sharpen_percent": 76
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 76,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.947,
+   "skew_deg": 1.453,
+   "perspective": {
+    "amount": 0.006,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     39.306,
+     903.317
+    ],
+    [
+     24.658,
+     107.421
+    ],
+    [
+     1233.392,
+     78.972
+    ],
+    [
+     1250.211,
+     870.686
+    ]
+   ]
+  }
+ }
+}

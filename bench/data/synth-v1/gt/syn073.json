@@ -1,0 +1,239 @@
+{
+ "id": "syn073",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "KUTTANAD FRESH CUTS",
+  "address_lines": [
+   "P33/42, Seaport-Airport Road",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "7058875836",
+  "gstin": "32MNKPW2253I1ZH",
+  "fssai": null,
+  "email": "kuttanadfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "7692",
+ "invoice_number_printed": "7692",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "JACKFRUIT RIPE",
+   "hsn": "0810",
+   "quantity": 9,
+   "unit": "Pkt",
+   "rate": 87.0,
+   "tax_percent": 0,
+   "taxable": 783.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 783.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 1,
+ "totals": {
+  "subtotal": 783.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 783.0
+ },
+ "amount_in_words": "Rupees Seven Hundred Eighty Three Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "green",
+  "px_per_mm": 6.665,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 35.405,
+   "center": [
+    775.976,
+    569.135
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.82,
+   "print_lum": 32.0,
+   "row_px_estimate": 45.157,
+   "faint": false,
+   "size_mm": [
+    70.13,
+    104.247
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Bibin",
+    "date": "24/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.101,
+   "title_on_print": 0.214,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.005,
+   "inside_page": 0.963
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    461.332,
+    167.317,
+    591.609,
+    219.428
+   ],
+   "width": 130.277,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    212.715,
+    240.496,
+    210.04
+   ],
+   "grain": 0.011,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.306,
+     "tilt": -0.038,
+     "depth": 0.135,
+     "width_mm": 1.18,
+     "panel_step": 0.05
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.01,
+    "bow": 0.049,
+    "lift": -0.003
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.278
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.122,
+   "gradient_angle": 357.665,
+   "vignette": 0.05,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.407,
+    "strength": 0.182
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.025,
+    1.0,
+    0.965
+   ],
+   "white": 214.946,
+   "black": 44.914,
+   "gamma": 1.109,
+   "glare": null
+  },
+  "text_row_px": 46.522,
+  "text_px": 27.913,
+  "photo_px_per_mm": 5.637,
+  "camera": {
+   "blur_sigma": 1.051,
+   "blur_cap": 1.378,
+   "defocus": {
+    "sigma_far": 1.378,
+    "angle": 260.393
+   },
+   "motion": null,
+   "noise_sd": 3.866,
+   "sharpen_radius": 1.566,
+   "sharpen_percent": 41
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.03,
+   "skew_deg": 1.081,
+   "perspective": {
+    "amount": 0.04,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     5.499,
+     -16.234
+    ],
+    [
+     897.112,
+     10.845
+    ],
+    [
+     924.088,
+     1277.005
+    ],
+    [
+     33.474,
+     1308.973
+    ]
+   ]
+  }
+ }
+}

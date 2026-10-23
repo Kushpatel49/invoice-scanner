@@ -1,0 +1,298 @@
+{
+ "id": "syn023",
+ "template": "carbon",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "COCHIN FRUIT COMPANY",
+  "address_lines": [
+   "19/113, Near Panchayath Office",
+   "Kakkanad, Kerala - 682030"
+  ],
+  "phone": "7169800763",
+  "gstin": "32HGYFN2547C2ZO",
+  "fssai": "11934039671765",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "TI-23027",
+ "invoice_number_printed": "TI-23027",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31.08.2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BLACKBERRY (PUNNETS)",
+   "hsn": "0810",
+   "quantity": 12,
+   "unit": "Punnets",
+   "rate": 235.25,
+   "tax_percent": 0,
+   "taxable": 2823.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2823.0,
+   "mrp": null
+  },
+  {
+   "description": "ORANGE MANDARIN EGYPT - 15 KG",
+   "hsn": "0805",
+   "quantity": 6,
+   "unit": "Boxes",
+   "rate": 2971,
+   "tax_percent": 0,
+   "taxable": 17826.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 17826.0,
+   "mrp": null
+  },
+  {
+   "description": "DRAGON WHITE VIETNAM - 9 KG",
+   "hsn": "0810",
+   "quantity": 6,
+   "unit": "Boxes",
+   "rate": 1240,
+   "tax_percent": 0,
+   "taxable": 7440.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7440.0,
+   "mrp": null
+  },
+  {
+   "description": "FUJI APPLE CHINA - 10 KG",
+   "hsn": "0808",
+   "quantity": 3,
+   "unit": "Boxes",
+   "rate": 3444,
+   "tax_percent": 0,
+   "taxable": 10332.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 10332.0,
+   "mrp": null
+  },
+  {
+   "description": "GRANNY SMITH NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 12,
+   "unit": "Boxes",
+   "rate": 4424,
+   "tax_percent": 0,
+   "taxable": 53088.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 53088.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 91509.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 91509.0
+ },
+ "amount_in_words": "Ninety One Thousand Five Hundred Nine INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-694"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "yellow",
+  "px_per_mm": 8.49,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-694",
+    "box": [
+     1180.277,
+     0.0,
+     1578.277,
+     284.0
+    ],
+    "angle": -23.646,
+    "size": 83.443,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 43.743,
+   "center": [
+    413.371,
+    1431.575
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.683,
+   "print_lum": 62.0,
+   "row_px_estimate": 24.803,
+   "faint": false,
+   "size_mm": [
+    73.214,
+    108.832
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sreeja",
+    "date": "31.08.2026"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.014,
+   "title_on_print": 0.031,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.969
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    3,
+    4
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    247.813,
+    236.921,
+    169.612
+   ],
+   "grain": 0.011,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.485,
+     "tilt": 0.003,
+     "depth": 0.076,
+     "width_mm": 1.392,
+     "panel_step": 0.025
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.002,
+    "bow": -0.402,
+    "lift": 0.923
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.065,
+   "gradient_angle": 84.045,
+   "vignette": 0.064,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.281,
+    "strength": 0.053
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.013,
+    1.0,
+    0.964
+   ],
+   "white": 226.648,
+   "black": 33.366,
+   "gamma": 0.936,
+   "glare": null
+  },
+  "text_row_px": 32.384,
+  "text_px": 9.025,
+  "photo_px_per_mm": 4.507,
+  "camera": {
+   "blur_sigma": 0.296,
+   "blur_cap": 0.82,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.705,
+   "sharpen_radius": 1.002,
+   "sharpen_percent": 43
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 76,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.946,
+   "skew_deg": -1.019,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     56.12,
+     23.546
+    ],
+    [
+     917.369,
+     42.443
+    ],
+    [
+     896.055,
+     1245.973
+    ],
+    [
+     35.244,
+     1238.663
+    ]
+   ]
+  }
+ }
+}

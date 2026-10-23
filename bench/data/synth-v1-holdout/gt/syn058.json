@@ -1,0 +1,295 @@
+{
+ "id": "syn058",
+ "template": "carbon",
+ "supplier_kind": "spices",
+ "supplier": {
+  "name": "MALABAR SPICES & MASALA",
+  "address_lines": [
+   "1/320, Market Road",
+   "Chalakudy, Kerala - 680307"
+  ],
+  "phone": "8880588737",
+  "gstin": "32UXNFG4634K1ZE",
+  "fssai": null,
+  "email": "malabarfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "SH/KK/1820/26-27",
+ "invoice_number_printed": "SH/KK/1820/26-27",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "TURMERIC POWDER 500 G",
+   "hsn": "09103030",
+   "quantity": 55,
+   "unit": "Pkt",
+   "rate": 118,
+   "tax_percent": 5,
+   "taxable": 6490.0,
+   "cgst": 162.25,
+   "sgst": 162.25,
+   "amount": 6490.0,
+   "mrp": null
+  },
+  {
+   "description": "PEPPER BLACK 250 G",
+   "hsn": "09041140",
+   "quantity": 36,
+   "unit": "Pkt",
+   "rate": 200.17,
+   "tax_percent": 5,
+   "taxable": 7206.12,
+   "cgst": 180.15,
+   "sgst": 180.15,
+   "amount": 7206.12,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER POWDER 500 G",
+   "hsn": "09092200",
+   "quantity": 74,
+   "unit": "Pkt",
+   "rate": 92,
+   "tax_percent": 5,
+   "taxable": 6808.0,
+   "cgst": 170.2,
+   "sgst": 170.2,
+   "amount": 6808.0,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR POWDER 200 G",
+   "hsn": "21039040",
+   "quantity": 56,
+   "unit": "Pkt",
+   "rate": 63.79,
+   "tax_percent": 5,
+   "taxable": 3572.24,
+   "cgst": 89.31,
+   "sgst": 89.31,
+   "amount": 3572.24,
+   "mrp": null
+  },
+  {
+   "description": "CHILLI POWDER 500 G",
+   "hsn": "09042211",
+   "quantity": 5,
+   "unit": "Pkt",
+   "rate": 159.44,
+   "tax_percent": 5,
+   "taxable": 797.2,
+   "cgst": 19.93,
+   "sgst": 19.93,
+   "amount": 797.2,
+   "mrp": null
+  },
+  {
+   "description": "GARAM MASALA 100 G",
+   "hsn": "09109100",
+   "quantity": 68,
+   "unit": "Pkt",
+   "rate": 71,
+   "tax_percent": 5,
+   "taxable": 4828.0,
+   "cgst": 120.7,
+   "sgst": 120.7,
+   "amount": 4828.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 29701.56,
+  "cgst": 742.54,
+  "sgst": 742.54,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.36,
+  "grand_total": 31187.0
+ },
+ "amount_in_words": "INR THIRTY ONE THOUSAND ONE HUNDRED EIGHTY SEVEN ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-679",
+  "quality issue return"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 9.602,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-679",
+    "box": [
+     991.763,
+     0.0,
+     1600.763,
+     218.0
+    ],
+    "angle": -3.757,
+    "size": 65.6,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   },
+   {
+    "text": "quality issue return",
+    "box": [
+     991.763,
+     0.0,
+     1600.763,
+     218.0
+    ],
+    "angle": -3.757,
+    "size": 65.6,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1368.593,
+    2156.976,
+    1566.621,
+    2236.187
+   ],
+   "width": 198.027,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.565,
+    158.548,
+    178.121
+   ],
+   "grain": 0.009,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.49,
+     "tilt": -0.018,
+     "depth": 0.042,
+     "width_mm": 1.089,
+     "panel_step": 0.059
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.004,
+    "bow": 0.071,
+    "lift": 0.106
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.149,
+   "gradient_angle": 229.615,
+   "vignette": 0.078,
+   "shadow": {
+    "kind": "phone",
+    "side": "right",
+    "depth": 0.471,
+    "strength": 0.175
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.012,
+    1.0,
+    0.943
+   ],
+   "white": 194.138,
+   "black": 48.029,
+   "gamma": 1.12,
+   "glare": null
+  },
+  "text_row_px": 39.585,
+  "text_px": 8.973,
+  "photo_px_per_mm": 5.068,
+  "camera": {
+   "blur_sigma": 0.517,
+   "blur_cap": 0.816,
+   "defocus": {
+    "sigma_far": 0.816,
+    "angle": 272.459
+   },
+   "motion": null,
+   "noise_sd": 3.323,
+   "sharpen_radius": 1.469,
+   "sharpen_percent": 47
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 70,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.979,
+   "skew_deg": -1.109,
+   "perspective": {
+    "amount": 0.017,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     20.532,
+     896.196
+    ],
+    [
+     22.367,
+     16.279
+    ],
+    [
+     1281.815,
+     57.365
+    ],
+    [
+     1254.867,
+     913.832
+    ]
+   ]
+  }
+ }
+}

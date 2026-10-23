@@ -1,0 +1,291 @@
+{
+ "id": "syn005",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "HYDRO HARVEST FARMS",
+  "address_lines": [
+   "XIII/271, Industrial Estate",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "8978822196",
+  "gstin": null,
+  "fssai": "15471285021321",
+  "email": "hydro@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "4834",
+ "invoice_number_printed": "4834",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "MIXED MICROGREENS",
+   "hsn": "0709",
+   "quantity": 6,
+   "unit": "Units",
+   "rate": 105.0,
+   "tax_percent": 0,
+   "taxable": 630.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 630.0,
+   "mrp": null
+  },
+  {
+   "description": "BASIL",
+   "hsn": "0709",
+   "quantity": 11,
+   "unit": "Units",
+   "rate": 45.0,
+   "tax_percent": 0,
+   "taxable": 495.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 495.0,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE",
+   "hsn": "0705",
+   "quantity": 15,
+   "unit": "Units",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 810.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 810.0,
+   "mrp": null
+  },
+  {
+   "description": "CURLY GREEN",
+   "hsn": "0705",
+   "quantity": 1,
+   "unit": "Units",
+   "rate": 58.0,
+   "tax_percent": 0,
+   "taxable": 58.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 58.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 1993.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 1993.0
+ },
+ "amount_in_words": "INR One Thousand Nine Hundred and Ninety Three Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 621"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 5.733,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 621",
+    "box": [
+     715.884,
+     7.5,
+     936.884,
+     99.5
+    ],
+    "angle": 3.16,
+    "size": 57.174,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -31.711,
+   "center": [
+    409.09,
+    1085.22
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.872,
+   "print_lum": 35.0,
+   "row_px_estimate": 40.851,
+   "faint": false,
+   "size_mm": [
+    70.3,
+    104.5
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sanal",
+    "date": "25/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.086,
+   "title_on_print": 0.215,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.993
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    2
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    248.564,
+    251.197,
+    248.667
+   ],
+   "grain": 0.016,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.359,
+     "tilt": -0.02,
+     "depth": 0.066,
+     "width_mm": 0.751,
+     "panel_step": 0.003
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.006,
+    "bow": -0.8,
+    "lift": 0.31
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "white table",
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.248
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.067,
+   "gradient_angle": 50.714,
+   "vignette": 0.13,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.251,
+    "strength": 0.191
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.006,
+    1.0,
+    0.98
+   ],
+   "white": 215.088,
+   "black": 54.779,
+   "gamma": 1.013,
+   "glare": null
+  },
+  "text_row_px": 39.837,
+  "text_px": 25.673,
+  "photo_px_per_mm": 5.075,
+  "camera": {
+   "blur_sigma": 0.672,
+   "blur_cap": 1.241,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.393,
+   "sharpen_radius": 0.989,
+   "sharpen_percent": 42
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 77,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.975,
+   "skew_deg": -1.433,
+   "perspective": {
+    "amount": 0.018,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     42.529,
+     15.79
+    ],
+    [
+     930.403,
+     25.739
+    ],
+    [
+     906.997,
+     1269.206
+    ],
+    [
+     10.826,
+     1267.358
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,303 @@
+{
+ "id": "syn010",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "ST. JUDE VEGETABLES",
+  "address_lines": [
+   "P56/26, M.G. Road",
+   "Angamaly, Kerala - 683572"
+  ],
+  "phone": "7511387313",
+  "gstin": "32YVLPS6786J1Z4",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh, Kakkanad"
+ },
+ "invoice_number": "2470",
+ "invoice_number_printed": "2470",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 12.93,
+   "unit": "KGS",
+   "rate": 97.0,
+   "tax_percent": 0,
+   "taxable": 1254.21,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1254.21,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 17.7,
+   "unit": "KGS",
+   "rate": 48.0,
+   "tax_percent": 0,
+   "taxable": 849.6,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 849.6,
+   "mrp": null
+  },
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 13,
+   "unit": "KGS",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 572.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 572.0,
+   "mrp": null
+  },
+  {
+   "description": "CURRY LEAVES",
+   "hsn": "0709",
+   "quantity": 20.8,
+   "unit": "KGS",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 1081.6,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1081.6,
+   "mrp": null
+  },
+  {
+   "description": "AMARANTHUS GREEN BUNCH",
+   "hsn": "0709",
+   "quantity": 58,
+   "unit": "UNT",
+   "rate": 16.0,
+   "tax_percent": 0,
+   "taxable": 928.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 928.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 4685.41,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.41,
+  "grand_total": 4685.0
+ },
+ "amount_in_words": "Four Thousand Six Hundred and Eighty Five Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 614"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 6.545,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 614",
+    "box": [
+     737.747,
+     0.0,
+     979.747,
+     116.0
+    ],
+    "angle": 5.487,
+    "size": 63.197,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 21.415,
+   "center": [
+    414.446,
+    929.377
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.749,
+   "print_lum": 50.0,
+   "row_px_estimate": 50.283,
+   "faint": false,
+   "size_mm": [
+    71.496,
+    106.278
+   ],
+   "fills": {
+    "store_name": "TPR",
+    "received": "Akhil",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.347,
+   "title_on_print": 0.783,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.009,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    139.543,
+    1219.338,
+    327.156,
+    1294.383
+   ],
+   "width": 187.613,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.286,
+    250.176,
+    249.231
+   ],
+   "grain": 0.016,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.529,
+     "tilt": -0.025,
+     "depth": 0.114,
+     "width_mm": 1.31,
+     "panel_step": 0.004
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.012,
+    "bow": -0.365,
+    "lift": 0.685
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.114,
+   "gradient_angle": 329.903,
+   "vignette": 0.13,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.297,
+    "strength": 0.254
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.02,
+    1.0,
+    0.942
+   ],
+   "white": 212.693,
+   "black": 40.031,
+   "gamma": 0.922,
+   "glare": null
+  },
+  "text_row_px": 47.509,
+  "text_px": 32.506,
+  "photo_px_per_mm": 5.456,
+  "camera": {
+   "blur_sigma": 0.877,
+   "blur_cap": 1.334,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 5.152,
+   "sharpen_radius": 1.509,
+   "sharpen_percent": 46
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 68,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.945,
+   "skew_deg": -0.126,
+   "perspective": {
+    "amount": 0.041,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     68.997,
+     24.725
+    ],
+    [
+     926.967,
+     57.997
+    ],
+    [
+     917.184,
+     1252.639
+    ],
+    [
+     57.586,
+     1232.191
+    ]
+   ]
+  }
+ }
+}

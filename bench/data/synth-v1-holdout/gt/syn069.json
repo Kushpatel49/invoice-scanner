@@ -1,0 +1,313 @@
+{
+ "id": "syn069",
+ "template": "gst_modern",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "PERIYAR DAIRY PRODUCTS",
+  "address_lines": [
+   "54/775, M.G. Road",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "7018003582",
+  "gstin": "32HHXFV7242X1Z7",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "COK26-27/1948",
+ "invoice_number_printed": "COK26-27/1948",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 27,
+   "unit": "500g",
+   "rate": 29.5,
+   "tax_percent": 5,
+   "taxable": 796.5,
+   "cgst": 19.91,
+   "sgst": 19.91,
+   "amount": 796.5,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 4,
+   "unit": "Nos",
+   "rate": 80.3,
+   "tax_percent": 5,
+   "taxable": 321.2,
+   "cgst": 8.03,
+   "sgst": 8.03,
+   "amount": 321.2,
+   "mrp": null
+  },
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 40,
+   "unit": "Nos",
+   "rate": 356,
+   "tax_percent": 12,
+   "taxable": 14240.0,
+   "cgst": 854.4,
+   "sgst": 854.4,
+   "amount": 14240.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 56,
+   "unit": "ML",
+   "rate": 29,
+   "tax_percent": 0,
+   "taxable": 1624.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1624.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 55,
+   "unit": "400g",
+   "rate": 44.59,
+   "tax_percent": 5,
+   "taxable": 2452.45,
+   "cgst": 61.31,
+   "sgst": 61.31,
+   "amount": 2452.45,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 9,
+   "unit": "L",
+   "rate": 63,
+   "tax_percent": 0,
+   "taxable": 567.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 567.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 48,
+   "unit": "Nos",
+   "rate": 10.5,
+   "tax_percent": 5,
+   "taxable": 504.0,
+   "cgst": 12.6,
+   "sgst": 12.6,
+   "amount": 504.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 20505.15,
+  "cgst": 956.25,
+  "sgst": 956.25,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.35,
+  "grand_total": 22418.0
+ },
+ "amount_in_words": "Twenty Two Thousand Four Hundred Eighteen INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 605"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.34,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 605",
+    "box": [
+     1126.187,
+     175.262,
+     1393.187,
+     287.262
+    ],
+    "angle": 3.579,
+    "size": 68.046,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 32.531,
+   "center": [
+    689.51,
+    1534.419
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.39,
+   "print_lum": 20.0,
+   "row_px_estimate": 22.67,
+   "faint": true,
+   "size_mm": [
+    74.862,
+    111.282
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Shalet",
+    "name": "Shalet",
+    "date": "31/8/26"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.024,
+   "title_on_print": 0.005,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    252.571,
+    250.962,
+    247.042
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.692,
+     "tilt": -0.038,
+     "depth": 0.089,
+     "width_mm": 1.346,
+     "panel_step": 0.055
+    }
+   ],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.042,
+   "gradient_angle": 58.754,
+   "vignette": 0.099,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.216,
+    "strength": 0.073
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.007,
+    1.0,
+    0.969
+   ],
+   "white": 221.016,
+   "black": 25.371,
+   "gamma": 0.969,
+   "glare": null
+  },
+  "text_row_px": 22.092,
+  "text_px": 9.63,
+  "photo_px_per_mm": 4.158,
+  "camera": {
+   "blur_sigma": 0.271,
+   "blur_cap": 0.789,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.003,
+   "sharpen_radius": 0.889,
+   "sharpen_percent": 75
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 84,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.974,
+   "skew_deg": 0.841,
+   "perspective": {
+    "amount": 0.01,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     37.244,
+     17.473
+    ],
+    [
+     918.402,
+     7.936
+    ],
+    [
+     937.406,
+     1250.171
+    ],
+    [
+     54.787,
+     1274.241
+    ]
+   ]
+  }
+ }
+}

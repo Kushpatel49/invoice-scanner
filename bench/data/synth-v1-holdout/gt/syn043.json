@@ -1,0 +1,264 @@
+{
+ "id": "syn043",
+ "template": "gst_modern",
+ "supplier_kind": "bakery",
+ "supplier": {
+  "name": "KERALA BAKERS SUPPLY",
+  "address_lines": [
+   "Door No. 54/800-B, Wholesale Market",
+   "Chalakudy, Kerala - 680307"
+  ],
+  "phone": "7886340512",
+  "gstin": "32YIKFZ0209W1ZD",
+  "fssai": "16371956979774",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "INV/2026/185698",
+ "invoice_number_printed": "INV/2026/185698",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-Aug-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "BUN (PACK OF 4)",
+   "hsn": "19059090",
+   "quantity": 43,
+   "unit": "Nos",
+   "rate": 32,
+   "tax_percent": 0,
+   "taxable": 1376.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1376.0,
+   "mrp": null
+  },
+  {
+   "description": "COOKIES BUTTER 200 G",
+   "hsn": "19053100",
+   "quantity": 5,
+   "unit": "Nos",
+   "rate": 83,
+   "tax_percent": 18,
+   "taxable": 415.0,
+   "cgst": 37.35,
+   "sgst": 37.35,
+   "amount": 415.0,
+   "mrp": null
+  },
+  {
+   "description": "SANDWICH BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 10,
+   "unit": "Nos",
+   "rate": 39,
+   "tax_percent": 0,
+   "taxable": 390.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 390.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 2181.0,
+  "cgst": 37.35,
+  "sgst": 37.35,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.3,
+  "grand_total": 2256.0
+ },
+ "amount_in_words": "Two Thousand Two Hundred Fifty Six Rupees Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 609"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.583,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 609",
+    "box": [
+     764.875,
+     261.0,
+     901.875,
+     322.0
+    ],
+    "angle": -0.838,
+    "size": 44.0,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -28.631,
+   "center": [
+    930.075,
+    1816.632
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.744,
+   "print_lum": 51.0,
+   "row_px_estimate": 20.48,
+   "faint": false,
+   "size_mm": [
+    69.528,
+    103.353
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sanal"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.997
+  },
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    1
+   ]
+  },
+  "signature": {
+   "box": [
+    1113.798,
+    1375.621,
+    1311.049,
+    1454.522
+   ],
+   "width": 197.251,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.956,
+    248.818,
+    247.334
+   ],
+   "grain": 0.017,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.087,
+   "gradient_angle": 174.018,
+   "vignette": 0.12,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.354,
+    "strength": 0.104
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.02,
+    1.0,
+    0.955
+   ],
+   "white": 214.308,
+   "black": 37.566,
+   "gamma": 1.094,
+   "glare": null
+  },
+  "text_row_px": 22.717,
+  "text_px": 7.757,
+  "photo_px_per_mm": 4.202,
+  "camera": {
+   "blur_sigma": 0.315,
+   "blur_cap": 0.705,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.829,
+   "sharpen_radius": 1.571,
+   "sharpen_percent": 56
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 84,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.985,
+   "skew_deg": 1.289,
+   "perspective": {
+    "amount": 0.007,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     19.753,
+     929.25
+    ],
+    [
+     -3.892,
+     41.368
+    ],
+    [
+     1254.976,
+     15.895
+    ],
+    [
+     1281.839,
+     901.009
+    ]
+   ]
+  }
+ }
+}

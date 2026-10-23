@@ -1,0 +1,268 @@
+{
+ "id": "syn092",
+ "template": "software",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "SEA KING FROZEN FOODS",
+  "address_lines": [
+   "P42/23, Wholesale Market",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "8575549123",
+  "gstin": "32NBCFE8121K1Z9",
+  "fssai": "16308275412755",
+  "email": "seafresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "8349",
+ "invoice_number_printed": "8349",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28-08-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 8,
+   "unit": "Nos",
+   "rate": 309.75,
+   "tax_percent": 5,
+   "taxable": 2478.0,
+   "cgst": 61.95,
+   "sgst": 61.95,
+   "amount": 2478.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 12,
+   "unit": "KGS",
+   "rate": 332.0,
+   "tax_percent": 5,
+   "taxable": 3984.0,
+   "cgst": 99.6,
+   "sgst": 99.6,
+   "amount": 3984.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 6462.0,
+  "cgst": 161.55,
+  "sgst": 161.55,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.1,
+  "grand_total": 6785.0
+ },
+ "amount_in_words": "Rupees Six Thousand Seven Hundred Eighty Five Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 655",
+  "Rate diff"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.833,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 655",
+    "box": [
+     844.854,
+     103.173,
+     1263.854,
+     370.173
+    ],
+    "angle": -6.011,
+    "size": 81.454,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   },
+   {
+    "text": "Rate diff",
+    "box": [
+     844.854,
+     103.173,
+     1263.854,
+     370.173
+    ],
+    "angle": -6.011,
+    "size": 81.454,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 42.753,
+   "center": [
+    834.099,
+    688.925
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 26.145,
+   "faint": false,
+   "size_mm": [
+    72.847,
+    108.285
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Prajesh"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "top",
+   "over_table": true,
+   "on_numbers": 0.262,
+   "title_on_print": 0.238,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.094,
+   "on_key": 0.014,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.44,
+    248.835,
+    249.301
+   ],
+   "grain": 0.016,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.007,
+    "bow": -0.76,
+    "lift": 0.87
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "grey laminate",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.129,
+   "gradient_angle": 62.735,
+   "vignette": 0.044,
+   "shadow": {
+    "kind": "edge",
+    "side": "right",
+    "depth": 0.462,
+    "strength": 0.125
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.998,
+    1.0,
+    1.028
+   ],
+   "white": 200.815,
+   "black": 47.602,
+   "gamma": 0.952,
+   "glare": null
+  },
+  "text_row_px": 26.05,
+  "text_px": 11.397,
+  "photo_px_per_mm": 4.251,
+  "camera": {
+   "blur_sigma": 0.62,
+   "blur_cap": 0.93,
+   "defocus": null,
+   "motion": {
+    "length_px": 1.076,
+    "angle": 27.519
+   },
+   "noise_sd": 2.175,
+   "sharpen_radius": 1.121,
+   "sharpen_percent": 35
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 75,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.996,
+   "skew_deg": -2.176,
+   "perspective": {
+    "amount": 0.013,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     49.467,
+     -9.579
+    ],
+    [
+     954.97,
+     19.643
+    ],
+    [
+     901.253,
+     1289.909
+    ],
+    [
+     -2.505,
+     1266.812
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,288 @@
+{
+ "id": "syn096",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MURALYA DAIRY PRODUCTS PRIVATE LIMITED",
+  "address_lines": [
+   "40/972, Industrial Estate",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "7349351749",
+  "gstin": "32JXBCZ2953D1Z1",
+  "fssai": null,
+  "email": "muralyafresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "TI-54139",
+ "invoice_number_printed": "TI-54139",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 29,
+   "unit": "Nos",
+   "rate": 98,
+   "tax_percent": 5,
+   "taxable": 2842.0,
+   "cgst": 71.05,
+   "sgst": 71.05,
+   "amount": 2842.0,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 3,
+   "unit": "L",
+   "rate": 76.0,
+   "tax_percent": 0,
+   "taxable": 228.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 228.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 45,
+   "unit": "400g",
+   "rate": 44,
+   "tax_percent": 5,
+   "taxable": 1980.0,
+   "cgst": 49.5,
+   "sgst": 49.5,
+   "amount": 1980.0,
+   "mrp": null
+  },
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 21,
+   "unit": "Nos",
+   "rate": 354.02,
+   "tax_percent": 12,
+   "taxable": 7434.42,
+   "cgst": 446.07,
+   "sgst": 446.07,
+   "amount": 7434.42,
+   "mrp": null
+  },
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 7,
+   "unit": "500g",
+   "rate": 33.25,
+   "tax_percent": 5,
+   "taxable": 232.75,
+   "cgst": 5.82,
+   "sgst": 5.82,
+   "amount": 232.75,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 12717.17,
+  "cgst": 572.44,
+  "sgst": 572.44,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 13862.05
+ },
+ "amount_in_words": "Rupees Thirteen Thousand Eight Hundred and Sixty Two and Five Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-665"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.827,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-665",
+    "box": [
+     1152.67,
+     94.829,
+     1432.67,
+     194.829
+    ],
+    "angle": -0.733,
+    "size": 72.474,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 6.161,
+   "center": [
+    593.593,
+    1447.283
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.914,
+   "print_lum": 20.0,
+   "row_px_estimate": 25.077,
+   "faint": false,
+   "size_mm": [
+    75.761,
+    112.618
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Anu",
+    "date": "28/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1350.459,
+    197.734,
+    1578.779,
+    289.062
+   ],
+   "width": 228.319,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.731,
+    252.406,
+    246.411
+   ],
+   "grain": 0.008,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.002,
+    "bow": -0.571,
+    "lift": 0.466
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.047,
+   "gradient_angle": 321.826,
+   "vignette": 0.061,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.99,
+    1.0,
+    1.016
+   ],
+   "white": 210.834,
+   "black": 23.664,
+   "gamma": 0.971,
+   "glare": null
+  },
+  "text_row_px": 24.902,
+  "text_px": 10.285,
+  "photo_px_per_mm": 4.237,
+  "camera": {
+   "blur_sigma": 0.289,
+   "blur_cap": 0.889,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.986,
+   "sharpen_radius": 1.16,
+   "sharpen_percent": 73
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 83,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.993,
+   "skew_deg": 0.807,
+   "perspective": {
+    "amount": 0.011,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     16.892,
+     939.516
+    ],
+    [
+     3.734,
+     33.452
+    ],
+    [
+     1260.553,
+     19.296
+    ],
+    [
+     1287.146,
+     916.737
+    ]
+   ]
+  }
+ }
+}

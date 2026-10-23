@@ -1,0 +1,242 @@
+{
+ "id": "syn050",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "A.K.S. TRADERS",
+  "address_lines": [
+   "50/236, Near Panchayath Office",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8927269785",
+  "gstin": null,
+  "fssai": "14663369950178",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh, Kakkanad"
+ },
+ "invoice_number": "3403",
+ "invoice_number_printed": "3403",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "DUCK EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 10,
+   "unit": "Pack",
+   "rate": 73.0,
+   "tax_percent": 0,
+   "taxable": 730.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 730.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 1,
+ "totals": {
+  "subtotal": 730.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 730.0
+ },
+ "amount_in_words": "SEVEN HUNDRED THIRTY RUPEES ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 621"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 6.364,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 621",
+    "box": [
+     632.636,
+     0.0,
+     811.636,
+     97.0
+    ],
+    "angle": -7.185,
+    "size": 50.4,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 3.521,
+   "center": [
+    437.866,
+    1132.786
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.721,
+   "print_lum": 61.0,
+   "row_px_estimate": 51.347,
+   "faint": false,
+   "size_mm": [
+    72.259,
+    107.411
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Rahim",
+    "date": "26/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.014,
+   "title_on_print": 0.024,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.002,
+   "inside_page": 0.883
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    618.343,
+    1188.153,
+    755.417,
+    1242.983
+   ],
+   "width": 137.074,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    251.476,
+    247.313,
+    244.332
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.194
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.038,
+   "gradient_angle": 141.196,
+   "vignette": 0.078,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.351,
+    "strength": 0.051
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.023,
+    1.0,
+    0.968
+   ],
+   "white": 212.856,
+   "black": 30.545,
+   "gamma": 1.002,
+   "glare": null
+  },
+  "text_row_px": 49.7,
+  "text_px": 26.625,
+  "photo_px_per_mm": 5.648,
+  "camera": {
+   "blur_sigma": 0.356,
+   "blur_cap": 1.381,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.283,
+   "sharpen_radius": 0.99,
+   "sharpen_percent": 52
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 78,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.968,
+   "skew_deg": 0.077,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     29.774,
+     22.969
+    ],
+    [
+     928.577,
+     22.981
+    ],
+    [
+     931.431,
+     1260.467
+    ],
+    [
+     29.658,
+     1262.973
+    ]
+   ]
+  }
+ }
+}

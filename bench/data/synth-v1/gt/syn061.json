@@ -1,0 +1,246 @@
+{
+ "id": "syn061",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "MALABAR FRESH FARMS PVT LTD",
+  "address_lines": [
+   "P12/28, M.G. Road",
+   "Ernakulam, Kerala - 682011"
+  ],
+  "phone": "8499577565",
+  "gstin": "32WQOCQ4349J1ZJ",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "1656",
+ "invoice_number_printed": "1656",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 26.4,
+   "unit": "KGS",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 1372.8,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1372.8,
+   "mrp": null
+  },
+  {
+   "description": "ONION SMALL (SAMBAR)",
+   "hsn": "0703",
+   "quantity": 18.12,
+   "unit": "KGS",
+   "rate": 107.0,
+   "tax_percent": 0,
+   "taxable": 1938.84,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1938.84,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 17,
+   "unit": "KGS",
+   "rate": 127.0,
+   "tax_percent": 0,
+   "taxable": 2159.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2159.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 5470.64,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.36,
+  "grand_total": 5471.0
+ },
+ "amount_in_words": "INR Five Thousand Four Hundred and Seventy One Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 1,
+   "printed": 19.12,
+   "new": 18.12
+  }
+ },
+ "notes": [
+  "BIL-614"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 6.636,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-614",
+    "box": [
+     621.014,
+     4.0,
+     780.014,
+     81.0
+    ],
+    "angle": 2.244,
+    "size": 52.0,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    247.515,
+    158.247,
+    177.609
+   ],
+   "grain": 0.015,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.296,
+     "tilt": 0.025,
+     "depth": 0.127,
+     "width_mm": 0.857,
+     "panel_step": 0.038
+    },
+    {
+     "horizontal": false,
+     "pos": 0.627,
+     "tilt": -0.037,
+     "depth": 0.101,
+     "width_mm": 1.137,
+     "panel_step": 0.016
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.007,
+    "bow": 0.142,
+    "lift": 0.257
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.066,
+   "gradient_angle": 174.671,
+   "vignette": 0.149,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.332,
+    "strength": 0.181
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.019,
+    1.0,
+    0.966
+   ],
+   "white": 188.918,
+   "black": 38.972,
+   "gamma": 0.995,
+   "glare": null
+  },
+  "text_row_px": 43.933,
+  "text_px": 32.165,
+  "photo_px_per_mm": 5.206,
+  "camera": {
+   "blur_sigma": 0.64,
+   "blur_cap": 1.273,
+   "defocus": {
+    "sigma_far": 1.016,
+    "angle": 124.511
+   },
+   "motion": null,
+   "noise_sd": 3.764,
+   "sharpen_radius": 1.035,
+   "sharpen_percent": 42
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 81,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.93,
+   "skew_deg": 2.738,
+   "perspective": {
+    "amount": 0.02,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     51.944,
+     56.594
+    ],
+    [
+     847.416,
+     22.162
+    ],
+    [
+     909.465,
+     1212.664
+    ],
+    [
+     106.532,
+     1245.429
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,238 @@
+{
+ "id": "syn074",
+ "template": "carbon",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "COCHIN FRUIT COMPANY",
+  "address_lines": [
+   "XIII/367, Bypass Junction",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "7609902246",
+  "gstin": "32KWBFD1057N1Z4",
+  "fssai": null,
+  "email": "cochin@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "M/s Aeden Fresh Kakkanad"
+ },
+ "invoice_number": "6954",
+ "invoice_number_printed": "6954",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31.08.2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "FUJI APPLE CHINA - 10 KG",
+   "hsn": "0808",
+   "quantity": 14,
+   "unit": "Boxes",
+   "rate": 3187,
+   "tax_percent": 0,
+   "taxable": 44618.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 44618.0,
+   "mrp": null
+  },
+  {
+   "description": "GRANNY SMITH NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 12,
+   "unit": "Boxes",
+   "rate": 4485,
+   "tax_percent": 0,
+   "taxable": 53820.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 53820.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 98438.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 98438.0
+ },
+ "amount_in_words": "Ninety Eight Thousand Four Hundred Thirty Eight Rupees Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 661"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "green",
+  "px_per_mm": 7.788,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 661",
+    "box": [
+     850.757,
+     14.922,
+     1089.757,
+     122.922
+    ],
+    "angle": -2.744,
+    "size": 69.58,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    482.728,
+    50.435,
+    647.056,
+    116.167
+   ],
+   "width": 164.328,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    212.942,
+    239.124,
+    205.024
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.014,
+    "bow": 0.291,
+    "lift": 0.109
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 1
+  },
+  "underlay_gstin": "32DYZCM9084S1ZN",
+  "underlay": {
+   "gstin": "32DYZCM9084S1ZN",
+   "text": "GSTIN: 32DYZCM9084S1ZN",
+   "edge": "top",
+   "text_box_photo": [
+    [
+     171.78,
+     28.561
+    ],
+    [
+     407.893,
+     43.941
+    ],
+    [
+     406.937,
+     60.006
+    ],
+    [
+     170.637,
+     44.699
+    ]
+   ]
+  },
+  "lighting": {
+   "gradient": 0.199,
+   "gradient_angle": 61.894,
+   "vignette": 0.047,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.483,
+    "strength": 0.316
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.007,
+    1.0,
+    0.936
+   ],
+   "white": 211.79,
+   "black": 48.575,
+   "gamma": 0.935,
+   "glare": null
+  },
+  "text_row_px": 44.755,
+  "text_px": 10.531,
+  "photo_px_per_mm": 5.126,
+  "camera": {
+   "blur_sigma": 0.855,
+   "blur_cap": 0.957,
+   "defocus": {
+    "sigma_far": 0.957,
+    "angle": 333.426
+   },
+   "motion": null,
+   "noise_sd": 4.194,
+   "sharpen_radius": 1.202,
+   "sharpen_percent": 56
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.958,
+   "skew_deg": -4.739,
+   "perspective": {
+    "amount": 0.035,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     125.268,
+     90.169
+    ],
+    [
+     908.522,
+     158.356
+    ],
+    [
+     842.375,
+     1279.901
+    ],
+    [
+     15.287,
+     1228.661
+    ]
+   ]
+  }
+ }
+}

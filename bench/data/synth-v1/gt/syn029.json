@@ -1,0 +1,348 @@
+{
+ "id": "syn029",
+ "template": "tally",
+ "supplier_kind": "fruit",
+ "supplier": {
+  "name": "AL-AMEEN FRUITS",
+  "address_lines": [
+   "P57/26, M.G. Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "9764177741",
+  "gstin": "32ZFLPP8689Q1ZJ",
+  "fssai": "19495358479517",
+  "email": "al-ameen@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "EKM/2026/2327",
+ "invoice_number_printed": "EKM/2026/2327",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-Aug-26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "PAPPAYA",
+   "hsn": "0807",
+   "quantity": 18.585,
+   "unit": "KG",
+   "rate": 31,
+   "tax_percent": 0,
+   "taxable": 576.14,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 576.14,
+   "mrp": null
+  },
+  {
+   "description": "GRAPES SEEDLESS",
+   "hsn": "0806",
+   "quantity": 28.297,
+   "unit": "KG",
+   "rate": 123,
+   "tax_percent": 0,
+   "taxable": 3480.53,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3480.53,
+   "mrp": null
+  },
+  {
+   "description": "THAI KOYYA (GUAVA)",
+   "hsn": "0804",
+   "quantity": 32,
+   "unit": "KG",
+   "rate": 91,
+   "tax_percent": 0,
+   "taxable": 2912.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2912.0,
+   "mrp": null
+  },
+  {
+   "description": "MANGO BANGANAPALLI",
+   "hsn": "0804",
+   "quantity": 33,
+   "unit": "KG",
+   "rate": 94.52,
+   "tax_percent": 0,
+   "taxable": 3119.16,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3119.16,
+   "mrp": null
+  },
+  {
+   "description": "PACHAKAYA (RAW BANANA)",
+   "hsn": "0803",
+   "quantity": 27.68,
+   "unit": "KG",
+   "rate": 58,
+   "tax_percent": 0,
+   "taxable": 1605.44,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1605.44,
+   "mrp": null
+  },
+  {
+   "description": "PINEAPPLE",
+   "hsn": "0804",
+   "quantity": 13.62,
+   "unit": "KG",
+   "rate": 73,
+   "tax_percent": 0,
+   "taxable": 994.26,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 994.26,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA APPLE",
+   "hsn": "0808",
+   "quantity": 5.165,
+   "unit": "KG",
+   "rate": 223.09,
+   "tax_percent": 0,
+   "taxable": 1152.26,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1152.26,
+   "mrp": null
+  },
+  {
+   "description": "MOSAMBI",
+   "hsn": "0805",
+   "quantity": 19,
+   "unit": "KG",
+   "rate": 66.5,
+   "tax_percent": 0,
+   "taxable": 1263.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1263.5,
+   "mrp": null
+  },
+  {
+   "description": "SAPOTA",
+   "hsn": "0810",
+   "quantity": 5.07,
+   "unit": "KG",
+   "rate": 86,
+   "tax_percent": 0,
+   "taxable": 436.02,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 436.02,
+   "mrp": null
+  },
+  {
+   "description": "CAVENDISH BANANA",
+   "hsn": "0803",
+   "quantity": 6.17,
+   "unit": "KG",
+   "rate": 44.75,
+   "tax_percent": 0,
+   "taxable": 276.11,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 276.11,
+   "mrp": null
+  },
+  {
+   "description": "NENDRAN BANANA",
+   "hsn": "0803",
+   "quantity": 0.587,
+   "unit": "KG",
+   "rate": 70.6,
+   "tax_percent": 0,
+   "taxable": 41.44,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 41.44,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 11,
+ "totals": {
+  "subtotal": null,
+  "cgst": null,
+  "sgst": null,
+  "igst": null,
+  "cess": null,
+  "round_off": null,
+  "grand_total": null
+ },
+ "amount_in_words": null,
+ "continued": true,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 648"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "continued"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.913,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 648",
+    "box": [
+     113.618,
+     5.5,
+     417.618,
+     142.5
+    ],
+    "angle": -4.218,
+    "size": 80.819,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    252.671,
+    250.538,
+    247.717
+   ],
+   "grain": 0.011,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.003,
+    "bow": 0.732,
+    "lift": 0.158
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    176,
+    178,
+    182
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": "33CFSPP8725N1ZI",
+  "underlay": {
+   "gstin": "33CFSPP8725N1ZI",
+   "text": "GST No. 33CFSPP8725N1ZI",
+   "edge": "top",
+   "text_box_photo": [
+    [
+     122.06,
+     64.708
+    ],
+    [
+     327.988,
+     54.908
+    ],
+    [
+     328.548,
+     67.218
+    ],
+    [
+     122.597,
+     77.028
+    ]
+   ]
+  },
+  "lighting": {
+   "gradient": 0.092,
+   "gradient_angle": 40.216,
+   "vignette": 0.084,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.225,
+    "strength": 0.172
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.007,
+    1.0,
+    0.93
+   ],
+   "white": 200.62,
+   "black": 46.902,
+   "gamma": 0.986,
+   "glare": null
+  },
+  "text_row_px": 10.739,
+  "text_px": 10.739,
+  "photo_px_per_mm": 3.695,
+  "camera": {
+   "blur_sigma": 0.384,
+   "blur_cap": 0.384,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.556,
+   "sharpen_radius": 1.361,
+   "sharpen_percent": 86
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.965,
+   "skew_deg": 2.584,
+   "perspective": {
+    "amount": 0.014,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     62.935,
+     163.131
+    ],
+    [
+     833.76,
+     128.906
+    ],
+    [
+     885.193,
+     1229.226
+    ],
+    [
+     106.878,
+     1266.6
+    ]
+   ]
+  }
+ }
+}

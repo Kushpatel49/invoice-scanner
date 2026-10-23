@@ -1,0 +1,338 @@
+{
+ "id": "syn001",
+ "template": "gst_modern",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "XIII/325, Near Panchayath Office",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "8540586047",
+  "gstin": "32JQMCP6805M1ZW",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "8357",
+ "invoice_number_printed": "TI-61881",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 56,
+   "unit": "Nos",
+   "rate": 79,
+   "tax_percent": 5,
+   "taxable": 4424.0,
+   "cgst": 110.6,
+   "sgst": 110.6,
+   "amount": 4424.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT PUNCHA EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 53,
+   "unit": "Nos",
+   "rate": 66,
+   "tax_percent": 5,
+   "taxable": 3498.0,
+   "cgst": 87.45,
+   "sgst": 87.45,
+   "amount": 3498.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT IDLY BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 47,
+   "unit": "Nos",
+   "rate": 57.14,
+   "tax_percent": 5,
+   "taxable": 2685.58,
+   "cgst": 67.14,
+   "sgst": 67.14,
+   "amount": 2685.58,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 61.68,
+   "tax_percent": 5,
+   "taxable": 740.16,
+   "cgst": 18.5,
+   "sgst": 18.5,
+   "amount": 740.16,
+   "mrp": null
+  },
+  {
+   "description": "ROASTED RAVA 1 KG",
+   "hsn": "11031100",
+   "quantity": 31,
+   "unit": "Nos",
+   "rate": 63,
+   "tax_percent": 5,
+   "taxable": 1953.0,
+   "cgst": 48.83,
+   "sgst": 48.83,
+   "amount": 1953.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT VEG PALAPPAM 1 LTR",
+   "hsn": "21061000",
+   "quantity": 39,
+   "unit": "Nos",
+   "rate": 70.0,
+   "tax_percent": 5,
+   "taxable": 2730.0,
+   "cgst": 68.25,
+   "sgst": 68.25,
+   "amount": 2730.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 25,
+   "unit": "Nos",
+   "rate": 74.8,
+   "tax_percent": 5,
+   "taxable": 1870.0,
+   "cgst": 46.75,
+   "sgst": 46.75,
+   "amount": 1870.0,
+   "mrp": null
+  },
+  {
+   "description": "JAGGERY BALL 1 KG",
+   "hsn": "17011390",
+   "quantity": 62,
+   "unit": "Nos",
+   "rate": 85.77,
+   "tax_percent": 5,
+   "taxable": 5317.74,
+   "cgst": 132.94,
+   "sgst": 132.94,
+   "amount": 5317.74,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 23218.48,
+  "cgst": 580.46,
+  "sgst": 580.46,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 24379.4
+ },
+ "amount_in_words": "Twenty Four Thousand Three Hundred and Seventy Nine INDIAN RUPEES and Forty Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "TI-61881",
+   "new": "8357"
+  },
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.713,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": {
+   "printed": "TI-61881",
+   "new": "8357",
+   "where": "right",
+   "box": [
+    401,
+    332,
+    459,
+    358
+   ],
+   "ink": [
+    30,
+    40,
+    135
+   ],
+   "double_strike": true,
+   "font": "PatrickHand-Regular.ttf",
+   "size": 34.71,
+   "pen_on_print": 0.0
+  },
+  "notes": [],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 43.652,
+   "center": [
+    672.879,
+    1606.692
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 30.0,
+   "row_px_estimate": 23.011,
+   "faint": false,
+   "size_mm": [
+    71.478,
+    106.251
+   ],
+   "fills": {
+    "store_name": "TPRA",
+    "received": "Bibin",
+    "name": "Bibin",
+    "date": "28.08.2026"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.033,
+   "title_on_print": 0.022,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    250.612,
+    248.571,
+    247.746
+   ],
+   "grain": 0.016,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.646,
+     "tilt": 0.043,
+     "depth": 0.124,
+     "width_mm": 1.03,
+     "panel_step": 0.024
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.008,
+    "bow": -0.936,
+    "lift": 0.737
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.093,
+   "gradient_angle": 241.403,
+   "vignette": 0.092,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.219,
+    "strength": 0.229
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.932
+   ],
+   "white": 192.956,
+   "black": 54.421,
+   "gamma": 0.913,
+   "glare": null
+  },
+  "text_row_px": 25.648,
+  "text_px": 8.921,
+  "photo_px_per_mm": 4.301,
+  "camera": {
+   "blur_sigma": 0.699,
+   "blur_cap": 0.811,
+   "defocus": {
+    "sigma_far": 0.811,
+    "angle": 168.605
+   },
+   "motion": null,
+   "noise_sd": 2.461,
+   "sharpen_radius": 1.57,
+   "sharpen_percent": 49
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 81,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 1.008,
+   "skew_deg": 0.332,
+   "perspective": {
+    "amount": 0.019,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     1282.803,
+     15.147
+    ],
+    [
+     1292.008,
+     915.673
+    ],
+    [
+     -13.78,
+     934.823
+    ],
+    [
+     -8.654,
+     23.052
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,378 @@
+{
+ "id": "syn080",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "A.K.S. TRADERS",
+  "address_lines": [
+   "P7/34, M.G. Road",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "8329273840",
+  "gstin": "32MBAPO0654C1Z0",
+  "fssai": "18126633012698",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "7807",
+ "invoice_number_printed": "7807",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BROWN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 1,
+   "unit": "Pack",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 55.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 55.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 7,
+   "unit": "Pack",
+   "rate": 112.0,
+   "tax_percent": 0,
+   "taxable": 784.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 784.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 30",
+   "hsn": "0407",
+   "quantity": 43,
+   "unit": "Tray",
+   "rate": 196.0,
+   "tax_percent": 0,
+   "taxable": 8428.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 8428.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 42,
+   "unit": "Pack",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 2142.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2142.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 10,
+   "unit": "Pack",
+   "rate": 93.5,
+   "tax_percent": 0,
+   "taxable": 935.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 935.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 7,
+   "unit": "Pack",
+   "rate": 107.0,
+   "tax_percent": 0,
+   "taxable": 749.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 749.0,
+   "mrp": null
+  },
+  {
+   "description": "DUCK EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 12,
+   "unit": "Pack",
+   "rate": 88.0,
+   "tax_percent": 0,
+   "taxable": 1056.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1056.0,
+   "mrp": null
+  },
+  {
+   "description": "QUAIL EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 41,
+   "unit": "Pack",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 2132.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2132.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 6,
+   "unit": "Pack",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 354.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 354.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 16635.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 16635.0
+ },
+ "amount_in_words": "Rupees Sixteen Thousand Six Hundred Thirty Five Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 608"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.833,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 608",
+    "box": [
+     857.65,
+     18.004,
+     1078.65,
+     129.004
+    ],
+    "angle": -0.982,
+    "size": 79.531,
+    "font": "Caveat.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -23.793,
+   "center": [
+    397.05,
+    1415.853
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.455,
+   "print_lum": 50.0,
+   "row_px_estimate": 49.966,
+   "faint": true,
+   "size_mm": [
+    71.404,
+    106.141
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Jithin",
+    "date": "27/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.11,
+   "title_on_print": 0.277,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.912
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    670.949,
+    1518.856,
+    880.398,
+    1602.636
+   ],
+   "width": 209.449,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.977,
+    250.166,
+    248.427
+   ],
+   "grain": 0.01,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.316,
+     "tilt": -0.009,
+     "depth": 0.076,
+     "width_mm": 0.787,
+     "panel_step": 0.031
+    },
+    {
+     "horizontal": false,
+     "pos": 0.498,
+     "tilt": -0.027,
+     "depth": 0.106,
+     "width_mm": 1.473,
+     "panel_step": 0.043
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.013,
+    "bow": 0.026,
+    "lift": 0.469
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.18
+   },
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.184,
+   "gradient_angle": 116.767,
+   "vignette": 0.088,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.442,
+    "strength": 0.32
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.023,
+    1.0,
+    0.963
+   ],
+   "white": 203.16,
+   "black": 42.232,
+   "gamma": 1.06,
+   "glare": {
+    "center": [
+     0.539,
+     0.077
+    ],
+    "radius": [
+     0.151,
+     0.123
+    ],
+    "strength": 0.297
+   }
+  },
+  "text_row_px": 44.368,
+  "text_px": 28.709,
+  "photo_px_per_mm": 5.111,
+  "camera": {
+   "blur_sigma": 0.918,
+   "blur_cap": 1.249,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.722,
+   "sharpen_radius": 1.115,
+   "sharpen_percent": 83
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 66,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.888,
+   "skew_deg": 4.009,
+   "perspective": {
+    "amount": 0.031,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     121.969,
+     955.434
+    ],
+    [
+     28.414,
+     145.068
+    ],
+    [
+     1191.866,
+     60.707
+    ],
+    [
+     1211.534,
+     861.055
+    ]
+   ]
+  }
+ }
+}

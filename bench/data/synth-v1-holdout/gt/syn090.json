@@ -1,0 +1,347 @@
+{
+ "id": "syn090",
+ "template": "tally",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "COCHIN FRUIT COMPANY",
+  "address_lines": [
+   "P4/23, Market Road",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "7792646960",
+  "gstin": "32IEUFZ2734M1Z2",
+  "fssai": null,
+  "email": "cochinfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "B1/FS/013133",
+ "invoice_number_printed": "B1/FS/013133",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-Aug-26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "RED GLOBE CHINA - 6.5 KG",
+   "hsn": "0806",
+   "quantity": 6,
+   "unit": "Boxes",
+   "rate": 1313,
+   "tax_percent": 0,
+   "taxable": 7878.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7878.0,
+   "mrp": null
+  },
+  {
+   "description": "LONGAN THAILAND - 11.5 KG",
+   "hsn": "0810",
+   "quantity": 4,
+   "unit": "Boxes",
+   "rate": 2283,
+   "tax_percent": 0,
+   "taxable": 9132.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9132.0,
+   "mrp": null
+  },
+  {
+   "description": "PINK LADY NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 9,
+   "unit": "Boxes",
+   "rate": 4120,
+   "tax_percent": 0,
+   "taxable": 37080.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 37080.0,
+   "mrp": null
+  },
+  {
+   "description": "ORANGE MANDARIN EGYPT - 15 KG",
+   "hsn": "0805",
+   "quantity": 8,
+   "unit": "Boxes",
+   "rate": 2459,
+   "tax_percent": 0,
+   "taxable": 19672.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 19672.0,
+   "mrp": null
+  },
+  {
+   "description": "KIWI CRATE CHILE - 10 KG",
+   "hsn": "0810",
+   "quantity": 4,
+   "unit": "Boxes",
+   "rate": 3471,
+   "tax_percent": 0,
+   "taxable": 13884.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 13884.0,
+   "mrp": null
+  },
+  {
+   "description": "PEAR GREEN SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 12,
+   "unit": "Boxes",
+   "rate": 4540,
+   "tax_percent": 0,
+   "taxable": 54480.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 54480.0,
+   "mrp": null
+  },
+  {
+   "description": "BLACKBERRY (PUNNETS)",
+   "hsn": "0810",
+   "quantity": 4,
+   "unit": "Punnets",
+   "rate": 239.88,
+   "tax_percent": 0,
+   "taxable": 959.52,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 959.52,
+   "mrp": null
+  },
+  {
+   "description": "RED DELICIOUS USA - 18 KG",
+   "hsn": "0808",
+   "quantity": 2,
+   "unit": "Boxes",
+   "rate": 4609,
+   "tax_percent": 0,
+   "taxable": 9218.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9218.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 152303.52,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 152303.52
+ },
+ "amount_in_words": "INR ONE LAKH FIFTY TWO THOUSAND THREE HUNDRED AND THREE AND FIFTY TWO PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 610"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.673,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 610",
+    "box": [
+     204.264,
+     6.0,
+     416.264,
+     169.0
+    ],
+    "angle": -20.505,
+    "size": 59.788,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -0.315,
+   "center": [
+    448.718,
+    1830.21
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.831,
+   "print_lum": 20.0,
+   "row_px_estimate": 12.789,
+   "faint": false,
+   "size_mm": [
+    71.644,
+    106.497
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "date": "30/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    3,
+    4,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    348.469,
+    256.486,
+    497.375,
+    316.049
+   ],
+   "width": 148.906,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.884,
+    240.682,
+    221.435
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.316,
+     "tilt": -0.028,
+     "depth": 0.075,
+     "width_mm": 0.772,
+     "panel_step": 0.03
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.008,
+    "bow": -0.35,
+    "lift": 0.228
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.15,
+   "gradient_angle": 34.237,
+   "vignette": 0.076,
+   "shadow": {
+    "kind": "phone",
+    "side": "right",
+    "depth": 0.468,
+    "strength": 0.126
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.017,
+    1.0,
+    0.96
+   ],
+   "white": 197.524,
+   "black": 54.679,
+   "gamma": 0.91,
+   "glare": null
+  },
+  "text_row_px": 12.282,
+  "text_px": 10.146,
+  "photo_px_per_mm": 4.097,
+  "camera": {
+   "blur_sigma": 0.439,
+   "blur_cap": 0.439,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.681,
+   "sharpen_radius": 1.275,
+   "sharpen_percent": 50
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 68,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.96,
+   "skew_deg": 0.589,
+   "perspective": {
+    "amount": 0.028,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     39.311,
+     55.628
+    ],
+    [
+     895.535,
+     31.873
+    ],
+    [
+     911.579,
+     1273.736
+    ],
+    [
+     43.07,
+     1252.234
+    ]
+   ]
+  }
+ }
+}

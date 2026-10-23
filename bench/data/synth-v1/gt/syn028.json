@@ -1,0 +1,254 @@
+{
+ "id": "syn028",
+ "template": "carbon",
+ "supplier_kind": "packaged",
+ "supplier": {
+  "name": "ALMOVA INTERNATIONAL",
+  "address_lines": [
+   "P40/48, Seaport-Airport Road",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "8842522927",
+  "gstin": "32IDTPM6185S2Z7",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "26-27/1112",
+ "invoice_number_printed": "26-27/1112",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25-08-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "DATES PREMIUM 500 G",
+   "hsn": "08041020",
+   "quantity": 27,
+   "unit": "Pcs",
+   "rate": 247.75,
+   "tax_percent": 12,
+   "taxable": 6689.25,
+   "cgst": 401.36,
+   "sgst": 401.36,
+   "amount": 6689.25,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE WHITE HONEY 500GM",
+   "hsn": "18069090",
+   "quantity": 48,
+   "unit": "Pcs",
+   "rate": 1251,
+   "tax_percent": 5,
+   "taxable": 60048.0,
+   "cgst": 1501.2,
+   "sgst": 1501.2,
+   "amount": 60048.0,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE BLACK FOREST HONEY 125GM",
+   "hsn": "17026090",
+   "quantity": 56,
+   "unit": "Pcs",
+   "rate": 332.0,
+   "tax_percent": 5,
+   "taxable": 18592.0,
+   "cgst": 464.8,
+   "sgst": 464.8,
+   "amount": 18592.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 85329.25,
+  "cgst": 2367.36,
+  "sgst": 2367.36,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 90063.97
+ },
+ "amount_in_words": "Rupees Ninety Thousand Sixty Three and Ninety Seven Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 9.501,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 41.862,
+   "center": [
+    423.895,
+    1618.24
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.716,
+   "print_lum": 56.0,
+   "row_px_estimate": 29.027,
+   "faint": false,
+   "size_mm": [
+    73.114,
+    108.683
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sajitha S",
+    "name": "Sajitha",
+    "date": "25/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.952
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2
+   ]
+  },
+  "signature": {
+   "box": [
+    1148.687,
+    91.275,
+    1320.713,
+    160.085
+   ],
+   "width": 172.026,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    248.217,
+    158.662,
+    180.8
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.005,
+    "bow": 0.1,
+    "lift": 0.032
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.054,
+   "gradient_angle": 261.601,
+   "vignette": 0.137,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.296,
+    "strength": 0.16
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.001,
+    1.0,
+    0.945
+   ],
+   "white": 209.194,
+   "black": 43.969,
+   "gamma": 1.014,
+   "glare": null
+  },
+  "text_row_px": 40.863,
+  "text_px": 10.753,
+  "photo_px_per_mm": 5.108,
+  "camera": {
+   "blur_sigma": 0.69,
+   "blur_cap": 0.978,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.164,
+   "sharpen_radius": 0.901,
+   "sharpen_percent": 57
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 79,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.963,
+   "skew_deg": -0.79,
+   "perspective": {
+    "amount": 0.016,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     1260.581,
+     57.522
+    ],
+    [
+     1266.116,
+     920.964
+    ],
+    [
+     22.147,
+     913.289
+    ],
+    [
+     42.159,
+     49.712
+    ]
+   ]
+  }
+ }
+}

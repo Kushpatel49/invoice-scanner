@@ -28,3 +28,12 @@ class WordsToNumber(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FuzzyWords(unittest.TestCase):
+    def test_misspelt_number_words(self):
+        self.assertEqual(words_to_number("Eightteen Thousand four Hundred and Twenty One Rupees Only"), 18421)
+        self.assertEqual(words_to_number("Ninty Rupees Only"), 90)
+
+    def test_garbled_line_is_skipped_not_contradicting(self):
+        self.assertIsNone(words_to_number("Rupees Nine Hundred Twe Only"))

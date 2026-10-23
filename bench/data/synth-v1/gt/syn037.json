@@ -1,0 +1,262 @@
+{
+ "id": "syn037",
+ "template": "software",
+ "supplier_kind": "bakery",
+ "supplier": {
+  "name": "KERALA BAKERS SUPPLY",
+  "address_lines": [
+   "6/966, M.G. Road",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "7785654130",
+  "gstin": "32YGLFR6770G2ZZ",
+  "fssai": "19615299763355",
+  "email": "keralafresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "26-27/8992",
+ "invoice_number_printed": "26-27/8992",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27-Aug-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BUN (PACK OF 4)",
+   "hsn": "19059090",
+   "quantity": 28,
+   "unit": "Nos",
+   "rate": 33,
+   "tax_percent": 0,
+   "taxable": 924.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 924.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 1,
+ "totals": {
+  "subtotal": 924.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 924.0
+ },
+ "amount_in_words": "Rupees Nine Hundred Twenty Four Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-614"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 8.064,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-614",
+    "box": [
+     1250.252,
+     96.799,
+     1545.252,
+     277.799
+    ],
+    "angle": -15.123,
+    "size": 67.415,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -23.003,
+   "center": [
+    411.725,
+    1079.687
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 41.0,
+   "row_px_estimate": 29.729,
+   "faint": false,
+   "size_mm": [
+    73.327,
+    108.999
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Bibin",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": false,
+   "on_numbers": 0.054,
+   "title_on_print": 0.129,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.995
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    568.806,
+    2062.643,
+    737.376,
+    2130.071
+   ],
+   "width": 168.57,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.961,
+    247.223,
+    244.436
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.498,
+     "tilt": -0.039,
+     "depth": 0.055,
+     "width_mm": 1.218,
+     "panel_step": 0.004
+    },
+    {
+     "horizontal": false,
+     "pos": 0.479,
+     "tilt": -0.024,
+     "depth": 0.049,
+     "width_mm": 1.319,
+     "panel_step": 0.046
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.006,
+    "bow": 0.225,
+    "lift": 0.986
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    176,
+    178,
+    182
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.108,
+   "gradient_angle": 260.886,
+   "vignette": 0.093,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.24,
+    "strength": 0.238
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.951
+   ],
+   "white": 218.472,
+   "black": 38.636,
+   "gamma": 1.005,
+   "glare": null
+  },
+  "text_row_px": 30.121,
+  "text_px": 11.714,
+  "photo_px_per_mm": 4.498,
+  "camera": {
+   "blur_sigma": 0.765,
+   "blur_cap": 1.065,
+   "defocus": {
+    "sigma_far": 1.065,
+    "angle": 321.669
+   },
+   "motion": null,
+   "noise_sd": 2.069,
+   "sharpen_radius": 0.954,
+   "sharpen_percent": 37
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 68,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.013,
+   "skew_deg": 1.645,
+   "perspective": {
+    "amount": 0.016,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     1.335,
+     -0.699
+    ],
+    [
+     920.541,
+     -10.847
+    ],
+    [
+     951.667,
+     1258.423
+    ],
+    [
+     32.309,
+     1304.812
+    ]
+   ]
+  }
+ }
+}

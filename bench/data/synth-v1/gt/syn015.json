@@ -1,0 +1,295 @@
+{
+ "id": "syn015",
+ "template": "carbon",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "P32/45, M.G. Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "7912666946",
+  "gstin": "32NNXCZ6702T2Z2",
+  "fssai": null,
+  "email": "arayacherril@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "TI-22286",
+ "invoice_number_printed": "TI-22286",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01/09/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "INSTANT VEG PALAPPAM 1 LTR",
+   "hsn": "21061000",
+   "quantity": 3,
+   "unit": "Nos",
+   "rate": 66.21,
+   "tax_percent": 5,
+   "taxable": 198.63,
+   "cgst": 4.97,
+   "sgst": 4.97,
+   "amount": 198.63,
+   "mrp": null
+  },
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 65,
+   "unit": "Nos",
+   "rate": 72,
+   "tax_percent": 5,
+   "taxable": 4680.0,
+   "cgst": 117.0,
+   "sgst": 117.0,
+   "amount": 4680.0,
+   "mrp": null
+  },
+  {
+   "description": "JAGGERY BALL 1 KG",
+   "hsn": "17011390",
+   "quantity": 10,
+   "unit": "Nos",
+   "rate": 75,
+   "tax_percent": 5,
+   "taxable": 750.0,
+   "cgst": 18.75,
+   "sgst": 18.75,
+   "amount": 750.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT IDLY BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 91,
+   "unit": "Nos",
+   "rate": 58,
+   "tax_percent": 5,
+   "taxable": 5278.0,
+   "cgst": 131.95,
+   "sgst": 131.95,
+   "amount": 5278.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT PUNCHA EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 15,
+   "unit": "Nos",
+   "rate": 68.15,
+   "tax_percent": 5,
+   "taxable": 1022.25,
+   "cgst": 25.56,
+   "sgst": 25.56,
+   "amount": 1022.25,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 11928.88,
+  "cgst": 298.23,
+  "sgst": 298.23,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 12525.34
+ },
+ "amount_in_words": "Rupees Twelve Thousand Five Hundred Twenty Five and Thirty Four Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 620"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "yellow",
+  "px_per_mm": 8.362,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 620",
+    "box": [
+     929.476,
+     21.296,
+     1177.476,
+     154.296
+    ],
+    "angle": -6.588,
+    "size": 70.141,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 25.4,
+   "center": [
+    404.741,
+    1656.288
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.709,
+   "print_lum": 63.0,
+   "row_px_estimate": 23.273,
+   "faint": false,
+   "size_mm": [
+    70.232,
+    104.4
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Rakhi",
+    "date": "1/09/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.007,
+   "title_on_print": 0.019,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.993
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    249.049,
+    237.119,
+    167.365
+   ],
+   "grain": 0.011,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.009,
+    "bow": -0.019,
+    "lift": 0.216
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.136,
+   "gradient_angle": 138.823,
+   "vignette": 0.112,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.479,
+    "strength": 0.232
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.023,
+    1.0,
+    0.963
+   ],
+   "white": 197.95,
+   "black": 45.669,
+   "gamma": 1.093,
+   "glare": null
+  },
+  "text_row_px": 31.979,
+  "text_px": 8.672,
+  "photo_px_per_mm": 4.532,
+  "camera": {
+   "blur_sigma": 0.788,
+   "blur_cap": 0.788,
+   "defocus": {
+    "sigma_far": 0.788,
+    "angle": 234.841
+   },
+   "motion": null,
+   "noise_sd": 2.278,
+   "sharpen_radius": 1.131,
+   "sharpen_percent": 48
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 82,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.969,
+   "skew_deg": 0.27,
+   "perspective": {
+    "amount": 0.018,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     36.098,
+     915.18
+    ],
+    [
+     26.886,
+     28.743
+    ],
+    [
+     1253.118,
+     21.627
+    ],
+    [
+     1253.393,
+     908.502
+    ]
+   ]
+  }
+ }
+}

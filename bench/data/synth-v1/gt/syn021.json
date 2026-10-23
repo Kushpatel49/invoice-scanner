@@ -1,0 +1,268 @@
+{
+ "id": "syn021",
+ "template": "handbook",
+ "supplier_kind": "mushroom",
+ "supplier": {
+  "name": "AADIDEV MUSHROOM WORLD",
+  "address_lines": [
+   "XIII/223, Church Road",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "7857655426",
+  "gstin": "32MONPB2370A1ZC",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "9604",
+ "invoice_number_printed": "9604",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "MILKY MUSHROOM",
+   "hsn": "0709",
+   "quantity": 5,
+   "unit": "Pkt",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 295.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 295.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 1,
+ "totals": {
+  "subtotal": 295.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 295.0
+ },
+ "amount_in_words": "Two Hundred and Ninety Five INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-657"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 7.057,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-657",
+    "box": [
+     860.277,
+     11.165,
+     1076.277,
+     97.165
+    ],
+    "angle": 0.587,
+    "size": 63.412,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -1.576,
+   "center": [
+    416.261,
+    1384.734
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.853,
+   "print_lum": 31.0,
+   "row_px_estimate": 41.747,
+   "faint": false,
+   "size_mm": [
+    69.13,
+    102.761
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Sajitha S",
+    "name": "Sajitha",
+    "date": "24/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.957
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0
+   ]
+  },
+  "signature": {
+   "box": [
+    758.129,
+    1459.778,
+    894.38,
+    1514.278
+   ],
+   "width": 136.251,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.327,
+    241.921,
+    220.739
+   ],
+   "grain": 0.013,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.482,
+     "tilt": -0.007,
+     "depth": 0.092,
+     "width_mm": 1.484,
+     "panel_step": 0.014
+    },
+    {
+     "horizontal": false,
+     "pos": 0.463,
+     "tilt": -0.013,
+     "depth": 0.114,
+     "width_mm": 1.051,
+     "panel_step": 0.055
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.018,
+    "bow": -0.903,
+    "lift": 0.486
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.176,
+   "gradient_angle": 151.199,
+   "vignette": 0.127,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.4,
+    "strength": 0.221
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.994,
+    1.0,
+    1.01
+   ],
+   "white": 210.058,
+   "black": 60.659,
+   "gamma": 1.063,
+   "glare": null
+  },
+  "text_row_px": 39.528,
+  "text_px": 25.411,
+  "photo_px_per_mm": 4.982,
+  "camera": {
+   "blur_sigma": 1.071,
+   "blur_cap": 1.218,
+   "defocus": {
+    "sigma_far": 1.218,
+    "angle": 1.358
+   },
+   "motion": null,
+   "noise_sd": 4.532,
+   "sharpen_radius": 1.247,
+   "sharpen_percent": 64
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 65,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.947,
+   "skew_deg": 0.258,
+   "perspective": {
+    "amount": 0.036,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     53.107,
+     44.096
+    ],
+    [
+     932.274,
+     45.971
+    ],
+    [
+     940.698,
+     1238.847
+    ],
+    [
+     68.749,
+     1273.513
+    ]
+   ]
+  }
+ }
+}

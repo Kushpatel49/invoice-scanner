@@ -1,0 +1,270 @@
+{
+ "id": "syn084",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "KUTTANAD FRESH CUTS",
+  "address_lines": [
+   "21/824, Wholesale Market",
+   "Kakkanad, Kerala - 682030"
+  ],
+  "phone": "8302370435",
+  "gstin": null,
+  "fssai": "19007870046009",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "6921",
+ "invoice_number_printed": "6921",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "COCONUT GRATED",
+   "hsn": "0801",
+   "quantity": 22,
+   "unit": "Pkt",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 1254.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1254.0,
+   "mrp": null
+  },
+  {
+   "description": "KAYAM PAYAR CUT",
+   "hsn": "0709",
+   "quantity": 17,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 680.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 680.0,
+   "mrp": null
+  },
+  {
+   "description": "PAPPAYA CUT",
+   "hsn": "0709",
+   "quantity": 9,
+   "unit": "Pkt",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 369.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 369.0,
+   "mrp": null
+  },
+  {
+   "description": "PLANTAIN FLOWER",
+   "hsn": "0709",
+   "quantity": 3,
+   "unit": "Pkt",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 123.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 123.0,
+   "mrp": null
+  },
+  {
+   "description": "VENDAKKA CUT",
+   "hsn": "0709",
+   "quantity": 78,
+   "unit": "Pkt",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 3588.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3588.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 6014.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 6014.0
+ },
+ "amount_in_words": "Six Thousand Fourteen INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-610"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 6.109,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-610",
+    "box": [
+     594.007,
+     2.0,
+     804.007,
+     99.0
+    ],
+    "angle": -3.631,
+    "size": 59.424,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    270.024,
+    1339.64,
+    437.7,
+    1406.711
+   ],
+   "width": 167.676,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.163,
+    247.238,
+    246.025
+   ],
+   "grain": 0.01,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.678,
+     "tilt": -0.007,
+     "depth": 0.118,
+     "width_mm": 0.642,
+     "panel_step": 0.016
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.009,
+    "bow": -0.652,
+    "lift": 0.871
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "dark wood",
+   "keyboard": {
+    "side": "right",
+    "depth": 0.276
+   },
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.101,
+   "gradient_angle": 166.166,
+   "vignette": 0.102,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.259,
+    "strength": 0.124
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.981,
+    1.0,
+    1.009
+   ],
+   "white": 217.127,
+   "black": 56.187,
+   "gamma": 1.118,
+   "glare": null
+  },
+  "text_row_px": 36.659,
+  "text_px": 23.399,
+  "photo_px_per_mm": 4.765,
+  "camera": {
+   "blur_sigma": 0.509,
+   "blur_cap": 1.165,
+   "defocus": {
+    "sigma_far": 0.859,
+    "angle": 166.19
+   },
+   "motion": null,
+   "noise_sd": 2.761,
+   "sharpen_radius": 0.897,
+   "sharpen_percent": 60
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 74,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.934,
+   "skew_deg": 1.354,
+   "perspective": {
+    "amount": 0.013,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     47.768,
+     898.311
+    ],
+    [
+     21.604,
+     80.371
+    ],
+    [
+     1215.369,
+     59.995
+    ],
+    [
+     1243.341,
+     870.425
+    ]
+   ]
+  }
+ }
+}

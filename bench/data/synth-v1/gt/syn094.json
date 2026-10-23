@@ -1,0 +1,309 @@
+{
+ "id": "syn094",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "ST. ANTONY'S EGG CENTRE",
+  "address_lines": [
+   "XIII/382, Agricultural Urban Wholesale Market",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "7407567136",
+  "gstin": null,
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "4400",
+ "invoice_number_printed": "4400",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "WHITE EGG PACK 30",
+   "hsn": "0407",
+   "quantity": 10,
+   "unit": "Tray",
+   "rate": 200.0,
+   "tax_percent": 0,
+   "taxable": 2000.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2000.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 15,
+   "unit": "Pack",
+   "rate": 94.0,
+   "tax_percent": 0,
+   "taxable": 1410.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1410.0,
+   "mrp": null
+  },
+  {
+   "description": "QUAIL EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 87,
+   "unit": "Pack",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 4002.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4002.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 58,
+   "unit": "Pack",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 3132.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3132.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 41,
+   "unit": "Pack",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 2255.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2255.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 10,
+   "unit": "Pack",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 460.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 460.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 45,
+   "unit": "Pack",
+   "rate": 104.0,
+   "tax_percent": 0,
+   "taxable": 4680.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4680.0,
+   "mrp": null
+  },
+  {
+   "description": "DUCK EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 53,
+   "unit": "Pack",
+   "rate": 89.0,
+   "tax_percent": 0,
+   "taxable": 4717.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4717.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 19,
+   "unit": "Pack",
+   "rate": 105.0,
+   "tax_percent": 0,
+   "taxable": 1995.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1995.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 24651.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 24651.0
+ },
+ "amount_in_words": "Rupees Twenty Four Thousand Six Hundred and Fifty One Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 7.055,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    703.189,
+    1370.94,
+    896.75,
+    1448.364
+   ],
+   "width": 193.561,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.262,
+    243.489,
+    221.02
+   ],
+   "grain": 0.017,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.706,
+     "tilt": 0.016,
+     "depth": 0.132,
+     "width_mm": 1.151,
+     "panel_step": 0.013
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.017,
+    "bow": -0.922,
+    "lift": -0.17
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.135,
+   "gradient_angle": 43.985,
+   "vignette": 0.118,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.495,
+    "strength": 0.294
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.024,
+    1.0,
+    0.942
+   ],
+   "white": 195.313,
+   "black": 44.803,
+   "gamma": 1.143,
+   "glare": {
+    "center": [
+     0.849,
+     0.764
+    ],
+    "radius": [
+     0.153,
+     0.11
+    ],
+    "strength": 0.297
+   }
+  },
+  "text_row_px": 42.841,
+  "text_px": 26.011,
+  "photo_px_per_mm": 5.397,
+  "camera": {
+   "blur_sigma": 0.903,
+   "blur_cap": 1.319,
+   "defocus": {
+    "sigma_far": 1.319,
+    "angle": 64.868
+   },
+   "motion": null,
+   "noise_sd": 4.767,
+   "sharpen_radius": 0.868,
+   "sharpen_percent": 44
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 60,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.026,
+   "skew_deg": 0.201,
+   "perspective": {
+    "amount": 0.031,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     17.93,
+     4.096
+    ],
+    [
+     964.526,
+     -18.794
+    ],
+    [
+     956.924,
+     1298.501
+    ],
+    [
+     24.627,
+     1316.879
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "id": "syn078",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "SREE MURUGAN VEGETABLES",
+  "address_lines": [
+   "29/953, Agricultural Urban Wholesale Market",
+   "Ernakulam, Kerala - 682011"
+  ],
+  "phone": "8238598705",
+  "gstin": "32JIPPG1248I1Z4",
+  "fssai": "16728611685579",
+  "email": "sree@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "6112",
+ "invoice_number_printed": "6112",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 15,
+   "unit": "KGS",
+   "rate": 39.0,
+   "tax_percent": 0,
+   "taxable": 585.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 585.0,
+   "mrp": null
+  },
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 23,
+   "unit": "KGS",
+   "rate": 53.0,
+   "tax_percent": 0,
+   "taxable": 1219.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1219.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 1804.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 1804.0
+ },
+ "amount_in_words": "RUPEES ONE THOUSAND EIGHT HUNDRED AND FOUR ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-669"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.112,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-669",
+    "box": [
+     677.26,
+     6.0,
+     937.26,
+     118.0
+    ],
+    "angle": 4.762,
+    "size": 63.313,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    412.752,
+    1532.79,
+    571.95,
+    1596.469
+   ],
+   "width": 159.198,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    248.118,
+    240.821,
+    223.967
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.005,
+    "bow": 0.918,
+    "lift": 0.196
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "wood",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.121,
+   "gradient_angle": 93.743,
+   "vignette": 0.131,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.433,
+    "strength": 0.09
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.995,
+    1.0,
+    1.03
+   ],
+   "white": 191.121,
+   "black": 52.048,
+   "gamma": 1.126,
+   "glare": null
+  },
+  "text_row_px": 40.602,
+  "text_px": 23.507,
+  "photo_px_per_mm": 5.066,
+  "camera": {
+   "blur_sigma": 0.503,
+   "blur_cap": 1.238,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.599,
+   "sharpen_radius": 1.425,
+   "sharpen_percent": 72
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 73,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.953,
+   "skew_deg": 0.945,
+   "perspective": {
+    "amount": 0.024,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     34.569,
+     30.624
+    ],
+    [
+     886.374,
+     20.979
+    ],
+    [
+     899.565,
+     1236.973
+    ],
+    [
+     55.137,
+     1259.053
+    ]
+   ]
+  }
+ }
+}

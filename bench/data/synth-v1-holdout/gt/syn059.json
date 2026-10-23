@@ -1,0 +1,239 @@
+{
+ "id": "syn059",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MURALYA DAIRY PRODUCTS PRIVATE LIMITED",
+  "address_lines": [
+   "22/713, Wholesale Market",
+   "Kakkanad, Kerala - 682030"
+  ],
+  "phone": "9618114502",
+  "gstin": "32NMSCH8328B2ZI",
+  "fssai": "10223824621279",
+  "email": "muralya@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "TI-64402",
+ "invoice_number_printed": "TI-64402",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28-Aug-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 34,
+   "unit": "Nos",
+   "rate": 82.95,
+   "tax_percent": 5,
+   "taxable": 2820.3,
+   "cgst": 70.51,
+   "sgst": 70.51,
+   "amount": 2820.3,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 1,
+ "totals": {
+  "subtotal": 2820.3,
+  "cgst": 70.51,
+  "sgst": 70.51,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 2961.32
+ },
+ "amount_in_words": "TWO THOUSAND NINE HUNDRED AND SIXTY ONE INDIAN RUPEES AND THIRTY TWO PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-645"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.487,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-645",
+    "box": [
+     1108.367,
+     197.055,
+     1325.367,
+     293.055
+    ],
+    "angle": -1.004,
+    "size": 68.162,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 18.052,
+   "center": [
+    400.176,
+    933.374
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 26.215,
+   "faint": false,
+   "size_mm": [
+    72.109,
+    107.189
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Prajesh",
+    "name": "Prajesh",
+    "date": "29/08/26"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": false,
+   "on_numbers": 0.045,
+   "title_on_print": 0.082,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.732,
+    248.484,
+    245.325
+   ],
+   "grain": 0.012,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": -0.022,
+    "lift": 0.482
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.094,
+   "gradient_angle": 12.749,
+   "vignette": 0.064,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.286,
+    "strength": 0.1
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.024,
+    1.0,
+    0.975
+   ],
+   "white": 222.685,
+   "black": 28.046,
+   "gamma": 1.08,
+   "glare": null
+  },
+  "text_row_px": 25.407,
+  "text_px": 12.151,
+  "photo_px_per_mm": 4.135,
+  "camera": {
+   "blur_sigma": 0.356,
+   "blur_cap": 0.907,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.243,
+   "sharpen_radius": 1.456,
+   "sharpen_percent": 79
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 75,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.969,
+   "skew_deg": -0.29,
+   "perspective": {
+    "amount": 0.0,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     43.438,
+     27.002
+    ],
+    [
+     920.583,
+     31.535
+    ],
+    [
+     914.155,
+     1272.025
+    ],
+    [
+     37.284,
+     1267.545
+    ]
+   ]
+  }
+ }
+}

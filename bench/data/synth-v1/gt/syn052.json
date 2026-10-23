@@ -1,0 +1,347 @@
+{
+ "id": "syn052",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "A.K.S. TRADERS",
+  "address_lines": [
+   "Door No. 9/475-C, Agricultural Urban Wholesale Market",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "7951247938",
+  "gstin": null,
+  "fssai": null,
+  "email": "a.k.sfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "6226",
+ "invoice_number_printed": "6226",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "NADAN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 57,
+   "unit": "Pack",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 3249.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3249.0,
+   "mrp": null
+  },
+  {
+   "description": "QUAIL EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 3,
+   "unit": "Pack",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 153.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 153.0,
+   "mrp": null
+  },
+  {
+   "description": "DUCK EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 30,
+   "unit": "Pack",
+   "rate": 88.0,
+   "tax_percent": 0,
+   "taxable": 2640.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2640.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 96,
+   "unit": "Pack",
+   "rate": 112.0,
+   "tax_percent": 0,
+   "taxable": 10752.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 10752.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 85,
+   "unit": "Pack",
+   "rate": 114.0,
+   "tax_percent": 0,
+   "taxable": 9690.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9690.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 30",
+   "hsn": "0407",
+   "quantity": 49,
+   "unit": "Tray",
+   "rate": 200.0,
+   "tax_percent": 0,
+   "taxable": 9800.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9800.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 94,
+   "unit": "Pack",
+   "rate": 96.0,
+   "tax_percent": 0,
+   "taxable": 9024.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9024.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 5,
+   "unit": "Pack",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 285.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 285.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 45593.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 45593.0
+ },
+ "amount_in_words": "FORTY FIVE THOUSAND FIVE HUNDRED NINETY THREE INDIAN RUPEES ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 651"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 5.997,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 651",
+    "box": [
+     660.489,
+     7.0,
+     878.489,
+     117.0
+    ],
+    "angle": -7.047,
+    "size": 56.084,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -28.159,
+   "center": [
+    653.93,
+    1183.652
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.749,
+   "print_lum": 50.0,
+   "row_px_estimate": 37.33,
+   "faint": false,
+   "size_mm": [
+    74.701,
+    111.042
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "date": "27/8/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.286,
+   "title_on_print": 0.718,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.041,
+   "inside_page": 0.993
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    252.895,
+    240.592,
+    221.748
+   ],
+   "grain": 0.008,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.52,
+     "tilt": 0.028,
+     "depth": 0.09,
+     "width_mm": 0.598,
+     "panel_step": 0.007
+    },
+    {
+     "horizontal": true,
+     "pos": 0.634,
+     "tilt": -0.0,
+     "depth": 0.095,
+     "width_mm": 0.631,
+     "panel_step": 0.029
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.014,
+    "bow": -0.683,
+    "lift": 0.624
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.125,
+   "gradient_angle": 199.61,
+   "vignette": 0.103,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.371,
+    "strength": 0.272
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.005,
+    1.0,
+    0.939
+   ],
+   "white": 204.822,
+   "black": 60.941,
+   "gamma": 1.096,
+   "glare": null
+  },
+  "text_row_px": 33.96,
+  "text_px": 21.886,
+  "photo_px_per_mm": 4.526,
+  "camera": {
+   "blur_sigma": 1.061,
+   "blur_cap": 1.106,
+   "defocus": {
+    "sigma_far": 1.106,
+    "angle": 186.827
+   },
+   "motion": null,
+   "noise_sd": 5.221,
+   "sharpen_radius": 1.485,
+   "sharpen_percent": 83
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 70,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.91,
+   "skew_deg": 1.664,
+   "perspective": {
+    "amount": 0.05,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     21.05,
+     30.371
+    ],
+    [
+     875.35,
+     17.267
+    ],
+    [
+     925.245,
+     1183.466
+    ],
+    [
+     60.161,
+     1189.965
+    ]
+   ]
+  }
+ }
+}

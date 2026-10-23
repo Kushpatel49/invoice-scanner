@@ -1,0 +1,309 @@
+{
+ "id": "syn093",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "EGGS DAILY",
+  "address_lines": [
+   "XIII/349, Banerji Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "7383655646",
+  "gstin": "32WZTFO7354G1ZW",
+  "fssai": "12095146977238",
+  "email": "eggsfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "7426",
+ "invoice_number_printed": "7426",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "NADAN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 89,
+   "unit": "Pack",
+   "rate": 107.0,
+   "tax_percent": 0,
+   "taxable": 9523.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9523.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 5,
+   "unit": "Pack",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 255.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 255.0,
+   "mrp": null
+  },
+  {
+   "description": "DUCK EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 2,
+   "unit": "Pack",
+   "rate": 80.0,
+   "tax_percent": 0,
+   "taxable": 160.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 160.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 76,
+   "unit": "Pack",
+   "rate": 112.0,
+   "tax_percent": 0,
+   "taxable": 8512.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 8512.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 16,
+   "unit": "Pack",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 832.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 832.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 30",
+   "hsn": "0407",
+   "quantity": 82,
+   "unit": "Tray",
+   "rate": 201.0,
+   "tax_percent": 0,
+   "taxable": 16482.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 16482.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 50,
+   "unit": "Pack",
+   "rate": 92.0,
+   "tax_percent": 0,
+   "taxable": 4600.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4600.0,
+   "mrp": null
+  },
+  {
+   "description": "QUAIL EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 10,
+   "unit": "Pack",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 520.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 520.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 19,
+   "unit": "Pack",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 1121.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1121.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 42005.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 42005.0
+ },
+ "amount_in_words": "Forty Two Thousand Five Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-621"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 6.904,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-621",
+    "box": [
+     738.101,
+     10.057,
+     949.101,
+     86.057
+    ],
+    "angle": 0.696,
+    "size": 55.486,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.001,
+    157.983,
+    182.017
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.533,
+     "tilt": -0.04,
+     "depth": 0.069,
+     "width_mm": 1.41,
+     "panel_step": 0.059
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.006,
+    "bow": 0.879,
+    "lift": 0.49
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.149,
+   "gradient_angle": 349.646,
+   "vignette": 0.107,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.224,
+    "strength": 0.222
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.018,
+    1.0,
+    0.946
+   ],
+   "white": 210.998,
+   "black": 41.18,
+   "gamma": 1.071,
+   "glare": null
+  },
+  "text_row_px": 40.996,
+  "text_px": 22.361,
+  "photo_px_per_mm": 5.146,
+  "camera": {
+   "blur_sigma": 0.746,
+   "blur_cap": 1.258,
+   "defocus": {
+    "sigma_far": 1.124,
+    "angle": 330.846
+   },
+   "motion": null,
+   "noise_sd": 3.086,
+   "sharpen_radius": 1.538,
+   "sharpen_percent": 35
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 66,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.974,
+   "skew_deg": -1.791,
+   "perspective": {
+    "amount": 0.029,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     17.269,
+     906.129
+    ],
+    [
+     44.867,
+     11.716
+    ],
+    [
+     1289.309,
+     41.171
+    ],
+    [
+     1249.187,
+     952.092
+    ]
+   ]
+  }
+ }
+}

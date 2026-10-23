@@ -1,0 +1,286 @@
+{
+ "id": "syn075",
+ "template": "software",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "R K MERCANTILE",
+  "address_lines": [
+   "XIII/394, Bypass Junction",
+   "Angamaly, Kerala - 683572"
+  ],
+  "phone": "9089218182",
+  "gstin": "32MBLPX1183E1ZA",
+  "fssai": "19896739128990",
+  "email": "r@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "COK26-27/2408",
+ "invoice_number_printed": "COK26-27/2408",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28-08-2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 305,
+   "tax_percent": 5,
+   "taxable": 3660.0,
+   "cgst": 91.5,
+   "sgst": 91.5,
+   "amount": 3843.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 48,
+   "unit": "Nos",
+   "rate": 140.5,
+   "tax_percent": 5,
+   "taxable": 6744.0,
+   "cgst": 168.6,
+   "sgst": 168.6,
+   "amount": 7081.2,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 18.0,
+   "unit": "KGS",
+   "rate": 261,
+   "tax_percent": 5,
+   "taxable": 4698.0,
+   "cgst": 117.45,
+   "sgst": 117.45,
+   "amount": 4932.9,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 8,
+   "unit": "KGS",
+   "rate": 352,
+   "tax_percent": 5,
+   "taxable": 2816.0,
+   "cgst": 70.4,
+   "sgst": 70.4,
+   "amount": 2956.8,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 11,
+   "unit": "Nos",
+   "rate": 154,
+   "tax_percent": 5,
+   "taxable": 1694.0,
+   "cgst": 42.35,
+   "sgst": 42.35,
+   "amount": 1778.7,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 1,
+   "unit": "Nos",
+   "rate": 164,
+   "tax_percent": 18,
+   "taxable": 164.0,
+   "cgst": 14.76,
+   "sgst": 14.76,
+   "amount": 193.52,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 19776.0,
+  "cgst": 505.06,
+  "sgst": 505.06,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.12,
+  "grand_total": 20786.0
+ },
+ "amount_in_words": "Twenty Thousand Seven Hundred Eighty Six Rupees Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.353,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 43.671,
+   "center": [
+    752.452,
+    1600.312
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.787,
+   "print_lum": 41.0,
+   "row_px_estimate": 26.111,
+   "faint": false,
+   "size_mm": [
+    77.347,
+    114.976
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sreeja",
+    "date": "28/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.001,
+   "title_on_print": 0.002,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.001,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1093.559,
+    1868.48,
+    1268.841,
+    1938.593
+   ],
+   "width": 175.283,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.824,
+    248.938,
+    244.966
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.006,
+    "bow": -0.434,
+    "lift": -0.032
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.153,
+   "gradient_angle": 38.1,
+   "vignette": 0.12,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.365,
+    "strength": 0.097
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.02,
+    1.0,
+    0.947
+   ],
+   "white": 212.877,
+   "black": 52.56,
+   "gamma": 0.949,
+   "glare": null
+  },
+  "text_row_px": 25.11,
+  "text_px": 10.044,
+  "photo_px_per_mm": 4.103,
+  "camera": {
+   "blur_sigma": 0.791,
+   "blur_cap": 0.897,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.035,
+   "sharpen_radius": 1.042,
+   "sharpen_percent": 43
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 78,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.962,
+   "skew_deg": 1.526,
+   "perspective": {
+    "amount": 0.016,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     50.334,
+     33.082
+    ],
+    [
+     917.958,
+     16.881
+    ],
+    [
+     952.056,
+     1239.644
+    ],
+    [
+     85.91,
+     1264.661
+    ]
+   ]
+  }
+ }
+}

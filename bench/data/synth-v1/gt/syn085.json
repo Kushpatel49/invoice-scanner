@@ -1,0 +1,355 @@
+{
+ "id": "syn085",
+ "template": "tally",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "ST. JUDE VEGETABLES",
+  "address_lines": [
+   "XIII/354, Agricultural Urban Wholesale Market",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "9596629541",
+  "gstin": "32QFVPQ5195Q1ZU",
+  "fssai": null,
+  "email": "st@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "GST/7899/26-27",
+ "invoice_number_printed": "GST/7899/26-27",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01/09/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SWEET POTATO",
+   "hsn": "0714",
+   "quantity": 3,
+   "unit": "KGS",
+   "rate": 44.25,
+   "tax_percent": 0,
+   "taxable": 132.75,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 132.75,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 5.68,
+   "unit": "KGS",
+   "rate": 58,
+   "tax_percent": 0,
+   "taxable": 329.44,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 329.44,
+   "mrp": null
+  },
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 22,
+   "unit": "KGS",
+   "rate": 32.49,
+   "tax_percent": 0,
+   "taxable": 714.78,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 714.78,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT",
+   "hsn": "0801",
+   "quantity": 59,
+   "unit": "NOS",
+   "rate": 42,
+   "tax_percent": 0,
+   "taxable": 2478.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2478.0,
+   "mrp": null
+  },
+  {
+   "description": "BRINJAL GREEN LONG",
+   "hsn": "0709",
+   "quantity": 8.6,
+   "unit": "KGS",
+   "rate": 35,
+   "tax_percent": 0,
+   "taxable": 301.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 301.0,
+   "mrp": null
+  },
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 21,
+   "unit": "KGS",
+   "rate": 98,
+   "tax_percent": 0,
+   "taxable": 2058.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2058.0,
+   "mrp": null
+  },
+  {
+   "description": "CUCUMBER SALAD",
+   "hsn": "0707",
+   "quantity": 26.2,
+   "unit": "KGS",
+   "rate": 35.75,
+   "tax_percent": 0,
+   "taxable": 936.65,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 936.65,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 36,
+   "unit": "KGS",
+   "rate": 174,
+   "tax_percent": 0,
+   "taxable": 6264.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 6264.0,
+   "mrp": null
+  },
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 21,
+   "unit": "KGS",
+   "rate": 51,
+   "tax_percent": 0,
+   "taxable": 1071.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1071.0,
+   "mrp": null
+  },
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 37,
+   "unit": "KGS",
+   "rate": 64,
+   "tax_percent": 0,
+   "taxable": 2368.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2368.0,
+   "mrp": null
+  },
+  {
+   "description": "CURRY LEAVES",
+   "hsn": "0709",
+   "quantity": 12,
+   "unit": "KGS",
+   "rate": 46,
+   "tax_percent": 0,
+   "taxable": 552.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 552.0,
+   "mrp": null
+  },
+  {
+   "description": "ASH GOURD",
+   "hsn": "0709",
+   "quantity": 9.1,
+   "unit": "KGS",
+   "rate": 32,
+   "tax_percent": 0,
+   "taxable": 291.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 291.2,
+   "mrp": null
+  },
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 28,
+   "unit": "KGS",
+   "rate": 33,
+   "tax_percent": 0,
+   "taxable": 924.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 924.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 13,
+ "totals": {
+  "subtotal": 18420.82,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.18,
+  "grand_total": 18421.0
+ },
+ "amount_in_words": "Eighteen Thousand Four Hundred and Twenty One Rupees Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-624"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.857,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-624",
+    "box": [
+     412.864,
+     0.0,
+     708.864,
+     169.0
+    ],
+    "angle": -13.673,
+    "size": 64.039,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    986.444,
+    69.749,
+    1205.476,
+    157.361
+   ],
+   "width": 219.032,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.031,
+    243.542,
+    219.438
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.009,
+    "bow": 0.285,
+    "lift": 0.09
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "wood",
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.148,
+   "gradient_angle": 4.651,
+   "vignette": 0.134,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.342,
+    "strength": 0.189
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.012,
+    1.0,
+    0.937
+   ],
+   "white": 188.307,
+   "black": 57.508,
+   "gamma": 1.017,
+   "glare": null
+  },
+  "text_row_px": 11.091,
+  "text_px": 11.091,
+  "photo_px_per_mm": 3.961,
+  "camera": {
+   "blur_sigma": 0.396,
+   "blur_cap": 0.396,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.785,
+   "sharpen_radius": 0.926,
+   "sharpen_percent": 43
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 78,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.928,
+   "skew_deg": -2.248,
+   "perspective": {
+    "amount": 0.024,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     105.192,
+     46.883
+    ],
+    [
+     958.093,
+     68.586
+    ],
+    [
+     900.686,
+     1264.457
+    ],
+    [
+     63.71,
+     1195.276
+    ]
+   ]
+  }
+ }
+}

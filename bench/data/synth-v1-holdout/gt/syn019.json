@@ -1,0 +1,232 @@
+{
+ "id": "syn019",
+ "template": "handbook",
+ "supplier_kind": "mushroom",
+ "supplier": {
+  "name": "AADIDEV MUSHROOM WORLD",
+  "address_lines": [
+   "Door No. 55/454-B, Near Panchayath Office",
+   "Kochi, Kerala - 682016"
+  ],
+  "phone": "9966008553",
+  "gstin": null,
+  "fssai": "14491509425709",
+  "email": "aadidev@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "8152",
+ "invoice_number_printed": "8152",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01/09/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BUTTON MUSHROOM",
+   "hsn": "0709",
+   "quantity": 35,
+   "unit": "Pkt",
+   "rate": 60.0,
+   "tax_percent": 0,
+   "taxable": 2100.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2100.0,
+   "mrp": null
+  },
+  {
+   "description": "OYSTER MUSHROOM",
+   "hsn": "0709",
+   "quantity": 36,
+   "unit": "Pkt",
+   "rate": 69.0,
+   "tax_percent": 0,
+   "taxable": 2484.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2484.0,
+   "mrp": null
+  },
+  {
+   "description": "MILKY MUSHROOM",
+   "hsn": "0709",
+   "quantity": 1,
+   "unit": "Pkt",
+   "rate": 56.0,
+   "tax_percent": 0,
+   "taxable": 56.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 56.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 4640.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 4640.0
+ },
+ "amount_in_words": "Four Thousand Six Hundred Forty Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 655"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 6.778,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 655",
+    "box": [
+     540.679,
+     0.0,
+     826.679,
+     107.0
+    ],
+    "angle": 4.802,
+    "size": 58.132,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    190.312,
+    1341.553,
+    339.846,
+    1401.366
+   ],
+   "width": 149.534,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.718,
+    248.145,
+    246.684
+   ],
+   "grain": 0.018,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.005,
+    "bow": -0.425,
+    "lift": 0.062
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 1,
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.152,
+   "gradient_angle": 333.535,
+   "vignette": 0.128,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.255,
+    "strength": 0.094
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.972
+   ],
+   "white": 209.701,
+   "black": 44.502,
+   "gamma": 1.085,
+   "glare": null
+  },
+  "text_row_px": 47.563,
+  "text_px": 30.634,
+  "photo_px_per_mm": 5.464,
+  "camera": {
+   "blur_sigma": 0.566,
+   "blur_cap": 1.336,
+   "defocus": {
+    "sigma_far": 1.052,
+    "angle": 10.654
+   },
+   "motion": null,
+   "noise_sd": 3.264,
+   "sharpen_radius": 1.578,
+   "sharpen_percent": 33
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 76,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.947,
+   "skew_deg": -2.735,
+   "perspective": {
+    "amount": 0.024,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     87.015,
+     13.434
+    ],
+    [
+     935.698,
+     61.068
+    ],
+    [
+     881.776,
+     1258.914
+    ],
+    [
+     11.712,
+     1215.446
+    ]
+   ]
+  }
+ }
+}

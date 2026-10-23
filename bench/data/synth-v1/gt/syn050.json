@@ -1,0 +1,309 @@
+{
+ "id": "syn050",
+ "template": "software",
+ "supplier_kind": "beverage",
+ "supplier": {
+  "name": "SH FOODS",
+  "address_lines": [
+   "39/992, Seaport-Airport Road",
+   "Angamaly, Kerala - 683572"
+  ],
+  "phone": "7228798050",
+  "gstin": "32HNKFB9596F2Z6",
+  "fssai": "14108897459470",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "COK26-27/1472",
+ "invoice_number_printed": "COK26-27/1472",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "TENDER COCONUT WATER 200 ML",
+   "hsn": "2202990",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 31,
+   "tax_percent": 12,
+   "taxable": 372.0,
+   "cgst": 22.32,
+   "sgst": 22.32,
+   "amount": 372.0,
+   "mrp": 50
+  },
+  {
+   "description": "KUMBAYAH MANGO 275ML",
+   "hsn": "2202992",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 102,
+   "tax_percent": 5,
+   "taxable": 204.0,
+   "cgst": 5.1,
+   "sgst": 5.1,
+   "amount": 204.0,
+   "mrp": 149
+  },
+  {
+   "description": "KUMBAYAH BERRY MIX 275 ML",
+   "hsn": "2202992",
+   "quantity": 8,
+   "unit": "Nos",
+   "rate": 99,
+   "tax_percent": 5,
+   "taxable": 792.0,
+   "cgst": 19.8,
+   "sgst": 19.8,
+   "amount": 792.0,
+   "mrp": 149
+  },
+  {
+   "description": "COLD PRESSED ORANGE 250 ML",
+   "hsn": "2202990",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 71,
+   "tax_percent": 12,
+   "taxable": 142.0,
+   "cgst": 8.52,
+   "sgst": 8.52,
+   "amount": 142.0,
+   "mrp": 110
+  },
+  {
+   "description": "KUMBAYAH BLACK DETOX 275ML",
+   "hsn": "2202992",
+   "quantity": 4,
+   "unit": "Nos",
+   "rate": 103.22,
+   "tax_percent": 5,
+   "taxable": 412.88,
+   "cgst": 10.32,
+   "sgst": 10.32,
+   "amount": 412.88,
+   "mrp": 149
+  },
+  {
+   "description": "KUMBAYAH PASSION BLOSSOM 275ML",
+   "hsn": "2202992",
+   "quantity": 7,
+   "unit": "Nos",
+   "rate": 102.0,
+   "tax_percent": 5,
+   "taxable": 714.0,
+   "cgst": 17.85,
+   "sgst": 17.85,
+   "amount": 714.0,
+   "mrp": 149
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 2636.88,
+  "cgst": 83.91,
+  "sgst": 83.91,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 2804.7
+ },
+ "amount_in_words": "RUPEES TWO THOUSAND EIGHT HUNDRED AND FOUR AND SEVENTY PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-665"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.89,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-665",
+    "box": [
+     1164.859,
+     205.569,
+     1424.859,
+     298.569
+    ],
+    "angle": 1.455,
+    "size": 63.985,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": -2.106,
+   "center": [
+    338.725,
+    1142.473
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 41.0,
+   "row_px_estimate": 24.335,
+   "faint": false,
+   "size_mm": [
+    69.1,
+    102.716
+   ],
+   "fills": {
+    "store_name": "Tripunithura",
+    "received": "Arun",
+    "date": "28.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.082,
+   "title_on_print": 0.206,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    250.284,
+    243.904,
+    224.268
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.521,
+     "tilt": -0.027,
+     "depth": 0.055,
+     "width_mm": 0.548,
+     "panel_step": 0.025
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.007,
+    "bow": -0.071,
+    "lift": 0.708
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.065,
+   "gradient_angle": 184.729,
+   "vignette": 0.045,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.411,
+    "strength": 0.207
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.024,
+    1.0,
+    0.968
+   ],
+   "white": 189.7,
+   "black": 30.466,
+   "gamma": 1.086,
+   "glare": null
+  },
+  "text_row_px": 23.923,
+  "text_px": 9.569,
+  "photo_px_per_mm": 4.194,
+  "camera": {
+   "blur_sigma": 0.709,
+   "blur_cap": 0.854,
+   "defocus": {
+    "sigma_far": 0.854,
+    "angle": 65.873
+   },
+   "motion": null,
+   "noise_sd": 2.104,
+   "sharpen_radius": 0.952,
+   "sharpen_percent": 81
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 68,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.983,
+   "skew_deg": -2.966,
+   "perspective": {
+    "amount": 0.023,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     -6.767,
+     886.447
+    ],
+    [
+     58.454,
+     9.771
+    ],
+    [
+     1283.566,
+     58.137
+    ],
+    [
+     1244.427,
+     965.577
+    ]
+   ]
+  }
+ }
+}

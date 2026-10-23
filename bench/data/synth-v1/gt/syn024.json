@@ -1,0 +1,347 @@
+{
+ "id": "syn024",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "KUTTANAD FRESH CUTS",
+  "address_lines": [
+   "Door No. 63/529-B, Near Bus Stand",
+   "Chalakudy, Kerala - 680307"
+  ],
+  "phone": "9272084539",
+  "gstin": "32XGQPK2353J1ZO",
+  "fssai": "10295300337194",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh, Kakkanad"
+ },
+ "invoice_number": "3761",
+ "invoice_number_printed": "3761",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "VENDAKKA CUT",
+   "hsn": "0709",
+   "quantity": 54,
+   "unit": "Pkt",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 2214.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2214.0,
+   "mrp": null
+  },
+  {
+   "description": "KAYAM PAYAR CUT",
+   "hsn": "0709",
+   "quantity": 9,
+   "unit": "Pkt",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 396.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 396.0,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR CUT",
+   "hsn": "0709",
+   "quantity": 2,
+   "unit": "Pkt",
+   "rate": 35.0,
+   "tax_percent": 0,
+   "taxable": 70.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 70.0,
+   "mrp": null
+  },
+  {
+   "description": "BEANS CUT",
+   "hsn": "0709",
+   "quantity": 46,
+   "unit": "Pkt",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 1886.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1886.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA CUT",
+   "hsn": "0709",
+   "quantity": 52,
+   "unit": "Pkt",
+   "rate": 39.0,
+   "tax_percent": 0,
+   "taxable": 2028.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2028.0,
+   "mrp": null
+  },
+  {
+   "description": "AVIAL CUT",
+   "hsn": "0709",
+   "quantity": 6,
+   "unit": "Pkt",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 264.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 264.0,
+   "mrp": null
+  },
+  {
+   "description": "CHEERA CUT",
+   "hsn": "0709",
+   "quantity": 73,
+   "unit": "Pkt",
+   "rate": 51.5,
+   "tax_percent": 0,
+   "taxable": 3759.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3759.5,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT GRATED",
+   "hsn": "0801",
+   "quantity": 62,
+   "unit": "Pkt",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 3658.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3658.0,
+   "mrp": null
+  },
+  {
+   "description": "PLANTAIN FLOWER",
+   "hsn": "0709",
+   "quantity": 51,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 2040.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2040.0,
+   "mrp": null
+  },
+  {
+   "description": "JACKFRUIT RIPE",
+   "hsn": "0810",
+   "quantity": 16,
+   "unit": "Pkt",
+   "rate": 88.0,
+   "tax_percent": 0,
+   "taxable": 1408.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1408.0,
+   "mrp": null
+  },
+  {
+   "description": "PAPPAYA CUT",
+   "hsn": "0709",
+   "quantity": 89,
+   "unit": "Pkt",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 3916.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3916.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 11,
+ "totals": {
+  "subtotal": 21639.5,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 21639.5
+ },
+ "amount_in_words": "TWENTY ONE THOUSAND SIX HUNDRED THIRTY NINE RUPEES AND FIFTY PAISE ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 8,
+   "printed": 52,
+   "new": 51
+  }
+ },
+ "notes": [
+  "Bill - 642"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 6.612,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 642",
+    "box": [
+     594.457,
+     0.0,
+     823.457,
+     120.0
+    ],
+    "angle": -7.85,
+    "size": 58.801,
+    "font": "Caveat.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  "signature": {
+   "box": [
+    601.877,
+    1371.459,
+    763.22,
+    1435.996
+   ],
+   "width": 161.343,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    248.602,
+    252.382,
+    246.415
+   ],
+   "grain": 0.01,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.003,
+    "bow": 0.133,
+    "lift": 0.654
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.085,
+   "gradient_angle": 351.993,
+   "vignette": 0.057,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.015,
+    1.0,
+    0.979
+   ],
+   "white": 226.33,
+   "black": 28.002,
+   "gamma": 1.033,
+   "glare": null
+  },
+  "text_row_px": 39.114,
+  "text_px": 24.822,
+  "photo_px_per_mm": 4.973,
+  "camera": {
+   "blur_sigma": 0.472,
+   "blur_cap": 1.216,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.284,
+   "sharpen_radius": 1.204,
+   "sharpen_percent": 88
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 77,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.954,
+   "skew_deg": 1.371,
+   "perspective": {
+    "amount": 0.002,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     50.243,
+     877.782
+    ],
+    [
+     30.225,
+     61.648
+    ],
+    [
+     1250.571,
+     32.138
+    ],
+    [
+     1270.375,
+     848.877
+    ]
+   ]
+  }
+ }
+}

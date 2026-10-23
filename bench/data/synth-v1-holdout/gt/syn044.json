@@ -1,0 +1,322 @@
+{
+ "id": "syn044",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "UPTOWN URBAN FARMS PVT LTD",
+  "address_lines": [
+   "XIII/183, Near Railway Station",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "8574557521",
+  "gstin": "32TROCO4616T1Z8",
+  "fssai": "16509645930764",
+  "email": "uptown@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh KKD"
+ },
+ "invoice_number": "4084",
+ "invoice_number_printed": "4084",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "CHERRY TOMATO",
+   "hsn": "0702",
+   "quantity": 1,
+   "unit": "Units",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 59.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 59.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 25,
+   "unit": "Units",
+   "rate": 43.0,
+   "tax_percent": 0,
+   "taxable": 1075.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1075.0,
+   "mrp": null
+  },
+  {
+   "description": "BOK CHOY",
+   "hsn": "0704",
+   "quantity": 39,
+   "unit": "Units",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 1794.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1794.0,
+   "mrp": null
+  },
+  {
+   "description": "PARSLEY",
+   "hsn": "0709",
+   "quantity": 17,
+   "unit": "Units",
+   "rate": 45.0,
+   "tax_percent": 0,
+   "taxable": 765.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 765.0,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE",
+   "hsn": "0705",
+   "quantity": 12,
+   "unit": "Units",
+   "rate": 56.0,
+   "tax_percent": 0,
+   "taxable": 672.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 672.0,
+   "mrp": null
+  },
+  {
+   "description": "MIXED MICROGREENS",
+   "hsn": "0709",
+   "quantity": 42,
+   "unit": "Units",
+   "rate": 105.0,
+   "tax_percent": 0,
+   "taxable": 4410.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4410.0,
+   "mrp": null
+  },
+  {
+   "description": "SUNFLOWER MICROGREENS",
+   "hsn": "0709",
+   "quantity": 1,
+   "unit": "Units",
+   "rate": 104.0,
+   "tax_percent": 0,
+   "taxable": 104.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 104.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 8879.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 8879.0
+ },
+ "amount_in_words": "EIGHT THOUSAND EIGHT HUNDRED AND SEVENTY NINE INDIAN RUPEES ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-689"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.256,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-689",
+    "box": [
+     653.558,
+     2.0,
+     834.558,
+     98.0
+    ],
+    "angle": 4.975,
+    "size": 55.532,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -0.526,
+   "center": [
+    262.875,
+    1281.963
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.715,
+   "print_lum": 56.0,
+   "row_px_estimate": 46.867,
+   "faint": false,
+   "size_mm": [
+    68.17,
+    101.334
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sreeja",
+    "name": "Sreeja",
+    "date": "29.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.08,
+   "title_on_print": 0.204,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    248.635,
+    250.367,
+    249.884
+   ],
+   "grain": 0.011,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.694,
+     "tilt": -0.04,
+     "depth": 0.1,
+     "width_mm": 1.425,
+     "panel_step": 0.047
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.002,
+    "bow": -0.534,
+    "lift": 0.147
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.05,
+   "gradient_angle": 16.393,
+   "vignette": 0.057,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.238,
+    "strength": 0.081
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.018,
+    1.0,
+    0.977
+   ],
+   "white": 215.178,
+   "black": 37.558,
+   "gamma": 1.077,
+   "glare": null
+  },
+  "text_row_px": 45.323,
+  "text_px": 30.463,
+  "photo_px_per_mm": 5.391,
+  "camera": {
+   "blur_sigma": 0.455,
+   "blur_cap": 1.318,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.674,
+   "sharpen_radius": 1.54,
+   "sharpen_percent": 85
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 78,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.967,
+   "skew_deg": 0.865,
+   "perspective": {
+    "amount": 0.004,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     28.78,
+     27.943
+    ],
+    [
+     885.892,
+     15.177
+    ],
+    [
+     902.463,
+     1251.796
+    ],
+    [
+     48.434,
+     1264.497
+    ]
+   ]
+  }
+ }
+}

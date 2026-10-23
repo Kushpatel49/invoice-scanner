@@ -1,0 +1,261 @@
+{
+ "id": "syn021",
+ "template": "carbon",
+ "supplier_kind": "spices",
+ "supplier": {
+  "name": "MALABAR SPICES & MASALA",
+  "address_lines": [
+   "XIII/212, Near Bus Stand",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "9783258386",
+  "gstin": "32UFAFH6113L1ZV",
+  "fssai": "11292929178735",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "COK26-27/2911",
+ "invoice_number_printed": "COK26-27/2911",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25-Aug-26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "SAMBAR POWDER 200 G",
+   "hsn": "21039040",
+   "quantity": 48,
+   "unit": "Pkt",
+   "rate": 66,
+   "tax_percent": 5,
+   "taxable": 3168.0,
+   "cgst": 79.2,
+   "sgst": 79.2,
+   "amount": 3168.0,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER POWDER 500 G",
+   "hsn": "09092200",
+   "quantity": 43,
+   "unit": "Pkt",
+   "rate": 104,
+   "tax_percent": 5,
+   "taxable": 4472.0,
+   "cgst": 111.8,
+   "sgst": 111.8,
+   "amount": 4472.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 7640.0,
+  "cgst": 191.0,
+  "sgst": 191.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 8022.0
+ },
+ "amount_in_words": "Eight Thousand Twenty Two INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-682"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 6.524,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-682",
+    "box": [
+     1169.486,
+     7.0,
+     1465.486,
+     131.0
+    ],
+    "angle": 4.97,
+    "size": 67.949,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -26.533,
+   "center": [
+    611.472,
+    905.694
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.623,
+   "print_lum": 68.0,
+   "row_px_estimate": 37.914,
+   "faint": false,
+   "size_mm": [
+    70.347,
+    104.57
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Anu",
+    "name": "Anu",
+    "date": "25/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.051,
+   "title_on_print": 0.128,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.935
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    765.544,
+    46.321,
+    909.064,
+    103.729
+   ],
+   "width": 143.52,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.478,
+    157.938,
+    182.2
+   ],
+   "grain": 0.017,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.008,
+    "bow": 0.132,
+    "lift": 0.281
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.111,
+   "gradient_angle": 269.554,
+   "vignette": 0.08,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.237,
+    "strength": 0.089
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.978
+   ],
+   "white": 198.444,
+   "black": 30.642,
+   "gamma": 0.976,
+   "glare": null
+  },
+  "text_row_px": 39.071,
+  "text_px": 13.525,
+  "photo_px_per_mm": 4.902,
+  "camera": {
+   "blur_sigma": 0.756,
+   "blur_cap": 1.198,
+   "defocus": {
+    "sigma_far": 1.198,
+    "angle": 348.515
+   },
+   "motion": null,
+   "noise_sd": 3.869,
+   "sharpen_radius": 1.36,
+   "sharpen_percent": 80
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 82,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.93,
+   "skew_deg": -2.373,
+   "perspective": {
+    "amount": 0.014,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     15.0,
+     1220.02
+    ],
+    [
+     57.898,
+     24.249
+    ],
+    [
+     960.129,
+     69.285
+    ],
+    [
+     897.445,
+     1256.902
+    ]
+   ]
+  }
+ }
+}

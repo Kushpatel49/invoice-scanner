@@ -60,3 +60,62 @@ class Candidates(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+import shutil
+
+from PIL import Image
+
+from invoice_scanner.gstin import find_supplier_gstin
+
+SUPPLIER, OTHER = "32AGVPR6347Q2ZA", "32BZNPV6872Q1Z5"
+
+
+class FakeLLM:
+    def __init__(self, reply=""):
+        self.reply, self.calls = reply, 0
+
+    def chat(self, *a, **k):
+        self.calls += 1
+        return self.reply
+
+
+@unittest.skipUnless(shutil.which("tesseract"), "tesseract not installed")
+class SupplierGstin(unittest.TestCase):
+    img = Image.new("RGB", (400, 600), "white")
+
+    def test_ocr_and_model_agree(self):
+        llm = FakeLLM()
+        self.assertEqual(find_supplier_gstin(self.img, SUPPLIER, [], f"GSTIN : {SUPPLIER}", llm),
+                         (SUPPLIER, "ocr+model", None))
+        self.assertEqual(llm.calls, 0)
+
+    def test_two_model_reads_agree(self):
+        self.assertEqual(find_supplier_gstin(self.img, SUPPLIER, [SUPPLIER], "", FakeLLM())[:2], (SUPPLIER, "model x2"))
+
+    def test_our_own_gstin_is_never_the_supplier(self):
+        g, src, _ = find_supplier_gstin(self.img, "32AAHCG9621M1ZC", ["32AAHCG9621M1ZC"], "32AAHCG9621M1ZC", FakeLLM())
+        self.assertIsNone(g)
+
+    def test_two_different_gstins_on_the_photo(self):
+        g, src, issue = find_supplier_gstin(self.img, None, [], f"{OTHER} ... {SUPPLIER}", FakeLLM())
+        self.assertIn("several GSTINs", issue)
+
+    def test_single_model_read_is_not_trusted(self):
+        llm = FakeLLM("")
+        g, src, issue = find_supplier_gstin(self.img, SUPPLIER, [], "", llm)
+        self.assertEqual((g, src), (SUPPLIER, "unverified"))
+        self.assertIn("not confirmed", issue)
+        self.assertEqual(llm.calls, 2)   # tried both corner crops first
+
+    def test_seven_read_for_z(self):
+        self.assertEqual(repair_gstin("32AAHCG9621M17C"), "32AAHCG9621M1ZC")
+
+
+@unittest.skipUnless(shutil.which("tesseract"), "tesseract not installed")
+class UnderlayGstin(unittest.TestCase):
+    def test_misread_second_gstin_still_counts_as_ambiguous(self):
+        img = Image.new("RGB", (400, 600), "white")
+        underlay, misread_supplier = "32CMEPV3338A1ZD", "32DODFM0318M1ZP"   # O read as D: fails checksum
+        g, src, issue = find_supplier_gstin(img, underlay, [underlay, misread_supplier], underlay, FakeLLM())
+        self.assertIn("several GSTINs", issue)

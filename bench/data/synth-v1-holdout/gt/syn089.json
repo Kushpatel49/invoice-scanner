@@ -1,0 +1,344 @@
+{
+ "id": "syn089",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "P36/55, M.G. Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "7952679929",
+  "gstin": "32GGYPG3950I1ZY",
+  "fssai": "15129306720799",
+  "email": "milky@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "M/s Aeden Fresh Kakkanad"
+ },
+ "invoice_number": "26-27/1064",
+ "invoice_number_printed": "26-27/8224",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30-Aug-26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 48,
+   "unit": "Nos",
+   "rate": 328,
+   "tax_percent": 12,
+   "taxable": 15744.0,
+   "cgst": 944.64,
+   "sgst": 944.64,
+   "amount": 17633.28,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 29,
+   "unit": "L",
+   "rate": 77,
+   "tax_percent": 0,
+   "taxable": 2233.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2233.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 51,
+   "unit": "ML",
+   "rate": 25.0,
+   "tax_percent": 0,
+   "taxable": 1275.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1275.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 16,
+   "unit": "Nos",
+   "rate": 57,
+   "tax_percent": 12,
+   "taxable": 912.0,
+   "cgst": 54.72,
+   "sgst": 54.72,
+   "amount": 1021.44,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 15,
+   "unit": "400g",
+   "rate": 45,
+   "tax_percent": 5,
+   "taxable": 675.0,
+   "cgst": 16.88,
+   "sgst": 16.88,
+   "amount": 708.76,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 30,
+   "unit": "Nos",
+   "rate": 10,
+   "tax_percent": 5,
+   "taxable": 300.0,
+   "cgst": 7.5,
+   "sgst": 7.5,
+   "amount": 315.0,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 80,
+   "unit": "L",
+   "rate": 68,
+   "tax_percent": 0,
+   "taxable": 5440.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5440.0,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 18,
+   "unit": "Nos",
+   "rate": 83.93,
+   "tax_percent": 5,
+   "taxable": 1510.74,
+   "cgst": 37.77,
+   "sgst": 37.77,
+   "amount": 1586.28,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 28089.74,
+  "cgst": 1061.51,
+  "sgst": 1061.51,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 30212.76
+ },
+ "amount_in_words": "Thirty Thousand Two Hundred Twelve Rupees and Seventy Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "26-27/8224",
+   "new": "26-27/1064"
+  },
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.513,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": {
+   "printed": "26-27/8224",
+   "new": "26-27/1064",
+   "where": "above",
+   "box": [
+    1386,
+    407,
+    1553,
+    441
+   ],
+   "ink": [
+    25,
+    45,
+    150
+   ],
+   "double_strike": false,
+   "font": "Kalam-Bold.ttf",
+   "size": 33.81,
+   "pen_on_print": 0.0
+  },
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -5.682,
+   "center": [
+    347.154,
+    1157.911
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.48,
+   "print_lum": 18.0,
+   "row_px_estimate": 26.69,
+   "faint": false,
+   "size_mm": [
+    73.324,
+    108.994
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Vishnu",
+    "name": "Vishnu",
+    "date": "31/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.221,
+   "title_on_print": 0.547,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    2,
+    4,
+    5,
+    7
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    249.003,
+    250.194,
+    247.527
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.005,
+    "bow": -0.612,
+    "lift": 0.353
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "keyboard": {
+    "side": "right",
+    "depth": 0.236
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.098,
+   "gradient_angle": 315.68,
+   "vignette": 0.142,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.412,
+    "strength": 0.165
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.997,
+    1.0,
+    1.029
+   ],
+   "white": 199.569,
+   "black": 46.721,
+   "gamma": 0.915,
+   "glare": null
+  },
+  "text_row_px": 26.753,
+  "text_px": 11.384,
+  "photo_px_per_mm": 4.277,
+  "camera": {
+   "blur_sigma": 0.585,
+   "blur_cap": 0.955,
+   "defocus": {
+    "sigma_far": 0.936,
+    "angle": 62.415
+   },
+   "motion": null,
+   "noise_sd": 3.314,
+   "sharpen_radius": 1.122,
+   "sharpen_percent": 85
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 74,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.002,
+   "skew_deg": -0.465,
+   "perspective": {
+    "amount": 0.021,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     37.332,
+     -1.798
+    ],
+    [
+     928.717,
+     9.498
+    ],
+    [
+     926.248,
+     1292.092
+    ],
+    [
+     21.906,
+     1278.879
+    ]
+   ]
+  }
+ }
+}

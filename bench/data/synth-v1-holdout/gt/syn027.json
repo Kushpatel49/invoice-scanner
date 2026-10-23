@@ -1,0 +1,273 @@
+{
+ "id": "syn027",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "KUTTANAD FRESH CUTS",
+  "address_lines": [
+   "P50/14, Industrial Estate",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "9381827404",
+  "gstin": null,
+  "fssai": "18660089546320",
+  "email": "kuttanad@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "3647",
+ "invoice_number_printed": "3647",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BEANS CUT",
+   "hsn": "0709",
+   "quantity": 11,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 440.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 440.0,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT GRATED",
+   "hsn": "0801",
+   "quantity": 1,
+   "unit": "Pkt",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 57.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 57.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 497.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 497.0
+ },
+ "amount_in_words": "INR Four Hundred and Ninety Seven Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 681"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.348,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 681",
+    "box": [
+     726.912,
+     0.0,
+     1034.912,
+     128.0
+    ],
+    "angle": 6.505,
+    "size": 63.119,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -16.751,
+   "center": [
+    406.096,
+    756.448
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.82,
+   "print_lum": 31.0,
+   "row_px_estimate": 47.21,
+   "faint": false,
+   "size_mm": [
+    69.299,
+    103.012
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "name": "Neethu",
+    "date": "31/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.101,
+   "title_on_print": 0.258,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    887.648,
+    1473.806,
+    1058.668,
+    1542.214
+   ],
+   "width": 171.02,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.139,
+    252.329,
+    244.496
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.644,
+     "tilt": 0.025,
+     "depth": 0.065,
+     "width_mm": 1.209,
+     "panel_step": 0.014
+    },
+    {
+     "horizontal": false,
+     "pos": 0.631,
+     "tilt": -0.003,
+     "depth": 0.129,
+     "width_mm": 0.76,
+     "panel_step": 0.048
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.013,
+    "bow": -0.285,
+    "lift": 0.588
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.21,
+   "gradient_angle": 113.265,
+   "vignette": 0.12,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.451,
+    "strength": 0.351
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.018,
+    1.0,
+    0.968
+   ],
+   "white": 184.323,
+   "black": 49.028,
+   "gamma": 0.905,
+   "glare": null
+  },
+  "text_row_px": 42.877,
+  "text_px": 28.354,
+  "photo_px_per_mm": 5.081,
+  "camera": {
+   "blur_sigma": 0.996,
+   "blur_cap": 1.242,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.619,
+   "sharpen_radius": 1.032,
+   "sharpen_percent": 66
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 65,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.908,
+   "skew_deg": -3.045,
+   "perspective": {
+    "amount": 0.038,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     164.273,
+     65.15
+    ],
+    [
+     945.235,
+     90.361
+    ],
+    [
+     882.442,
+     1267.826
+    ],
+    [
+     102.847,
+     1207.452
+    ]
+   ]
+  }
+ }
+}

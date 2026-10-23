@@ -1,0 +1,244 @@
+{
+ "id": "syn094",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "KAIRALI AGRO TRADERS",
+  "address_lines": [
+   "Door No. 42/560-C, Temple Road",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "7787163085",
+  "gstin": "32UPKFA7051N1ZW",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "2953",
+ "invoice_number_printed": "2953",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 60,
+   "unit": "UNT",
+   "rate": 17.0,
+   "tax_percent": 0,
+   "taxable": 1020.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1020.0,
+   "mrp": null
+  },
+  {
+   "description": "CUCUMBER SALAD",
+   "hsn": "0707",
+   "quantity": 16,
+   "unit": "KGS",
+   "rate": 48.0,
+   "tax_percent": 0,
+   "taxable": 768.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 768.0,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 21.4,
+   "unit": "KGS",
+   "rate": 43.0,
+   "tax_percent": 0,
+   "taxable": 920.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 920.2,
+   "mrp": null
+  },
+  {
+   "description": "TOMATO HYBRID",
+   "hsn": "0702",
+   "quantity": 5.1,
+   "unit": "KGS",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 234.6,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 234.6,
+   "mrp": null
+  },
+  {
+   "description": "POTATO",
+   "hsn": "0701",
+   "quantity": 18,
+   "unit": "KGS",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 756.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 756.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 3698.8,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.2,
+  "grand_total": 3699.0
+ },
+ "amount_in_words": "Rupees Three Thousand Six Hundred and Ninety Nine Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 0,
+   "printed": 62,
+   "new": 60
+  }
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 6.59,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    248.424,
+    241.612,
+    223.527
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.009,
+    "bow": -0.377,
+    "lift": 0.873
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.155,
+   "gradient_angle": 231.955,
+   "vignette": 0.142,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.275,
+    "strength": 0.223
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.978
+   ],
+   "white": 189.659,
+   "black": 52.257,
+   "gamma": 0.934,
+   "glare": null
+  },
+  "text_row_px": 42.118,
+  "text_px": 30.198,
+  "photo_px_per_mm": 5.237,
+  "camera": {
+   "blur_sigma": 1.087,
+   "blur_cap": 1.28,
+   "defocus": {
+    "sigma_far": 1.28,
+    "angle": 37.219
+   },
+   "motion": null,
+   "noise_sd": 4.676,
+   "sharpen_radius": 1.017,
+   "sharpen_percent": 64
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 65,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.982,
+   "skew_deg": 1.721,
+   "perspective": {
+    "amount": 0.043,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     50.007,
+     958.699
+    ],
+    [
+     8.905,
+     62.216
+    ],
+    [
+     1263.754,
+     34.179
+    ],
+    [
+     1305.328,
+     877.828
+    ]
+   ]
+  }
+ }
+}

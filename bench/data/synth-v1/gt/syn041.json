@@ -1,0 +1,332 @@
+{
+ "id": "syn041",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "GREEN LEAF",
+  "address_lines": [
+   "38/466, M.G. Road",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "9362397800",
+  "gstin": "32YPPPY6105F1Z2",
+  "fssai": "17623134735065",
+  "email": "green@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "2116",
+ "invoice_number_printed": "2116",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BAJI CHILLY",
+   "hsn": "0709",
+   "quantity": 38,
+   "unit": "KGS",
+   "rate": 71.0,
+   "tax_percent": 0,
+   "taxable": 2698.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2698.0,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER LEAVES",
+   "hsn": "0709",
+   "quantity": 19,
+   "unit": "KGS",
+   "rate": 60.0,
+   "tax_percent": 0,
+   "taxable": 1140.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1140.0,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 86,
+   "unit": "UNT",
+   "rate": 15.0,
+   "tax_percent": 0,
+   "taxable": 1290.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1290.0,
+   "mrp": null
+  },
+  {
+   "description": "CABBAGE",
+   "hsn": "0704",
+   "quantity": 8,
+   "unit": "KGS",
+   "rate": 34.0,
+   "tax_percent": 0,
+   "taxable": 272.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 272.0,
+   "mrp": null
+  },
+  {
+   "description": "PUMPKIN",
+   "hsn": "0709",
+   "quantity": 39,
+   "unit": "KGS",
+   "rate": 30.0,
+   "tax_percent": 0,
+   "taxable": 1170.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1170.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA",
+   "hsn": "0709",
+   "quantity": 40,
+   "unit": "KGS",
+   "rate": 72.0,
+   "tax_percent": 0,
+   "taxable": 2880.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2880.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 9450.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 9450.0
+ },
+ "amount_in_words": "Nine Thousand Four Hundred and Fifty Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 616",
+  "GRN done"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 6.522,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 616",
+    "box": [
+     520.686,
+     0.5,
+     630.686,
+     80.5
+    ],
+    "angle": -0.845,
+    "size": 29.349,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   },
+   {
+    "text": "GRN done",
+    "box": [
+     520.686,
+     0.5,
+     630.686,
+     80.5
+    ],
+    "angle": -0.845,
+    "size": 29.349,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 15.991,
+   "center": [
+    330.387,
+    1222.289
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.841,
+   "print_lum": 31.0,
+   "row_px_estimate": 47.153,
+   "faint": false,
+   "size_mm": [
+    72.499,
+    107.768
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Akhil",
+    "date": "29/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.089,
+   "title_on_print": 0.222,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.898
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    2,
+    3,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    677.489,
+    140.304,
+    813.97,
+    194.897
+   ],
+   "width": 136.481,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.826,
+    251.711,
+    247.982
+   ],
+   "grain": 0.008,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.003,
+    "bow": 0.838,
+    "lift": 0.334
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.045,
+   "gradient_angle": 181.531,
+   "vignette": 0.093,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.006,
+    1.0,
+    0.957
+   ],
+   "white": 221.471,
+   "black": 37.443,
+   "gamma": 0.996,
+   "glare": null
+  },
+  "text_row_px": 44.553,
+  "text_px": 26.732,
+  "photo_px_per_mm": 5.283,
+  "camera": {
+   "blur_sigma": 0.434,
+   "blur_cap": 1.291,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.251,
+   "sharpen_radius": 1.338,
+   "sharpen_percent": 60
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 79,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.945,
+   "skew_deg": 1.232,
+   "perspective": {
+    "amount": 0.01,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     58.389,
+     35.561
+    ],
+    [
+     889.718,
+     16.012
+    ],
+    [
+     922.037,
+     1235.174
+    ],
+    [
+     83.071,
+     1245.437
+    ]
+   ]
+  }
+ }
+}

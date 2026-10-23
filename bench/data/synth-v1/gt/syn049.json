@@ -1,0 +1,389 @@
+{
+ "id": "syn049",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "KAIRALI AGRO TRADERS",
+  "address_lines": [
+   "59/689, Seaport-Airport Road",
+   "Kochi, Kerala - 682016"
+  ],
+  "phone": "9652868529",
+  "gstin": null,
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh KKD"
+ },
+ "invoice_number": "4565",
+ "invoice_number_printed": "4565",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 10.937,
+   "unit": "KGS",
+   "rate": 92.0,
+   "tax_percent": 0,
+   "taxable": 1006.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1006.2,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 8,
+   "unit": "KGS",
+   "rate": 131.0,
+   "tax_percent": 0,
+   "taxable": 1048.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1048.0,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 56,
+   "unit": "UNT",
+   "rate": 18.0,
+   "tax_percent": 0,
+   "taxable": 1008.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1008.0,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 26.34,
+   "unit": "KGS",
+   "rate": 43.0,
+   "tax_percent": 0,
+   "taxable": 1132.62,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1132.62,
+   "mrp": null
+  },
+  {
+   "description": "CARROT OOTY",
+   "hsn": "0706",
+   "quantity": 8,
+   "unit": "KGS",
+   "rate": 67.0,
+   "tax_percent": 0,
+   "taxable": 536.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 536.0,
+   "mrp": null
+  },
+  {
+   "description": "CABBAGE",
+   "hsn": "0704",
+   "quantity": 35,
+   "unit": "KGS",
+   "rate": 30.0,
+   "tax_percent": 0,
+   "taxable": 1050.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1050.0,
+   "mrp": null
+  },
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 26.63,
+   "unit": "KGS",
+   "rate": 42.5,
+   "tax_percent": 0,
+   "taxable": 1131.78,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1131.78,
+   "mrp": null
+  },
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 40,
+   "unit": "KGS",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 1600.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1600.0,
+   "mrp": null
+  },
+  {
+   "description": "GARLIC (INDIAN)",
+   "hsn": "0703",
+   "quantity": 6.972,
+   "unit": "KGS",
+   "rate": 125.0,
+   "tax_percent": 0,
+   "taxable": 871.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 871.5,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 15.1,
+   "unit": "KGS",
+   "rate": 146.0,
+   "tax_percent": 0,
+   "taxable": 2204.6,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2204.6,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 10,
+ "totals": {
+  "subtotal": 11588.7,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.3,
+  "grand_total": 11589.0
+ },
+ "amount_in_words": "Eleven Thousand Five Hundred and Eighty Nine INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 3,
+   "printed": 27.341,
+   "new": 26.34
+  }
+ },
+ "notes": [
+  "Bill - 636"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 6.572,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 636",
+    "box": [
+     663.952,
+     0.0,
+     995.952,
+     120.0
+    ],
+    "angle": 4.364,
+    "size": 66.745,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -29.738,
+   "center": [
+    441.937,
+    1101.036
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.698,
+   "print_lum": 65.0,
+   "row_px_estimate": 44.767,
+   "faint": false,
+   "size_mm": [
+    73.036,
+    108.568
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Jithin",
+    "name": "Jithin",
+    "date": "24/08/26"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "free",
+   "over_table": true,
+   "on_numbers": 0.355,
+   "title_on_print": 0.874,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.025,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    4,
+    6,
+    8,
+    9
+   ]
+  },
+  "signature": {
+   "box": [
+    434.433,
+    1332.17,
+    585.629,
+    1392.648
+   ],
+   "width": 151.195,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.487,
+    249.055,
+    245.521
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.31,
+     "tilt": 0.04,
+     "depth": 0.109,
+     "width_mm": 1.232,
+     "panel_step": 0.049
+    },
+    {
+     "horizontal": false,
+     "pos": 0.657,
+     "tilt": -0.023,
+     "depth": 0.074,
+     "width_mm": 1.273,
+     "panel_step": 0.04
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.012,
+    "bow": 0.926,
+    "lift": 0.062
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.112,
+   "gradient_angle": 126.502,
+   "vignette": 0.1,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.243,
+    "strength": 0.196
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.988,
+    1.0,
+    1.027
+   ],
+   "white": 203.23,
+   "black": 49.636,
+   "gamma": 1.0,
+   "glare": null
+  },
+  "text_row_px": 41.909,
+  "text_px": 27.939,
+  "photo_px_per_mm": 5.1,
+  "camera": {
+   "blur_sigma": 1.093,
+   "blur_cap": 1.247,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.3,
+   "sharpen_radius": 0.934,
+   "sharpen_percent": 60
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 68,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.936,
+   "skew_deg": -1.683,
+   "perspective": {
+    "amount": 0.04,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     1260.15,
+     81.266
+    ],
+    [
+     1205.865,
+     894.575
+    ],
+    [
+     43.579,
+     839.688
+    ],
+    [
+     37.066,
+     28.089
+    ]
+   ]
+  }
+ }
+}

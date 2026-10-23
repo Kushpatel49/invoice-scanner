@@ -1,0 +1,312 @@
+{
+ "id": "syn041",
+ "template": "tally",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "MALABAR FRESH FARMS PVT LTD",
+  "address_lines": [
+   "XIII/212, Near Panchayath Office",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "7823506094",
+  "gstin": "32QZOCL5799S1ZE",
+  "fssai": "12889461852572",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "CFC/B2B/393",
+ "invoice_number_printed": "CFC/B2B/393",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25-08-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 20.29,
+   "unit": "KGS",
+   "rate": 32.26,
+   "tax_percent": 0,
+   "taxable": 654.56,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 654.56,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 33,
+   "unit": "KGS",
+   "rate": 53.39,
+   "tax_percent": 0,
+   "taxable": 1761.87,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1761.87,
+   "mrp": null
+  },
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 28.98,
+   "unit": "KGS",
+   "rate": 55,
+   "tax_percent": 0,
+   "taxable": 1593.9,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1593.9,
+   "mrp": null
+  },
+  {
+   "description": "GARLIC (INDIAN)",
+   "hsn": "0703",
+   "quantity": 11,
+   "unit": "KGS",
+   "rate": 258.02,
+   "tax_percent": 0,
+   "taxable": 2838.22,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2838.22,
+   "mrp": null
+  },
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 27.1,
+   "unit": "KGS",
+   "rate": 59.07,
+   "tax_percent": 0,
+   "taxable": 1600.8,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1600.8,
+   "mrp": null
+  },
+  {
+   "description": "CABBAGE",
+   "hsn": "0704",
+   "quantity": 19.78,
+   "unit": "KGS",
+   "rate": 23,
+   "tax_percent": 0,
+   "taxable": 454.94,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 454.94,
+   "mrp": null
+  },
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 15.503,
+   "unit": "KGS",
+   "rate": 30.21,
+   "tax_percent": 0,
+   "taxable": 468.35,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 468.35,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 9372.64,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 9372.64
+ },
+ "amount_in_words": "INR Nine Thousand Three Hundred Seventy Two and Sixty Four Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 662"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.843,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 662",
+    "box": [
+     124.334,
+     12.0,
+     384.334,
+     136.0
+    ],
+    "angle": -3.381,
+    "size": 76.961,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 23.855,
+   "center": [
+    625.605,
+    1646.547
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.308,
+   "print_lum": 48.0,
+   "row_px_estimate": 11.424,
+   "faint": true,
+   "size_mm": [
+    76.413,
+    113.587
+   ],
+   "fills": {
+    "store_name": "TPR",
+    "received": "Akhil",
+    "name": "Akhil",
+    "date": "25/08/26"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    249.659,
+    248.866,
+    245.457
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.003,
+    "bow": 0.097,
+    "lift": 0.698
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    176,
+    178,
+    182
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.046,
+   "gradient_angle": 134.95,
+   "vignette": 0.041,
+   "shadow": {
+    "kind": "phone",
+    "side": "right",
+    "depth": 0.471,
+    "strength": 0.088
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.001,
+    1.0,
+    0.94
+   ],
+   "white": 234.354,
+   "black": 30.08,
+   "gamma": 0.94,
+   "glare": null
+  },
+  "text_row_px": 11.019,
+  "text_px": 11.019,
+  "photo_px_per_mm": 4.116,
+  "camera": {
+   "blur_sigma": 0.394,
+   "blur_cap": 0.394,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.125,
+   "sharpen_radius": 1.408,
+   "sharpen_percent": 38
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 80,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.965,
+   "skew_deg": -0.714,
+   "perspective": {
+    "amount": 0.01,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     1249.132,
+     51.94
+    ],
+    [
+     1239.533,
+     928.2
+    ],
+    [
+     7.578,
+     915.698
+    ],
+    [
+     18.615,
+     39.306
+    ]
+   ]
+  }
+ }
+}

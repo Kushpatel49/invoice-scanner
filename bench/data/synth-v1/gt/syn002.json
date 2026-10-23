@@ -1,0 +1,212 @@
+{
+ "id": "syn002",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "SREE MURUGAN VEGETABLES",
+  "address_lines": [
+   "P35/51, Near Panchayath Office",
+   "Chalakudy, Kerala - 680307"
+  ],
+  "phone": "7726439728",
+  "gstin": null,
+  "fssai": "16993142936149",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "1310",
+ "invoice_number_printed": "1310",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "POTATO",
+   "hsn": "0701",
+   "quantity": 10.3,
+   "unit": "KGS",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 453.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 453.2,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 18,
+   "unit": "KGS",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 882.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 882.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 1335.2,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 1335.2
+ },
+ "amount_in_words": "INR ONE THOUSAND THREE HUNDRED THIRTY FIVE AND TWENTY PAISE ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 649"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.376,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 649",
+    "box": [
+     822.832,
+     0.0,
+     1118.832,
+     118.0
+    ],
+    "angle": 2.481,
+    "size": 76.0,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    0
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    248.123,
+    252.949,
+    246.551
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": 0.054,
+    "lift": 0.191
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.032,
+   "gradient_angle": 313.946,
+   "vignette": 0.068,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.45,
+    "strength": 0.1
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.017,
+    1.0,
+    0.971
+   ],
+   "white": 226.528,
+   "black": 20.417,
+   "gamma": 1.14,
+   "glare": null
+  },
+  "text_row_px": 46.969,
+  "text_px": 30.567,
+  "photo_px_per_mm": 5.499,
+  "camera": {
+   "blur_sigma": 0.381,
+   "blur_cap": 1.344,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.507,
+   "sharpen_radius": 1.2,
+   "sharpen_percent": 89
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 84,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.971,
+   "skew_deg": 0.881,
+   "perspective": {
+    "amount": 0.004,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     1247.401,
+     16.419
+    ],
+    [
+     1259.414,
+     904.547
+    ],
+    [
+     20.54,
+     924.66
+    ],
+    [
+     7.228,
+     36.544
+    ]
+   ]
+  }
+ }
+}

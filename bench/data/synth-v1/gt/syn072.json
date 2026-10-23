@@ -1,0 +1,330 @@
+{
+ "id": "syn072",
+ "template": "tally",
+ "supplier_kind": "exotic",
+ "supplier": {
+  "name": "NUTRI LEAVES",
+  "address_lines": [
+   "P10/60, Market Road",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "9711523962",
+  "gstin": "32CSOFM4066T1ZF",
+  "fssai": null,
+  "email": "nutrifresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "EKM/2026/4101",
+ "invoice_number_printed": "EKM/2026/4101",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27.08.2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "RED RADISH",
+   "hsn": "0706",
+   "quantity": 21.0,
+   "unit": "Kilogram",
+   "rate": 66,
+   "tax_percent": 0,
+   "taxable": 1386.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1386.0,
+   "mrp": null
+  },
+  {
+   "description": "KALE",
+   "hsn": "0704",
+   "quantity": 10,
+   "unit": "PACK",
+   "rate": 16,
+   "tax_percent": 0,
+   "taxable": 160.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 160.0,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM RED",
+   "hsn": "0709",
+   "quantity": 11.7,
+   "unit": "Kilogram",
+   "rate": 173,
+   "tax_percent": 0,
+   "taxable": 2024.1,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2024.1,
+   "mrp": null
+  },
+  {
+   "description": "RED CABBAGE",
+   "hsn": "0704",
+   "quantity": 19,
+   "unit": "Kilogram",
+   "rate": 74.25,
+   "tax_percent": 0,
+   "taxable": 1410.75,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1410.75,
+   "mrp": null
+  },
+  {
+   "description": "BASIL LEAVES",
+   "hsn": "0709",
+   "quantity": 12,
+   "unit": "PACK",
+   "rate": 30,
+   "tax_percent": 0,
+   "taxable": 360.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 360.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 29.41,
+   "unit": "Kilogram",
+   "rate": 123.81,
+   "tax_percent": 0,
+   "taxable": 3641.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3641.25,
+   "mrp": null
+  },
+  {
+   "description": "LEEKS",
+   "hsn": "0703",
+   "quantity": 23.351,
+   "unit": "Kilogram",
+   "rate": 188,
+   "tax_percent": 0,
+   "taxable": 4389.99,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4389.99,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 13372.09,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.09,
+  "grand_total": 13372.0
+ },
+ "amount_in_words": "RUPEES THIRTEEN THOUSAND THREE HUNDRED AND SEVENTY TWO ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 609"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.673,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 609",
+    "box": [
+     374.597,
+     32.642,
+     612.597,
+     132.642
+    ],
+    "angle": -2.361,
+    "size": 64.678,
+    "font": "Caveat.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 39.03,
+   "center": [
+    505.198,
+    1585.028
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.846,
+   "print_lum": 30.0,
+   "row_px_estimate": 11.677,
+   "faint": false,
+   "size_mm": [
+    69.247,
+    102.934
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Vishnu",
+    "date": "27.08.2026",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.001,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    6
+   ]
+  },
+  "signature": {
+   "box": [
+    1350.284,
+    1833.981,
+    1536.212,
+    1908.352
+   ],
+   "width": 185.929,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.16,
+    250.239,
+    244.982
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.004,
+    "bow": 0.945,
+    "lift": 0.009
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "wood",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.148,
+   "gradient_angle": 48.899,
+   "vignette": 0.07,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.312,
+    "strength": 0.099
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.014,
+    1.0,
+    0.936
+   ],
+   "white": 220.778,
+   "black": 43.358,
+   "gamma": 0.931,
+   "glare": null
+  },
+  "text_row_px": 11.269,
+  "text_px": 12.878,
+  "photo_px_per_mm": 4.117,
+  "camera": {
+   "blur_sigma": 0.402,
+   "blur_cap": 0.402,
+   "defocus": {
+    "sigma_far": 0.402,
+    "angle": 222.394
+   },
+   "motion": null,
+   "noise_sd": 2.896,
+   "sharpen_radius": 1.569,
+   "sharpen_percent": 36
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.965,
+   "skew_deg": 2.243,
+   "perspective": {
+    "amount": 0.017,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     21.171,
+     47.063
+    ],
+    [
+     882.265,
+     13.204
+    ],
+    [
+     928.217,
+     1246.742
+    ],
+    [
+     72.304,
+     1276.626
+    ]
+   ]
+  }
+ }
+}

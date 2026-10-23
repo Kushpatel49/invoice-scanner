@@ -1,0 +1,569 @@
+{
+ "id": "syn089",
+ "template": "dotmatrix",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "GREEN LEAF",
+  "address_lines": [
+   "25/739, Temple Road",
+   "Kalamassery, Kerala - 683104"
+  ],
+  "phone": "9463741905",
+  "gstin": "32LGQPH9905V1Z3",
+  "fssai": null,
+  "email": "green@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "TI-79864",
+ "invoice_number_printed": "TI-79864",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24.08.2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "GARLIC (INDIAN)",
+   "hsn": "0703",
+   "quantity": 5,
+   "unit": "KGS",
+   "rate": 125,
+   "tax_percent": 0,
+   "taxable": 625.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 625.0,
+   "mrp": null
+  },
+  {
+   "description": "PUMPKIN",
+   "hsn": "0709",
+   "quantity": 15.79,
+   "unit": "KGS",
+   "rate": 18.5,
+   "tax_percent": 0,
+   "taxable": 292.12,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 292.12,
+   "mrp": null
+  },
+  {
+   "description": "BAJI CHILLY",
+   "hsn": "0709",
+   "quantity": 6,
+   "unit": "KGS",
+   "rate": 49.01,
+   "tax_percent": 0,
+   "taxable": 294.06,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 294.06,
+   "mrp": null
+  },
+  {
+   "description": "TOMATO HYBRID",
+   "hsn": "0702",
+   "quantity": 21.6,
+   "unit": "KGS",
+   "rate": 49.75,
+   "tax_percent": 0,
+   "taxable": 1074.6,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1074.6,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER LEAVES",
+   "hsn": "0709",
+   "quantity": 8,
+   "unit": "KGS",
+   "rate": 102.85,
+   "tax_percent": 0,
+   "taxable": 822.8,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 822.8,
+   "mrp": null
+  },
+  {
+   "description": "CURRY LEAVES",
+   "hsn": "0709",
+   "quantity": 2,
+   "unit": "KGS",
+   "rate": 72,
+   "tax_percent": 0,
+   "taxable": 144.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 144.0,
+   "mrp": null
+  },
+  {
+   "description": "BRINJAL GREEN LONG",
+   "hsn": "0709",
+   "quantity": 38,
+   "unit": "KGS",
+   "rate": 46,
+   "tax_percent": 0,
+   "taxable": 1748.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1748.0,
+   "mrp": null
+  },
+  {
+   "description": "POTATO",
+   "hsn": "0701",
+   "quantity": 15,
+   "unit": "KGS",
+   "rate": 37,
+   "tax_percent": 0,
+   "taxable": 555.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 555.0,
+   "mrp": null
+  },
+  {
+   "description": "CABBAGE",
+   "hsn": "0704",
+   "quantity": 16.829,
+   "unit": "KGS",
+   "rate": 22.5,
+   "tax_percent": 0,
+   "taxable": 378.65,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 378.65,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 32,
+   "unit": "KGS",
+   "rate": 90,
+   "tax_percent": 0,
+   "taxable": 2880.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2880.0,
+   "mrp": null
+  },
+  {
+   "description": "LADIES FINGER",
+   "hsn": "0709",
+   "quantity": 38,
+   "unit": "KGS",
+   "rate": 37,
+   "tax_percent": 0,
+   "taxable": 1406.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1406.0,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 22,
+   "unit": "KGS",
+   "rate": 59.5,
+   "tax_percent": 0,
+   "taxable": 1309.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1309.0,
+   "mrp": null
+  },
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 15.83,
+   "unit": "KGS",
+   "rate": 34.0,
+   "tax_percent": 0,
+   "taxable": 538.22,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 538.22,
+   "mrp": null
+  },
+  {
+   "description": "ASH GOURD",
+   "hsn": "0709",
+   "quantity": 2,
+   "unit": "KGS",
+   "rate": 31,
+   "tax_percent": 0,
+   "taxable": 62.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 62.0,
+   "mrp": null
+  },
+  {
+   "description": "BEETROOT OOTY",
+   "hsn": "0706",
+   "quantity": 11,
+   "unit": "KGS",
+   "rate": 52,
+   "tax_percent": 0,
+   "taxable": 572.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 572.0,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 28.619,
+   "unit": "KGS",
+   "rate": 174.5,
+   "tax_percent": 0,
+   "taxable": 4994.02,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4994.02,
+   "mrp": null
+  },
+  {
+   "description": "SWEET POTATO",
+   "hsn": "0714",
+   "quantity": 3,
+   "unit": "KGS",
+   "rate": 55,
+   "tax_percent": 0,
+   "taxable": 165.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 165.0,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM GREEN",
+   "hsn": "0709",
+   "quantity": 7.1,
+   "unit": "KGS",
+   "rate": 73.96,
+   "tax_percent": 0,
+   "taxable": 525.12,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 525.12,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT",
+   "hsn": "0801",
+   "quantity": 25,
+   "unit": "NOS",
+   "rate": 36,
+   "tax_percent": 0,
+   "taxable": 900.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 900.0,
+   "mrp": null
+  },
+  {
+   "description": "TAPIOCA",
+   "hsn": "0714",
+   "quantity": 6,
+   "unit": "KGS",
+   "rate": 29,
+   "tax_percent": 0,
+   "taxable": 174.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 174.0,
+   "mrp": null
+  },
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 26.92,
+   "unit": "KGS",
+   "rate": 58,
+   "tax_percent": 0,
+   "taxable": 1561.36,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1561.36,
+   "mrp": null
+  },
+  {
+   "description": "CARROT OOTY",
+   "hsn": "0706",
+   "quantity": 22.225,
+   "unit": "KGS",
+   "rate": 50,
+   "tax_percent": 0,
+   "taxable": 1111.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1111.25,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 17.3,
+   "unit": "KGS",
+   "rate": 47,
+   "tax_percent": 0,
+   "taxable": 813.1,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 813.1,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 28,
+   "unit": "KGS",
+   "rate": 41.77,
+   "tax_percent": 0,
+   "taxable": 1169.56,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1169.56,
+   "mrp": null
+  },
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 3.25,
+   "unit": "KGS",
+   "rate": 41,
+   "tax_percent": 0,
+   "taxable": 133.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 133.25,
+   "mrp": null
+  },
+  {
+   "description": "AMARANTHUS GREEN BUNCH",
+   "hsn": "0709",
+   "quantity": 8,
+   "unit": "UNT",
+   "rate": 13,
+   "tax_percent": 0,
+   "taxable": 104.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 104.0,
+   "mrp": null
+  },
+  {
+   "description": "BEANS BUSH",
+   "hsn": "0708",
+   "quantity": 35,
+   "unit": "KGS",
+   "rate": 98,
+   "tax_percent": 0,
+   "taxable": 3430.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3430.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 27,
+ "totals": {
+  "subtotal": 27782.11,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.11,
+  "grand_total": 27782.0
+ },
+ "amount_in_words": "Rupees Twenty Seven Thousand Seven Hundred and Eighty Two Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 697",
+  "not received"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.27,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 697",
+    "box": [
+     575.894,
+     7.5,
+     817.894,
+     154.5
+    ],
+    "angle": 0.346,
+    "size": 55.2,
+    "font": "Caveat.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   },
+   {
+    "text": "not received",
+    "box": [
+     575.894,
+     7.5,
+     817.894,
+     154.5
+    ],
+    "angle": 0.346,
+    "size": 55.2,
+    "font": "Caveat.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1455.192,
+    220.619,
+    1586.455,
+    273.125
+   ],
+   "width": 131.263,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.644,
+    250.647,
+    248.223
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.008,
+    "bow": 0.252,
+    "lift": 0.344
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.059,
+   "gradient_angle": 142.888,
+   "vignette": 0.054,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.368,
+    "strength": 0.088
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.98,
+    1.0,
+    1.026
+   ],
+   "white": 200.539,
+   "black": 42.535,
+   "gamma": 1.025,
+   "glare": {
+    "center": [
+     0.937,
+     0.592
+    ],
+    "radius": [
+     0.162,
+     0.161
+    ],
+    "strength": 0.182
+   }
+  },
+  "text_row_px": 13.325,
+  "text_px": 13.325,
+  "photo_px_per_mm": 3.46,
+  "camera": {
+   "blur_sigma": 0.476,
+   "blur_cap": 0.476,
+   "defocus": {
+    "sigma_far": 0.476,
+    "angle": 251.426
+   },
+   "motion": null,
+   "noise_sd": 3.211,
+   "sharpen_radius": 1.358,
+   "sharpen_percent": 47
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 71,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.983,
+   "skew_deg": 0.289,
+   "perspective": {
+    "amount": 0.028,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     11.965,
+     109.828
+    ],
+    [
+     954.46,
+     109.468
+    ],
+    [
+     953.535,
+     1141.539
+    ],
+    [
+     4.586,
+     1151.352
+    ]
+   ]
+  }
+ }
+}

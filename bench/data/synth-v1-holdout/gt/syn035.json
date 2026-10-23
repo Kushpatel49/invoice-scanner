@@ -1,0 +1,293 @@
+{
+ "id": "syn035",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "PERIYAR DAIRY PRODUCTS",
+  "address_lines": [
+   "33/375, Banerji Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "7180255686",
+  "gstin": "32ODOFM0318M1ZP",
+  "fssai": null,
+  "email": "periyar@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "EKM/2026/4242",
+ "invoice_number_printed": "EKM/2026/4242",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/08/26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 5,
+   "unit": "L",
+   "rate": 69,
+   "tax_percent": 0,
+   "taxable": 345.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 345.0,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 33,
+   "unit": "Nos",
+   "rate": 85,
+   "tax_percent": 5,
+   "taxable": 2805.0,
+   "cgst": 70.13,
+   "sgst": 70.13,
+   "amount": 2945.26,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 95,
+   "unit": "Nos",
+   "rate": 12,
+   "tax_percent": 5,
+   "taxable": 1140.0,
+   "cgst": 28.5,
+   "sgst": 28.5,
+   "amount": 1197.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 4290.0,
+  "cgst": 98.63,
+  "sgst": 98.63,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.26,
+  "grand_total": 4487.0
+ },
+ "amount_in_words": "Rupees Four Thousand Four Hundred Eighty Seven Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 628"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.467,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 628",
+    "box": [
+     913.136,
+     161.439,
+     1176.136,
+     258.439
+    ],
+    "angle": -0.247,
+    "size": 73.34,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": -2.226,
+   "center": [
+    702.567,
+    1609.765
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.787,
+   "print_lum": 41.0,
+   "row_px_estimate": 24.0,
+   "faint": false,
+   "size_mm": [
+    69.718,
+    103.635
+   ],
+   "fills": {
+    "store_name": "TPR",
+    "received": "Sanal",
+    "name": "Sanal",
+    "date": "1/09/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    995.464,
+    1896.17,
+    1186.724,
+    1972.673
+   ],
+   "width": 191.26,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.353,
+    251.716,
+    248.248
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.012,
+    "bow": -0.203,
+    "lift": -0.161
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "keyboard": {
+    "side": "top",
+    "depth": 0.309
+   },
+   "stack": 0
+  },
+  "underlay_gstin": "32CMEPV3338A1ZD",
+  "underlay": {
+   "gstin": "32CMEPV3338A1ZD",
+   "text": "GSTIN: 32CMEPV3338A1ZD",
+   "edge": "top",
+   "text_box_photo": [
+    [
+     42.528,
+     53.3
+    ],
+    [
+     241.786,
+     35.263
+    ],
+    [
+     243.068,
+     48.41
+    ],
+    [
+     43.902,
+     66.415
+    ]
+   ]
+  },
+  "lighting": {
+   "gradient": 0.212,
+   "gradient_angle": 225.329,
+   "vignette": 0.071,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.218,
+    "strength": 0.325
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.96
+   ],
+   "white": 205.838,
+   "black": 43.915,
+   "gamma": 0.988,
+   "glare": null
+  },
+  "text_row_px": 20.287,
+  "text_px": 8.211,
+  "photo_px_per_mm": 3.606,
+  "camera": {
+   "blur_sigma": 0.725,
+   "blur_cap": 0.725,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.453,
+   "sharpen_radius": 1.441,
+   "sharpen_percent": 71
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.913,
+   "skew_deg": 3.676,
+   "perspective": {
+    "amount": 0.034,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     49.484,
+     151.37
+    ],
+    [
+     809.834,
+     97.748
+    ],
+    [
+     874.007,
+     1201.672
+    ],
+    [
+     143.146,
+     1246.001
+    ]
+   ]
+  }
+ }
+}

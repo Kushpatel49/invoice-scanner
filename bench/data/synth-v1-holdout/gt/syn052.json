@@ -1,0 +1,320 @@
+{
+ "id": "syn052",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "SREE MURUGAN VEGETABLES",
+  "address_lines": [
+   "5/388, Banerji Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "7006435702",
+  "gstin": null,
+  "fssai": "14931789177373",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh KKD"
+ },
+ "invoice_number": "2492",
+ "invoice_number_printed": "2492",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "COCONUT",
+   "hsn": "0801",
+   "quantity": 60,
+   "unit": "NOS",
+   "rate": 27.0,
+   "tax_percent": 0,
+   "taxable": 1620.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1620.0,
+   "mrp": null
+  },
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 23.3,
+   "unit": "KGS",
+   "rate": 104.0,
+   "tax_percent": 0,
+   "taxable": 2423.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2423.2,
+   "mrp": null
+  },
+  {
+   "description": "SWEET POTATO",
+   "hsn": "0714",
+   "quantity": 12,
+   "unit": "KGS",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 708.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 708.0,
+   "mrp": null
+  },
+  {
+   "description": "CARROT OOTY",
+   "hsn": "0706",
+   "quantity": 19,
+   "unit": "KGS",
+   "rate": 56.0,
+   "tax_percent": 0,
+   "taxable": 1064.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1064.0,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER LEAVES",
+   "hsn": "0709",
+   "quantity": 23.79,
+   "unit": "KGS",
+   "rate": 117.0,
+   "tax_percent": 0,
+   "taxable": 2783.43,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2783.43,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 8598.63,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.37,
+  "grand_total": 8599.0
+ },
+ "amount_in_words": "Rupees Eight Thousand Five Hundred Ninety Nine Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 627"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 7.349,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 627",
+    "box": [
+     930.059,
+     0.0,
+     1183.059,
+     129.0
+    ],
+    "angle": 6.715,
+    "size": 67.2,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -20.246,
+   "center": [
+    455.102,
+    1451.491
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.748,
+   "print_lum": 50.0,
+   "row_px_estimate": 38.496,
+   "faint": false,
+   "size_mm": [
+    75.13,
+    111.68
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Prajesh",
+    "date": "24/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.184,
+   "title_on_print": 0.436,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.001,
+   "inside_page": 0.982
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    2,
+    3
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.364,
+    242.517,
+    219.484
+   ],
+   "grain": 0.008,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.684,
+     "tilt": 0.041,
+     "depth": 0.065,
+     "width_mm": 0.737,
+     "panel_step": 0.006
+    },
+    {
+     "horizontal": false,
+     "pos": 0.526,
+     "tilt": 0.02,
+     "depth": 0.041,
+     "width_mm": 0.568,
+     "panel_step": 0.05
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.009,
+    "bow": 0.604,
+    "lift": 0.665
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.194,
+   "gradient_angle": 7.269,
+   "vignette": 0.136,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.318,
+    "strength": 0.288
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.997,
+    1.0,
+    1.002
+   ],
+   "white": 180.552,
+   "black": 42.958,
+   "gamma": 1.029,
+   "glare": {
+    "center": [
+     0.811,
+     0.051
+    ],
+    "radius": [
+     0.157,
+     0.099
+    ],
+    "strength": 0.323
+   }
+  },
+  "text_row_px": 35.038,
+  "text_px": 23.776,
+  "photo_px_per_mm": 4.598,
+  "camera": {
+   "blur_sigma": 0.792,
+   "blur_cap": 1.124,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.328,
+   "sharpen_radius": 0.988,
+   "sharpen_percent": 72
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 65,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.91,
+   "skew_deg": -1.669,
+   "perspective": {
+    "amount": 0.035,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     21.884,
+     855.916
+    ],
+    [
+     78.841,
+     65.691
+    ],
+    [
+     1226.159,
+     113.548
+    ],
+    [
+     1201.702,
+     872.58
+    ]
+   ]
+  }
+ }
+}

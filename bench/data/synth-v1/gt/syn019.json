@@ -1,0 +1,314 @@
+{
+ "id": "syn019",
+ "template": "carbon",
+ "supplier_kind": "packaged",
+ "supplier": {
+  "name": "ALMOVA INTERNATIONAL",
+  "address_lines": [
+   "P40/35, Market Road",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "7253449880",
+  "gstin": "32IAPPE6744D1ZO",
+  "fssai": "19472250829057",
+  "email": "almova@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "ALM/B2B/976",
+ "invoice_number_printed": "ALM/B2B/976",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "LANGNESE BLACK FOREST HONEY 125GM",
+   "hsn": "17026090",
+   "quantity": 85,
+   "unit": "Pcs",
+   "rate": 328.25,
+   "tax_percent": 5,
+   "taxable": 27901.25,
+   "cgst": 697.53,
+   "sgst": 697.53,
+   "amount": 27901.25,
+   "mrp": null
+  },
+  {
+   "description": "ORGANIC JAGGERY POWDER 500G",
+   "hsn": "17011390",
+   "quantity": 25,
+   "unit": "Pcs",
+   "rate": 82.7,
+   "tax_percent": 5,
+   "taxable": 2067.5,
+   "cgst": 51.69,
+   "sgst": 51.69,
+   "amount": 2067.5,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE FOREST HONEY 500G",
+   "hsn": "17029030",
+   "quantity": 55,
+   "unit": "Pcs",
+   "rate": 1278,
+   "tax_percent": 5,
+   "taxable": 70290.0,
+   "cgst": 1757.25,
+   "sgst": 1757.25,
+   "amount": 70290.0,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE WHITE HONEY 500GM",
+   "hsn": "18069090",
+   "quantity": 52,
+   "unit": "Pcs",
+   "rate": 1302,
+   "tax_percent": 5,
+   "taxable": 67704.0,
+   "cgst": 1692.6,
+   "sgst": 1692.6,
+   "amount": 67704.0,
+   "mrp": null
+  },
+  {
+   "description": "ALMONDS CALIFORNIA 250 G",
+   "hsn": "08021200",
+   "quantity": 8,
+   "unit": "Pcs",
+   "rate": 249.5,
+   "tax_percent": 12,
+   "taxable": 1996.0,
+   "cgst": 119.76,
+   "sgst": 119.76,
+   "amount": 1996.0,
+   "mrp": null
+  },
+  {
+   "description": "DATES PREMIUM 500 G",
+   "hsn": "08041020",
+   "quantity": 6,
+   "unit": "Pcs",
+   "rate": 227,
+   "tax_percent": 12,
+   "taxable": 1362.0,
+   "cgst": 81.72,
+   "sgst": 81.72,
+   "amount": 1362.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 171320.75,
+  "cgst": 4400.55,
+  "sgst": 4400.55,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.15,
+  "grand_total": 180122.0
+ },
+ "amount_in_words": "ONE LAKH EIGHTY THOUSAND ONE HUNDRED AND TWENTY TWO INDIAN RUPEES ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 656"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "yellow",
+  "px_per_mm": 9.336,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 656",
+    "box": [
+     1169.479,
+     41.83,
+     1404.479,
+     173.83
+    ],
+    "angle": 4.734,
+    "size": 79.075,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": -9.77,
+   "center": [
+    721.805,
+    1873.711
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.48,
+   "print_lum": 58.0,
+   "row_px_estimate": 27.687,
+   "faint": false,
+   "size_mm": [
+    77.215,
+    114.779
+   ],
+   "fills": {
+    "store_name": "TPRA",
+    "received": "Neethu",
+    "date": "26/8/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.106,
+   "title_on_print": 0.27,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.985
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1384.529,
+    2166.782,
+    1628.865,
+    2264.516
+   ],
+   "width": 244.336,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.751,
+    238.395,
+    167.206
+   ],
+   "grain": 0.012,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.702,
+     "tilt": 0.039,
+     "depth": 0.094,
+     "width_mm": 0.859,
+     "panel_step": 0.028
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.01,
+    "bow": -0.142,
+    "lift": -0.277
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.132,
+   "gradient_angle": 113.252,
+   "vignette": 0.058,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.328,
+    "strength": 0.211
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.995,
+    1.0,
+    1.007
+   ],
+   "white": 206.082,
+   "black": 56.439,
+   "gamma": 1.053,
+   "glare": null
+  },
+  "text_row_px": 34.366,
+  "text_px": 9.819,
+  "photo_px_per_mm": 4.584,
+  "camera": {
+   "blur_sigma": 0.893,
+   "blur_cap": 0.893,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.551,
+   "sharpen_radius": 0.913,
+   "sharpen_percent": 88
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 62,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.922,
+   "skew_deg": -4.327,
+   "perspective": {
+    "amount": 0.033,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     15.779,
+     855.772
+    ],
+    [
+     79.874,
+     32.157
+    ],
+    [
+     1251.387,
+     125.058
+    ],
+    [
+     1178.568,
+     932.893
+    ]
+   ]
+  }
+ }
+}

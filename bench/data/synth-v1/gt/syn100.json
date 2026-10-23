@@ -1,0 +1,359 @@
+{
+ "id": "syn100",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "HYDRO HARVEST FARMS",
+  "address_lines": [
+   "33/687, Bypass Junction",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "9892631134",
+  "gstin": "32SXZFV1944P1ZG",
+  "fssai": "15861112765012",
+  "email": "hydrofresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Green Angadi Kakkanad"
+ },
+ "invoice_number": "9351",
+ "invoice_number_printed": "9351",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SUNFLOWER MICROGREENS",
+   "hsn": "0709",
+   "quantity": 75,
+   "unit": "Units",
+   "rate": 101.0,
+   "tax_percent": 0,
+   "taxable": 7575.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7575.0,
+   "mrp": null
+  },
+  {
+   "description": "CURLY GREEN",
+   "hsn": "0705",
+   "quantity": 56,
+   "unit": "Units",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 3080.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3080.0,
+   "mrp": null
+  },
+  {
+   "description": "BOK CHOY",
+   "hsn": "0704",
+   "quantity": 9,
+   "unit": "Units",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 414.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 414.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 45,
+   "unit": "Units",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 2205.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2205.0,
+   "mrp": null
+  },
+  {
+   "description": "PARSLEY",
+   "hsn": "0709",
+   "quantity": 80,
+   "unit": "Units",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 4160.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4160.0,
+   "mrp": null
+  },
+  {
+   "description": "BASIL",
+   "hsn": "0709",
+   "quantity": 28,
+   "unit": "Units",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 1372.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1372.0,
+   "mrp": null
+  },
+  {
+   "description": "MIXED MICROGREENS",
+   "hsn": "0709",
+   "quantity": 75,
+   "unit": "Units",
+   "rate": 102.0,
+   "tax_percent": 0,
+   "taxable": 7650.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7650.0,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE",
+   "hsn": "0705",
+   "quantity": 33,
+   "unit": "Units",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 1782.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1782.0,
+   "mrp": null
+  },
+  {
+   "description": "CHERRY TOMATO",
+   "hsn": "0702",
+   "quantity": 6,
+   "unit": "Units",
+   "rate": 59.5,
+   "tax_percent": 0,
+   "taxable": 357.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 357.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 28595.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 28595.0
+ },
+ "amount_in_words": "INR Twenty Eight Thousand Five Hundred Ninety Five Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 612",
+  "not received"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 6.635,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 612",
+    "box": [
+     684.496,
+     0.0,
+     914.496,
+     195.0
+    ],
+    "angle": -27.713,
+    "size": 36.8,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   },
+   {
+    "text": "not received",
+    "box": [
+     684.496,
+     0.0,
+     914.496,
+     195.0
+    ],
+    "angle": -27.713,
+    "size": 36.8,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 4.076,
+   "center": [
+    211.76,
+    1245.736
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.756,
+   "print_lum": 55.0,
+   "row_px_estimate": 45.566,
+   "faint": false,
+   "size_mm": [
+    68.695,
+    102.114
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Pradeesh",
+    "name": "Pradeesh",
+    "date": "31.08.2026",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.114,
+   "title_on_print": 0.28,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.903
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    252.812,
+    252.86,
+    249.636
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": 0.31,
+    "lift": 0.334
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "white table",
+   "keyboard": {
+    "side": "top",
+    "depth": 0.202
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.081,
+   "gradient_angle": 144.02,
+   "vignette": 0.114,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.222,
+    "strength": 0.083
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.986,
+    1.0,
+    1.009
+   ],
+   "white": 234.55,
+   "black": 34.995,
+   "gamma": 1.005,
+   "glare": null
+  },
+  "text_row_px": 42.563,
+  "text_px": 27.085,
+  "photo_px_per_mm": 5.134,
+  "camera": {
+   "blur_sigma": 0.381,
+   "blur_cap": 1.255,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.342,
+   "sharpen_radius": 0.867,
+   "sharpen_percent": 38
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 84,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.934,
+   "skew_deg": 1.4,
+   "perspective": {
+    "amount": 0.012,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     34.785,
+     46.303
+    ],
+    [
+     879.853,
+     26.453
+    ],
+    [
+     914.376,
+     1229.88
+    ],
+    [
+     67.191,
+     1245.052
+    ]
+   ]
+  }
+ }
+}

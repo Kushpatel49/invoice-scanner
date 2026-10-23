@@ -1,0 +1,260 @@
+{
+ "id": "syn006",
+ "template": "gst_modern",
+ "supplier_kind": "spices",
+ "supplier": {
+  "name": "MALABAR SPICES & MASALA",
+  "address_lines": [
+   "Door No. 34/59-C, Temple Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "8835388344",
+  "gstin": "32EBCFU5589I1ZO",
+  "fssai": null,
+  "email": "malabar@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "TI-73605",
+ "invoice_number_printed": "TI-73605",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-Aug-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "CORIANDER POWDER 500 G",
+   "hsn": "09092200",
+   "quantity": 45,
+   "unit": "Pkt",
+   "rate": 98.93,
+   "tax_percent": 5,
+   "taxable": 4451.85,
+   "cgst": 111.3,
+   "sgst": 111.3,
+   "amount": 4451.85,
+   "mrp": null
+  },
+  {
+   "description": "CARDAMOM 100 G",
+   "hsn": "09083120",
+   "quantity": 5,
+   "unit": "Pkt",
+   "rate": 303,
+   "tax_percent": 5,
+   "taxable": 1515.0,
+   "cgst": 37.88,
+   "sgst": 37.88,
+   "amount": 1515.0,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR POWDER 200 G",
+   "hsn": "21039040",
+   "quantity": 41,
+   "unit": "Pkt",
+   "rate": 57,
+   "tax_percent": 5,
+   "taxable": 2337.0,
+   "cgst": 58.43,
+   "sgst": 58.43,
+   "amount": 2337.0,
+   "mrp": null
+  },
+  {
+   "description": "GARAM MASALA 100 G",
+   "hsn": "09109100",
+   "quantity": 5,
+   "unit": "Pkt",
+   "rate": 67.0,
+   "tax_percent": 5,
+   "taxable": 335.0,
+   "cgst": 8.38,
+   "sgst": 8.38,
+   "amount": 335.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 8638.85,
+  "cgst": 215.99,
+  "sgst": 215.99,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.17,
+  "grand_total": 9071.0
+ },
+ "amount_in_words": "INR Nine Thousand Seventy One Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-649"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.18,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-649",
+    "box": [
+     1207.472,
+     185.999,
+     1436.472,
+     308.999
+    ],
+    "angle": -5.93,
+    "size": 67.339,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  "signature": {
+   "box": [
+    546.434,
+    30.159,
+    693.948,
+    89.165
+   ],
+   "width": 147.515,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.438,
+    240.052,
+    223.121
+   ],
+   "grain": 0.011,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.006,
+    "bow": 0.637,
+    "lift": -0.15
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.147,
+   "gradient_angle": 330.783,
+   "vignette": 0.043,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.354,
+    "strength": 0.177
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.007,
+    1.0,
+    0.956
+   ],
+   "white": 216.601,
+   "black": 31.515,
+   "gamma": 1.071,
+   "glare": {
+    "center": [
+     0.342,
+     0.137
+    ],
+    "radius": [
+     0.227,
+     0.125
+    ],
+    "strength": 0.263
+   }
+  },
+  "text_row_px": 23.744,
+  "text_px": 10.35,
+  "photo_px_per_mm": 4.371,
+  "camera": {
+   "blur_sigma": 0.586,
+   "blur_cap": 0.848,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.182,
+   "sharpen_radius": 1.323,
+   "sharpen_percent": 88
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 75,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 1.025,
+   "skew_deg": 1.014,
+   "perspective": {
+    "amount": 0.026,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     2.18,
+     949.538
+    ],
+    [
+     -26.334,
+     24.428
+    ],
+    [
+     1301.131,
+     10.801
+    ],
+    [
+     1302.155,
+     929.576
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,285 @@
+{
+ "id": "syn056",
+ "template": "gst_modern",
+ "supplier_kind": "bakery",
+ "supplier": {
+  "name": "KERALA BAKERS SUPPLY",
+  "address_lines": [
+   "P39/29, Near Panchayath Office",
+   "Angamaly, Kerala - 683572"
+  ],
+  "phone": "7909200553",
+  "gstin": "32CXCFV0578V1Z3",
+  "fssai": null,
+  "email": "kerala@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "2822",
+ "invoice_number_printed": "2822",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25/08/26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "SANDWICH BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 66,
+   "unit": "Nos",
+   "rate": 40.75,
+   "tax_percent": 0,
+   "taxable": 2689.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2689.5,
+   "mrp": null
+  },
+  {
+   "description": "BROWN BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 29,
+   "unit": "Nos",
+   "rate": 48.25,
+   "tax_percent": 0,
+   "taxable": 1399.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1399.25,
+   "mrp": null
+  },
+  {
+   "description": "COOKIES BUTTER 200 G",
+   "hsn": "19053100",
+   "quantity": 56,
+   "unit": "Nos",
+   "rate": 81,
+   "tax_percent": 18,
+   "taxable": 4536.0,
+   "cgst": 408.24,
+   "sgst": 408.24,
+   "amount": 5352.48,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 8624.75,
+  "cgst": 408.24,
+  "sgst": 408.24,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.23,
+  "grand_total": 9441.0
+ },
+ "amount_in_words": "Nine Thousand Four Hundred Forty One INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-602",
+  "GRN done"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.39,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-602",
+    "box": [
+     1212.197,
+     174.5,
+     1436.197,
+     340.5
+    ],
+    "angle": 2.546,
+    "size": 58.0,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   },
+   {
+    "text": "GRN done",
+    "box": [
+     1212.197,
+     174.5,
+     1436.197,
+     340.5
+    ],
+    "angle": 2.546,
+    "size": 58.0,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 8.884,
+   "center": [
+    391.544,
+    1442.138
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.914,
+   "print_lum": 20.0,
+   "row_px_estimate": 24.018,
+   "faint": false,
+   "size_mm": [
+    78.268,
+    116.344
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Shalet",
+    "date": "26/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.002,
+   "title_on_print": 0.004,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    0,
+    1
+   ]
+  },
+  "signature": {
+   "box": [
+    884.766,
+    1701.276,
+    1100.346,
+    1787.509
+   ],
+   "width": 215.581,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.942,
+    252.272,
+    245.563
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.09,
+   "gradient_angle": 214.9,
+   "vignette": 0.057,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.269,
+    "strength": 0.069
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.994,
+    1.0,
+    1.005
+   ],
+   "white": 217.548,
+   "black": 40.2,
+   "gamma": 0.946,
+   "glare": null
+  },
+  "text_row_px": 23.369,
+  "text_px": 8.695,
+  "photo_px_per_mm": 4.016,
+  "camera": {
+   "blur_sigma": 0.333,
+   "blur_cap": 0.79,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.556,
+   "sharpen_radius": 1.038,
+   "sharpen_percent": 47
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 80,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.941,
+   "skew_deg": 1.454,
+   "perspective": {
+    "amount": 0.006,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     18.225,
+     67.263
+    ],
+    [
+     871.709,
+     42.261
+    ],
+    [
+     901.793,
+     1249.79
+    ],
+    [
+     50.421,
+     1265.099
+    ]
+   ]
+  }
+ }
+}

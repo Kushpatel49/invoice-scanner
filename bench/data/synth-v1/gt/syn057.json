@@ -1,0 +1,278 @@
+{
+ "id": "syn057",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MURALYA DAIRY PRODUCTS PRIVATE LIMITED",
+  "address_lines": [
+   "Door No. 67/334-C, Main Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "8508830994",
+  "gstin": "32NFACU4994O1Z4",
+  "fssai": "13965546749232",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "1568",
+ "invoice_number_printed": "1568",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24-08-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 10,
+   "unit": "400g",
+   "rate": 42.9,
+   "tax_percent": 5,
+   "taxable": 429.0,
+   "cgst": 10.73,
+   "sgst": 10.73,
+   "amount": 429.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 4,
+   "unit": "ML",
+   "rate": 29,
+   "tax_percent": 0,
+   "taxable": 116.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 116.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 545.0,
+  "cgst": 10.73,
+  "sgst": 10.73,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 566.46
+ },
+ "amount_in_words": "INR Five Hundred and Sixty Six and Forty Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 670"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.956,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 670",
+    "box": [
+     1182.118,
+     200.82,
+     1499.118,
+     293.82
+    ],
+    "angle": 0.415,
+    "size": 69.2,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -18.624,
+   "center": [
+    323.822,
+    1037.827
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 30.544,
+   "faint": false,
+   "size_mm": [
+    73.247,
+    108.88
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Arun",
+    "name": "Arun",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.065,
+   "title_on_print": 0.161,
+   "fill_on_numbers": 0.003,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.972
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    934.836,
+    119.598,
+    1119.627,
+    193.514
+   ],
+   "width": 184.791,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.359,
+    249.545,
+    245.717
+   ],
+   "grain": 0.016,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "wood",
+   "keyboard": {
+    "side": "right",
+    "depth": 0.274
+   },
+   "stack": 0
+  },
+  "underlay_gstin": "32WVICT4262G1ZN",
+  "underlay": {
+   "gstin": "32WVICT4262G1ZN",
+   "text": "GSTIN : 32WVICT4262G1ZN",
+   "edge": "top",
+   "text_box_photo": [
+    [
+     166.902,
+     89.516
+    ],
+    [
+     341.928,
+     90.615
+    ],
+    [
+     342.0,
+     103.156
+    ],
+    [
+     166.982,
+     102.076
+    ]
+   ]
+  },
+  "lighting": {
+   "gradient": 0.04,
+   "gradient_angle": 58.907,
+   "vignette": 0.04,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.945
+   ],
+   "white": 209.953,
+   "black": 25.936,
+   "gamma": 1.057,
+   "glare": {
+    "center": [
+     0.624,
+     0.461
+    ],
+    "radius": [
+     0.17,
+     0.18
+    ],
+    "strength": 0.216
+   }
+  },
+  "text_row_px": 25.889,
+  "text_px": 10.068,
+  "photo_px_per_mm": 3.814,
+  "camera": {
+   "blur_sigma": 0.287,
+   "blur_cap": 0.915,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.034,
+   "sharpen_radius": 1.194,
+   "sharpen_percent": 47
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 77,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.931,
+   "skew_deg": -0.245,
+   "perspective": {
+    "amount": 0.012,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     90.741,
+     193.848
+    ],
+    [
+     851.931,
+     204.312
+    ],
+    [
+     848.298,
+     1284.248
+    ],
+    [
+     90.008,
+     1280.519
+    ]
+   ]
+  }
+ }
+}

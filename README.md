@@ -9,7 +9,7 @@ Each bill comes out in one of two states:
 - **`auto_ok`**: every check passed. Safe to insert into the ERP.
 - **`needs_review`**: something didn't add up. The result lists exactly what (for example `total 26676 disagrees with amount in words (26766)`), so a person confirms or fixes it before it's posted.
 
-The design goal is that **a wrong bill is never marked `auto_ok`**. On the 15-bill evaluation set that number is 0.
+The design goal is that **a wrong bill is never marked `auto_ok`**. On the 100-bill held-out benchmark, on the 100-bill dev set and on the 15 real bills, that number is 0.
 
 > **Keep this repository private.** `eval/samples/` holds real supplier bills with GSTINs, phone numbers and bank account details.
 
@@ -31,45 +31,59 @@ The design goal is that **a wrong bill is never marked `auto_ok`**. On the 15-bi
 
 ## Results so far
 
-All figures are measured on the 15 real bills in [`eval/`](eval/) with the default model, `nvidia/nemotron-3.5-super-vl` via OpenRouter.
+Measured with the default model, `nvidia/nemotron-3.5-super-vl` via OpenRouter, on two kinds of test set:
 
-| | Result |
-|---|---|
-| Line items: every row read, right count | 15 / 15 bills |
-| Invoice date | 15 / 15 |
-| Supplier GSTIN | 14 / 15 ¹ |
-| Invoice number | 13 / 15 ² |
-| Grand total | 13 / 15 ³ |
-| **Wrong bills marked `auto_ok`** | **0** |
-| Bills `auto_ok` / `needs_review` | 5 / 10 |
-| Time per bill | 7–47 s, usually about 10–20 s |
-| Cost per bill | **₹0.10 on average** (₹0.06–0.21) |
+- **The synthetic benchmark** ([docs/BENCHMARK.md](docs/BENCHMARK.md)): 200 realistic phone photos of the store's kinds of bills, with exact ground truth. 100 are a dev set; **100 are held out** and were never used while tuning.
+- **The 15 real bills** in [`eval/`](eval/).
 
-¹ The miss is a GSTIN printed on a *different* bill lying underneath in the photo.
-² One is a printed number struck out and rewritten by hand; one is tiny print. Both are flagged for review.
-³ One digit swap and one handwritten "less 2%" discount. Both are flagged for review.
+| | Held-out benchmark (100 bills) | Real bills (15) |
+|---|---|---|
+| **Wrong bills marked `auto_ok`** | **0** (precision 100%) | **0** |
+| Rows with qty, rate and amount exactly right | **93.0%** of 854 | line counts 15 / 15 |
+| Bills with every row exactly right | 86 / 100 | – |
+| Bills fully correct, header included | 74 / 100 | – |
+| Invoice number / date / GSTIN / total | 95% / 98% / 93% / 93% | 15 / 15 / 14 / 13 of 15 |
+| Bills `auto_ok` | 39 (58 could be) | 2 (most real samples are handwritten or multi-page) |
+| Cost per bill | **₹0.154** average, ₹0.114 median | ₹0.18 |
+| Time per bill | 12 s median (bills run in parallel with `--workers`) | |
 
-Every miss above lands in `needs_review` with the reason, so none of them would reach the ERP without a person checking it. See [docs/EVALUATION.md](docs/EVALUATION.md) for per-bill detail and [docs/COSTS.md](docs/COSTS.md) for the cost breakdown.
+Every miss lands in `needs_review` with its reason, so none of them would reach the ERP without a person checking it:
+
+- **Most rows that aren't exactly right are on dot-matrix sheets,** where 87% of rows are right. Every other format gets 94–100%.
+- **The tax lines are sometimes misread.** Correct GST bills then go to review because the total can't be proven.
+
+See [docs/BENCHMARK.md](docs/BENCHMARK.md) for the breakdowns and how the numbers moved, and [docs/COSTS.md](docs/COSTS.md) for cost.
 
 ---
 
 ## How it works
 
 ```
-photo ──► 1. orientation ──► 2. header + totals ──► 3. line items ──► 4. supplier GSTIN ──► 5. strike-through ──► 6. validation ──► JSON
-          (Tesseract,         (vision model,         (vision model,      (Tesseract free;      check                (pure Python)       auto_ok /
-           free, local)        JSON schema)           pipe rows +          model on zoomed      (vision model)                           needs_review
-                                                      1 self-check)        crops if needed)
+photo ─► upright + level ─► header read ─► zoomed header read ─► item table read(s) ─► consensus + validation ─► JSON
+         (Tesseract,        (vision model,  (2x crop: 2nd read    (fixed format; when     (pure Python: exact       auto_ok /
+          numpy; free)       JSON schema)    of number, date,      in doubt a 2nd,         arithmetic, two reads     needs_review
+                                             GSTIN; strike-out)    verbatim read; long     must agree, OCR breaks
+                                                                   tables zoomed in        small ties)
+                                                                   strips)
 ```
 
-1. **Orientation.** Tesseract finds how the photo is rotated (phones often save bills sideways) and turns it upright. This runs locally and costs nothing.
-2. **Header and totals.** The vision model fills a small JSON schema: supplier, invoice number and date, totals, amount in words, pen notes.
-3. **Line items.** A separate request returns the item table as compact `description | hsn | qty | unit | rate | tax% | amount` rows. If the arithmetic fails (qty × rate ≠ amount, or the rows don't add up to the total), the model is shown its own errors and re-reads once.
-4. **Supplier GSTIN.** The model often mixes up whose GSTIN is whose, so GSTINs are only accepted if they pass the official checksum, and our own GSTIN is never taken as the supplier's. A free Tesseract read is tried first; zoomed crops of the letterhead are sent to the model only if that fails.
-5. **Strike-through check.** A focused yes/no question: was the printed invoice number crossed out and rewritten by hand?
-6. **Validation.** Plain Python checks: row arithmetic, sum of rows vs total, total vs amount in words, GSTIN checksum, date sanity, handwriting, multi-page bills. Any failure means `needs_review`, with the reason.
+1. **Upright and level.** Tesseract finds how the photo is rotated (phones often save bills sideways), and a projection profile removes small skew. Both run locally and cost nothing. Skewed rows were the main cause of numbers being matched to the wrong item.
+2. **Header.** The vision model fills a small JSON schema: supplier, invoice number, date as printed, totals and tax lines, amount in words, pen notes.
+3. **Zoomed header read.** A 2x crop of the top of the page is read again. This gives a second, independent read of the invoice number, date and GSTINs, and asks whether the printed number was struck out and rewritten.
+4. **Item table.**
+   - **The first read** returns rows as `sl | description | hsn | qty | unit | rate | tax% | amount`, copying numbers exactly.
+   - **When there's reason to doubt it,** the table is read a second, different way: transcribed verbatim with its headings, mapped to fields in code. The two are merged row by row. A row that fails qty × rate = amount takes the other read's passing value, and **two plausible reads that disagree go to review**.
+   - **Long tables** are read again in zoomed strips.
+5. **Consensus and validation,** in plain Python:
+   - **Exact arithmetic,** allowing for rounding only.
+   - **Rows must add up to the total** (with printed or implied GST).
+   - **Two reads must agree** on the invoice number and the date (parsed day-first in code), with OCR settling only small slips.
+   - **The GSTIN** must pass its checksum and be confirmed by two sources, and two GSTINs on one photo mean review.
+   - **Serial numbers, handwriting and multi-page bills** are checked too.
 
-Each design choice exists because a simpler version failed on real bills; [docs/DECISIONS.md](docs/DECISIONS.md) records what was tried and why. [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) has the module-level detail.
+   Any failure means `needs_review`, with the reason.
+
+Each design choice exists because a simpler version failed on real or benchmark bills; [docs/DECISIONS.md](docs/DECISIONS.md) records what was tried and the evidence. [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) has the module-level detail.
 
 ---
 
@@ -97,7 +111,7 @@ cp .env.example .env             # then put your OPENROUTER_API_KEY in .env
 Check the setup without spending anything:
 
 ```bash
-python -m unittest discover -s tests     # 30 offline tests, including orientation on all sample bills
+python -m unittest discover -s tests     # 118 offline tests, including orientation on all sample bills
 ```
 
 ---
@@ -107,7 +121,7 @@ python -m unittest discover -s tests     # 30 offline tests, including orientati
 ### Command line
 
 ```bash
-python -m invoice_scanner path/to/bills/*.jpg --out results
+python -m invoice_scanner path/to/bills/*.jpg --out results --workers 6
 ```
 
 The `invoice-scanner` command does the same once you've run `pip install -e .`.
@@ -115,18 +129,22 @@ The `invoice-scanner` command does the same once you've run `pip install -e .`.
 Sample output:
 
 ```
-model=openrouter:nvidia/nemotron-3.5-super-vl
-inv06.jpg: auto_ok        1 lines  total=7665.0  gstin=32AGVPR6347Q2ZA  7.4s  rot=90  calls=4 tok=6518+257 $0.00075
-inv12.jpg: needs_review  17 lines  total=None  gstin=32AAPCA0115L1ZX  21.7s  rot=0  calls=5 tok=8182+927 $0.00119
-    - invoice continues on another page - attach remaining pages
-
-5 ready to post, 10 need review, 0 errors; model cost $0.0170. Results in results/
+model=openrouter:nvidia/nemotron-3.5-super-vl  bills=15  workers=6
+inv07.jpg: auto_ok        6 lines  total=9655.0  gstin=32ADPFS4356R1Z8  10.8s  rot=90  calls=4 tok=7907+1231 $0.00128
+inv06.jpg: needs_review   1 lines  total=7665.0  gstin=32AGVPR6347Q2ZA  6.7s  rot=90  calls=3 tok=6311+390 $0.00079
+    - invoice number unclear: read as '27/1064' and '26-27/1064'
+inv04.jpg: needs_review  12 lines  total=51000.0  gstin=None  13.4s  rot=90  calls=5 tok=9593+955 $0.00134
+    - supplier GSTIN not found
+...
+2 ready to post, 13 need review, 0 errors; model cost $0.0308. Results in results/
 ```
 
 For each photo, `results/` gets `<name>.json` (the data) and `<name>_upright.jpg` (the rotated photo, for the review screen).
 
 Options:
 
+- `--workers N`: scan N bills in parallel (4–8 is fine on OpenRouter; keep 1 for Ollama).
+- `--skip-existing`: skip photos that already have a result in `--out`, to resume an interrupted run.
 - `--backend openrouter|ollama`: which model service to use.
 - `--model <id>`: try a different model, for example `--model qwen/qwen3-vl-30b-a3b-instruct`.
 
@@ -148,7 +166,9 @@ The full field list is in [docs/OUTPUT_FORMAT.md](docs/OUTPUT_FORMAT.md).
 ### Tools
 
 ```bash
-python tools/score.py results                     # accuracy against eval/ground_truth.json
+python -m bench.score --results results --gt bench/data/synth-v1-holdout/gt --md report.md   # benchmark scoring
+python tools/score.py results                     # accuracy on the real bills (eval/ground_truth.json)
+python tools/revalidate.py results --out results-rv   # re-apply current validation rules to saved results, free
 python tools/make_review.py results               # review.html: each photo beside its extracted data
 python tools/cost_report.py results --inr 88      # tokens and cost per bill, in USD and INR
 ```
@@ -178,44 +198,49 @@ Use the paid Nemotron, not the `:free` variant. The free tier allows 50 requests
 ```
 invoice_scanner/          the package
   pipeline.py             scan_bill(): runs the steps in order
-  extract.py              prompts, schemas, parsing, item self-check, strike-through check
-  gstin.py                GSTIN checksum, OCR look-alike repair, supplier GSTIN lookup
-  validate.py             deterministic checks -> auto_ok / needs_review
-  ocr.py                  Tesseract: orientation, raw text
+  extract.py              prompts, schemas, parsing, the two table reads + merge, zoomed strips, header verify
+  validate.py             exact arithmetic, consensus (invoice no., date), checks -> auto_ok / needs_review
+  gstin.py                GSTIN checksum, OCR look-alike repair, two-source supplier GSTIN lookup
+  ocr.py                  Tesseract + numpy: orientation, deskew, page text
   llm.py                  OpenRouter / Ollama client with per-call cost tracking
   config.py               settings (env / .env)
-  cli.py                  command line
-tools/                    score.py, make_review.py, cost_report.py
+  cli.py                  command line (parallel workers, resume)
+bench/                    synthetic benchmark: generator, 2 x 100-bill datasets, scorer (see bench/README.md)
+tools/                    score.py, revalidate.py, make_review.py, cost_report.py
 tests/                    offline unit tests (no API calls)
 eval/                     15 real sample bills + hand-checked ground truth
-docs/                     architecture, decisions, evaluation, costs, output format, roadmap
+docs/                     architecture, decisions, benchmark, evaluation, costs, output format, roadmap
 ```
 
 ---
 
 ## Development
 
-- **Before changing a prompt or step:** run the evaluation and compare with the numbers above:
+- **Measure every change on the benchmark.** Tune on the dev set, report on the held-out set:
   ```bash
-  python -m invoice_scanner eval/samples/*.jpg --out results && python tools/score.py results
+  python -m invoice_scanner bench/data/synth-v1/images/*.jpg --out results/dev --workers 6
+  python -m bench.score --results results/dev --gt bench/data/synth-v1/gt --md results/dev.md
   ```
-  A full run costs about ₹1.50 and takes 3–5 minutes. The last line of `score.py` (wrong bills marked `auto_ok`) must stay **0**. `score.py` also exits non-zero if it isn't.
-- **Run results vary slightly.** OpenRouter can route a request to different hosts, and messy handwriting doesn't always read the same way twice. Compare a change across a couple of runs before concluding it helped.
+  A full run costs about ₹15 and takes about 5 minutes. **Silent errors** (wrong bills marked `auto_ok`) must stay **0**; `bench/score.py` exits non-zero if they don't. A prompt change can be tried on a subset first (one template's bills) for about ₹2.
+- **Changing only validation rules?** `tools/revalidate.py` re-applies them to saved results without calling the model, so you can iterate for free.
+- **Results vary between runs.** OpenRouter routes to different hosts, and faint dot-matrix print doesn't read the same way twice: two runs of nearly identical code gave 95.7% and 93.8% of dev rows right. Compare two runs before believing a 1–2 point gain.
 - **Unit tests** cover everything that doesn't need the model and run offline: `python -m unittest discover -s tests`.
-- **Grow the evaluation set.** 15 bills is enough to show the approach works, not to prove a change is safe across every kind of bill. Adding real bills (handwritten, crumpled, multi-page, every regular supplier) is the most valuable thing to do next. See [eval/README.md](eval/README.md).
+- **Also check the real bills** after any change: `python -m invoice_scanner eval/samples/*.jpg --out results/real --workers 6 && python tools/score.py results/real`.
+- **Grow the real evaluation set.** Synthetic bills are only as varied as their generator. Adding real bills with row-level ground truth is the most valuable next step ([docs/ROADMAP.md](docs/ROADMAP.md)).
 
 ---
 
 ## Known limitations
 
 - **Multi-page invoices** are flagged (`continued_on_next_page`) but not merged. Each photo is processed on its own.
-- **The tax breakdown** (CGST/SGST/subtotal) is often returned empty even when it's printed. Validation relies on the grand total and line amounts, so this doesn't cause wrong `auto_ok`s, but don't rely on these fields yet.
+- **Dot-matrix sheets** are the weakest format (about 87% of rows exactly right). Their rows are tiny in a phone photo; misreads are caught and sent to review, which costs automation.
+- **Tax lines (CGST/SGST/subtotal) are sometimes misread.** Correct GST bills then go to review because the total can't be proven.
 - **Handwritten bills always go to review.** That's deliberate: digits in handwriting are the least reliable thing the model reads.
-- **A bill photographed on top of another bill** can pick up the GSTIN of the bill underneath.
-- **If only day and month are written**, the year is assumed to be the current one. That's wrong for a December bill scanned in January.
+- **A bill photographed on top of another bill** shows two GSTINs and goes to review; the scanner can't tell which is the supplier's.
+- **If only day and month are written,** the year is assumed to be the current one. That's wrong for a December bill scanned in January.
 - **One photo, one bill.** A photo containing two bills isn't split.
 
-[docs/ROADMAP.md](docs/ROADMAP.md) has the planned next steps: a supplier master, multi-page merge, the ERP insert, and an HTTP service.
+[docs/ROADMAP.md](docs/ROADMAP.md) has the planned next steps: more real test bills, a supplier master, dot-matrix accuracy, multi-page merge, the ERP insert, and an HTTP service.
 
 ## Further docs
 
@@ -223,7 +248,8 @@ docs/                     architecture, decisions, evaluation, costs, output for
 |---|---|
 | [ARCHITECTURE.md](docs/ARCHITECTURE.md) | Pipeline and modules in detail |
 | [DECISIONS.md](docs/DECISIONS.md) | What was tried, what failed, and why the code is the way it is |
-| [EVALUATION.md](docs/EVALUATION.md) | Test set, scoring, model comparison |
+| [BENCHMARK.md](docs/BENCHMARK.md) | The synthetic benchmark: how it's built, metrics, results, how to use it |
+| [EVALUATION.md](docs/EVALUATION.md) | The 15 real bills, model comparison |
 | [COSTS.md](docs/COSTS.md) | Tokens and rupees per bill, provider choice, cost trims |
 | [OUTPUT_FORMAT.md](docs/OUTPUT_FORMAT.md) | Every field in the result JSON |
 | [ROADMAP.md](docs/ROADMAP.md) | What to build next |

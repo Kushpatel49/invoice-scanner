@@ -1,0 +1,423 @@
+{
+ "id": "syn054",
+ "template": "tally",
+ "supplier_kind": "exotic",
+ "supplier": {
+  "name": "NUTRI LEAVES",
+  "address_lines": [
+   "42/793, M.G. Road",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "8015256505",
+  "gstin": "32BUMFI4122K1ZB",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "M/s Aeden Fresh Kakkanad"
+ },
+ "invoice_number": "26-27/3340",
+ "invoice_number_printed": "26-27/7441",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-08-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 4.21,
+   "unit": "Kilogram",
+   "rate": 115,
+   "tax_percent": 0,
+   "taxable": 484.15,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 484.15,
+   "mrp": null
+  },
+  {
+   "description": "RED CABBAGE",
+   "hsn": "0704",
+   "quantity": 30,
+   "unit": "Kilogram",
+   "rate": 91.0,
+   "tax_percent": 0,
+   "taxable": 2730.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2730.0,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM YELLOW",
+   "hsn": "0709",
+   "quantity": 16,
+   "unit": "Kilogram",
+   "rate": 181.51,
+   "tax_percent": 0,
+   "taxable": 2904.16,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2904.16,
+   "mrp": null
+  },
+  {
+   "description": "BASIL LEAVES",
+   "hsn": "0709",
+   "quantity": 54,
+   "unit": "PACK",
+   "rate": 34,
+   "tax_percent": 0,
+   "taxable": 1836.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1836.0,
+   "mrp": null
+  },
+  {
+   "description": "LEEKS",
+   "hsn": "0703",
+   "quantity": 5.453,
+   "unit": "Kilogram",
+   "rate": 154.0,
+   "tax_percent": 0,
+   "taxable": 839.76,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 839.76,
+   "mrp": null
+  },
+  {
+   "description": "KALE",
+   "hsn": "0704",
+   "quantity": 10,
+   "unit": "PACK",
+   "rate": 17.82,
+   "tax_percent": 0,
+   "taxable": 178.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 178.2,
+   "mrp": null
+  },
+  {
+   "description": "BROCCOLI",
+   "hsn": "0704",
+   "quantity": 27,
+   "unit": "Kilogram",
+   "rate": 260,
+   "tax_percent": 0,
+   "taxable": 7020.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7020.0,
+   "mrp": null
+  },
+  {
+   "description": "SPRING ONION",
+   "hsn": "0703",
+   "quantity": 22,
+   "unit": "Kilogram",
+   "rate": 93,
+   "tax_percent": 0,
+   "taxable": 2046.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2046.0,
+   "mrp": null
+  },
+  {
+   "description": "BABY POTATO",
+   "hsn": "0701",
+   "quantity": 6,
+   "unit": "Kilogram",
+   "rate": 54.25,
+   "tax_percent": 0,
+   "taxable": 325.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 325.5,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE LETTUCE",
+   "hsn": "0705",
+   "quantity": 2,
+   "unit": "Kilogram",
+   "rate": 144.2,
+   "tax_percent": 0,
+   "taxable": 288.4,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 288.4,
+   "mrp": null
+  },
+  {
+   "description": "RED RADISH",
+   "hsn": "0706",
+   "quantity": 37,
+   "unit": "Kilogram",
+   "rate": 78,
+   "tax_percent": 0,
+   "taxable": 2886.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2886.0,
+   "mrp": null
+  },
+  {
+   "description": "SWEET CORN",
+   "hsn": "0709",
+   "quantity": 54,
+   "unit": "PC",
+   "rate": 23,
+   "tax_percent": 0,
+   "taxable": 1242.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1242.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 12,
+ "totals": {
+  "subtotal": null,
+  "cgst": null,
+  "sgst": null,
+  "igst": null,
+  "cess": null,
+  "round_off": null,
+  "grand_total": null
+ },
+ "amount_in_words": null,
+ "continued": true,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "26-27/7441",
+   "new": "26-27/3340"
+  },
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "continued",
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 7.8,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": {
+   "printed": "26-27/7441",
+   "new": "26-27/3340",
+   "where": "right",
+   "box": [
+    938,
+    246,
+    1085,
+    275
+   ],
+   "ink": [
+    25,
+    45,
+    150
+   ],
+   "double_strike": true,
+   "font": "Caveat.ttf",
+   "size": 35.1,
+   "pen_on_print": 0.0
+  },
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 4.701,
+   "center": [
+    507.975,
+    1911.398
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 19.692,
+   "faint": false,
+   "size_mm": [
+    78.103,
+    116.099
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Pradeesh",
+    "name": "Pradeesh",
+    "date": "26/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.073,
+   "title_on_print": 0.182,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.976
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  "signature": {
+   "box": [
+    495.198,
+    2072.699,
+    687.306,
+    2149.542
+   ],
+   "width": 192.108,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    250.926,
+    243.955,
+    223.266
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.482,
+     "tilt": -0.037,
+     "depth": 0.07,
+     "width_mm": 0.65,
+     "panel_step": 0.03
+    },
+    {
+     "horizontal": false,
+     "pos": 0.498,
+     "tilt": -0.008,
+     "depth": 0.139,
+     "width_mm": 1.167,
+     "panel_step": 0.018
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.012,
+    "bow": 0.985,
+    "lift": 0.044
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.197,
+   "gradient_angle": 211.151,
+   "vignette": 0.041,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.206,
+    "strength": 0.228
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.993,
+    1.0,
+    1.012
+   ],
+   "white": 185.082,
+   "black": 39.449,
+   "gamma": 0.917,
+   "glare": null
+  },
+  "text_row_px": 18.615,
+  "text_px": 16.03,
+  "photo_px_per_mm": 4.033,
+  "camera": {
+   "blur_sigma": 0.665,
+   "blur_cap": 0.665,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.739,
+   "sharpen_radius": 1.283,
+   "sharpen_percent": 89
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 74,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.945,
+   "skew_deg": -1.693,
+   "perspective": {
+    "amount": 0.031,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     1214.283,
+     39.876
+    ],
+    [
+     1226.075,
+     893.464
+    ],
+    [
+     -4.041,
+     869.93
+    ],
+    [
+     59.367,
+     5.01
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,319 @@
+{
+ "id": "syn062",
+ "template": "gst_modern",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "SEA KING FROZEN FOODS",
+  "address_lines": [
+   "XIII/135, Seaport-Airport Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "7190644102",
+  "gstin": "32ATMFJ1574J1Z5",
+  "fssai": null,
+  "email": "seafresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "5452",
+ "invoice_number_printed": "5452",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24-Aug-26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 6,
+   "unit": "Nos",
+   "rate": 166.0,
+   "tax_percent": 5,
+   "taxable": 996.0,
+   "cgst": 24.9,
+   "sgst": 24.9,
+   "amount": 1045.8,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 47,
+   "unit": "Nos",
+   "rate": 155.75,
+   "tax_percent": 5,
+   "taxable": 7320.25,
+   "cgst": 183.01,
+   "sgst": 183.01,
+   "amount": 7686.27,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 11,
+   "unit": "Nos",
+   "rate": 167,
+   "tax_percent": 18,
+   "taxable": 1837.0,
+   "cgst": 165.33,
+   "sgst": 165.33,
+   "amount": 2167.66,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 6,
+   "unit": "KGS",
+   "rate": 264.37,
+   "tax_percent": 5,
+   "taxable": 1586.22,
+   "cgst": 39.66,
+   "sgst": 39.66,
+   "amount": 1665.54,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 15.68,
+   "unit": "KGS",
+   "rate": 336,
+   "tax_percent": 5,
+   "taxable": 5268.48,
+   "cgst": 131.71,
+   "sgst": 131.71,
+   "amount": 5531.9,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 95,
+   "unit": "Nos",
+   "rate": 310.5,
+   "tax_percent": 5,
+   "taxable": 29497.5,
+   "cgst": 737.44,
+   "sgst": 737.44,
+   "amount": 30972.38,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 46505.45,
+  "cgst": 1282.05,
+  "sgst": 1282.05,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 49069.55
+ },
+ "amount_in_words": "INR FORTY NINE THOUSAND SIXTY NINE AND FIFTY FIVE PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 690"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.617,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 690",
+    "box": [
+     924.187,
+     41.0,
+     1243.187,
+     295.0
+    ],
+    "angle": -29.202,
+    "size": 69.316,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 17.785,
+   "center": [
+    389.852,
+    1394.547
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.356,
+   "print_lum": 39.0,
+   "row_px_estimate": 23.527,
+   "faint": true,
+   "size_mm": [
+    72.904,
+    108.37
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Bibin",
+    "date": "24.08.2026",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.025,
+   "title_on_print": 0.062,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    820.879,
+    2146.827,
+    990.429,
+    2214.647
+   ],
+   "width": 169.55,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.272,
+    250.444,
+    244.455
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.01,
+    "bow": -0.286,
+    "lift": 0.753
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "keyboard": {
+    "side": "left",
+    "depth": 0.23
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.053,
+   "gradient_angle": 297.42,
+   "vignette": 0.046,
+   "shadow": {
+    "kind": "phone",
+    "side": "right",
+    "depth": 0.449,
+    "strength": 0.179
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.012,
+    1.0,
+    0.97
+   ],
+   "white": 215.379,
+   "black": 38.951,
+   "gamma": 1.027,
+   "glare": null
+  },
+  "text_row_px": 22.344,
+  "text_px": 10.64,
+  "photo_px_per_mm": 4.052,
+  "camera": {
+   "blur_sigma": 0.561,
+   "blur_cap": 0.798,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.826,
+   "sharpen_radius": 1.076,
+   "sharpen_percent": 84
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 77,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.95,
+   "skew_deg": -1.635,
+   "perspective": {
+    "amount": 0.026,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     18.592,
+     911.336
+    ],
+    [
+     47.09,
+     45.071
+    ],
+    [
+     1242.513,
+     90.164
+    ],
+    [
+     1222.729,
+     952.409
+    ]
+   ]
+  }
+ }
+}

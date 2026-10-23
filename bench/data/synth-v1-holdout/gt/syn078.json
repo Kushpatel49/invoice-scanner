@@ -1,0 +1,382 @@
+{
+ "id": "syn078",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "PERIYAR VEGETABLE COMPANY",
+  "address_lines": [
+   "Door No. 2/62-B, Near Bus Stand",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "9569389009",
+  "gstin": null,
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "9314",
+ "invoice_number_printed": "9314",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "CUCUMBER SALAD",
+   "hsn": "0707",
+   "quantity": 32,
+   "unit": "KGS",
+   "rate": 33.0,
+   "tax_percent": 0,
+   "taxable": 1056.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1056.0,
+   "mrp": null
+  },
+  {
+   "description": "BRINJAL GREEN LONG",
+   "hsn": "0709",
+   "quantity": 7,
+   "unit": "KGS",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 385.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 385.0,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER LEAVES",
+   "hsn": "0709",
+   "quantity": 2.401,
+   "unit": "KGS",
+   "rate": 127.0,
+   "tax_percent": 0,
+   "taxable": 304.93,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 304.93,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 6,
+   "unit": "KGS",
+   "rate": 145.0,
+   "tax_percent": 0,
+   "taxable": 870.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 870.0,
+   "mrp": null
+  },
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 25,
+   "unit": "KGS",
+   "rate": 29.0,
+   "tax_percent": 0,
+   "taxable": 725.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 725.0,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 39,
+   "unit": "KGS",
+   "rate": 89.0,
+   "tax_percent": 0,
+   "taxable": 3471.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3471.0,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 9.7,
+   "unit": "KGS",
+   "rate": 53.0,
+   "tax_percent": 0,
+   "taxable": 514.1,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 514.1,
+   "mrp": null
+  },
+  {
+   "description": "BAJI CHILLY",
+   "hsn": "0709",
+   "quantity": 16,
+   "unit": "KGS",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 880.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 880.0,
+   "mrp": null
+  },
+  {
+   "description": "PUMPKIN",
+   "hsn": "0709",
+   "quantity": 22,
+   "unit": "KGS",
+   "rate": 22.0,
+   "tax_percent": 0,
+   "taxable": 484.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 484.0,
+   "mrp": null
+  },
+  {
+   "description": "POTATO",
+   "hsn": "0701",
+   "quantity": 13.821,
+   "unit": "KGS",
+   "rate": 37.0,
+   "tax_percent": 0,
+   "taxable": 511.38,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 511.38,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 10,
+ "totals": {
+  "subtotal": 9201.41,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.41,
+  "grand_total": 9201.0
+ },
+ "amount_in_words": "INR NINE THOUSAND TWO HUNDRED ONE ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 654"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 6.199,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 654",
+    "box": [
+     741.44,
+     0.0,
+     976.44,
+     119.0
+    ],
+    "angle": 6.926,
+    "size": 60.775,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -6.801,
+   "center": [
+    372.83,
+    1109.728
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.815,
+   "print_lum": 32.0,
+   "row_px_estimate": 41.427,
+   "faint": false,
+   "size_mm": [
+    71.643,
+    106.496
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "date": "27/8/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "free",
+   "over_table": true,
+   "on_numbers": 0.302,
+   "title_on_print": 0.746,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    247.489,
+    157.156,
+    180.534
+   ],
+   "grain": 0.015,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.668,
+     "tilt": 0.036,
+     "depth": 0.065,
+     "width_mm": 0.941,
+     "panel_step": 0.037
+    },
+    {
+     "horizontal": false,
+     "pos": 0.685,
+     "tilt": 0.037,
+     "depth": 0.068,
+     "width_mm": 0.952,
+     "panel_step": 0.055
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.004,
+    "bow": -0.048,
+    "lift": 0.213
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.144,
+   "gradient_angle": 252.607,
+   "vignette": 0.047,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.257,
+    "strength": 0.149
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.014,
+    1.0,
+    0.933
+   ],
+   "white": 189.627,
+   "black": 57.208,
+   "gamma": 0.99,
+   "glare": null
+  },
+  "text_row_px": 38.898,
+  "text_px": 24.609,
+  "photo_px_per_mm": 4.921,
+  "camera": {
+   "blur_sigma": 0.71,
+   "blur_cap": 1.203,
+   "defocus": {
+    "sigma_far": 1.051,
+    "angle": 158.393
+   },
+   "motion": null,
+   "noise_sd": 3.78,
+   "sharpen_radius": 1.537,
+   "sharpen_percent": 85
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 66,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.939,
+   "skew_deg": 2.839,
+   "perspective": {
+    "amount": 0.021,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     56.919,
+     910.954
+    ],
+    [
+     19.82,
+     86.386
+    ],
+    [
+     1213.618,
+     36.633
+    ],
+    [
+     1236.385,
+     853.355
+    ]
+   ]
+  }
+ }
+}

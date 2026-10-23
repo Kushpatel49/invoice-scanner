@@ -1,0 +1,359 @@
+{
+ "id": "syn098",
+ "template": "tally",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "COCHIN FRUIT COMPANY",
+  "address_lines": [
+   "P5/34, Industrial Estate",
+   "Tripunithura, Kerala - 682301"
+  ],
+  "phone": "9272319256",
+  "gstin": "32VPSFL9494T2ZG",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "RFN/B2B/899",
+ "invoice_number_printed": "RFN/B2B/899",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-08-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "PEAR RED SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 10,
+   "unit": "Boxes",
+   "rate": 4421,
+   "tax_percent": 0,
+   "taxable": 44210.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 44210.0,
+   "mrp": null
+  },
+  {
+   "description": "RED GLOBE CHINA - 6.5 KG",
+   "hsn": "0806",
+   "quantity": 10,
+   "unit": "Boxes",
+   "rate": 1542,
+   "tax_percent": 0,
+   "taxable": 15420.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 15420.0,
+   "mrp": null
+  },
+  {
+   "description": "BLACK GRAPES CHINA - 5 KG",
+   "hsn": "0806",
+   "quantity": 3,
+   "unit": "Boxes",
+   "rate": 1802,
+   "tax_percent": 0,
+   "taxable": 5406.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5406.0,
+   "mrp": null
+  },
+  {
+   "description": "PEAR GREEN SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 8,
+   "unit": "Boxes",
+   "rate": 4109,
+   "tax_percent": 0,
+   "taxable": 32872.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 32872.0,
+   "mrp": null
+  },
+  {
+   "description": "RASPBERRY (PUNNETS)",
+   "hsn": "0810",
+   "quantity": 43,
+   "unit": "Punnets",
+   "rate": 211.79,
+   "tax_percent": 0,
+   "taxable": 9106.97,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9106.97,
+   "mrp": null
+  },
+  {
+   "description": "DRAGON WHITE VIETNAM - 9 KG",
+   "hsn": "0810",
+   "quantity": 1,
+   "unit": "Boxes",
+   "rate": 1302,
+   "tax_percent": 0,
+   "taxable": 1302.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1302.0,
+   "mrp": null
+  },
+  {
+   "description": "GRANNY SMITH NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 6,
+   "unit": "Boxes",
+   "rate": 4427,
+   "tax_percent": 0,
+   "taxable": 26562.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 26562.0,
+   "mrp": null
+  },
+  {
+   "description": "LONGAN THAILAND - 11.5 KG",
+   "hsn": "0810",
+   "quantity": 11,
+   "unit": "Boxes",
+   "rate": 2453,
+   "tax_percent": 0,
+   "taxable": 26983.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 26983.0,
+   "mrp": null
+  },
+  {
+   "description": "KIWI CRATE CHILE - 10 KG",
+   "hsn": "0810",
+   "quantity": 1,
+   "unit": "Boxes",
+   "rate": 3717,
+   "tax_percent": 0,
+   "taxable": 3717.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3717.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 165578.97,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.03,
+  "grand_total": 165579.0
+ },
+ "amount_in_words": "One Lakh Sixty Five Thousand Five Hundred Seventy Nine INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-635"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.953,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-635",
+    "box": [
+     176.374,
+     33.876,
+     449.374,
+     163.876
+    ],
+    "angle": -3.922,
+    "size": 78.738,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 36.557,
+   "center": [
+    640.843,
+    1924.033
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.863,
+   "print_lum": 20.0,
+   "row_px_estimate": 9.656,
+   "faint": false,
+   "size_mm": [
+    72.124,
+    107.211
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Bibin",
+    "date": "29/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.994
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    892.495,
+    282.473,
+    1093.555,
+    362.897
+   ],
+   "width": 201.06,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.19,
+    249.334,
+    245.284
+   ],
+   "grain": 0.008,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.48,
+     "tilt": 0.031,
+     "depth": 0.114,
+     "width_mm": 0.932,
+     "panel_step": 0.04
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.004,
+    "bow": -0.481,
+    "lift": 0.869
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "dark wood",
+   "keyboard": {
+    "side": "right",
+    "depth": 0.207
+   },
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.085,
+   "gradient_angle": 160.597,
+   "vignette": 0.094,
+   "shadow": {
+    "kind": "phone",
+    "side": "right",
+    "depth": 0.492,
+    "strength": 0.097
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.945
+   ],
+   "white": 205.668,
+   "black": 39.639,
+   "gamma": 1.085,
+   "glare": null
+  },
+  "text_row_px": 9.281,
+  "text_px": 9.281,
+  "photo_px_per_mm": 4.101,
+  "camera": {
+   "blur_sigma": 0.35,
+   "blur_cap": 0.35,
+   "defocus": {
+    "sigma_far": 0.35,
+    "angle": 223.653
+   },
+   "motion": null,
+   "noise_sd": 2.379,
+   "sharpen_radius": 1.458,
+   "sharpen_percent": 70
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 66,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.961,
+   "skew_deg": 0.725,
+   "perspective": {
+    "amount": 0.019,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     46.878,
+     914.369
+    ],
+    [
+     31.888,
+     36.584
+    ],
+    [
+     1262.554,
+     24.045
+    ],
+    [
+     1264.37,
+     893.139
+    ]
+   ]
+  }
+ }
+}

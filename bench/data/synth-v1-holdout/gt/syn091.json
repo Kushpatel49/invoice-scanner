@@ -1,0 +1,333 @@
+{
+ "id": "syn091",
+ "template": "gst_modern",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "P29/22, Church Road",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "9874550851",
+  "gstin": "32SMPCE7661J2Z0",
+  "fssai": "17744435272579",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "7081",
+ "invoice_number_printed": "TI-92434",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-Aug-26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "JAGGERY BALL 1 KG",
+   "hsn": "17011390",
+   "quantity": 4,
+   "unit": "Nos",
+   "rate": 87,
+   "tax_percent": 5,
+   "taxable": 348.0,
+   "cgst": 8.7,
+   "sgst": 8.7,
+   "amount": 365.4,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT IDLY BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 89,
+   "unit": "Nos",
+   "rate": 64,
+   "tax_percent": 5,
+   "taxable": 5696.0,
+   "cgst": 142.4,
+   "sgst": 142.4,
+   "amount": 5980.8,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 37,
+   "unit": "Nos",
+   "rate": 58.65,
+   "tax_percent": 5,
+   "taxable": 2170.05,
+   "cgst": 54.25,
+   "sgst": 54.25,
+   "amount": 2278.55,
+   "mrp": null
+  },
+  {
+   "description": "ROASTED RAVA 1 KG",
+   "hsn": "11031100",
+   "quantity": 53,
+   "unit": "Nos",
+   "rate": 69.12,
+   "tax_percent": 5,
+   "taxable": 3663.36,
+   "cgst": 91.58,
+   "sgst": 91.58,
+   "amount": 3846.52,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 11,
+   "unit": "Nos",
+   "rate": 75.64,
+   "tax_percent": 5,
+   "taxable": 832.04,
+   "cgst": 20.8,
+   "sgst": 20.8,
+   "amount": 873.64,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT VEG PALAPPAM 1 LTR",
+   "hsn": "21061000",
+   "quantity": 60,
+   "unit": "Nos",
+   "rate": 67,
+   "tax_percent": 5,
+   "taxable": 4020.0,
+   "cgst": 100.5,
+   "sgst": 100.5,
+   "amount": 4221.0,
+   "mrp": null
+  },
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 31,
+   "unit": "Nos",
+   "rate": 71.49,
+   "tax_percent": 5,
+   "taxable": 2216.19,
+   "cgst": 55.4,
+   "sgst": 55.4,
+   "amount": 2326.99,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT PUNCHA EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 42,
+   "unit": "Nos",
+   "rate": 69.25,
+   "tax_percent": 5,
+   "taxable": 2908.5,
+   "cgst": 72.71,
+   "sgst": 72.71,
+   "amount": 3053.92,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 21854.14,
+  "cgst": 546.34,
+  "sgst": 546.34,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 22946.82
+ },
+ "amount_in_words": "Twenty Two Thousand Nine Hundred Forty Six Rupees and Eighty Two Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "TI-92434",
+   "new": "7081"
+  },
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.433,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": {
+   "printed": "TI-92434",
+   "new": "7081",
+   "where": "right",
+   "box": [
+    296,
+    505,
+    356,
+    531
+   ],
+   "ink": [
+    25,
+    45,
+    150
+   ],
+   "double_strike": false,
+   "font": "PatrickHand-Regular.ttf",
+   "size": 33.45,
+   "pen_on_print": 0.0
+  },
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -2.767,
+   "center": [
+    271.484,
+    1317.024
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.48,
+   "print_lum": 51.0,
+   "row_px_estimate": 23.878,
+   "faint": false,
+   "size_mm": [
+    68.691,
+    102.108
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.161,
+   "title_on_print": 0.413,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.997
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    928.265,
+    1859.554,
+    1150.472,
+    1948.437
+   ],
+   "width": 222.206,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.065,
+    252.945,
+    247.986
+   ],
+   "grain": 0.012,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.01,
+    "bow": 0.697,
+    "lift": 0.118
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.068,
+   "gradient_angle": 258.073,
+   "vignette": 0.031,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.28,
+    "strength": 0.183
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.971
+   ],
+   "white": 205.849,
+   "black": 52.166,
+   "gamma": 1.102,
+   "glare": null
+  },
+  "text_row_px": 22.412,
+  "text_px": 8.538,
+  "photo_px_per_mm": 3.967,
+  "camera": {
+   "blur_sigma": 0.691,
+   "blur_cap": 0.776,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.892,
+   "sharpen_radius": 1.364,
+   "sharpen_percent": 49
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 79,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.93,
+   "skew_deg": 1.588,
+   "perspective": {
+    "amount": 0.028,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     100.093,
+     931.793
+    ],
+    [
+     48.113,
+     75.231
+    ],
+    [
+     1248.057,
+     44.804
+    ],
+    [
+     1250.729,
+     900.98
+    ]
+   ]
+  }
+ }
+}

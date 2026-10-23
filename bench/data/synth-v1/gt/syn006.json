@@ -1,0 +1,347 @@
+{
+ "id": "syn006",
+ "template": "gst_modern",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "XIII/267, Near Panchayath Office",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "9721522450",
+  "gstin": "32EKVPU7902I1ZG",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "GST/7685/7882",
+ "invoice_number_printed": "GST/7685/26-27",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28/08/26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 11,
+   "unit": "ML",
+   "rate": 25,
+   "tax_percent": 0,
+   "taxable": 275.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 275.0,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 8,
+   "unit": "L",
+   "rate": 75.75,
+   "tax_percent": 0,
+   "taxable": 606.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 606.0,
+   "mrp": null
+  },
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 10,
+   "unit": "Nos",
+   "rate": 308,
+   "tax_percent": 12,
+   "taxable": 3080.0,
+   "cgst": 184.8,
+   "sgst": 184.8,
+   "amount": 3080.0,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 36,
+   "unit": "L",
+   "rate": 66,
+   "tax_percent": 0,
+   "taxable": 2376.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2376.0,
+   "mrp": null
+  },
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 88,
+   "unit": "500g",
+   "rate": 28,
+   "tax_percent": 5,
+   "taxable": 2464.0,
+   "cgst": 61.6,
+   "sgst": 61.6,
+   "amount": 2464.0,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 38,
+   "unit": "Nos",
+   "rate": 85,
+   "tax_percent": 5,
+   "taxable": 3230.0,
+   "cgst": 80.75,
+   "sgst": 80.75,
+   "amount": 3230.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 40,
+   "unit": "Nos",
+   "rate": 57,
+   "tax_percent": 12,
+   "taxable": 2280.0,
+   "cgst": 136.8,
+   "sgst": 136.8,
+   "amount": 2280.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 43,
+   "unit": "Nos",
+   "rate": 13,
+   "tax_percent": 5,
+   "taxable": 559.0,
+   "cgst": 13.98,
+   "sgst": 13.98,
+   "amount": 559.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 29,
+   "unit": "400g",
+   "rate": 42,
+   "tax_percent": 5,
+   "taxable": 1218.0,
+   "cgst": 30.45,
+   "sgst": 30.45,
+   "amount": 1218.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 16088.0,
+  "cgst": 508.38,
+  "sgst": 508.38,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 17104.76
+ },
+ "amount_in_words": "INR Seventeen Thousand One Hundred Four and Seventy Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "GST/7685/26-27",
+   "new": "GST/7685/7882"
+  },
+  "quantity": null
+ },
+ "notes": [
+  "BIL-690"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 7.32,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": {
+   "printed": "GST/7685/26-27",
+   "new": "GST/7685/7882",
+   "where": "below",
+   "box": [
+    345,
+    416,
+    560,
+    450
+   ],
+   "ink": [
+    25,
+    45,
+    150
+   ],
+   "double_strike": false,
+   "font": "Kalam-Regular.ttf",
+   "size": 32.94,
+   "pen_on_print": 0.0
+  },
+  "notes": [
+   {
+    "text": "BIL-690",
+    "box": [
+     841.628,
+     181.0,
+     1012.628,
+     316.0
+    ],
+    "angle": -26.622,
+    "size": 40.8,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  "signature": {
+   "box": [
+    1074.156,
+    140.405,
+    1227.883,
+    201.895
+   ],
+   "width": 153.726,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.63,
+    240.76,
+    223.699
+   ],
+   "grain": 0.008,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.49,
+     "tilt": -0.035,
+     "depth": 0.067,
+     "width_mm": 0.677,
+     "panel_step": 0.05
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.015,
+    "bow": 0.547,
+    "lift": 0.477
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "dark wood",
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.156,
+   "gradient_angle": 262.709,
+   "vignette": 0.129,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.283,
+    "strength": 0.186
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.02,
+    1.0,
+    0.93
+   ],
+   "white": 206.73,
+   "black": 50.692,
+   "gamma": 1.066,
+   "glare": null
+  },
+  "text_row_px": 21.735,
+  "text_px": 8.482,
+  "photo_px_per_mm": 3.88,
+  "camera": {
+   "blur_sigma": 0.771,
+   "blur_cap": 0.771,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.937,
+   "sharpen_radius": 0.869,
+   "sharpen_percent": 33
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 65,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.909,
+   "skew_deg": -4.421,
+   "perspective": {
+    "amount": 0.046,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     137.34,
+     24.754
+    ],
+    [
+     949.301,
+     110.043
+    ],
+    [
+     891.492,
+     1231.995
+    ],
+    [
+     46.36,
+     1177.844
+    ]
+   ]
+  }
+ }
+}

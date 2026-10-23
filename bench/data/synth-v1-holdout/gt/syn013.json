@@ -1,0 +1,362 @@
+{
+ "id": "syn013",
+ "template": "tally",
+ "supplier_kind": "fruit",
+ "supplier": {
+  "name": "NKA FRUITS",
+  "address_lines": [
+   "XIII/259, Near Bus Stand",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "9262632026",
+  "gstin": "32HQJPI1235G1Z4",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "EKM/2026/1822",
+ "invoice_number_printed": "EKM/2026/1822",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-08-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "NJALI POOVAN",
+   "hsn": "0803",
+   "quantity": 15.19,
+   "unit": "KG",
+   "rate": 108,
+   "tax_percent": 0,
+   "taxable": 1640.52,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1640.52,
+   "mrp": null
+  },
+  {
+   "description": "PAPPAYA",
+   "hsn": "0807",
+   "quantity": 12.39,
+   "unit": "KG",
+   "rate": 33.06,
+   "tax_percent": 0,
+   "taxable": 409.61,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 409.61,
+   "mrp": null
+  },
+  {
+   "description": "NENDRAN BANANA",
+   "hsn": "0803",
+   "quantity": 17,
+   "unit": "KG",
+   "rate": 60,
+   "tax_percent": 0,
+   "taxable": 1020.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1020.0,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA GOLDEN APPLE",
+   "hsn": "0808",
+   "quantity": 7,
+   "unit": "PACK",
+   "rate": 69.5,
+   "tax_percent": 0,
+   "taxable": 486.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 486.5,
+   "mrp": null
+  },
+  {
+   "description": "THAI KOYYA (GUAVA)",
+   "hsn": "0804",
+   "quantity": 22,
+   "unit": "KG",
+   "rate": 93,
+   "tax_percent": 0,
+   "taxable": 2046.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2046.0,
+   "mrp": null
+  },
+  {
+   "description": "CAVENDISH BANANA",
+   "hsn": "0803",
+   "quantity": 22.53,
+   "unit": "KG",
+   "rate": 38,
+   "tax_percent": 0,
+   "taxable": 856.14,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 856.14,
+   "mrp": null
+  },
+  {
+   "description": "MANGO BANGANAPALLI",
+   "hsn": "0804",
+   "quantity": 17.327,
+   "unit": "KG",
+   "rate": 98,
+   "tax_percent": 0,
+   "taxable": 1698.05,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1698.05,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA APPLE",
+   "hsn": "0808",
+   "quantity": 23.49,
+   "unit": "KG",
+   "rate": 178.5,
+   "tax_percent": 0,
+   "taxable": 4192.97,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4192.97,
+   "mrp": null
+  },
+  {
+   "description": "GRAPES SEEDLESS",
+   "hsn": "0806",
+   "quantity": 27.8,
+   "unit": "KG",
+   "rate": 130.25,
+   "tax_percent": 0,
+   "taxable": 3620.95,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3620.95,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 15970.74,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.26,
+  "grand_total": 15971.0
+ },
+ "amount_in_words": "Rupees Fifteen Thousand Nine Hundred and Seventy One Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 622"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.75,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 622",
+    "box": [
+     155.399,
+     78.725,
+     388.399,
+     168.725
+    ],
+    "angle": -1.684,
+    "size": 60.025,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 9.159,
+   "center": [
+    707.51,
+    1710.067
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.89,
+   "print_lum": 32.0,
+   "row_px_estimate": 12.662,
+   "faint": false,
+   "size_mm": [
+    69.311,
+    103.029
+   ],
+   "fills": {
+    "received": "Rakhi",
+    "date": "26/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.002,
+   "title_on_print": 0.005,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    248.964,
+    250.119,
+    247.203
+   ],
+   "grain": 0.012,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.536,
+     "tilt": 0.042,
+     "depth": 0.121,
+     "width_mm": 0.874,
+     "panel_step": 0.033
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.013,
+    "bow": 0.407,
+    "lift": -0.151
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.174,
+   "gradient_angle": 238.004,
+   "vignette": 0.058,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.424,
+    "strength": 0.217
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.997,
+    1.0,
+    1.012
+   ],
+   "white": 200.149,
+   "black": 57.672,
+   "gamma": 0.987,
+   "glare": null
+  },
+  "text_row_px": 12.49,
+  "text_px": 12.49,
+  "photo_px_per_mm": 4.209,
+  "camera": {
+   "blur_sigma": 0.446,
+   "blur_cap": 0.446,
+   "defocus": {
+    "sigma_far": 0.446,
+    "angle": 285.209
+   },
+   "motion": null,
+   "noise_sd": 3.673,
+   "sharpen_radius": 0.988,
+   "sharpen_percent": 33
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 74,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.986,
+   "skew_deg": 3.433,
+   "perspective": {
+    "amount": 0.048,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     -14.948,
+     53.363
+    ],
+    [
+     870.2,
+     -10.449
+    ],
+    [
+     921.159,
+     1235.337
+    ],
+    [
+     83.585,
+     1319.747
+    ]
+   ]
+  }
+ }
+}
