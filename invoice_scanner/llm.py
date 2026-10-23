@@ -60,10 +60,10 @@ class LLM:
             "per_call": list(self.usage),
         }
 
-    def _record(self, step, prompt_tokens, completion_tokens, cost, provider):
+    def _record(self, step, prompt_tokens, completion_tokens, cost, provider, finish_reason=None):
         self.usage.append({"step": step, "prompt_tokens": prompt_tokens or 0,
                            "completion_tokens": completion_tokens or 0, "cost_usd": cost or 0,
-                           "provider": provider})
+                           "provider": provider, "finish_reason": finish_reason})
 
     def _openrouter(self, prompt, img, schema, max_tokens, step, attempts=7):
         key = os.environ.get("OPENROUTER_API_KEY")
@@ -91,7 +91,8 @@ class LLM:
                 with urllib.request.urlopen(req, timeout=300, context=_SSL_CTX) as r:
                     resp = json.loads(r.read())
                 u = resp.get("usage") or {}
-                self._record(step, u.get("prompt_tokens"), u.get("completion_tokens"), u.get("cost"), resp.get("provider"))
+                self._record(step, u.get("prompt_tokens"), u.get("completion_tokens"), u.get("cost"), resp.get("provider"),
+                             resp["choices"][0].get("finish_reason"))
                 return resp["choices"][0]["message"]["content"] or ""
             except urllib.error.HTTPError as e:
                 detail = e.read()[:300]
@@ -114,5 +115,5 @@ class LLM:
         req = urllib.request.Request(config.OLLAMA_URL, json.dumps(body).encode(), {"Content-Type": "application/json"})
         with urllib.request.urlopen(req, timeout=900) as r:
             resp = json.loads(r.read())
-        self._record(step, resp.get("prompt_eval_count"), resp.get("eval_count"), 0, "ollama")
+        self._record(step, resp.get("prompt_eval_count"), resp.get("eval_count"), 0, "ollama", resp.get("done_reason"))
         return resp["message"]["content"]

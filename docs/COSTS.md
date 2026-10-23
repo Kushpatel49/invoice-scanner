@@ -1,22 +1,23 @@
 # Costs
 
-All figures are measured on the 15 evaluation bills with `nvidia/nemotron-3.5-super-vl` (paid) on OpenRouter. Rupee values assume ₹88/USD; OpenRouter bills in USD.
+All figures are measured with `nvidia/nemotron-3.5-super-vl` (paid) on OpenRouter, on the 100-bill held-out benchmark with the final code (see [BENCHMARK.md](BENCHMARK.md)). Rupee values assume ₹88/USD; OpenRouter bills in USD.
 
 The cost of each model call is read from OpenRouter's response (`usage.cost`), and per-bill costs are stored in `_meta.usage`. In testing, the sum of those per-call costs matched the account balance change to within $0.000002. (The account total takes 2–3 minutes to catch up after a run.)
 
 ## Per bill
 
-| | Calls | Input tokens | Output tokens | Cost |
-|---|---|---|---|---|
-| Cheapest (simple printed bill) | 3 | ~4,300 | ~470 | ₹0.055 |
-| **Average** | **4.5** | **~7,300** | **~800** | **₹0.10** |
-| Most expensive (handwritten, no GSTIN, or a loop) | 6–7 | ~10,000–11,500 | up to ~4,600 | ₹0.21–0.26 |
+| | Calls | Cost |
+|---|---|---|
+| Short, clean printed bill (header, zoomed header, one item read) | 3 | ~₹0.07 |
+| **Median** | 4 | **₹0.114** |
+| **Average** | ~5 | **₹0.154** |
+| Long dot-matrix sheet (second read + zoomed strips) or a think-aloud reply | 6–8 | ₹0.30–0.45 |
 
 | Volume | Cost |
 |---|---|
-| 100 bills | ~₹10 |
-| 1,000 bills | ~₹100 |
-| 50 bills/day for a month | ~₹150 |
+| 100 bills | ~₹15 |
+| 1,000 bills | ~₹154 |
+| 50 bills/day for a month | ~₹230 |
 
 Reproduce with:
 
@@ -26,15 +27,29 @@ python tools/cost_report.py results --inr 88 --csv cost_report.csv
 
 ## Where the money goes
 
-| Step | When | Cost each |
-|---|---|---|
-| Header + totals | every bill | ₹0.019 |
-| Line items | every bill | ₹0.025–0.035 (scales with row count) |
-| Strike-through check | every bill | ₹0.013 |
-| GSTIN letterhead crop | 0–3 per bill (3 when no GSTIN exists) | ₹0.019 |
-| Line-item re-read | only when the arithmetic fails | ₹0.02–0.04 |
+Measured on the held-out set:
 
-Input tokens are about 90% of the total: each call re-sends the image (about 1,300 tokens for a 1280×960 photo; about 1,900 for an upscaled crop).
+| Step | When | Calls / 100 bills | Cost each | Share |
+|---|---|---|---|---|
+| Item table, first read | every bill | 100 | ₹0.043 | 28% |
+| Zoomed strips | tables > 15 rows, or rows still failing | 60 (on about 20 bills) | ₹0.053 | 21% |
+| Header + totals | every bill | 100 | ₹0.026 | 17% |
+| Zoomed header (second read + strike-out check) | every bill | 100 | ₹0.025 | 16% |
+| Item table, second (verbatim) read | when the first read is in doubt | 47 | ₹0.035 | 11% |
+| GSTIN corner crops | when no GSTIN is confirmed | 58 | ₹0.019 | 7% |
+
+- **Input tokens dominate.** Each call re-sends the image: about 1,700 tokens for a full photo, and 2,500–3,100 for an upscaled crop or strip.
+- **Think-aloud replies are waste.** About 8% of first item reads think aloud until the 4,096-token limit, costing about ₹0.14 each. See [ROADMAP.md](ROADMAP.md).
+
+## What the accuracy work cost
+
+| | ₹/bill | Rows exactly right (dev) | Silent errors (dev) |
+|---|---|---|---|
+| Before the benchmark | 0.108 | 83.2% | 17 |
+| Exact arithmetic + header consensus | 0.111 | 90.8% | 0 |
+| + second table read, deskew, zoomed strips | 0.155 | 93.8–95.7% | 0 |
+
+The safety work (zero silent errors) cost almost nothing. The pricing work (the extra reads) added about ₹0.045 per bill, about ₹45 per 1,000 bills, for about 3–5 more points of rows exactly right and roughly 10 more fully correct bills per 100. The extra reads are gated, so short clean bills don't pay for them.
 
 ## Provider choice
 
@@ -72,4 +87,6 @@ curl -s https://openrouter.ai/api/v1/models/nvidia/nemotron-3.5-super-vl/endpoin
 | Fold the strike-through check into the header | ₹0.013 | Measured: misses every time | Rejected |
 | Smaller images | up to ~35% | Handwriting / tiny print degrade first | Rejected |
 
-At about ₹100 per 1,000 bills, one wrong bill reaching the ERP costs more in staff time than all of these savings combined. Accuracy comes first.
+| Stop first item reads thinking aloud (system-message rules or a JSON-schema items format) | ~₹0.01 average | Needs a benchmark A/B | Open ([ROADMAP](ROADMAP.md)) |
+
+At about ₹154 per 1,000 bills, one wrong bill reaching the ERP costs more in staff time than all of these savings combined. Accuracy comes first.
