@@ -1,0 +1,319 @@
+{
+ "id": "syn054",
+ "template": "gst_modern",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "SEA KING FROZEN FOODS",
+  "address_lines": [
+   "Door No. 55/306-B, Near Railway Station",
+   "Angamaly, Kerala - 683572"
+  ],
+  "phone": "9856456206",
+  "gstin": "32NYVFB5396R1ZP",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "2473",
+ "invoice_number_printed": "2473",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-Aug-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 75,
+   "unit": "Nos",
+   "rate": 340,
+   "tax_percent": 5,
+   "taxable": 25500.0,
+   "cgst": 637.5,
+   "sgst": 637.5,
+   "amount": 25500.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 33,
+   "unit": "KGS",
+   "rate": 261,
+   "tax_percent": 5,
+   "taxable": 8613.0,
+   "cgst": 215.33,
+   "sgst": 215.33,
+   "amount": 8613.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 30,
+   "unit": "KGS",
+   "rate": 376,
+   "tax_percent": 5,
+   "taxable": 11280.0,
+   "cgst": 282.0,
+   "sgst": 282.0,
+   "amount": 11280.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 160,
+   "tax_percent": 5,
+   "taxable": 1920.0,
+   "cgst": 48.0,
+   "sgst": 48.0,
+   "amount": 1920.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 91,
+   "unit": "Nos",
+   "rate": 156.07,
+   "tax_percent": 5,
+   "taxable": 14202.37,
+   "cgst": 355.06,
+   "sgst": 355.06,
+   "amount": 14202.37,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 18,
+   "unit": "Nos",
+   "rate": 182,
+   "tax_percent": 18,
+   "taxable": 3276.0,
+   "cgst": 294.84,
+   "sgst": 294.84,
+   "amount": 3276.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 64791.37,
+  "cgst": 1832.73,
+  "sgst": 1832.73,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.17,
+  "grand_total": 68457.0
+ },
+ "amount_in_words": "Sixty Eight Thousand Four Hundred and Fifty Seven Rupees Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-651"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.267,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-651",
+    "box": [
+     1097.992,
+     149.5,
+     1384.992,
+     308.5
+    ],
+    "angle": -8.725,
+    "size": 76.273,
+    "font": "Caveat.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": -16.283,
+   "center": [
+    337.968,
+    1165.569
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.48,
+   "print_lum": 30.0,
+   "row_px_estimate": 24.661,
+   "faint": false,
+   "size_mm": [
+    70.435,
+    104.701
+   ],
+   "fills": {
+    "store_name": "TPRA",
+    "received": "Neethu",
+    "name": "Neethu",
+    "date": "29/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.136,
+   "title_on_print": 0.344,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.998
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1122.303,
+    1333.567,
+    1271.562,
+    1393.271
+   ],
+   "width": 149.259,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    251.606,
+    251.365,
+    246.992
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.007,
+    "bow": 0.658,
+    "lift": 0.31
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "black table",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.138,
+   "gradient_angle": 334.163,
+   "vignette": 0.09,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.346,
+    "strength": 0.153
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.003,
+    1.0,
+    0.951
+   ],
+   "white": 199.387,
+   "black": 33.917,
+   "gamma": 0.956,
+   "glare": {
+    "center": [
+     0.842,
+     0.755
+    ],
+    "radius": [
+     0.086,
+     0.145
+    ],
+    "strength": 0.339
+   }
+  },
+  "text_row_px": 24.445,
+  "text_px": 10.476,
+  "photo_px_per_mm": 4.229,
+  "camera": {
+   "blur_sigma": 0.779,
+   "blur_cap": 0.873,
+   "defocus": null,
+   "motion": {
+    "length_px": 1.397,
+    "angle": 142.171
+   },
+   "noise_sd": 3.409,
+   "sharpen_radius": 1.346,
+   "sharpen_percent": 36
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 67,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.991,
+   "skew_deg": -1.649,
+   "perspective": {
+    "amount": 0.015,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     1292.502,
+     40.78
+    ],
+    [
+     1259.007,
+     927.886
+    ],
+    [
+     -8.322,
+     903.865
+    ],
+    [
+     11.515,
+     -2.043
+    ]
+   ]
+  }
+ }
+}

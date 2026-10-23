@@ -1,0 +1,292 @@
+{
+ "id": "syn044",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "HYDRO HARVEST FARMS",
+  "address_lines": [
+   "P59/11, Near Bus Stand",
+   "Kakkanad, Kerala - 682030"
+  ],
+  "phone": "9081522025",
+  "gstin": null,
+  "fssai": "13932689580456",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh, Kakkanad"
+ },
+ "invoice_number": "5266",
+ "invoice_number_printed": "5266",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BOK CHOY",
+   "hsn": "0704",
+   "quantity": 10,
+   "unit": "Units",
+   "rate": 48.0,
+   "tax_percent": 0,
+   "taxable": 480.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 480.0,
+   "mrp": null
+  },
+  {
+   "description": "CHERRY TOMATO",
+   "hsn": "0702",
+   "quantity": 1,
+   "unit": "Units",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 59.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 59.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 539.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 539.0
+ },
+ "amount_in_words": "Five Hundred Thirty Nine INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 1,
+   "printed": 1,
+   "new": 1
+  }
+ },
+ "notes": [
+  "Bill-660"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 6.634,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-660",
+    "box": [
+     556.88,
+     0.0,
+     822.88,
+     124.0
+    ],
+    "angle": -6.706,
+    "size": 63.34,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -38.162,
+   "center": [
+    496.02,
+    797.877
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.849,
+   "print_lum": 39.0,
+   "row_px_estimate": 47.251,
+   "faint": false,
+   "size_mm": [
+    77.148,
+    114.68
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Akhil",
+    "name": "Akhil",
+    "date": "28/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.132,
+   "title_on_print": 0.335,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.001,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    383.614,
+    1320.65,
+    506.15,
+    1369.664
+   ],
+   "width": 122.536,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.94,
+    247.279,
+    246.244
+   ],
+   "grain": 0.009,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.372,
+     "tilt": -0.04,
+     "depth": 0.076,
+     "width_mm": 1.314,
+     "panel_step": 0.041
+    },
+    {
+     "horizontal": true,
+     "pos": 0.638,
+     "tilt": -0.027,
+     "depth": 0.127,
+     "width_mm": 1.442,
+     "panel_step": 0.054
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.004,
+    "bow": -0.715,
+    "lift": 0.718
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "keyboard": {
+    "side": "top",
+    "depth": 0.251
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.076,
+   "gradient_angle": 241.607,
+   "vignette": 0.102,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.218,
+    "strength": 0.165
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.02,
+    1.0,
+    0.971
+   ],
+   "white": 214.675,
+   "black": 46.134,
+   "gamma": 0.903,
+   "glare": {
+    "center": [
+     0.917,
+     0.792
+    ],
+    "radius": [
+     0.217,
+     0.078
+    ],
+    "strength": 0.243
+   }
+  },
+  "text_row_px": 42.574,
+  "text_px": 26.608,
+  "photo_px_per_mm": 5.043,
+  "camera": {
+   "blur_sigma": 0.731,
+   "blur_cap": 1.233,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.858,
+   "sharpen_radius": 1.525,
+   "sharpen_percent": 30
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 76,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.901,
+   "skew_deg": -0.793,
+   "perspective": {
+    "amount": 0.023,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     91.269,
+     60.405
+    ],
+    [
+     928.441,
+     49.641
+    ],
+    [
+     901.408,
+     1210.064
+    ],
+    [
+     91.778,
+     1204.152
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,351 @@
+{
+ "id": "syn099",
+ "template": "tally",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "PERIYAR VEGETABLE COMPANY",
+  "address_lines": [
+   "Door No. 62/480-B, Near Bus Stand",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "8335203216",
+  "gstin": "32GNHFQ6986F1Z0",
+  "fssai": "16980331036483",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "COK26-27/1863",
+ "invoice_number_printed": "COK26-27/1863",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28-Aug-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ASH GOURD",
+   "hsn": "0709",
+   "quantity": 29,
+   "unit": "KGS",
+   "rate": 28,
+   "tax_percent": 0,
+   "taxable": 812.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 812.0,
+   "mrp": null
+  },
+  {
+   "description": "TAPIOCA",
+   "hsn": "0714",
+   "quantity": 21.265,
+   "unit": "KGS",
+   "rate": 33.0,
+   "tax_percent": 0,
+   "taxable": 701.75,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 701.75,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT",
+   "hsn": "0801",
+   "quantity": 8,
+   "unit": "NOS",
+   "rate": 30,
+   "tax_percent": 0,
+   "taxable": 240.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 240.0,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 12,
+   "unit": "KGS",
+   "rate": 45,
+   "tax_percent": 0,
+   "taxable": 540.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 540.0,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM GREEN",
+   "hsn": "0709",
+   "quantity": 27.6,
+   "unit": "KGS",
+   "rate": 88,
+   "tax_percent": 0,
+   "taxable": 2428.8,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2428.8,
+   "mrp": null
+  },
+  {
+   "description": "CARROT OOTY",
+   "hsn": "0706",
+   "quantity": 22.4,
+   "unit": "KGS",
+   "rate": 65.75,
+   "tax_percent": 0,
+   "taxable": 1472.8,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1472.8,
+   "mrp": null
+  },
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 26.66,
+   "unit": "KGS",
+   "rate": 62,
+   "tax_percent": 0,
+   "taxable": 1652.92,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1652.92,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 33,
+   "unit": "UNT",
+   "rate": 15,
+   "tax_percent": 0,
+   "taxable": 495.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 495.0,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER LEAVES",
+   "hsn": "0709",
+   "quantity": 24.2,
+   "unit": "KGS",
+   "rate": 107.25,
+   "tax_percent": 0,
+   "taxable": 2595.45,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2595.45,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 10938.72,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 10938.72
+ },
+ "amount_in_words": "Ten Thousand Nine Hundred Thirty Eight Rupees and Seventy Two Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-660"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.637,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-660",
+    "box": [
+     329.943,
+     23.821,
+     629.943,
+     157.821
+    ],
+    "angle": -5.701,
+    "size": 70.844,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 6.263,
+   "center": [
+    453.718,
+    1656.65
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.797,
+   "print_lum": 48.0,
+   "row_px_estimate": 12.292,
+   "faint": false,
+   "size_mm": [
+    76.591,
+    113.851
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Rahim",
+    "date": "28/8/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.012,
+   "title_on_print": 0.029,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  "signature": {
+   "box": [
+    1310.303,
+    1936.897,
+    1449.808,
+    1992.7
+   ],
+   "width": 139.506,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.325,
+    249.168,
+    245.685
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": -0.298,
+    "lift": -0.076
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "wood",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.091,
+   "gradient_angle": 240.806,
+   "vignette": 0.135,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.933
+   ],
+   "white": 211.684,
+   "black": 22.034,
+   "gamma": 1.123,
+   "glare": null
+  },
+  "text_row_px": 11.853,
+  "text_px": 11.853,
+  "photo_px_per_mm": 4.115,
+  "camera": {
+   "blur_sigma": 0.266,
+   "blur_cap": 0.423,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.644,
+   "sharpen_radius": 1.004,
+   "sharpen_percent": 37
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 79,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.964,
+   "skew_deg": -0.796,
+   "perspective": {
+    "amount": 0.011,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     64.177,
+     18.703
+    ],
+    [
+     939.267,
+     36.618
+    ],
+    [
+     920.767,
+     1256.758
+    ],
+    [
+     48.904,
+     1250.988
+    ]
+   ]
+  }
+ }
+}

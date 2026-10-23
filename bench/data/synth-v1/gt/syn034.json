@@ -1,0 +1,335 @@
+{
+ "id": "syn034",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "A.K.S. TRADERS",
+  "address_lines": [
+   "P24/31, Wholesale Market",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8720175201",
+  "gstin": null,
+  "fssai": null,
+  "email": "a.k.s@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh KKD"
+ },
+ "invoice_number": "7621",
+ "invoice_number_printed": "7621",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "WHITE EGG PACK 30",
+   "hsn": "0407",
+   "quantity": 23,
+   "unit": "Tray",
+   "rate": 214.0,
+   "tax_percent": 0,
+   "taxable": 4922.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4922.0,
+   "mrp": null
+  },
+  {
+   "description": "DUCK EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 57,
+   "unit": "Pack",
+   "rate": 88.0,
+   "tax_percent": 0,
+   "taxable": 5016.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5016.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 58,
+   "unit": "Pack",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 3306.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3306.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 25,
+   "unit": "Pack",
+   "rate": 112.0,
+   "tax_percent": 0,
+   "taxable": 2800.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2800.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 9,
+   "unit": "Pack",
+   "rate": 102.0,
+   "tax_percent": 0,
+   "taxable": 918.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 918.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 30,
+   "unit": "Pack",
+   "rate": 56.0,
+   "tax_percent": 0,
+   "taxable": 1680.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1680.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 40,
+   "unit": "Pack",
+   "rate": 109.0,
+   "tax_percent": 0,
+   "taxable": 4360.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4360.0,
+   "mrp": null
+  },
+  {
+   "description": "QUAIL EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 94,
+   "unit": "Pack",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 5076.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5076.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 88,
+   "unit": "Pack",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 4488.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4488.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 32566.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 32566.0
+ },
+ "amount_in_words": "RUPEES THIRTY TWO THOUSAND FIVE HUNDRED AND SIXTY SIX ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "yellow",
+  "px_per_mm": 6.209,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 8.294,
+   "center": [
+    276.678,
+    1127.282
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.847,
+   "print_lum": 35.0,
+   "row_px_estimate": 41.29,
+   "faint": false,
+   "size_mm": [
+    69.869,
+    103.859
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Vishnu",
+    "date": "25/8/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "free",
+   "over_table": true,
+   "on_numbers": 0.129,
+   "title_on_print": 0.319,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    779.064,
+    231.305,
+    961.442,
+    304.256
+   ],
+   "width": 182.378,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    250.541,
+    237.511,
+    166.422
+   ],
+   "grain": 0.012,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.308,
+     "tilt": -0.003,
+     "depth": 0.13,
+     "width_mm": 1.4,
+     "panel_step": 0.038
+    }
+   ],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "keyboard": {
+    "side": "left",
+    "depth": 0.258
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.054,
+   "gradient_angle": 223.936,
+   "vignette": 0.084,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.38,
+    "strength": 0.104
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.931
+   ],
+   "white": 211.989,
+   "black": 43.477,
+   "gamma": 0.905,
+   "glare": null
+  },
+  "text_row_px": 39.071,
+  "text_px": 27.111,
+  "photo_px_per_mm": 4.951,
+  "camera": {
+   "blur_sigma": 0.46,
+   "blur_cap": 1.21,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.34,
+   "sharpen_radius": 1.484,
+   "sharpen_percent": 61
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 80,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.946,
+   "skew_deg": 0.793,
+   "perspective": {
+    "amount": 0.006,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     69.263,
+     48.806
+    ],
+    [
+     917.908,
+     31.48
+    ],
+    [
+     937.244,
+     1246.848
+    ],
+    [
+     86.121,
+     1251.677
+    ]
+   ]
+  }
+ }
+}

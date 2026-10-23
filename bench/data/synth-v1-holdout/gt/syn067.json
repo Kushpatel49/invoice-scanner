@@ -1,0 +1,264 @@
+{
+ "id": "syn067",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "KAIRALI AGRO TRADERS",
+  "address_lines": [
+   "Door No. 44/51-C, Banerji Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "8043636739",
+  "gstin": null,
+  "fssai": "19489447605334",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "8130",
+ "invoice_number_printed": "8130",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 6,
+   "unit": "KGS",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 246.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 246.0,
+   "mrp": null
+  },
+  {
+   "description": "BEANS BUSH",
+   "hsn": "0708",
+   "quantity": 21.7,
+   "unit": "KGS",
+   "rate": 116.0,
+   "tax_percent": 0,
+   "taxable": 2517.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2517.2,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 2,
+   "unit": "UNT",
+   "rate": 12.0,
+   "tax_percent": 0,
+   "taxable": 24.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 24.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 2787.2,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 2787.2
+ },
+ "amount_in_words": "Two Thousand Seven Hundred Eighty Seven Rupees and Twenty Paise Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-633"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "green",
+  "px_per_mm": 6.454,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-633",
+    "box": [
+     546.869,
+     0.0,
+     759.869,
+     99.0
+    ],
+    "angle": -6.742,
+    "size": 50.4,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 29.523,
+   "center": [
+    323.351,
+    1028.734
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.863,
+   "print_lum": 31.0,
+   "row_px_estimate": 49.916,
+   "faint": false,
+   "size_mm": [
+    74.297,
+    110.442
+   ],
+   "fills": {
+    "store_name": "Tripunithura",
+    "received": "Bibin",
+    "name": "Bibin",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.004,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.004,
+   "inside_page": 0.984
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    635.09,
+    109.633,
+    792.755,
+    172.699
+   ],
+   "width": 157.665,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    211.037,
+    238.946,
+    205.256
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "black table",
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.07,
+   "gradient_angle": 0.307,
+   "vignette": 0.132,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.42,
+    "strength": 0.052
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.011,
+    1.0,
+    0.939
+   ],
+   "white": 214.655,
+   "black": 40.151,
+   "gamma": 1.102,
+   "glare": null
+  },
+  "text_row_px": 47.473,
+  "text_px": 27.975,
+  "photo_px_per_mm": 5.471,
+  "camera": {
+   "blur_sigma": 0.34,
+   "blur_cap": 1.337,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.568,
+   "sharpen_radius": 0.834,
+   "sharpen_percent": 67
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 82,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.951,
+   "skew_deg": 0.461,
+   "perspective": {
+    "amount": 0.004,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     29.944,
+     882.341
+    ],
+    [
+     23.018,
+     36.793
+    ],
+    [
+     1239.528,
+     26.046
+    ],
+    [
+     1246.304,
+     874.425
+    ]
+   ]
+  }
+ }
+}

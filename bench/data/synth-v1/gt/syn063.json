@@ -1,0 +1,344 @@
+{
+ "id": "syn063",
+ "template": "gst_modern",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "25/387, Near Panchayath Office",
+   "Kakkanad, Kerala - 682030"
+  ],
+  "phone": "9193195532",
+  "gstin": "32MSKCH6247P1ZP",
+  "fssai": "15930364226963",
+  "email": "arayacherrilfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "TI-93256",
+ "invoice_number_printed": "TI-93256",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 53,
+   "unit": "Nos",
+   "rate": 59.75,
+   "tax_percent": 5,
+   "taxable": 3166.75,
+   "cgst": 79.17,
+   "sgst": 79.17,
+   "amount": 3325.09,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT PUNCHA EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 7,
+   "unit": "Nos",
+   "rate": 71,
+   "tax_percent": 5,
+   "taxable": 497.0,
+   "cgst": 12.43,
+   "sgst": 12.43,
+   "amount": 521.86,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 84,
+   "unit": "Nos",
+   "rate": 73.24,
+   "tax_percent": 5,
+   "taxable": 6152.16,
+   "cgst": 153.8,
+   "sgst": 153.8,
+   "amount": 6459.76,
+   "mrp": null
+  },
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 74,
+   "tax_percent": 5,
+   "taxable": 888.0,
+   "cgst": 22.2,
+   "sgst": 22.2,
+   "amount": 932.4,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT IDLY BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 9,
+   "unit": "Nos",
+   "rate": 58.48,
+   "tax_percent": 5,
+   "taxable": 526.32,
+   "cgst": 13.16,
+   "sgst": 13.16,
+   "amount": 552.64,
+   "mrp": null
+  },
+  {
+   "description": "JAGGERY BALL 1 KG",
+   "hsn": "17011390",
+   "quantity": 7,
+   "unit": "Nos",
+   "rate": 86.5,
+   "tax_percent": 5,
+   "taxable": 605.5,
+   "cgst": 15.14,
+   "sgst": 15.14,
+   "amount": 635.78,
+   "mrp": null
+  },
+  {
+   "description": "ROASTED RAVA 1 KG",
+   "hsn": "11031100",
+   "quantity": 11,
+   "unit": "Nos",
+   "rate": 63,
+   "tax_percent": 5,
+   "taxable": 693.0,
+   "cgst": 17.33,
+   "sgst": 17.33,
+   "amount": 727.66,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT VEG PALAPPAM 1 LTR",
+   "hsn": "21061000",
+   "quantity": 9,
+   "unit": "Nos",
+   "rate": 67,
+   "tax_percent": 5,
+   "taxable": 603.0,
+   "cgst": 15.08,
+   "sgst": 15.08,
+   "amount": 633.16,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 13131.73,
+  "cgst": 328.31,
+  "sgst": 328.31,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.35,
+  "grand_total": 13788.0
+ },
+ "amount_in_words": "Rupees Thirteen Thousand Seven Hundred Eighty Eight Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-636"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.66,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-636",
+    "box": [
+     720.429,
+     2204.0,
+     938.429,
+     2284.0
+    ],
+    "angle": -1.506,
+    "size": 54.4,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 10.771,
+   "center": [
+    313.021,
+    1551.758
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 21.166,
+   "faint": false,
+   "size_mm": [
+    70.069,
+    104.157
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Rakhi",
+    "name": "Rakhi",
+    "date": "24/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.039,
+   "title_on_print": 0.099,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.994
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    295.349,
+    1942.606,
+    515.534,
+    2030.68
+   ],
+   "width": 220.185,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.176,
+    240.161,
+    224.687
+   ],
+   "grain": 0.015,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.327,
+     "tilt": 0.029,
+     "depth": 0.054,
+     "width_mm": 0.897,
+     "panel_step": 0.053
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.003,
+    "bow": -0.943,
+    "lift": 0.622
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.159,
+   "gradient_angle": 230.29,
+   "vignette": 0.061,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.219,
+    "strength": 0.104
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.014,
+    1.0,
+    0.942
+   ],
+   "white": 219.298,
+   "black": 54.694,
+   "gamma": 1.032,
+   "glare": null
+  },
+  "text_row_px": 20.267,
+  "text_px": 8.534,
+  "photo_px_per_mm": 4.085,
+  "camera": {
+   "blur_sigma": 0.658,
+   "blur_cap": 0.724,
+   "defocus": null,
+   "motion": {
+    "length_px": 1.158,
+    "angle": 75.449
+   },
+   "noise_sd": 3.083,
+   "sharpen_radius": 0.996,
+   "sharpen_percent": 59
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 77,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.958,
+   "skew_deg": -0.825,
+   "perspective": {
+    "amount": 0.016,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     1251.055,
+     55.917
+    ],
+    [
+     1231.277,
+     916.009
+    ],
+    [
+     25.01,
+     900.211
+    ],
+    [
+     30.18,
+     31.655
+    ]
+   ]
+  }
+ }
+}

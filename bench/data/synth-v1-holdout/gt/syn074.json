@@ -1,0 +1,284 @@
+{
+ "id": "syn074",
+ "template": "carbon",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "COCHIN FRUIT COMPANY",
+  "address_lines": [
+   "XIII/145, Bypass Junction",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "8586256984",
+  "gstin": "32BREFN7654E2ZD",
+  "fssai": null,
+  "email": "cochin@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "EKM/2026/3662",
+ "invoice_number_printed": "EKM/2026/3662",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01/09/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "RED GLOBE CHINA - 6.5 KG",
+   "hsn": "0806",
+   "quantity": 7,
+   "unit": "Boxes",
+   "rate": 1379,
+   "tax_percent": 0,
+   "taxable": 9653.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9653.0,
+   "mrp": null
+  },
+  {
+   "description": "FUJI APPLE CHINA - 10 KG",
+   "hsn": "0808",
+   "quantity": 11,
+   "unit": "Boxes",
+   "rate": 2931,
+   "tax_percent": 0,
+   "taxable": 32241.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 32241.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 41894.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 41894.0
+ },
+ "amount_in_words": "Rupees Forty One Thousand Eight Hundred Ninety Four Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-640"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 9.114,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-640",
+    "box": [
+     1173.016,
+     14.0,
+     1435.016,
+     153.0
+    ],
+    "angle": 5.157,
+    "size": 79.968,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -12.858,
+   "center": [
+    578.384,
+    1685.806
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.743,
+   "print_lum": 51.0,
+   "row_px_estimate": 25.405,
+   "faint": false,
+   "size_mm": [
+    75.913,
+    112.844
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Anu",
+    "date": "2/9/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.001,
+   "title_on_print": 0.003,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.874,
+    159.387,
+    181.305
+   ],
+   "grain": 0.01,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.534,
+     "tilt": -0.04,
+     "depth": 0.07,
+     "width_mm": 1.303,
+     "panel_step": 0.045
+    },
+    {
+     "horizontal": false,
+     "pos": 0.504,
+     "tilt": -0.005,
+     "depth": 0.053,
+     "width_mm": 0.588,
+     "panel_step": 0.048
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.009,
+    "bow": -0.522,
+    "lift": 0.966
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": "32HWLCZ5002I2ZX",
+  "underlay": {
+   "gstin": "32HWLCZ5002I2ZX",
+   "text": "GSTIN No : 32HWLCZ5002I2ZX",
+   "edge": "top",
+   "text_box_photo": [
+    [
+     171.701,
+     28.227
+    ],
+    [
+     399.025,
+     33.877
+    ],
+    [
+     398.655,
+     47.658
+    ],
+    [
+     171.343,
+     42.02
+    ]
+   ]
+  },
+  "lighting": {
+   "gradient": 0.147,
+   "gradient_angle": 138.527,
+   "vignette": 0.103,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.46,
+    "strength": 0.202
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.005,
+    1.0,
+    0.972
+   ],
+   "white": 212.252,
+   "black": 44.8,
+   "gamma": 0.937,
+   "glare": null
+  },
+  "text_row_px": 32.62,
+  "text_px": 8.635,
+  "photo_px_per_mm": 4.372,
+  "camera": {
+   "blur_sigma": 0.645,
+   "blur_cap": 0.785,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.982,
+   "sharpen_radius": 1.064,
+   "sharpen_percent": 37
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 71,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.955,
+   "skew_deg": -1.22,
+   "perspective": {
+    "amount": 0.012,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     98.472,
+     93.438
+    ],
+    [
+     895.26,
+     107.02
+    ],
+    [
+     871.664,
+     1234.258
+    ],
+    [
+     78.392,
+     1223.971
+    ]
+   ]
+  }
+ }
+}

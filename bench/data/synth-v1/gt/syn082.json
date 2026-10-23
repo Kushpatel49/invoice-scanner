@@ -1,0 +1,305 @@
+{
+ "id": "syn082",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MURALYA DAIRY PRODUCTS PRIVATE LIMITED",
+  "address_lines": [
+   "58/308, Bypass Junction",
+   "Tripunithura, Kerala - 682301"
+  ],
+  "phone": "9388845475",
+  "gstin": "32RMUCV6730Z1ZS",
+  "fssai": "13801084323248",
+  "email": "muralya@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "COK26-27/9208",
+ "invoice_number_printed": "COK26-27/1969",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25-Aug-2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 10,
+   "unit": "ML",
+   "rate": 27,
+   "tax_percent": 0,
+   "taxable": 270.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 270.0,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 41,
+   "unit": "L",
+   "rate": 66.77,
+   "tax_percent": 0,
+   "taxable": 2737.57,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2737.57,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 48,
+   "unit": "Nos",
+   "rate": 10,
+   "tax_percent": 5,
+   "taxable": 480.0,
+   "cgst": 12.0,
+   "sgst": 12.0,
+   "amount": 504.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 3487.57,
+  "cgst": 12.0,
+  "sgst": 12.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 3511.57
+ },
+ "amount_in_words": "RUPEES THREE THOUSAND FIVE HUNDRED AND ELEVEN AND FIFTY SEVEN PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "COK26-27/1969",
+   "new": "COK26-27/9208"
+  },
+  "quantity": null
+ },
+ "notes": [
+  "Bil 657"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.617,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": {
+   "printed": "COK26-27/1969",
+   "new": "COK26-27/9208",
+   "where": "above",
+   "box": [
+    1288,
+    409,
+    1490,
+    440
+   ],
+   "ink": [
+    30,
+    40,
+    135
+   ],
+   "double_strike": false,
+   "font": "PatrickHand-Regular.ttf",
+   "size": 34.275,
+   "pen_on_print": 0.0
+  },
+  "notes": [
+   {
+    "text": "Bil 657",
+    "box": [
+     1110.601,
+     232.019,
+     1323.601,
+     323.019
+    ],
+    "angle": -1.518,
+    "size": 62.421,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 31.917,
+   "center": [
+    1189.504,
+    1804.603
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.869,
+   "print_lum": 26.0,
+   "row_px_estimate": 23.303,
+   "faint": false,
+   "size_mm": [
+    75.877,
+    112.791
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sreeja",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.988
+  },
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1
+   ]
+  },
+  "signature": {
+   "box": [
+    1197.394,
+    116.487,
+    1361.321,
+    182.058
+   ],
+   "width": 163.927,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.446,
+    248.111,
+    245.825
+   ],
+   "grain": 0.01,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.004,
+    "bow": 0.118,
+    "lift": 0.103
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "dark wood",
+   "keyboard": {
+    "side": "top",
+    "depth": 0.185
+   },
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.149,
+   "gradient_angle": 108.751,
+   "vignette": 0.121,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.43,
+    "strength": 0.168
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.012,
+    1.0,
+    0.947
+   ],
+   "white": 221.127,
+   "black": 31.385,
+   "gamma": 1.052,
+   "glare": null
+  },
+  "text_row_px": 22.551,
+  "text_px": 8.591,
+  "photo_px_per_mm": 4.09,
+  "camera": {
+   "blur_sigma": 0.489,
+   "blur_cap": 0.781,
+   "defocus": {
+    "sigma_far": 0.781,
+    "angle": 210.415
+   },
+   "motion": {
+    "length_px": 1.25,
+    "angle": 60.739
+   },
+   "noise_sd": 3.472,
+   "sharpen_radius": 1.248,
+   "sharpen_percent": 70
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 68,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.958,
+   "skew_deg": -2.5,
+   "perspective": {
+    "amount": 0.028,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     3.381,
+     872.013
+    ],
+    [
+     35.285,
+     0.392
+    ],
+    [
+     1265.107,
+     72.576
+    ],
+    [
+     1204.371,
+     930.968
+    ]
+   ]
+  }
+ }
+}

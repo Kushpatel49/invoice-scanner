@@ -1,0 +1,246 @@
+{
+ "id": "syn037",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MURALYA DAIRY PRODUCTS PRIVATE LIMITED",
+  "address_lines": [
+   "P47/25, Temple Road",
+   "Kochi, Kerala - 682016"
+  ],
+  "phone": "9806064382",
+  "gstin": "32CJWCC3002D1ZK",
+  "fssai": "16825006792178",
+  "email": "muralya@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "EKM/2026/2422",
+ "invoice_number_printed": "EKM/2026/2422",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/08/26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 10,
+   "unit": "Nos",
+   "rate": 302.75,
+   "tax_percent": 12,
+   "taxable": 3027.5,
+   "cgst": 181.65,
+   "sgst": 181.65,
+   "amount": 3390.8,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 44,
+   "unit": "Nos",
+   "rate": 54,
+   "tax_percent": 12,
+   "taxable": 2376.0,
+   "cgst": 142.56,
+   "sgst": 142.56,
+   "amount": 2661.12,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 99,
+   "tax_percent": 5,
+   "taxable": 198.0,
+   "cgst": 4.95,
+   "sgst": 4.95,
+   "amount": 207.9,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 44,
+   "unit": "400g",
+   "rate": 45,
+   "tax_percent": 5,
+   "taxable": 1980.0,
+   "cgst": 49.5,
+   "sgst": 49.5,
+   "amount": 2079.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 22,
+   "unit": "ML",
+   "rate": 26.0,
+   "tax_percent": 0,
+   "taxable": 572.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 572.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 8153.5,
+  "cgst": 378.66,
+  "sgst": 378.66,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.18,
+  "grand_total": 8911.0
+ },
+ "amount_in_words": "Rupees Eight Thousand Nine Hundred and Eleven Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-693"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.75,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-693",
+    "box": [
+     610.247,
+     1749.768,
+     892.247,
+     1849.768
+    ],
+    "angle": -0.787,
+    "size": 73.044,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    249.279,
+    244.343,
+    219.369
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.005,
+    "bow": 0.422,
+    "lift": -0.069
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.151,
+   "gradient_angle": 340.85,
+   "vignette": 0.13,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.498,
+    "strength": 0.228
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.013,
+    1.0,
+    0.939
+   ],
+   "white": 189.419,
+   "black": 46.434,
+   "gamma": 0.991,
+   "glare": null
+  },
+  "text_row_px": 23.763,
+  "text_px": 8.977,
+  "photo_px_per_mm": 4.093,
+  "camera": {
+   "blur_sigma": 0.461,
+   "blur_cap": 0.816,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.674,
+   "sharpen_radius": 1.557,
+   "sharpen_percent": 60
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 72,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.959,
+   "skew_deg": -2.789,
+   "perspective": {
+    "amount": 0.02,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     94.993,
+     4.661
+    ],
+    [
+     957.321,
+     70.581
+    ],
+    [
+     901.975,
+     1277.688
+    ],
+    [
+     28.096,
+     1243.452
+    ]
+   ]
+  }
+ }
+}

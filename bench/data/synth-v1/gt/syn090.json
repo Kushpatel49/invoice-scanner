@@ -1,0 +1,423 @@
+{
+ "id": "syn090",
+ "template": "tally",
+ "supplier_kind": "fruit",
+ "supplier": {
+  "name": "AL-AMEEN FRUITS",
+  "address_lines": [
+   "20/812, Near Railway Station",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "7643699094",
+  "gstin": "32COHPI3245Y1Z8",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "GST/7590/26-27",
+ "invoice_number_printed": "GST/7590/26-27",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "THAI KOYYA (GUAVA)",
+   "hsn": "0804",
+   "quantity": 39,
+   "unit": "KG",
+   "rate": 102,
+   "tax_percent": 0,
+   "taxable": 3978.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3978.0,
+   "mrp": null
+  },
+  {
+   "description": "MANGO BANGANAPALLI",
+   "hsn": "0804",
+   "quantity": 22.69,
+   "unit": "KG",
+   "rate": 110,
+   "tax_percent": 0,
+   "taxable": 2495.9,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2495.9,
+   "mrp": null
+  },
+  {
+   "description": "PACHAKAYA (RAW BANANA)",
+   "hsn": "0803",
+   "quantity": 17.2,
+   "unit": "KG",
+   "rate": 50,
+   "tax_percent": 0,
+   "taxable": 860.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 860.0,
+   "mrp": null
+  },
+  {
+   "description": "MOSAMBI",
+   "hsn": "0805",
+   "quantity": 25,
+   "unit": "KG",
+   "rate": 78,
+   "tax_percent": 0,
+   "taxable": 1950.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1950.0,
+   "mrp": null
+  },
+  {
+   "description": "NENDRAN BANANA",
+   "hsn": "0803",
+   "quantity": 11.148,
+   "unit": "KG",
+   "rate": 76,
+   "tax_percent": 0,
+   "taxable": 847.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 847.25,
+   "mrp": null
+  },
+  {
+   "description": "KIRAN WATERMELON",
+   "hsn": "0807",
+   "quantity": 27.12,
+   "unit": "KG",
+   "rate": 19,
+   "tax_percent": 0,
+   "taxable": 515.28,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 515.28,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA APPLE",
+   "hsn": "0808",
+   "quantity": 8.957,
+   "unit": "KG",
+   "rate": 182,
+   "tax_percent": 0,
+   "taxable": 1630.17,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1630.17,
+   "mrp": null
+  },
+  {
+   "description": "CAVENDISH BANANA",
+   "hsn": "0803",
+   "quantity": 5,
+   "unit": "KG",
+   "rate": 36,
+   "tax_percent": 0,
+   "taxable": 180.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 180.0,
+   "mrp": null
+  },
+  {
+   "description": "GRAPES SEEDLESS",
+   "hsn": "0806",
+   "quantity": 8,
+   "unit": "KG",
+   "rate": 84,
+   "tax_percent": 0,
+   "taxable": 672.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 672.0,
+   "mrp": null
+  },
+  {
+   "description": "ANAR",
+   "hsn": "0810",
+   "quantity": 17.2,
+   "unit": "KG",
+   "rate": 176,
+   "tax_percent": 0,
+   "taxable": 3027.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3027.2,
+   "mrp": null
+  },
+  {
+   "description": "SAPOTA",
+   "hsn": "0810",
+   "quantity": 19.1,
+   "unit": "KG",
+   "rate": 93,
+   "tax_percent": 0,
+   "taxable": 1776.3,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1776.3,
+   "mrp": null
+  },
+  {
+   "description": "PAPPAYA",
+   "hsn": "0807",
+   "quantity": 28.147,
+   "unit": "KG",
+   "rate": 32,
+   "tax_percent": 0,
+   "taxable": 900.7,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 900.7,
+   "mrp": null
+  },
+  {
+   "description": "NJALI POOVAN",
+   "hsn": "0803",
+   "quantity": 37,
+   "unit": "KG",
+   "rate": 87,
+   "tax_percent": 0,
+   "taxable": 3219.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3219.0,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA GOLDEN APPLE",
+   "hsn": "0808",
+   "quantity": 72,
+   "unit": "PACK",
+   "rate": 53,
+   "tax_percent": 0,
+   "taxable": 3816.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3816.0,
+   "mrp": null
+  },
+  {
+   "description": "PINEAPPLE",
+   "hsn": "0804",
+   "quantity": 8.11,
+   "unit": "KG",
+   "rate": 60,
+   "tax_percent": 0,
+   "taxable": 486.6,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 486.6,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 15,
+ "totals": {
+  "subtotal": 26354.4,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 26354.4
+ },
+ "amount_in_words": "Twenty Six Thousand Three Hundred Fifty Four INDIAN RUPEES and Forty Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.883,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -5.615,
+   "center": [
+    491.063,
+    1889.629
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 30.0,
+   "row_px_estimate": 10.825,
+   "faint": false,
+   "size_mm": [
+    78.325,
+    116.429
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Akhil",
+    "name": "Akhil",
+    "date": "29/8/26"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.029,
+   "title_on_print": 0.074,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.998
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1011.78,
+    67.737,
+    1246.618,
+    161.672
+   ],
+   "width": 234.838,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.101,
+    245.016,
+    220.405
+   ],
+   "grain": 0.01,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.46,
+     "tilt": -0.003,
+     "depth": 0.059,
+     "width_mm": 1.153,
+     "panel_step": 0.03
+    },
+    {
+     "horizontal": true,
+     "pos": 0.526,
+     "tilt": 0.021,
+     "depth": 0.051,
+     "width_mm": 0.724,
+     "panel_step": 0.042
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.003,
+    "bow": 0.388,
+    "lift": -0.199
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "keyboard": {
+    "side": "left",
+    "depth": 0.249
+   },
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.072,
+   "gradient_angle": 208.649,
+   "vignette": 0.057,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.296,
+    "strength": 0.086
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.025,
+    1.0,
+    0.94
+   ],
+   "white": 221.308,
+   "black": 47.897,
+   "gamma": 1.136,
+   "glare": null
+  },
+  "text_row_px": 10.282,
+  "text_px": 10.282,
+  "photo_px_per_mm": 4.053,
+  "camera": {
+   "blur_sigma": 0.367,
+   "blur_cap": 0.367,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.709,
+   "sharpen_radius": 1.355,
+   "sharpen_percent": 55
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.95,
+   "skew_deg": -1.457,
+   "perspective": {
+    "amount": 0.024,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     94.714,
+     7.397
+    ],
+    [
+     937.546,
+     36.657
+    ],
+    [
+     919.224,
+     1238.848
+    ],
+    [
+     44.565,
+     1236.169
+    ]
+   ]
+  }
+ }
+}

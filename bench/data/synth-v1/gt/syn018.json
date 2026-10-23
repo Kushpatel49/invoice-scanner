@@ -1,0 +1,356 @@
+{
+ "id": "syn018",
+ "template": "carbon",
+ "supplier_kind": "spices",
+ "supplier": {
+  "name": "MALABAR SPICES & MASALA",
+  "address_lines": [
+   "XIII/185, Market Road",
+   "Ernakulam, Kerala - 682011"
+  ],
+  "phone": "7351926291",
+  "gstin": "32MCLFM6905Z1ZT",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "KF/KK/172/26-27",
+ "invoice_number_printed": "KF/KK/172/26-27",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "CHILLI POWDER 500 G",
+   "hsn": "09042211",
+   "quantity": 6,
+   "unit": "Pkt",
+   "rate": 153,
+   "tax_percent": 5,
+   "taxable": 918.0,
+   "cgst": 22.95,
+   "sgst": 22.95,
+   "amount": 963.9,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER POWDER 500 G",
+   "hsn": "09092200",
+   "quantity": 14,
+   "unit": "Pkt",
+   "rate": 93.04,
+   "tax_percent": 5,
+   "taxable": 1302.56,
+   "cgst": 32.56,
+   "sgst": 32.56,
+   "amount": 1367.68,
+   "mrp": null
+  },
+  {
+   "description": "GARAM MASALA 100 G",
+   "hsn": "09109100",
+   "quantity": 5,
+   "unit": "Pkt",
+   "rate": 70,
+   "tax_percent": 5,
+   "taxable": 350.0,
+   "cgst": 8.75,
+   "sgst": 8.75,
+   "amount": 367.5,
+   "mrp": null
+  },
+  {
+   "description": "PEPPER BLACK 250 G",
+   "hsn": "09041140",
+   "quantity": 52,
+   "unit": "Pkt",
+   "rate": 186,
+   "tax_percent": 5,
+   "taxable": 9672.0,
+   "cgst": 241.8,
+   "sgst": 241.8,
+   "amount": 10155.6,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR POWDER 200 G",
+   "hsn": "21039040",
+   "quantity": 2,
+   "unit": "Pkt",
+   "rate": 61.25,
+   "tax_percent": 5,
+   "taxable": 122.5,
+   "cgst": 3.06,
+   "sgst": 3.06,
+   "amount": 128.62,
+   "mrp": null
+  },
+  {
+   "description": "TURMERIC POWDER 500 G",
+   "hsn": "09103030",
+   "quantity": 1,
+   "unit": "Pkt",
+   "rate": 130,
+   "tax_percent": 5,
+   "taxable": 130.0,
+   "cgst": 3.25,
+   "sgst": 3.25,
+   "amount": 136.5,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 12495.06,
+  "cgst": 312.37,
+  "sgst": 312.37,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 13119.8
+ },
+ "amount_in_words": "INR Thirteen Thousand One Hundred Nineteen and Eighty Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-612"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "green",
+  "px_per_mm": 8.562,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-612",
+    "box": [
+     1352.662,
+     34.82,
+     1590.662,
+     156.82
+    ],
+    "angle": 4.385,
+    "size": 72.507,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 13.38,
+   "center": [
+    282.579,
+    1591.528
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.48,
+   "print_lum": 58.0,
+   "row_px_estimate": 21.517,
+   "faint": false,
+   "size_mm": [
+    68.483,
+    101.799
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Sreeja",
+    "date": "25/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.082,
+   "title_on_print": 0.205,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.952
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    211.757,
+    237.69,
+    205.469
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.629,
+     "tilt": -0.015,
+     "depth": 0.116,
+     "width_mm": 0.539,
+     "panel_step": 0.054
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.01,
+    "bow": 0.994,
+    "lift": -0.048
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": "32YWXPC9951M1Z3",
+  "underlay": {
+   "gstin": "32YWXPC9951M1Z3",
+   "text": "GSTIN : 32YWXPC9951M1Z3",
+   "edge": "top",
+   "text_box_photo": [
+    [
+     139.819,
+     71.99
+    ],
+    [
+     364.593,
+     54.04
+    ],
+    [
+     365.178,
+     66.266
+    ],
+    [
+     140.298,
+     84.167
+    ]
+   ]
+  },
+  "lighting": {
+   "gradient": 0.211,
+   "gradient_angle": 16.991,
+   "vignette": 0.055,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.343,
+    "strength": 0.189
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.93
+   ],
+   "white": 192.33,
+   "black": 42.795,
+   "gamma": 0.99,
+   "glare": {
+    "center": [
+     0.66,
+     0.745
+    ],
+    "radius": [
+     0.191,
+     0.198
+    ],
+    "strength": 0.331
+   }
+  },
+  "text_row_px": 27.099,
+  "text_px": 6.664,
+  "photo_px_per_mm": 3.804,
+  "camera": {
+   "blur_sigma": 0.606,
+   "blur_cap": 0.606,
+   "defocus": {
+    "sigma_far": 0.606,
+    "angle": 45.652
+   },
+   "motion": {
+    "length_px": 0.969,
+    "angle": 85.538
+   },
+   "noise_sd": 4.598,
+   "sharpen_radius": 1.004,
+   "sharpen_percent": 54
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 70,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.896,
+   "skew_deg": 2.426,
+   "perspective": {
+    "amount": 0.044,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     142.971,
+     179.314
+    ],
+    [
+     855.129,
+     127.117
+    ],
+    [
+     916.625,
+     1182.653
+    ],
+    [
+     175.328,
+     1220.638
+    ]
+   ]
+  }
+ }
+}

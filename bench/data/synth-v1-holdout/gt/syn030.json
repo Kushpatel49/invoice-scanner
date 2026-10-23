@@ -1,0 +1,356 @@
+{
+ "id": "syn030",
+ "template": "gst_modern",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "CHAKKARA JAGGERY & SWEETS",
+  "address_lines": [
+   "Door No. 33/277-A, Temple Road",
+   "Ernakulam, Kerala - 682011"
+  ],
+  "phone": "9483237286",
+  "gstin": "32IUPPV1779U2Z1",
+  "fssai": "16356718752693",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "GST/4348/26-27",
+ "invoice_number_printed": "GST/4348/26-27",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-Aug-26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 50,
+   "unit": "Nos",
+   "rate": 60.12,
+   "tax_percent": 5,
+   "taxable": 3006.0,
+   "cgst": 75.15,
+   "sgst": 75.15,
+   "amount": 3156.3,
+   "mrp": null
+  },
+  {
+   "description": "JAGGERY BALL 1 KG",
+   "hsn": "17011390",
+   "quantity": 70,
+   "unit": "Nos",
+   "rate": 78,
+   "tax_percent": 5,
+   "taxable": 5460.0,
+   "cgst": 136.5,
+   "sgst": 136.5,
+   "amount": 5733.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT VEG PALAPPAM 1 LTR",
+   "hsn": "21061000",
+   "quantity": 57,
+   "unit": "Nos",
+   "rate": 71.25,
+   "tax_percent": 5,
+   "taxable": 4061.25,
+   "cgst": 101.53,
+   "sgst": 101.53,
+   "amount": 4264.31,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT IDLY BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 55,
+   "unit": "Nos",
+   "rate": 63,
+   "tax_percent": 5,
+   "taxable": 3465.0,
+   "cgst": 86.63,
+   "sgst": 86.63,
+   "amount": 3638.26,
+   "mrp": null
+  },
+  {
+   "description": "ROASTED RAVA 1 KG",
+   "hsn": "11031100",
+   "quantity": 58,
+   "unit": "Nos",
+   "rate": 63.5,
+   "tax_percent": 5,
+   "taxable": 3683.0,
+   "cgst": 92.08,
+   "sgst": 92.08,
+   "amount": 3867.16,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT PUNCHA EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 10,
+   "unit": "Nos",
+   "rate": 71.75,
+   "tax_percent": 5,
+   "taxable": 717.5,
+   "cgst": 17.94,
+   "sgst": 17.94,
+   "amount": 753.38,
+   "mrp": null
+  },
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 8,
+   "unit": "Nos",
+   "rate": 71,
+   "tax_percent": 5,
+   "taxable": 568.0,
+   "cgst": 14.2,
+   "sgst": 14.2,
+   "amount": 596.4,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 4,
+   "unit": "Nos",
+   "rate": 73,
+   "tax_percent": 5,
+   "taxable": 292.0,
+   "cgst": 7.3,
+   "sgst": 7.3,
+   "amount": 306.6,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 21252.75,
+  "cgst": 531.33,
+  "sgst": 531.33,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.41,
+  "grand_total": 22315.0
+ },
+ "amount_in_words": "RUPEES TWENTY TWO THOUSAND THREE HUNDRED FIFTEEN ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-692"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.247,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-692",
+    "box": [
+     849.043,
+     194.5,
+     983.043,
+     259.5
+    ],
+    "angle": -4.881,
+    "size": 36.8,
+    "font": "Caveat.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": -27.144,
+   "center": [
+    466.979,
+    1578.311
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.894,
+   "print_lum": 20.0,
+   "row_px_estimate": 22.374,
+   "faint": false,
+   "size_mm": [
+    76.332,
+    113.466
+   ],
+   "fills": {
+    "store_name": "Tripunithura",
+    "received": "Akhil",
+    "date": "26/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  "signature": {
+   "box": [
+    1023.807,
+    1987.842,
+    1187.154,
+    2053.181
+   ],
+   "width": 163.347,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.037,
+    251.713,
+    246.916
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.47,
+     "tilt": 0.007,
+     "depth": 0.072,
+     "width_mm": 0.621,
+     "panel_step": 0.018
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.009,
+    "bow": 0.959,
+    "lift": -0.058
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "keyboard": {
+    "side": "right",
+    "depth": 0.219
+   },
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.158,
+   "gradient_angle": 304.275,
+   "vignette": 0.146,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.447,
+    "strength": 0.136
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.933
+   ],
+   "white": 218.959,
+   "black": 46.63,
+   "gamma": 1.037,
+   "glare": null
+  },
+  "text_row_px": 22.334,
+  "text_px": 8.816,
+  "photo_px_per_mm": 4.259,
+  "camera": {
+   "blur_sigma": 0.76,
+   "blur_cap": 0.798,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.665,
+   "sharpen_radius": 0.858,
+   "sharpen_percent": 31
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 78,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.998,
+   "skew_deg": 2.52,
+   "perspective": {
+    "amount": 0.027,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     1248.649,
+     8.036
+    ],
+    [
+     1282.768,
+     902.961
+    ],
+    [
+     33.657,
+     955.747
+    ],
+    [
+     7.668,
+     50.496
+    ]
+   ]
+  }
+ }
+}

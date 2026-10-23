@@ -1,0 +1,311 @@
+{
+ "id": "syn011",
+ "template": "carbon",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "ROYAL FRUITS & NUTS",
+  "address_lines": [
+   "XIII/396, Market Road",
+   "Kakkanad, Kerala - 682030"
+  ],
+  "phone": "7245115156",
+  "gstin": null,
+  "fssai": "11096761063333",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "EKM/2026/1601",
+ "invoice_number_printed": "EKM/2026/1601",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BLUEBERRY PERU 1.5 KG - 12 PACK",
+   "hsn": "0810",
+   "quantity": 11,
+   "unit": "Boxes",
+   "rate": 2515,
+   "tax_percent": 0,
+   "taxable": 27665.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 27665.0,
+   "mrp": null
+  },
+  {
+   "description": "KIWI CRATE CHILE - 10 KG",
+   "hsn": "0810",
+   "quantity": 5,
+   "unit": "Boxes",
+   "rate": 3685,
+   "tax_percent": 0,
+   "taxable": 18425.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 18425.0,
+   "mrp": null
+  },
+  {
+   "description": "FUJI APPLE CHINA - 10 KG",
+   "hsn": "0808",
+   "quantity": 8,
+   "unit": "Boxes",
+   "rate": 3125,
+   "tax_percent": 0,
+   "taxable": 25000.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 25000.0,
+   "mrp": null
+  },
+  {
+   "description": "PINK LADY NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 10,
+   "unit": "Boxes",
+   "rate": 4404,
+   "tax_percent": 0,
+   "taxable": 44040.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 44040.0,
+   "mrp": null
+  },
+  {
+   "description": "LONGAN THAILAND - 11.5 KG",
+   "hsn": "0810",
+   "quantity": 4,
+   "unit": "Boxes",
+   "rate": 2238,
+   "tax_percent": 0,
+   "taxable": 8952.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 8952.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 124082.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 124082.0
+ },
+ "amount_in_words": "Rupees One Lakh Twenty Four Thousand Eighty Two Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-651",
+  "Rate diff"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "yellow",
+  "px_per_mm": 9.449,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-651",
+    "box": [
+     1257.475,
+     1.5,
+     1451.475,
+     161.5
+    ],
+    "angle": -5.802,
+    "size": 50.8,
+    "font": "Caveat.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   },
+   {
+    "text": "Rate diff",
+    "box": [
+     1257.475,
+     1.5,
+     1451.475,
+     161.5
+    ],
+    "angle": -5.802,
+    "size": 50.8,
+    "font": "Caveat.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 38.299,
+   "center": [
+    366.343,
+    1487.637
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 55.0,
+   "row_px_estimate": 25.721,
+   "faint": false,
+   "size_mm": [
+    70.097,
+    104.198
+   ],
+   "fills": {
+    "store_name": "TPR",
+    "received": "Anu",
+    "date": "31/08/26"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.046,
+   "title_on_print": 0.05,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.937
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    589.621,
+    40.185,
+    797.742,
+    123.433
+   ],
+   "width": 208.121,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.714,
+    237.063,
+    165.46
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.004,
+    "bow": -0.087,
+    "lift": 0.142
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.086,
+   "gradient_angle": 234.178,
+   "vignette": 0.114,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.256,
+    "strength": 0.08
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.011,
+    1.0,
+    0.972
+   ],
+   "white": 209.254,
+   "black": 37.599,
+   "gamma": 0.916,
+   "glare": null
+  },
+  "text_row_px": 38.703,
+  "text_px": 9.414,
+  "photo_px_per_mm": 4.942,
+  "camera": {
+   "blur_sigma": 0.297,
+   "blur_cap": 0.856,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.788,
+   "sharpen_radius": 0.941,
+   "sharpen_percent": 73
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 75,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.952,
+   "skew_deg": -1.297,
+   "perspective": {
+    "amount": 0.0,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     52.319,
+     22.263
+    ],
+    [
+     915.056,
+     41.785
+    ],
+    [
+     887.535,
+     1259.523
+    ],
+    [
+     24.73,
+     1240.016
+    ]
+   ]
+  }
+ }
+}

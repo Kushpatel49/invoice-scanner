@@ -1,0 +1,267 @@
+{
+ "id": "syn097",
+ "template": "carbon",
+ "supplier_kind": "spices",
+ "supplier": {
+  "name": "MALABAR SPICES & MASALA",
+  "address_lines": [
+   "Door No. 62/104-B, Near Railway Station",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "9586852326",
+  "gstin": "32YXOFC8193G1Z8",
+  "fssai": "18826787085012",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "EKM/2026/1182",
+ "invoice_number_printed": "EKM/2026/1182",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27/08/26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "TURMERIC POWDER 500 G",
+   "hsn": "09103030",
+   "quantity": 3,
+   "unit": "Pkt",
+   "rate": 116,
+   "tax_percent": 5,
+   "taxable": 348.0,
+   "cgst": 8.7,
+   "sgst": 8.7,
+   "amount": 348.0,
+   "mrp": null
+  },
+  {
+   "description": "CHILLI POWDER 500 G",
+   "hsn": "09042211",
+   "quantity": 89,
+   "unit": "Pkt",
+   "rate": 163,
+   "tax_percent": 5,
+   "taxable": 14507.0,
+   "cgst": 362.68,
+   "sgst": 362.68,
+   "amount": 14507.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 14855.0,
+  "cgst": 371.38,
+  "sgst": 371.38,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 15597.76
+ },
+ "amount_in_words": "Fifteen Thousand Five Hundred and Ninety Seven Rupees and Seventy Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 628"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 6.474,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 628",
+    "box": [
+     890.11,
+     8.5,
+     1092.11,
+     105.5
+    ],
+    "angle": -6.961,
+    "size": 48.878,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -10.615,
+   "center": [
+    611.623,
+    1470.168
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.681,
+   "print_lum": 57.0,
+   "row_px_estimate": 24.062,
+   "faint": false,
+   "size_mm": [
+    68.397,
+    101.672
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Rakhi",
+    "date": "27/8/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.017,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.986
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1
+   ]
+  },
+  "signature": {
+   "box": [
+    916.277,
+    115.213,
+    1055.926,
+    171.072
+   ],
+   "width": 139.649,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.021,
+    158.332,
+    182.247
+   ],
+   "grain": 0.01,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.684,
+     "tilt": -0.039,
+     "depth": 0.063,
+     "width_mm": 0.521,
+     "panel_step": 0.007
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": 0.616,
+    "lift": 0.853
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 1,
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.11,
+   "gradient_angle": 175.964,
+   "vignette": 0.061,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.206,
+    "strength": 0.131
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.984,
+    1.0,
+    1.008
+   ],
+   "white": 208.153,
+   "black": 47.383,
+   "gamma": 1.037,
+   "glare": null
+  },
+  "text_row_px": 28.964,
+  "text_px": 8.367,
+  "photo_px_per_mm": 4.167,
+  "camera": {
+   "blur_sigma": 0.488,
+   "blur_cap": 0.761,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.938,
+   "sharpen_radius": 1.268,
+   "sharpen_percent": 36
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 75,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.904,
+   "skew_deg": -0.943,
+   "perspective": {
+    "amount": 0.027,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     77.256,
+     888.171
+    ],
+    [
+     82.698,
+     64.957
+    ],
+    [
+     1252.162,
+     80.642
+    ],
+    [
+     1202.163,
+     900.366
+    ]
+   ]
+  }
+ }
+}

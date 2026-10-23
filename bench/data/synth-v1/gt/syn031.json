@@ -1,0 +1,329 @@
+{
+ "id": "syn031",
+ "template": "tally",
+ "supplier_kind": "exotic",
+ "supplier": {
+  "name": "HILLTOP EXOTIC FARMS",
+  "address_lines": [
+   "38/738, Church Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "9950178562",
+  "gstin": "32NIOCR9899N1ZA",
+  "fssai": "10811904872200",
+  "email": "hilltop@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "COK26-27/1835",
+ "invoice_number_printed": "COK26-27/1835",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28.08.2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "LEEKS",
+   "hsn": "0703",
+   "quantity": 38,
+   "unit": "Kilogram",
+   "rate": 233.5,
+   "tax_percent": 0,
+   "taxable": 8873.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 8873.0,
+   "mrp": null
+  },
+  {
+   "description": "RED RADISH",
+   "hsn": "0706",
+   "quantity": 17.3,
+   "unit": "Kilogram",
+   "rate": 64.72,
+   "tax_percent": 0,
+   "taxable": 1119.66,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1119.66,
+   "mrp": null
+  },
+  {
+   "description": "CHINESE CABBAGE",
+   "hsn": "0704",
+   "quantity": 27,
+   "unit": "Kilogram",
+   "rate": 48.94,
+   "tax_percent": 0,
+   "taxable": 1321.38,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1321.38,
+   "mrp": null
+  },
+  {
+   "description": "ZUCCHINI YELLOW",
+   "hsn": "0709",
+   "quantity": 16.157,
+   "unit": "Kilogram",
+   "rate": 86,
+   "tax_percent": 0,
+   "taxable": 1389.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1389.5,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM RED",
+   "hsn": "0709",
+   "quantity": 27.323,
+   "unit": "Kilogram",
+   "rate": 164,
+   "tax_percent": 0,
+   "taxable": 4480.97,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4480.97,
+   "mrp": null
+  },
+  {
+   "description": "CHERRY TOMATO RED",
+   "hsn": "0702",
+   "quantity": 2,
+   "unit": "PACK",
+   "rate": 64,
+   "tax_percent": 0,
+   "taxable": 128.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 128.0,
+   "mrp": null
+  },
+  {
+   "description": "ROSEMARY",
+   "hsn": "0709",
+   "quantity": 38,
+   "unit": "PACK",
+   "rate": 41,
+   "tax_percent": 0,
+   "taxable": 1558.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1558.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 18870.51,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.49,
+  "grand_total": 18871.0
+ },
+ "amount_in_words": "Eighteen Thousand Eight Hundred and Seventy One INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.983,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 12.478,
+   "center": [
+    383.541,
+    1866.481
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.759,
+   "print_lum": 48.0,
+   "row_px_estimate": 13.896,
+   "faint": false,
+   "size_mm": [
+    70.291,
+    104.487
+   ],
+   "fills": {
+    "received": "Akhil",
+    "date": "28/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  "signature": {
+   "box": [
+    802.724,
+    2098.645,
+    1040.154,
+    2193.617
+   ],
+   "width": 237.43,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.322,
+    247.565,
+    245.894
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.54,
+     "tilt": -0.03,
+     "depth": 0.05,
+     "width_mm": 0.954,
+     "panel_step": 0.012
+    },
+    {
+     "horizontal": false,
+     "pos": 0.54,
+     "tilt": 0.009,
+     "depth": 0.091,
+     "width_mm": 1.1,
+     "panel_step": 0.024
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.003,
+    "bow": 0.964,
+    "lift": -0.002
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.108,
+   "gradient_angle": 247.044,
+   "vignette": 0.039,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.457,
+    "strength": 0.172
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.999,
+    1.0,
+    1.014
+   ],
+   "white": 192.36,
+   "black": 49.903,
+   "gamma": 0.996,
+   "glare": null
+  },
+  "text_row_px": 13.868,
+  "text_px": 13.868,
+  "photo_px_per_mm": 4.258,
+  "camera": {
+   "blur_sigma": 0.495,
+   "blur_cap": 0.495,
+   "defocus": {
+    "sigma_far": 0.495,
+    "angle": 180.11
+   },
+   "motion": null,
+   "noise_sd": 3.201,
+   "sharpen_radius": 1.424,
+   "sharpen_percent": 82
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 66,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.998,
+   "skew_deg": -0.358,
+   "perspective": {
+    "amount": 0.012,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     1283.42,
+     22.172
+    ],
+    [
+     1280.383,
+     927.209
+    ],
+    [
+     -1.236,
+     914.232
+    ],
+    [
+     1.694,
+     18.19
+    ]
+   ]
+  }
+ }
+}

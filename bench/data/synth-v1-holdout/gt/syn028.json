@@ -1,0 +1,277 @@
+{
+ "id": "syn028",
+ "template": "handbook",
+ "supplier_kind": "bakery",
+ "supplier": {
+  "name": "KERALA BAKERS SUPPLY",
+  "address_lines": [
+   "XIII/334, Market Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "9674159953",
+  "gstin": "32KZVFL2950U1ZO",
+  "fssai": "15604312256980",
+  "email": "keralafresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "1108",
+ "invoice_number_printed": "1108",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "SANDWICH BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 59,
+   "unit": "Nos",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 2596.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2596.0,
+   "mrp": null
+  },
+  {
+   "description": "COOKIES BUTTER 200 G",
+   "hsn": "19053100",
+   "quantity": 80,
+   "unit": "Nos",
+   "rate": 84.0,
+   "tax_percent": 18,
+   "taxable": 6720.0,
+   "cgst": 604.8,
+   "sgst": 604.8,
+   "amount": 6720.0,
+   "mrp": null
+  },
+  {
+   "description": "PLUM CAKE 400 G",
+   "hsn": "19059020",
+   "quantity": 14,
+   "unit": "Nos",
+   "rate": 172.0,
+   "tax_percent": 18,
+   "taxable": 2408.0,
+   "cgst": 216.72,
+   "sgst": 216.72,
+   "amount": 2408.0,
+   "mrp": null
+  },
+  {
+   "description": "BUN (PACK OF 4)",
+   "hsn": "19059090",
+   "quantity": 7,
+   "unit": "Nos",
+   "rate": 33.0,
+   "tax_percent": 0,
+   "taxable": 231.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 231.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 30,
+   "unit": "Nos",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 1470.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1470.0,
+   "mrp": null
+  },
+  {
+   "description": "RUSK 200 G",
+   "hsn": "19054000",
+   "quantity": 9,
+   "unit": "Nos",
+   "rate": 36.0,
+   "tax_percent": 5,
+   "taxable": 324.0,
+   "cgst": 8.1,
+   "sgst": 8.1,
+   "amount": 324.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 13749.0,
+  "cgst": 829.62,
+  "sgst": 829.62,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.24,
+  "grand_total": 15408.0
+ },
+ "amount_in_words": "INR Fifteen Thousand Four Hundred and Eight Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 661"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.167,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 661",
+    "box": [
+     688.295,
+     8.0,
+     866.295,
+     75.0
+    ],
+    "angle": 0.279,
+    "size": 50.4,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    4,
+    5
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    247.38,
+    251.907,
+    246.705
+   ],
+   "grain": 0.017,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.367,
+     "tilt": 0.013,
+     "depth": 0.137,
+     "width_mm": 0.936,
+     "panel_step": 0.045
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.005,
+    "bow": 0.286,
+    "lift": 0.315
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "keyboard": {
+    "side": "right",
+    "depth": 0.167
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.132,
+   "gradient_angle": 257.578,
+   "vignette": 0.142,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.369,
+    "strength": 0.151
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.021,
+    1.0,
+    0.973
+   ],
+   "white": 212.123,
+   "black": 49.515,
+   "gamma": 0.984,
+   "glare": null
+  },
+  "text_row_px": 48.275,
+  "text_px": 29.118,
+  "photo_px_per_mm": 5.492,
+  "camera": {
+   "blur_sigma": 0.679,
+   "blur_cap": 1.342,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.41,
+   "sharpen_radius": 1.539,
+   "sharpen_percent": 44
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 67,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.942,
+   "skew_deg": -1.093,
+   "perspective": {
+    "amount": 0.011,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     52.636,
+     25.699
+    ],
+    [
+     929.005,
+     37.586
+    ],
+    [
+     905.092,
+     1252.449
+    ],
+    [
+     21.552,
+     1227.029
+    ]
+   ]
+  }
+ }
+}

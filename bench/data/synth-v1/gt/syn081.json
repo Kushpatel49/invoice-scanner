@@ -1,0 +1,273 @@
+{
+ "id": "syn081",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "MALABAR FRESH FARMS PVT LTD",
+  "address_lines": [
+   "Door No. 80/640-C, Main Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "9035275808",
+  "gstin": null,
+  "fssai": "16616075837419",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "4216",
+ "invoice_number_printed": "4216",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ONION SMALL (SAMBAR)",
+   "hsn": "0703",
+   "quantity": 21.2,
+   "unit": "KGS",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 1250.8,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1250.8,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA",
+   "hsn": "0709",
+   "quantity": 40,
+   "unit": "KGS",
+   "rate": 56.0,
+   "tax_percent": 0,
+   "taxable": 2240.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2240.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 3490.8,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.2,
+  "grand_total": 3491.0
+ },
+ "amount_in_words": "Three Thousand Four Hundred and Ninety One INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 649"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 6.648,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 649",
+    "box": [
+     621.851,
+     20.825,
+     772.851,
+     90.825
+    ],
+    "angle": 1.028,
+    "size": 49.864,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -36.021,
+   "center": [
+    334.717,
+    851.506
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.749,
+   "print_lum": 50.0,
+   "row_px_estimate": 43.747,
+   "faint": false,
+   "size_mm": [
+    74.319,
+    110.474
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Bibin",
+    "date": "25.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.076,
+   "title_on_print": 0.192,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.979
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    434.917,
+    45.425,
+    571.748,
+    100.157
+   ],
+   "width": 136.831,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.972,
+    247.373,
+    246.782
+   ],
+   "grain": 0.008,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.69,
+     "tilt": 0.004,
+     "depth": 0.111,
+     "width_mm": 0.984,
+     "panel_step": 0.002
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.004,
+    "bow": 0.487,
+    "lift": 0.83
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "keyboard": {
+    "side": "top",
+    "depth": 0.184
+   },
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.105,
+   "gradient_angle": 257.798,
+   "vignette": 0.053,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.366,
+    "strength": 0.143
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.972
+   ],
+   "white": 209.527,
+   "black": 49.139,
+   "gamma": 0.935,
+   "glare": null
+  },
+  "text_row_px": 42.011,
+  "text_px": 30.342,
+  "photo_px_per_mm": 5.172,
+  "camera": {
+   "blur_sigma": 0.736,
+   "blur_cap": 1.264,
+   "defocus": {
+    "sigma_far": 1.128,
+    "angle": 38.978
+   },
+   "motion": null,
+   "noise_sd": 3.936,
+   "sharpen_radius": 1.086,
+   "sharpen_percent": 62
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 68,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.96,
+   "skew_deg": 1.453,
+   "perspective": {
+    "amount": 0.023,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     28.105,
+     944.254
+    ],
+    [
+     26.069,
+     56.506
+    ],
+    [
+     1246.035,
+     27.345
+    ],
+    [
+     1257.255,
+     902.626
+    ]
+   ]
+  }
+ }
+}

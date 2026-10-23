@@ -1,0 +1,270 @@
+{
+ "id": "syn066",
+ "template": "gst_modern",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "XIII/284, Market Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "8753900915",
+  "gstin": "32UEJPR7139S1Z3",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "CFC/B2B/740",
+ "invoice_number_printed": "CFC/B2B/740",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 54,
+   "unit": "Nos",
+   "rate": 12,
+   "tax_percent": 5,
+   "taxable": 648.0,
+   "cgst": 16.2,
+   "sgst": 16.2,
+   "amount": 680.4,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 91,
+   "unit": "L",
+   "rate": 66,
+   "tax_percent": 0,
+   "taxable": 6006.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 6006.0,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 56,
+   "unit": "Nos",
+   "rate": 99,
+   "tax_percent": 5,
+   "taxable": 5544.0,
+   "cgst": 138.6,
+   "sgst": 138.6,
+   "amount": 5821.2,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 59,
+   "unit": "L",
+   "rate": 74.5,
+   "tax_percent": 0,
+   "taxable": 4395.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4395.5,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 16593.5,
+  "cgst": 154.8,
+  "sgst": 154.8,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 16903.1
+ },
+ "amount_in_words": "Rupees Sixteen Thousand Nine Hundred Three and Ten Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-623"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.54,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-623",
+    "box": [
+     1039.876,
+     165.5,
+     1285.876,
+     304.5
+    ],
+    "angle": -7.855,
+    "size": 70.489,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 23.082,
+   "center": [
+    553.955,
+    1374.038
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.779,
+   "print_lum": 51.0,
+   "row_px_estimate": 22.069,
+   "faint": false,
+   "size_mm": [
+    69.152,
+    102.793
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Vishnu",
+    "name": "Vishnu",
+    "date": "30/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    252.419,
+    248.421,
+    249.079
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.069,
+   "gradient_angle": 208.669,
+   "vignette": 0.041,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.384,
+    "strength": 0.041
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.968
+   ],
+   "white": 226.993,
+   "black": 30.721,
+   "gamma": 1.109,
+   "glare": null
+  },
+  "text_row_px": 21.611,
+  "text_px": 8.312,
+  "photo_px_per_mm": 4.178,
+  "camera": {
+   "blur_sigma": 0.335,
+   "blur_cap": 0.756,
+   "defocus": {
+    "sigma_far": 0.471,
+    "angle": 76.334
+   },
+   "motion": null,
+   "noise_sd": 2.4,
+   "sharpen_radius": 0.918,
+   "sharpen_percent": 39
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 84,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.979,
+   "skew_deg": 1.377,
+   "perspective": {
+    "amount": 0.001,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     24.431,
+     18.511
+    ],
+    [
+     910.836,
+     -2.354
+    ],
+    [
+     940.94,
+     1249.932
+    ],
+    [
+     54.818,
+     1271.676
+    ]
+   ]
+  }
+ }
+}

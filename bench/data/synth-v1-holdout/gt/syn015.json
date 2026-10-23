@@ -1,0 +1,359 @@
+{
+ "id": "syn015",
+ "template": "tally",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "COCHIN FRUIT COMPANY",
+  "address_lines": [
+   "XIII/297, Industrial Estate",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "7673081802",
+  "gstin": "32NSUFG7220B2ZA",
+  "fssai": "15071000568589",
+  "email": "cochin@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "EKM/2026/3628",
+ "invoice_number_printed": "EKM/2026/3628",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01/09/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "RASPBERRY (PUNNETS)",
+   "hsn": "0810",
+   "quantity": 10,
+   "unit": "Punnets",
+   "rate": 225,
+   "tax_percent": 0,
+   "taxable": 2250.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2250.0,
+   "mrp": null
+  },
+  {
+   "description": "ORANGE MANDARIN EGYPT - 15 KG",
+   "hsn": "0805",
+   "quantity": 1,
+   "unit": "Boxes",
+   "rate": 2882,
+   "tax_percent": 0,
+   "taxable": 2882.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2882.0,
+   "mrp": null
+  },
+  {
+   "description": "KIWI CRATE CHILE - 10 KG",
+   "hsn": "0810",
+   "quantity": 2,
+   "unit": "Boxes",
+   "rate": 3871,
+   "tax_percent": 0,
+   "taxable": 7742.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7742.0,
+   "mrp": null
+  },
+  {
+   "description": "RED DELICIOUS USA - 18 KG",
+   "hsn": "0808",
+   "quantity": 12,
+   "unit": "Boxes",
+   "rate": 4884,
+   "tax_percent": 0,
+   "taxable": 58608.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 58608.0,
+   "mrp": null
+  },
+  {
+   "description": "BLACK GRAPES CHINA - 5 KG",
+   "hsn": "0806",
+   "quantity": 14,
+   "unit": "Boxes",
+   "rate": 1760,
+   "tax_percent": 0,
+   "taxable": 24640.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 24640.0,
+   "mrp": null
+  },
+  {
+   "description": "DRAGON WHITE VIETNAM - 9 KG",
+   "hsn": "0810",
+   "quantity": 1,
+   "unit": "Boxes",
+   "rate": 1335,
+   "tax_percent": 0,
+   "taxable": 1335.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1335.0,
+   "mrp": null
+  },
+  {
+   "description": "LONGAN THAILAND - 11.5 KG",
+   "hsn": "0810",
+   "quantity": 9,
+   "unit": "Boxes",
+   "rate": 2720,
+   "tax_percent": 0,
+   "taxable": 24480.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 24480.0,
+   "mrp": null
+  },
+  {
+   "description": "PEAR GREEN SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 1,
+   "unit": "Boxes",
+   "rate": 4573,
+   "tax_percent": 0,
+   "taxable": 4573.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4573.0,
+   "mrp": null
+  },
+  {
+   "description": "PEAR RED SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 13,
+   "unit": "Boxes",
+   "rate": 4131,
+   "tax_percent": 0,
+   "taxable": 53703.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 53703.0,
+   "mrp": null
+  },
+  {
+   "description": "BLACKBERRY (PUNNETS)",
+   "hsn": "0810",
+   "quantity": 97,
+   "unit": "Punnets",
+   "rate": 232,
+   "tax_percent": 0,
+   "taxable": 22504.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 22504.0,
+   "mrp": null
+  },
+  {
+   "description": "PINK LADY NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 14,
+   "unit": "Boxes",
+   "rate": 4327,
+   "tax_percent": 0,
+   "taxable": 60578.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 60578.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 11,
+ "totals": {
+  "subtotal": 263295.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 263295.0
+ },
+ "amount_in_words": "INR Two Lakh Sixty Three Thousand Two Hundred Ninety Five Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.92,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 31.462,
+   "center": [
+    366.091,
+    1693.698
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.759,
+   "print_lum": 48.0,
+   "row_px_estimate": 12.391,
+   "faint": false,
+   "size_mm": [
+    70.719,
+    105.123
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sreeja",
+    "name": "Sreeja",
+    "date": "1/9/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.978
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    2,
+    4,
+    9
+   ]
+  },
+  "signature": {
+   "box": [
+    1382.442,
+    2088.467,
+    1531.933,
+    2148.263
+   ],
+   "width": 149.491,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.471,
+    249.369,
+    244.368
+   ],
+   "grain": 0.016,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "keyboard": {
+    "side": "top",
+    "depth": 0.235
+   },
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.024,
+   "gradient_angle": 157.268,
+   "vignette": 0.149,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.492,
+    "strength": 0.07
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.99,
+    1.0,
+    1.015
+   ],
+   "white": 222.704,
+   "black": 28.34,
+   "gamma": 1.007,
+   "glare": null
+  },
+  "text_row_px": 11.532,
+  "text_px": 11.532,
+  "photo_px_per_mm": 3.971,
+  "camera": {
+   "blur_sigma": 0.368,
+   "blur_cap": 0.412,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.735,
+   "sharpen_radius": 1.431,
+   "sharpen_percent": 90
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 78,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.931,
+   "skew_deg": -0.033,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     33.255,
+     38.674
+    ],
+    [
+     873.034,
+     41.369
+    ],
+    [
+     871.504,
+     1232.906
+    ],
+    [
+     29.245,
+     1230.462
+    ]
+   ]
+  }
+ }
+}

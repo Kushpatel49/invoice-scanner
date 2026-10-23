@@ -1,0 +1,349 @@
+{
+ "id": "syn059",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "KUTTANAD FRESH CUTS",
+  "address_lines": [
+   "Door No. 80/322-A, Near Railway Station",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "9406614187",
+  "gstin": "32WYLPS5589P1ZP",
+  "fssai": "17536489276128",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "6393",
+ "invoice_number_printed": "6393",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BEANS CUT",
+   "hsn": "0709",
+   "quantity": 100,
+   "unit": "Pkt",
+   "rate": 43.0,
+   "tax_percent": 0,
+   "taxable": 4300.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4300.0,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT GRATED",
+   "hsn": "0801",
+   "quantity": 33,
+   "unit": "Pkt",
+   "rate": 64.0,
+   "tax_percent": 0,
+   "taxable": 2112.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2112.0,
+   "mrp": null
+  },
+  {
+   "description": "CHEERA CUT",
+   "hsn": "0709",
+   "quantity": 37,
+   "unit": "Pkt",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 1887.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1887.0,
+   "mrp": null
+  },
+  {
+   "description": "KAYAM PAYAR CUT",
+   "hsn": "0709",
+   "quantity": 59,
+   "unit": "Pkt",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 2478.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2478.0,
+   "mrp": null
+  },
+  {
+   "description": "VENDAKKA CUT",
+   "hsn": "0709",
+   "quantity": 11,
+   "unit": "Pkt",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 451.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 451.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA CUT",
+   "hsn": "0709",
+   "quantity": 35,
+   "unit": "Pkt",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 1540.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1540.0,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR CUT",
+   "hsn": "0709",
+   "quantity": 10,
+   "unit": "Pkt",
+   "rate": 33.0,
+   "tax_percent": 0,
+   "taxable": 330.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 330.0,
+   "mrp": null
+  },
+  {
+   "description": "AVIAL CUT",
+   "hsn": "0709",
+   "quantity": 2,
+   "unit": "Pkt",
+   "rate": 45.0,
+   "tax_percent": 0,
+   "taxable": 90.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 90.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 13188.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 13188.0
+ },
+ "amount_in_words": "Thirteen Thousand One Hundred and Eighty Eight INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 5,
+   "printed": 38,
+   "new": 35
+  }
+ },
+ "notes": [
+  "Bil 602"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "cream",
+  "px_per_mm": 6.1,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 602",
+    "box": [
+     764.336,
+     10.974,
+     941.336,
+     89.974
+    ],
+    "angle": -3.692,
+    "size": 47.565,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -41.913,
+   "center": [
+    277.883,
+    1066.814
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.654,
+   "print_lum": 67.0,
+   "row_px_estimate": 42.783,
+   "faint": false,
+   "size_mm": [
+    69.663,
+    103.553
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Bibin",
+    "date": "29/8/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.376,
+   "title_on_print": 0.774,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.968
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    624.1,
+    1314.137,
+    799.184,
+    1384.17
+   ],
+   "width": 175.084,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    248.751,
+    240.369,
+    220.486
+   ],
+   "grain": 0.016,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.665,
+     "tilt": -0.031,
+     "depth": 0.046,
+     "width_mm": 1.114,
+     "panel_step": 0.049
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.004,
+    "bow": 0.756,
+    "lift": -0.12
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.032,
+   "gradient_angle": 262.241,
+   "vignette": 0.035,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.4,
+    "strength": 0.09
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.022,
+    1.0,
+    0.95
+   ],
+   "white": 211.699,
+   "black": 32.423,
+   "gamma": 0.933,
+   "glare": null
+  },
+  "text_row_px": 40.87,
+  "text_px": 28.358,
+  "photo_px_per_mm": 5.088,
+  "camera": {
+   "blur_sigma": 0.459,
+   "blur_cap": 1.244,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.254,
+   "sharpen_radius": 1.494,
+   "sharpen_percent": 54
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 75,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.955,
+   "skew_deg": -0.398,
+   "perspective": {
+    "amount": 0.008,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     1245.32,
+     77.888
+    ],
+    [
+     1237.664,
+     931.39
+    ],
+    [
+     13.81,
+     925.283
+    ],
+    [
+     26.569,
+     67.326
+    ]
+   ]
+  }
+ }
+}

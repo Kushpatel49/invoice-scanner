@@ -1,0 +1,248 @@
+{
+ "id": "syn047",
+ "template": "software",
+ "supplier_kind": "bakery",
+ "supplier": {
+  "name": "KERALA BAKERS SUPPLY",
+  "address_lines": [
+   "9/130, Industrial Estate",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "7599859619",
+  "gstin": "32CKIFY7612I1ZD",
+  "fssai": null,
+  "email": "kerala@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "GST/8875/26-27",
+ "invoice_number_printed": "GST/8875/26-27",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "SANDWICH BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 82,
+   "unit": "Nos",
+   "rate": 38.75,
+   "tax_percent": 0,
+   "taxable": 3177.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3177.5,
+   "mrp": null
+  },
+  {
+   "description": "COOKIES BUTTER 200 G",
+   "hsn": "19053100",
+   "quantity": 54,
+   "unit": "Nos",
+   "rate": 84.28,
+   "tax_percent": 18,
+   "taxable": 4551.12,
+   "cgst": 409.6,
+   "sgst": 409.6,
+   "amount": 4551.12,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 7728.62,
+  "cgst": 409.6,
+  "sgst": 409.6,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 8547.82
+ },
+ "amount_in_words": "Eight Thousand Five Hundred Forty Seven INDIAN RUPEES and Eighty Two Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "short 2 kg"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.72,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "short 2 kg",
+    "box": [
+     263.004,
+     1704.871,
+     603.004,
+     1827.871
+    ],
+    "angle": -4.785,
+    "size": 65.791,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 4.186,
+   "center": [
+    344.641,
+    916.831
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 41.0,
+   "row_px_estimate": 26.528,
+   "faint": false,
+   "size_mm": [
+    76.736,
+    114.067
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Shalet",
+    "date": "31/8/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": false,
+   "on_numbers": 0.03,
+   "title_on_print": 0.077,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    252.066,
+    250.286,
+    248.664
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.006,
+    "bow": -0.289,
+    "lift": 0.602
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "keyboard": {
+    "side": "top",
+    "depth": 0.2
+   },
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.12,
+   "gradient_angle": 241.337,
+   "vignette": 0.051,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.387,
+    "strength": 0.228
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.988,
+    1.0,
+    1.01
+   ],
+   "white": 215.42,
+   "black": 38.223,
+   "gamma": 1.013,
+   "glare": null
+  },
+  "text_row_px": 27.071,
+  "text_px": 12.971,
+  "photo_px_per_mm": 4.354,
+  "camera": {
+   "blur_sigma": 0.579,
+   "blur_cap": 0.967,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.326,
+   "sharpen_radius": 1.392,
+   "sharpen_percent": 37
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 76,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.02,
+   "skew_deg": 0.34,
+   "perspective": {
+    "amount": 0.017,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     27.949,
+     -15.013
+    ],
+    [
+     931.215,
+     -11.208
+    ],
+    [
+     941.794,
+     1290.906
+    ],
+    [
+     18.444,
+     1289.85
+    ]
+   ]
+  }
+ }
+}

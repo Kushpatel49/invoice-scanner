@@ -1,0 +1,289 @@
+{
+ "id": "syn040",
+ "template": "handbook",
+ "supplier_kind": "mushroom",
+ "supplier": {
+  "name": "MZ FARMS",
+  "address_lines": [
+   "XIII/358, Main Road",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "9007841882",
+  "gstin": null,
+  "fssai": "12872389724080",
+  "email": "mz@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "6747",
+ "invoice_number_printed": "6747",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "OYSTER MUSHROOM",
+   "hsn": "0709",
+   "quantity": 25,
+   "unit": "Pkt",
+   "rate": 74.0,
+   "tax_percent": 0,
+   "taxable": 1850.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1850.0,
+   "mrp": null
+  },
+  {
+   "description": "MILKY MUSHROOM",
+   "hsn": "0709",
+   "quantity": 32,
+   "unit": "Pkt",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 1664.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1664.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTON MUSHROOM",
+   "hsn": "0709",
+   "quantity": 48,
+   "unit": "Pkt",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 2352.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2352.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 5866.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 5866.0
+ },
+ "amount_in_words": "RUPEES FIVE THOUSAND EIGHT HUNDRED SIXTY SIX ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 671"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "cream",
+  "px_per_mm": 6.317,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 671",
+    "box": [
+     643.451,
+     0.0,
+     875.451,
+     163.0
+    ],
+    "angle": -20.872,
+    "size": 53.513,
+    "font": "Caveat.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 40.711,
+   "center": [
+    270.493,
+    1092.262
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.305,
+   "print_lum": 45.0,
+   "row_px_estimate": 39.898,
+   "faint": true,
+   "size_mm": [
+    72.874,
+    108.326
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Rakhi",
+    "date": "30/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.948
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2
+   ]
+  },
+  "signature": {
+   "box": [
+    748.716,
+    205.53,
+    929.008,
+    277.647
+   ],
+   "width": 180.292,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.776,
+    244.925,
+    224.654
+   ],
+   "grain": 0.01,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.003,
+    "bow": -0.267,
+    "lift": 0.94
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.05,
+   "gradient_angle": 140.649,
+   "vignette": 0.094,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.412,
+    "strength": 0.05
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.962
+   ],
+   "white": 211.192,
+   "black": 32.089,
+   "gamma": 0.926,
+   "glare": {
+    "center": [
+     0.354,
+     0.633
+    ],
+    "radius": [
+     0.228,
+     0.11
+    ],
+    "strength": 0.204
+   }
+  },
+  "text_row_px": 37.682,
+  "text_px": 23.839,
+  "photo_px_per_mm": 4.858,
+  "camera": {
+   "blur_sigma": 0.368,
+   "blur_cap": 1.187,
+   "defocus": {
+    "sigma_far": 0.534,
+    "angle": 195.514
+   },
+   "motion": null,
+   "noise_sd": 1.278,
+   "sharpen_radius": 1.584,
+   "sharpen_percent": 74
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 79,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.944,
+   "skew_deg": 0.896,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     65.711,
+     39.927
+    ],
+    [
+     884.018,
+     25.647
+    ],
+    [
+     906.33,
+     1236.105
+    ],
+    [
+     83.466,
+     1248.022
+    ]
+   ]
+  }
+ }
+}

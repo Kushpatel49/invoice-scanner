@@ -1,0 +1,288 @@
+{
+ "id": "syn014",
+ "template": "software",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "SEA KING FROZEN FOODS",
+  "address_lines": [
+   "Door No. 19/779-B, Temple Road",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "9374541077",
+  "gstin": "32ITLFH3919A2ZH",
+  "fssai": "14392052134366",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "EKM/2026/1017",
+ "invoice_number_printed": "EKM/2026/1017",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01-Sep-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 22.811,
+   "unit": "KGS",
+   "rate": 298,
+   "tax_percent": 5,
+   "taxable": 6797.68,
+   "cgst": 169.94,
+   "sgst": 169.94,
+   "amount": 6797.68,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 59,
+   "unit": "Nos",
+   "rate": 153.75,
+   "tax_percent": 5,
+   "taxable": 9071.25,
+   "cgst": 226.78,
+   "sgst": 226.78,
+   "amount": 9071.25,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 18.254,
+   "unit": "KGS",
+   "rate": 343,
+   "tax_percent": 5,
+   "taxable": 6261.12,
+   "cgst": 156.53,
+   "sgst": 156.53,
+   "amount": 6261.12,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 6,
+   "unit": "Nos",
+   "rate": 160.75,
+   "tax_percent": 18,
+   "taxable": 964.5,
+   "cgst": 86.81,
+   "sgst": 86.81,
+   "amount": 964.5,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 38,
+   "unit": "Nos",
+   "rate": 302,
+   "tax_percent": 5,
+   "taxable": 11476.0,
+   "cgst": 286.9,
+   "sgst": 286.9,
+   "amount": 11476.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 11,
+   "unit": "Nos",
+   "rate": 154.75,
+   "tax_percent": 5,
+   "taxable": 1702.25,
+   "cgst": 42.56,
+   "sgst": 42.56,
+   "amount": 1702.25,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 36272.8,
+  "cgst": 969.52,
+  "sgst": 969.52,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.16,
+  "grand_total": 38212.0
+ },
+ "amount_in_words": "INR Thirty Eight Thousand Two Hundred Twelve Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 7.863,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -0.77,
+   "center": [
+    567.985,
+    1751.041
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.827,
+   "print_lum": 36.0,
+   "row_px_estimate": 24.96,
+   "faint": false,
+   "size_mm": [
+    74.503,
+    110.748
+   ],
+   "fills": {
+    "received": "Sajitha S",
+    "date": "02/09/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1234.167,
+    231.409,
+    1462.769,
+    322.85
+   ],
+   "width": 228.602,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.234,
+    244.104,
+    220.77
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.009,
+    "bow": -0.881,
+    "lift": -0.167
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "wood",
+   "keyboard": {
+    "side": "left",
+    "depth": 0.231
+   },
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.123,
+   "gradient_angle": 297.03,
+   "vignette": 0.058,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.378,
+    "strength": 0.282
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.006,
+    1.0,
+    0.973
+   ],
+   "white": 180.696,
+   "black": 54.05,
+   "gamma": 0.986,
+   "glare": null
+  },
+  "text_row_px": 23.944,
+  "text_px": 10.41,
+  "photo_px_per_mm": 4.093,
+  "camera": {
+   "blur_sigma": 0.707,
+   "blur_cap": 0.855,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.443,
+   "sharpen_radius": 1.17,
+   "sharpen_percent": 37
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 70,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.959,
+   "skew_deg": -3.765,
+   "perspective": {
+    "amount": 0.041,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     28.09,
+     846.739
+    ],
+    [
+     43.522,
+     9.212
+    ],
+    [
+     1267.834,
+     62.91
+    ],
+    [
+     1244.962,
+     946.572
+    ]
+   ]
+  }
+ }
+}

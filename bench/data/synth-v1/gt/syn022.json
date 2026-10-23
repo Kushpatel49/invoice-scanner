@@ -1,0 +1,336 @@
+{
+ "id": "syn022",
+ "template": "gst_modern",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "PERIYAR DAIRY PRODUCTS",
+  "address_lines": [
+   "P37/19, Agricultural Urban Wholesale Market",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "9786699220",
+  "gstin": "32QMEFN7615Z1Z9",
+  "fssai": "10057875162150",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "26-27/6295",
+ "invoice_number_printed": "26-27/6295",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28-Aug-26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 60,
+   "unit": "L",
+   "rate": 68.0,
+   "tax_percent": 0,
+   "taxable": 4080.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4080.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 24,
+   "unit": "400g",
+   "rate": 41,
+   "tax_percent": 5,
+   "taxable": 984.0,
+   "cgst": 24.6,
+   "sgst": 24.6,
+   "amount": 984.0,
+   "mrp": null
+  },
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 17,
+   "unit": "Nos",
+   "rate": 329,
+   "tax_percent": 12,
+   "taxable": 5593.0,
+   "cgst": 335.58,
+   "sgst": 335.58,
+   "amount": 5593.0,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 95,
+   "unit": "L",
+   "rate": 75,
+   "tax_percent": 0,
+   "taxable": 7125.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7125.0,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 45,
+   "unit": "Nos",
+   "rate": 88,
+   "tax_percent": 5,
+   "taxable": 3960.0,
+   "cgst": 99.0,
+   "sgst": 99.0,
+   "amount": 3960.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 10.0,
+   "tax_percent": 5,
+   "taxable": 20.0,
+   "cgst": 0.5,
+   "sgst": 0.5,
+   "amount": 20.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 13,
+   "unit": "ML",
+   "rate": 28,
+   "tax_percent": 0,
+   "taxable": 364.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 364.0,
+   "mrp": null
+  },
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 53,
+   "unit": "500g",
+   "rate": 30,
+   "tax_percent": 5,
+   "taxable": 1590.0,
+   "cgst": 39.75,
+   "sgst": 39.75,
+   "amount": 1590.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 55,
+   "tax_percent": 12,
+   "taxable": 110.0,
+   "cgst": 6.6,
+   "sgst": 6.6,
+   "amount": 110.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 23826.0,
+  "cgst": 506.03,
+  "sgst": 506.03,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 24838.06
+ },
+ "amount_in_words": "Twenty Four Thousand Eight Hundred and Thirty Eight INDIAN RUPEES and Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.393,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -42.692,
+   "center": [
+    684.527,
+    1762.259
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.829,
+   "print_lum": 30.0,
+   "row_px_estimate": 21.93,
+   "faint": false,
+   "size_mm": [
+    77.363,
+    115.0
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Pradeesh",
+    "name": "Pradeesh",
+    "date": "28/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.002,
+   "title_on_print": 0.005,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.993
+  },
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ]
+  },
+  "signature": {
+   "box": [
+    1085.528,
+    1828.437,
+    1295.467,
+    1912.413
+   ],
+   "width": 209.939,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.952,
+    247.914,
+    246.795
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.006,
+    "bow": -0.322,
+    "lift": 0.708
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.102,
+   "gradient_angle": 296.723,
+   "vignette": 0.034,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.409,
+    "strength": 0.175
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.011,
+    1.0,
+    0.945
+   ],
+   "white": 193.826,
+   "black": 49.681,
+   "gamma": 0.922,
+   "glare": null
+  },
+  "text_row_px": 22.539,
+  "text_px": 8.897,
+  "photo_px_per_mm": 4.385,
+  "camera": {
+   "blur_sigma": 0.523,
+   "blur_cap": 0.805,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.562,
+   "sharpen_radius": 1.134,
+   "sharpen_percent": 41
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 67,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.028,
+   "skew_deg": 1.252,
+   "perspective": {
+    "amount": 0.021,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     -3.872,
+     6.109
+    ],
+    [
+     935.276,
+     -4.801
+    ],
+    [
+     964.143,
+     1264.116
+    ],
+    [
+     25.936,
+     1316.359
+    ]
+   ]
+  }
+ }
+}

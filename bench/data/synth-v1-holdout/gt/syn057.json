@@ -1,0 +1,296 @@
+{
+ "id": "syn057",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "GREEN LEAF",
+  "address_lines": [
+   "XIII/286, Agricultural Urban Wholesale Market",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8212937452",
+  "gstin": null,
+  "fssai": "17228994721353",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "1397",
+ "invoice_number_printed": "1397",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BEETROOT OOTY",
+   "hsn": "0706",
+   "quantity": 29,
+   "unit": "KGS",
+   "rate": 45.0,
+   "tax_percent": 0,
+   "taxable": 1305.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1305.0,
+   "mrp": null
+  },
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 7.896,
+   "unit": "KGS",
+   "rate": 64.0,
+   "tax_percent": 0,
+   "taxable": 505.34,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 505.34,
+   "mrp": null
+  },
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 12,
+   "unit": "KGS",
+   "rate": 94.0,
+   "tax_percent": 0,
+   "taxable": 1128.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1128.0,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 1,
+   "unit": "UNT",
+   "rate": 11.0,
+   "tax_percent": 0,
+   "taxable": 11.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 11.0,
+   "mrp": null
+  },
+  {
+   "description": "AMARANTHUS GREEN BUNCH",
+   "hsn": "0709",
+   "quantity": 63,
+   "unit": "UNT",
+   "rate": 15.0,
+   "tax_percent": 0,
+   "taxable": 945.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 945.0,
+   "mrp": null
+  },
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 37,
+   "unit": "KGS",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 1998.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1998.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 5892.34,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.34,
+  "grand_total": 5892.0
+ },
+ "amount_in_words": "Rupees Five Thousand Eight Hundred Ninety Two Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 617",
+  "not received"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 6.584,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 617",
+    "box": [
+     593.703,
+     0.0,
+     776.703,
+     141.0
+    ],
+    "angle": -20.234,
+    "size": 29.628,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   },
+   {
+    "text": "not received",
+    "box": [
+     593.703,
+     0.0,
+     776.703,
+     141.0
+    ],
+    "angle": -20.234,
+    "size": 29.628,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    4,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    818.2,
+    195.427,
+    1004.981,
+    270.14
+   ],
+   "width": 186.781,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    248.372,
+    242.968,
+    221.983
+   ],
+   "grain": 0.011,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.008,
+    "bow": 0.093,
+    "lift": 0.376
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.105,
+   "gradient_angle": 299.716,
+   "vignette": 0.045,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.263,
+    "strength": 0.232
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.966
+   ],
+   "white": 191.965,
+   "black": 57.239,
+   "gamma": 1.086,
+   "glare": null
+  },
+  "text_row_px": 39.459,
+  "text_px": 21.591,
+  "photo_px_per_mm": 4.902,
+  "camera": {
+   "blur_sigma": 0.729,
+   "blur_cap": 1.198,
+   "defocus": {
+    "sigma_far": 1.028,
+    "angle": 297.204
+   },
+   "motion": null,
+   "noise_sd": 3.31,
+   "sharpen_radius": 1.011,
+   "sharpen_percent": 90
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 82,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.918,
+   "skew_deg": -2.877,
+   "perspective": {
+    "amount": 0.017,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     89.072,
+     18.431
+    ],
+    [
+     914.208,
+     64.299
+    ],
+    [
+     861.243,
+     1244.002
+    ],
+    [
+     32.997,
+     1188.472
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,410 @@
+{
+ "id": "syn062",
+ "template": "dotmatrix",
+ "supplier_kind": "exotic",
+ "supplier": {
+  "name": "HILLTOP EXOTIC FARMS",
+  "address_lines": [
+   "12/346, Wholesale Market",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "9639758457",
+  "gstin": "32DFZCX3355D1ZO",
+  "fssai": null,
+  "email": "hilltop@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "COK26-27/1857",
+ "invoice_number_printed": "COK26-27/1857",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "LEEKS",
+   "hsn": "0703",
+   "quantity": 12,
+   "unit": "Kilogram",
+   "rate": 220,
+   "tax_percent": 0,
+   "taxable": 2640.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2640.0,
+   "mrp": null
+  },
+  {
+   "description": "RED CABBAGE",
+   "hsn": "0704",
+   "quantity": 29.382,
+   "unit": "Kilogram",
+   "rate": 60.51,
+   "tax_percent": 0,
+   "taxable": 1777.9,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1777.9,
+   "mrp": null
+  },
+  {
+   "description": "KALE",
+   "hsn": "0704",
+   "quantity": 26,
+   "unit": "PACK",
+   "rate": 23,
+   "tax_percent": 0,
+   "taxable": 598.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 598.0,
+   "mrp": null
+  },
+  {
+   "description": "BROCCOLI",
+   "hsn": "0704",
+   "quantity": 13.454,
+   "unit": "Kilogram",
+   "rate": 210.05,
+   "tax_percent": 0,
+   "taxable": 2826.01,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2826.01,
+   "mrp": null
+  },
+  {
+   "description": "PEELED BABY CORN",
+   "hsn": "0709",
+   "quantity": 59,
+   "unit": "PACK",
+   "rate": 48,
+   "tax_percent": 0,
+   "taxable": 2832.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2832.0,
+   "mrp": null
+  },
+  {
+   "description": "ZUCCHINI YELLOW",
+   "hsn": "0709",
+   "quantity": 29,
+   "unit": "Kilogram",
+   "rate": 105,
+   "tax_percent": 0,
+   "taxable": 3045.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3045.0,
+   "mrp": null
+  },
+  {
+   "description": "SWEET CORN",
+   "hsn": "0709",
+   "quantity": 7,
+   "unit": "PC",
+   "rate": 28,
+   "tax_percent": 0,
+   "taxable": 196.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 196.0,
+   "mrp": null
+  },
+  {
+   "description": "SPRING ONION",
+   "hsn": "0703",
+   "quantity": 19.48,
+   "unit": "Kilogram",
+   "rate": 124,
+   "tax_percent": 0,
+   "taxable": 2415.52,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2415.52,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM YELLOW",
+   "hsn": "0709",
+   "quantity": 5,
+   "unit": "Kilogram",
+   "rate": 201,
+   "tax_percent": 0,
+   "taxable": 1005.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1005.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 5,
+   "unit": "Kilogram",
+   "rate": 125.5,
+   "tax_percent": 0,
+   "taxable": 627.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 627.5,
+   "mrp": null
+  },
+  {
+   "description": "ZUCCHINI GREEN",
+   "hsn": "0709",
+   "quantity": 38,
+   "unit": "Kilogram",
+   "rate": 90,
+   "tax_percent": 0,
+   "taxable": 3420.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3420.0,
+   "mrp": null
+  },
+  {
+   "description": "RED RADISH",
+   "hsn": "0706",
+   "quantity": 19,
+   "unit": "Kilogram",
+   "rate": 74,
+   "tax_percent": 0,
+   "taxable": 1406.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1406.0,
+   "mrp": null
+  },
+  {
+   "description": "CHINESE CABBAGE",
+   "hsn": "0704",
+   "quantity": 16.2,
+   "unit": "Kilogram",
+   "rate": 54,
+   "tax_percent": 0,
+   "taxable": 874.8,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 874.8,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 13,
+ "totals": {
+  "subtotal": 23663.73,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.27,
+  "grand_total": 23664.0
+ },
+ "amount_in_words": "Rupees Twenty Three Thousand Six Hundred Sixty Four Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 601"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.163,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 601",
+    "box": [
+     612.573,
+     17.952,
+     809.573,
+     122.952
+    ],
+    "angle": -2.286,
+    "size": 70.184,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 15.843,
+   "center": [
+    379.712,
+    1410.737
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.437,
+   "print_lum": 75.0,
+   "row_px_estimate": 17.869,
+   "faint": false,
+   "size_mm": [
+    73.931,
+    109.898
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Vishnu",
+    "name": "Vishnu",
+    "date": "31.08.2026",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.051,
+   "title_on_print": 0.131,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    888.177,
+    1769.808,
+    1073.494,
+    1843.935
+   ],
+   "width": 185.317,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.955,
+    251.724,
+    245.917
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.537,
+     "tilt": 0.021,
+     "depth": 0.089,
+     "width_mm": 1.32,
+     "panel_step": 0.046
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.011,
+    "bow": 0.142,
+    "lift": 0.037
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.231
+   },
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.196,
+   "gradient_angle": 143.63,
+   "vignette": 0.087,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.204,
+    "strength": 0.216
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.02,
+    1.0,
+    0.946
+   ],
+   "white": 209.135,
+   "black": 55.488,
+   "gamma": 0.999,
+   "glare": null
+  },
+  "text_row_px": 16.092,
+  "text_px": 13.41,
+  "photo_px_per_mm": 3.843,
+  "camera": {
+   "blur_sigma": 0.575,
+   "blur_cap": 0.575,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.201,
+   "sharpen_radius": 1.025,
+   "sharpen_percent": 38
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 64,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.901,
+   "skew_deg": -4.989,
+   "perspective": {
+    "amount": 0.034,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     129.846,
+     22.748
+    ],
+    [
+     926.97,
+     93.227
+    ],
+    [
+     822.59,
+     1227.556
+    ],
+    [
+     23.748,
+     1164.738
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "id": "syn033",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "P46/49, Seaport-Airport Road",
+   "Chalakudy, Kerala - 680307"
+  ],
+  "phone": "8128089486",
+  "gstin": "32RVTPT4990I1ZA",
+  "fssai": null,
+  "email": "milkyfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "GST/9231/26-27",
+ "invoice_number_printed": "GST/9231/26-27",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-08-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 33,
+   "unit": "ML",
+   "rate": 26.25,
+   "tax_percent": 0,
+   "taxable": 866.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 866.25,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 2,
+   "unit": "L",
+   "rate": 68,
+   "tax_percent": 0,
+   "taxable": 136.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 136.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 5,
+   "unit": "Nos",
+   "rate": 55.32,
+   "tax_percent": 12,
+   "taxable": 276.6,
+   "cgst": 16.6,
+   "sgst": 16.6,
+   "amount": 276.6,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 1278.85,
+  "cgst": 16.6,
+  "sgst": 16.6,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 1312.05
+ },
+ "amount_in_words": "INR One Thousand Three Hundred Twelve and Five Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Rate diff"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.353,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Rate diff",
+    "box": [
+     548.668,
+     152.303,
+     784.668,
+     275.303
+    ],
+    "angle": -7.611,
+    "size": 61.066,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -41.973,
+   "center": [
+    975.965,
+    1680.644
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.882,
+   "print_lum": 26.0,
+   "row_px_estimate": 23.79,
+   "faint": false,
+   "size_mm": [
+    77.077,
+    114.573
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Akhil",
+    "date": "29.08.2026"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1224.265,
+    117.013,
+    1361.381,
+    171.859
+   ],
+   "width": 137.116,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.128,
+    251.535,
+    244.812
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.002,
+    "bow": -0.068,
+    "lift": 0.047
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "keyboard": {
+    "side": "left",
+    "depth": 0.18
+   },
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.029,
+   "gradient_angle": 7.626,
+   "vignette": 0.137,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.251,
+    "strength": 0.101
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.946
+   ],
+   "white": 231.597,
+   "black": 25.723,
+   "gamma": 1.022,
+   "glare": {
+    "center": [
+     0.954,
+     0.456
+    ],
+    "radius": [
+     0.148,
+     0.132
+    ],
+    "strength": 0.282
+   }
+  },
+  "text_row_px": 22.625,
+  "text_px": 9.381,
+  "photo_px_per_mm": 4.058,
+  "camera": {
+   "blur_sigma": 0.289,
+   "blur_cap": 0.808,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.982,
+   "sharpen_radius": 1.417,
+   "sharpen_percent": 37
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 82,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.951,
+   "skew_deg": -1.177,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     80.413,
+     32.687
+    ],
+    [
+     939.649,
+     53.778
+    ],
+    [
+     913.54,
+     1270.226
+    ],
+    [
+     55.605,
+     1251.129
+    ]
+   ]
+  }
+ }
+}

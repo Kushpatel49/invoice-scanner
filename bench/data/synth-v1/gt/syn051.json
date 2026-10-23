@@ -1,0 +1,296 @@
+{
+ "id": "syn051",
+ "template": "software",
+ "supplier_kind": "packaged",
+ "supplier": {
+  "name": "ALMOVA INTERNATIONAL",
+  "address_lines": [
+   "Door No. 29/258-A, M.G. Road",
+   "Kochi, Kerala - 682016"
+  ],
+  "phone": "9230243623",
+  "gstin": "32PIEPI6954L2ZL",
+  "fssai": "19649571607638",
+  "email": "almova@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "COK26-27/1512",
+ "invoice_number_printed": "COK26-27/1512",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27-08-2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "DATES PREMIUM 500 G",
+   "hsn": "08041020",
+   "quantity": 25,
+   "unit": "Pcs",
+   "rate": 191,
+   "tax_percent": 12,
+   "taxable": 4775.0,
+   "cgst": 286.5,
+   "sgst": 286.5,
+   "amount": 5348.0,
+   "mrp": null
+  },
+  {
+   "description": "ORGANIC JAGGERY POWDER 500G",
+   "hsn": "17011390",
+   "quantity": 10,
+   "unit": "Pcs",
+   "rate": 74,
+   "tax_percent": 5,
+   "taxable": 740.0,
+   "cgst": 18.5,
+   "sgst": 18.5,
+   "amount": 777.0,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE WHITE HONEY 500GM",
+   "hsn": "18069090",
+   "quantity": 4,
+   "unit": "Pcs",
+   "rate": 1312,
+   "tax_percent": 5,
+   "taxable": 5248.0,
+   "cgst": 131.2,
+   "sgst": 131.2,
+   "amount": 5510.4,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 10763.0,
+  "cgst": 436.2,
+  "sgst": 436.2,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.4,
+  "grand_total": 11635.0
+ },
+ "amount_in_words": "INR Eleven Thousand Six Hundred and Thirty Five Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-621",
+  "quality issue return"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.703,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-621",
+    "box": [
+     885.167,
+     71.132,
+     1389.167,
+     269.132
+    ],
+    "angle": 3.491,
+    "size": 61.645,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   },
+   {
+    "text": "quality issue return",
+    "box": [
+     885.167,
+     71.132,
+     1389.167,
+     269.132
+    ],
+    "angle": 3.491,
+    "size": 61.645,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 35.496,
+   "center": [
+    380.448,
+    957.087
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 27.935,
+   "faint": false,
+   "size_mm": [
+    72.554,
+    107.851
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sanal",
+    "date": "27.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.06,
+   "title_on_print": 0.049,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.98
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.831,
+    251.569,
+    249.988
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.341,
+     "tilt": -0.017,
+     "depth": 0.107,
+     "width_mm": 0.886,
+     "panel_step": 0.029
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.016,
+    "bow": 0.136,
+    "lift": 0.843
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.212,
+   "gradient_angle": 196.485,
+   "vignette": 0.124,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.385,
+    "strength": 0.189
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.015,
+    1.0,
+    0.976
+   ],
+   "white": 186.219,
+   "black": 61.972,
+   "gamma": 1.069,
+   "glare": null
+  },
+  "text_row_px": 27.485,
+  "text_px": 10.994,
+  "photo_px_per_mm": 4.234,
+  "camera": {
+   "blur_sigma": 0.982,
+   "blur_cap": 0.982,
+   "defocus": {
+    "sigma_far": 0.982,
+    "angle": 84.518
+   },
+   "motion": null,
+   "noise_sd": 3.517,
+   "sharpen_radius": 1.184,
+   "sharpen_percent": 44
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 74,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.984,
+   "skew_deg": 0.875,
+   "perspective": {
+    "amount": 0.034,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     1282.728,
+     14.515
+    ],
+    [
+     1266.778,
+     921.438
+    ],
+    [
+     29.485,
+     922.954
+    ],
+    [
+     -1.423,
+     49.177
+    ]
+   ]
+  }
+ }
+}

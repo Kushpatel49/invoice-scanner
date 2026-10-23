@@ -1,0 +1,289 @@
+{
+ "id": "syn071",
+ "template": "tally",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "SREE MURUGAN VEGETABLES",
+  "address_lines": [
+   "25/519, Bypass Junction",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "9705500610",
+  "gstin": "32CYKPT8428U1Z7",
+  "fssai": null,
+  "email": "sree@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "EKM/2026/9724",
+ "invoice_number_printed": "EKM/2026/3249",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 11.1,
+   "unit": "KGS",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 444.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 444.0,
+   "mrp": null
+  },
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 25.899,
+   "unit": "KGS",
+   "rate": 93,
+   "tax_percent": 0,
+   "taxable": 2408.61,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2408.61,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 7,
+   "unit": "KGS",
+   "rate": 39,
+   "tax_percent": 0,
+   "taxable": 273.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 273.0,
+   "mrp": null
+  },
+  {
+   "description": "CUCUMBER SALAD",
+   "hsn": "0707",
+   "quantity": 16,
+   "unit": "KGS",
+   "rate": 31.61,
+   "tax_percent": 0,
+   "taxable": 505.76,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 505.76,
+   "mrp": null
+  },
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 12,
+   "unit": "KGS",
+   "rate": 44,
+   "tax_percent": 0,
+   "taxable": 528.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 528.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 4159.37,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.37,
+  "grand_total": 4159.0
+ },
+ "amount_in_words": "INR Four Thousand One Hundred Fifty Nine Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "EKM/2026/3249",
+   "new": "EKM/2026/9724"
+  },
+  "quantity": null
+ },
+ "notes": [
+  "Bill-605"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.75,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": {
+   "printed": "EKM/2026/3249",
+   "new": "EKM/2026/9724",
+   "where": "above",
+   "box": [
+    737,
+    353,
+    937,
+    382
+   ],
+   "ink": [
+    25,
+    45,
+    150
+   ],
+   "double_strike": false,
+   "font": "PatrickHand-Regular.ttf",
+   "size": 34.875,
+   "pen_on_print": 0.0
+  },
+  "notes": [
+   {
+    "text": "Bill-605",
+    "box": [
+     388.649,
+     23.256,
+     616.649,
+     141.256
+    ],
+    "angle": -4.061,
+    "size": 71.453,
+    "font": "Caveat.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    4
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    250.303,
+    251.067,
+    245.4
+   ],
+   "grain": 0.01,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.655,
+     "tilt": -0.031,
+     "depth": 0.079,
+     "width_mm": 0.612,
+     "panel_step": 0.021
+    },
+    {
+     "horizontal": false,
+     "pos": 0.676,
+     "tilt": -0.003,
+     "depth": 0.103,
+     "width_mm": 1.234,
+     "panel_step": 0.023
+    }
+   ],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "keyboard": {
+    "side": "right",
+    "depth": 0.235
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.096,
+   "gradient_angle": 302.991,
+   "vignette": 0.084,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.214,
+    "strength": 0.113
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.005,
+    1.0,
+    0.932
+   ],
+   "white": 225.447,
+   "black": 38.062,
+   "gamma": 1.017,
+   "glare": null
+  },
+  "text_row_px": 12.667,
+  "text_px": 12.667,
+  "photo_px_per_mm": 4.09,
+  "camera": {
+   "blur_sigma": 0.363,
+   "blur_cap": 0.452,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.017,
+   "sharpen_radius": 1.189,
+   "sharpen_percent": 83
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 82,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.959,
+   "skew_deg": -0.873,
+   "perspective": {
+    "amount": 0.012,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     68.736,
+     21.453
+    ],
+    [
+     936.203,
+     33.017
+    ],
+    [
+     920.675,
+     1261.744
+    ],
+    [
+     42.981,
+     1240.853
+    ]
+   ]
+  }
+ }
+}

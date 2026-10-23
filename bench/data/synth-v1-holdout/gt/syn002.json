@@ -1,0 +1,358 @@
+{
+ "id": "syn002",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "UPTOWN URBAN FARMS PVT LTD",
+  "address_lines": [
+   "P41/34, Bypass Junction",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "8047174395",
+  "gstin": "32EQACQ8301J2ZM",
+  "fssai": "12696306581809",
+  "email": "uptown@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "5204",
+ "invoice_number_printed": "5204",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SUNFLOWER MICROGREENS",
+   "hsn": "0709",
+   "quantity": 12,
+   "unit": "Units",
+   "rate": 108.0,
+   "tax_percent": 0,
+   "taxable": 1296.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1296.0,
+   "mrp": null
+  },
+  {
+   "description": "MIXED MICROGREENS",
+   "hsn": "0709",
+   "quantity": 5,
+   "unit": "Units",
+   "rate": 101.0,
+   "tax_percent": 0,
+   "taxable": 505.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 505.0,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE",
+   "hsn": "0705",
+   "quantity": 7,
+   "unit": "Units",
+   "rate": 53.0,
+   "tax_percent": 0,
+   "taxable": 371.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 371.0,
+   "mrp": null
+  },
+  {
+   "description": "CURLY GREEN",
+   "hsn": "0705",
+   "quantity": 46,
+   "unit": "Units",
+   "rate": 53.0,
+   "tax_percent": 0,
+   "taxable": 2438.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2438.0,
+   "mrp": null
+  },
+  {
+   "description": "BASIL",
+   "hsn": "0709",
+   "quantity": 28,
+   "unit": "Units",
+   "rate": 50.0,
+   "tax_percent": 0,
+   "taxable": 1400.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1400.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 53,
+   "unit": "Units",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 2597.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2597.0,
+   "mrp": null
+  },
+  {
+   "description": "PARSLEY",
+   "hsn": "0709",
+   "quantity": 12,
+   "unit": "Units",
+   "rate": 50.0,
+   "tax_percent": 0,
+   "taxable": 600.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 600.0,
+   "mrp": null
+  },
+  {
+   "description": "CHERRY TOMATO",
+   "hsn": "0702",
+   "quantity": 57,
+   "unit": "Units",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 3135.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3135.0,
+   "mrp": null
+  },
+  {
+   "description": "BOK CHOY",
+   "hsn": "0704",
+   "quantity": 11,
+   "unit": "Units",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 539.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 539.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 12881.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 12881.0
+ },
+ "amount_in_words": "RUPEES TWELVE THOUSAND EIGHT HUNDRED AND EIGHTY ONE ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 638"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.196,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 638",
+    "box": [
+     655.867,
+     0.0,
+     941.867,
+     112.0
+    ],
+    "angle": -6.235,
+    "size": 56.0,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 1.177,
+   "center": [
+    272.727,
+    1217.92
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.748,
+   "print_lum": 50.0,
+   "row_px_estimate": 46.098,
+   "faint": false,
+   "size_mm": [
+    77.079,
+    114.577
+   ],
+   "fills": {
+    "received": "Sanal",
+    "date": "24/8/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.184,
+   "title_on_print": 0.406,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.986
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    704.717,
+    171.102,
+    919.101,
+    256.856
+   ],
+   "width": 214.384,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.341,
+    248.794,
+    244.024
+   ],
+   "grain": 0.016,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.01,
+    "bow": 0.936,
+    "lift": 0.931
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.215,
+   "gradient_angle": 127.375,
+   "vignette": 0.045,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.245,
+    "strength": 0.194
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.017,
+    1.0,
+    0.976
+   ],
+   "white": 184.48,
+   "black": 51.031,
+   "gamma": 1.026,
+   "glare": {
+    "center": [
+     0.53,
+     0.683
+    ],
+    "radius": [
+     0.102,
+     0.157
+    ],
+    "strength": 0.292
+   }
+  },
+  "text_row_px": 42.485,
+  "text_px": 27.616,
+  "photo_px_per_mm": 5.095,
+  "camera": {
+   "blur_sigma": 1.188,
+   "blur_cap": 1.246,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.286,
+   "sharpen_radius": 0.826,
+   "sharpen_percent": 52
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 60,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.922,
+   "skew_deg": -0.43,
+   "perspective": {
+    "amount": 0.03,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     82.847,
+     85.167
+    ],
+    [
+     905.374,
+     78.145
+    ],
+    [
+     891.008,
+     1257.773
+    ],
+    [
+     68.717,
+     1245.299
+    ]
+   ]
+  }
+ }
+}

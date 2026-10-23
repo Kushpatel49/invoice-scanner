@@ -1,0 +1,266 @@
+{
+ "id": "syn051",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "KAIRALI AGRO TRADERS",
+  "address_lines": [
+   "Door No. 57/17-A, Industrial Estate",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8973449542",
+  "gstin": null,
+  "fssai": null,
+  "email": "kairalifresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh KKD"
+ },
+ "invoice_number": "8047",
+ "invoice_number_printed": "8047",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "BRINJAL GREEN LONG",
+   "hsn": "0709",
+   "quantity": 14,
+   "unit": "KGS",
+   "rate": 47.0,
+   "tax_percent": 0,
+   "taxable": 658.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 658.0,
+   "mrp": null
+  },
+  {
+   "description": "LADIES FINGER",
+   "hsn": "0709",
+   "quantity": 26,
+   "unit": "KGS",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 1326.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1326.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 1984.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 1984.0
+ },
+ "amount_in_words": "One Thousand Nine Hundred Eighty Four INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-664"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 6.842,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-664",
+    "box": [
+     577.534,
+     11.557,
+     760.534,
+     103.557
+    ],
+    "angle": -3.586,
+    "size": 57.524,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -42.256,
+   "center": [
+    390.027,
+    754.241
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.767,
+   "print_lum": 41.0,
+   "row_px_estimate": 42.848,
+   "faint": false,
+   "size_mm": [
+    70.111,
+    104.219
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sajitha S",
+    "name": "Sajitha",
+    "date": "29/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.098,
+   "title_on_print": 0.243,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.997
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1
+   ]
+  },
+  "signature": {
+   "box": [
+    811.141,
+    1337.35,
+    1007.905,
+    1416.055
+   ],
+   "width": 196.764,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.711,
+    249.626,
+    244.568
+   ],
+   "grain": 0.011,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.01,
+    "bow": -0.005,
+    "lift": 0.636
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.191,
+   "gradient_angle": 245.24,
+   "vignette": 0.063,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.229,
+    "strength": 0.257
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.996,
+    1.0,
+    1.011
+   ],
+   "white": 211.983,
+   "black": 52.484,
+   "gamma": 1.118,
+   "glare": null
+  },
+  "text_row_px": 39.152,
+  "text_px": 22.779,
+  "photo_px_per_mm": 4.87,
+  "camera": {
+   "blur_sigma": 1.148,
+   "blur_cap": 1.191,
+   "defocus": {
+    "sigma_far": 1.191,
+    "angle": 291.502
+   },
+   "motion": null,
+   "noise_sd": 3.866,
+   "sharpen_radius": 0.95,
+   "sharpen_percent": 86
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 62,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.914,
+   "skew_deg": -2.797,
+   "perspective": {
+    "amount": 0.036,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     18.332,
+     838.917
+    ],
+    [
+     96.774,
+     48.109
+    ],
+    [
+     1228.454,
+     95.023
+    ],
+    [
+     1198.241,
+     896.108
+    ]
+   ]
+  }
+ }
+}

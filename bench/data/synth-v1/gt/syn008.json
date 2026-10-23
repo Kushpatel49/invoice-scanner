@@ -1,0 +1,276 @@
+{
+ "id": "syn008",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "EGGS DAILY",
+  "address_lines": [
+   "Door No. 38/643-A, Church Road",
+   "Angamaly, Kerala - 683572"
+  ],
+  "phone": "9863334730",
+  "gstin": null,
+  "fssai": "19902169104981",
+  "email": "eggs@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi KKD"
+ },
+ "invoice_number": "2346",
+ "invoice_number_printed": "2346",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "QUAIL EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 3,
+   "unit": "Pack",
+   "rate": 48.5,
+   "tax_percent": 0,
+   "taxable": 145.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 145.5,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 60,
+   "unit": "Pack",
+   "rate": 103.0,
+   "tax_percent": 0,
+   "taxable": 6180.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 6180.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 6325.5,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.5,
+  "grand_total": 6326.0
+ },
+ "amount_in_words": "Six Thousand Three Hundred and Twenty Six Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 0,
+   "printed": 6,
+   "new": 3
+  }
+ },
+ "notes": [
+  "Bill-659",
+  "short 2 kg"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 5.788,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-659",
+    "box": [
+     636.117,
+     3.0,
+     773.117,
+     76.0
+    ],
+    "angle": -1.434,
+    "size": 26.045,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   },
+   {
+    "text": "short 2 kg",
+    "box": [
+     636.117,
+     3.0,
+     773.117,
+     76.0
+    ],
+    "angle": -1.434,
+    "size": 26.045,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 12.924,
+   "center": [
+    457.677,
+    765.708
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.779,
+   "print_lum": 51.0,
+   "row_px_estimate": 51.483,
+   "faint": false,
+   "size_mm": [
+    69.738,
+    103.665
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Bibin",
+    "date": "27.08.2026",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "free",
+   "over_table": true,
+   "on_numbers": 0.187,
+   "title_on_print": 0.451,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.993
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1017.629,
+    143.449,
+    1182.446,
+    209.376
+   ],
+   "width": 164.817,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.276,
+    249.369,
+    246.604
+   ],
+   "grain": 0.01,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    176,
+    178,
+    182
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.033,
+   "gradient_angle": 317.643,
+   "vignette": 0.084,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.416,
+    "strength": 0.057
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.978
+   ],
+   "white": 228.386,
+   "black": 32.297,
+   "gamma": 1.045,
+   "glare": null
+  },
+  "text_row_px": 42.719,
+  "text_px": 24.291,
+  "photo_px_per_mm": 4.848,
+  "camera": {
+   "blur_sigma": 0.381,
+   "blur_cap": 1.185,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.2,
+   "sharpen_radius": 1.375,
+   "sharpen_percent": 48
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 84,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.945,
+   "skew_deg": -1.379,
+   "perspective": {
+    "amount": 0.01,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     14.639,
+     1165.11
+    ],
+    [
+     37.032,
+     92.502
+    ],
+    [
+     939.203,
+     119.904
+    ],
+    [
+     917.628,
+     1179.649
+    ]
+   ]
+  }
+ }
+}

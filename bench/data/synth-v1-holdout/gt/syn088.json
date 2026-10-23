@@ -1,0 +1,292 @@
+{
+ "id": "syn088",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MURALYA DAIRY PRODUCTS PRIVATE LIMITED",
+  "address_lines": [
+   "XIII/252, Agricultural Urban Wholesale Market",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "9563182892",
+  "gstin": "32MQLCK9201B1ZQ",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "INV/2026/135746",
+ "invoice_number_printed": "INV/2026/135746",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01/09/26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 44,
+   "unit": "Nos",
+   "rate": 53,
+   "tax_percent": 12,
+   "taxable": 2332.0,
+   "cgst": 139.92,
+   "sgst": 139.92,
+   "amount": 2332.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 2,
+   "unit": "400g",
+   "rate": 42,
+   "tax_percent": 5,
+   "taxable": 84.0,
+   "cgst": 2.1,
+   "sgst": 2.1,
+   "amount": 84.0,
+   "mrp": null
+  },
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 2,
+   "unit": "500g",
+   "rate": 33,
+   "tax_percent": 5,
+   "taxable": 66.0,
+   "cgst": 1.65,
+   "sgst": 1.65,
+   "amount": 66.0,
+   "mrp": null
+  },
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 9,
+   "unit": "Nos",
+   "rate": 327,
+   "tax_percent": 12,
+   "taxable": 2943.0,
+   "cgst": 176.58,
+   "sgst": 176.58,
+   "amount": 2943.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 5425.0,
+  "cgst": 320.25,
+  "sgst": 320.25,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.5,
+  "grand_total": 6066.0
+ },
+ "amount_in_words": "Rupees Six Thousand Sixty Six Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 689"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.948,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 689",
+    "box": [
+     1305.274,
+     0.0,
+     1459.274,
+     94.0
+    ],
+    "angle": -6.632,
+    "size": 51.2,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 37.807,
+   "center": [
+    846.331,
+    1832.963
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.82,
+   "print_lum": 37.0,
+   "row_px_estimate": 28.384,
+   "faint": false,
+   "size_mm": [
+    68.513,
+    101.844
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Shalet",
+    "date": "2.09.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1120.312,
+    170.007,
+    1311.272,
+    246.391
+   ],
+   "width": 190.959,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.67,
+    250.915,
+    245.102
+   ],
+   "grain": 0.012,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.508,
+     "tilt": -0.041,
+     "depth": 0.062,
+     "width_mm": 0.735,
+     "panel_step": 0.001
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.017,
+    "bow": -0.13,
+    "lift": 0.447
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.119,
+   "gradient_angle": 212.593,
+   "vignette": 0.136,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.464,
+    "strength": 0.208
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.017,
+    1.0,
+    0.945
+   ],
+   "white": 212.71,
+   "black": 58.636,
+   "gamma": 1.102,
+   "glare": null
+  },
+  "text_row_px": 26.018,
+  "text_px": 10.007,
+  "photo_px_per_mm": 3.977,
+  "camera": {
+   "blur_sigma": 0.91,
+   "blur_cap": 0.91,
+   "defocus": {
+    "sigma_far": 0.91,
+    "angle": 312.241
+   },
+   "motion": null,
+   "noise_sd": 4.155,
+   "sharpen_radius": 1.131,
+   "sharpen_percent": 85
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 66,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.917,
+   "skew_deg": 2.443,
+   "perspective": {
+    "amount": 0.034,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     90.766,
+     932.864
+    ],
+    [
+     15.084,
+     94.16
+    ],
+    [
+     1179.509,
+     35.258
+    ],
+    [
+     1205.995,
+     881.916
+    ]
+   ]
+  }
+ }
+}

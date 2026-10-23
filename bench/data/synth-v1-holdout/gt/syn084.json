@@ -1,0 +1,282 @@
+{
+ "id": "syn084",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "PERIYAR VEGETABLE COMPANY",
+  "address_lines": [
+   "XIII/133, Agricultural Urban Wholesale Market",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "9664590843",
+  "gstin": null,
+  "fssai": "13343462858157",
+  "email": "periyar@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "5025",
+ "invoice_number_printed": "5025",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ASH GOURD",
+   "hsn": "0709",
+   "quantity": 17,
+   "unit": "KGS",
+   "rate": 38.0,
+   "tax_percent": 0,
+   "taxable": 646.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 646.0,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM GREEN",
+   "hsn": "0709",
+   "quantity": 40,
+   "unit": "KGS",
+   "rate": 64.0,
+   "tax_percent": 0,
+   "taxable": 2560.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2560.0,
+   "mrp": null
+  },
+  {
+   "description": "SWEET POTATO",
+   "hsn": "0714",
+   "quantity": 6,
+   "unit": "KGS",
+   "rate": 66.0,
+   "tax_percent": 0,
+   "taxable": 396.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 396.0,
+   "mrp": null
+  },
+  {
+   "description": "TAPIOCA",
+   "hsn": "0714",
+   "quantity": 3.07,
+   "unit": "KGS",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 125.87,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 125.87,
+   "mrp": null
+  },
+  {
+   "description": "BEETROOT OOTY",
+   "hsn": "0706",
+   "quantity": 12.92,
+   "unit": "KGS",
+   "rate": 58.0,
+   "tax_percent": 0,
+   "taxable": 749.36,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 749.36,
+   "mrp": null
+  },
+  {
+   "description": "ONION SMALL (SAMBAR)",
+   "hsn": "0703",
+   "quantity": 16,
+   "unit": "KGS",
+   "rate": 73.0,
+   "tax_percent": 0,
+   "taxable": 1168.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1168.0,
+   "mrp": null
+  },
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 8.709,
+   "unit": "KGS",
+   "rate": 65.0,
+   "tax_percent": 0,
+   "taxable": 566.09,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 566.09,
+   "mrp": null
+  },
+  {
+   "description": "CURRY LEAVES",
+   "hsn": "0709",
+   "quantity": 7.08,
+   "unit": "KGS",
+   "rate": 75.0,
+   "tax_percent": 0,
+   "taxable": 531.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 531.0,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 21.128,
+   "unit": "KGS",
+   "rate": 53.0,
+   "tax_percent": 0,
+   "taxable": 1119.78,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1119.78,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 7862.1,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 7862.1
+ },
+ "amount_in_words": "Rupees Seven Thousand Eight Hundred Sixty Two and Ten Paise Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "pink",
+  "px_per_mm": 6.741,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    824.881,
+    205.018,
+    979.487,
+    266.861
+   ],
+   "width": 154.606,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.84,
+    159.331,
+    179.551
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": 0.011,
+    "lift": 0.329
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.099,
+   "gradient_angle": 143.376,
+   "vignette": 0.054,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.016,
+    1.0,
+    0.93
+   ],
+   "white": 231.292,
+   "black": 43.592,
+   "gamma": 1.09,
+   "glare": null
+  },
+  "text_row_px": 40.637,
+  "text_px": 25.302,
+  "photo_px_per_mm": 5.168,
+  "camera": {
+   "blur_sigma": 0.413,
+   "blur_cap": 1.263,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.046,
+   "sharpen_radius": 1.473,
+   "sharpen_percent": 49
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 77,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.991,
+   "skew_deg": -0.327,
+   "perspective": {
+    "amount": 0.006,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     -1.369,
+     929.214
+    ],
+    [
+     8.224,
+     58.094
+    ],
+    [
+     1274.726,
+     68.264
+    ],
+    [
+     1269.116,
+     936.68
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,328 @@
+{
+ "id": "syn064",
+ "template": "gst_modern",
+ "supplier_kind": "packaged",
+ "supplier": {
+  "name": "ALMOVA INTERNATIONAL",
+  "address_lines": [
+   "XIII/182, Banerji Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "9679322958",
+  "gstin": "32NIBPF4576U2ZD",
+  "fssai": "18279966880697",
+  "email": "almova@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "B1/FS/8608",
+ "invoice_number_printed": "B1/FS/017603",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "DATES PREMIUM 500 G",
+   "hsn": "08041020",
+   "quantity": 84,
+   "unit": "Pcs",
+   "rate": 184.75,
+   "tax_percent": 12,
+   "taxable": 15519.0,
+   "cgst": 931.14,
+   "sgst": 931.14,
+   "amount": 15519.0,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE FOREST HONEY 500G",
+   "hsn": "17029030",
+   "quantity": 43,
+   "unit": "Pcs",
+   "rate": 1322,
+   "tax_percent": 5,
+   "taxable": 56846.0,
+   "cgst": 1421.15,
+   "sgst": 1421.15,
+   "amount": 56846.0,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE WHITE HONEY 500GM",
+   "hsn": "18069090",
+   "quantity": 14,
+   "unit": "Pcs",
+   "rate": 1261,
+   "tax_percent": 5,
+   "taxable": 17654.0,
+   "cgst": 441.35,
+   "sgst": 441.35,
+   "amount": 17654.0,
+   "mrp": null
+  },
+  {
+   "description": "ALMONDS CALIFORNIA 250 G",
+   "hsn": "08021200",
+   "quantity": 34,
+   "unit": "Pcs",
+   "rate": 243,
+   "tax_percent": 12,
+   "taxable": 8262.0,
+   "cgst": 495.72,
+   "sgst": 495.72,
+   "amount": 8262.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 98281.0,
+  "cgst": 3289.36,
+  "sgst": 3289.36,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.28,
+  "grand_total": 104860.0
+ },
+ "amount_in_words": "One Lakh Four Thousand Eight Hundred Sixty INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "B1/FS/017603",
+   "new": "B1/FS/8608"
+  },
+  "quantity": null
+ },
+ "notes": [
+  "BIL-610"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.747,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": {
+   "printed": "B1/FS/017603",
+   "new": "B1/FS/8608",
+   "where": "right",
+   "box": [
+    351,
+    540,
+    482,
+    567
+   ],
+   "ink": [
+    25,
+    45,
+    150
+   ],
+   "double_strike": true,
+   "font": "Caveat.ttf",
+   "size": 29.631,
+   "pen_on_print": 0.0
+  },
+  "notes": [
+   {
+    "text": "BIL-610",
+    "box": [
+     1026.057,
+     280.5,
+     1282.057,
+     387.5
+    ],
+    "angle": 3.346,
+    "size": 65.6,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -25.417,
+   "center": [
+    873.207,
+    1111.476
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 22.582,
+   "faint": false,
+   "size_mm": [
+    78.193,
+    116.233
+   ],
+   "fills": {
+    "received": "Jithin",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.241,
+   "title_on_print": 0.2,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1035.035,
+    1536.103,
+    1207.589,
+    1605.124
+   ],
+   "width": 172.553,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    250.957,
+    250.996,
+    245.089
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.351,
+     "tilt": 0.012,
+     "depth": 0.074,
+     "width_mm": 1.387,
+     "panel_step": 0.058
+    },
+    {
+     "horizontal": false,
+     "pos": 0.507,
+     "tilt": 0.017,
+     "depth": 0.131,
+     "width_mm": 0.926,
+     "panel_step": 0.049
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.016,
+    "bow": 0.508,
+    "lift": -0.062
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "white table",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.183,
+   "gradient_angle": 11.066,
+   "vignette": 0.08,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.36,
+    "strength": 0.224
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.017,
+    1.0,
+    0.97
+   ],
+   "white": 197.924,
+   "black": 47.946,
+   "gamma": 1.05,
+   "glare": {
+    "center": [
+     0.837,
+     0.434
+    ],
+    "radius": [
+     0.203,
+     0.117
+    ],
+    "strength": 0.295
+   }
+  },
+  "text_row_px": 22.99,
+  "text_px": 9.532,
+  "photo_px_per_mm": 4.344,
+  "camera": {
+   "blur_sigma": 0.76,
+   "blur_cap": 0.821,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.952,
+   "sharpen_radius": 1.571,
+   "sharpen_percent": 79
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 65,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 1.018,
+   "skew_deg": -1.802,
+   "perspective": {
+    "amount": 0.049,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     35.027,
+     911.946
+    ],
+    [
+     -9.224,
+     4.161
+    ],
+    [
+     1288.316,
+     65.156
+    ],
+    [
+     1260.672,
+     975.36
+    ]
+   ]
+  }
+ }
+}

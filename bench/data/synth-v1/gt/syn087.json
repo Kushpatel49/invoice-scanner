@@ -1,0 +1,397 @@
+{
+ "id": "syn087",
+ "template": "tally",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "MALABAR FRESH FARMS PVT LTD",
+  "address_lines": [
+   "XIII/123, Industrial Estate",
+   "Tripunithura, Kerala - 682301"
+  ],
+  "phone": "8642525467",
+  "gstin": "32RXRCQ7382W2Z9",
+  "fssai": "14561010632325",
+  "email": "malabar@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "26-27/1423",
+ "invoice_number_printed": "26-27/1423",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25-Aug-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 10.3,
+   "unit": "KGS",
+   "rate": 41,
+   "tax_percent": 0,
+   "taxable": 422.3,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 422.3,
+   "mrp": null
+  },
+  {
+   "description": "TAPIOCA",
+   "hsn": "0714",
+   "quantity": 40,
+   "unit": "KGS",
+   "rate": 38,
+   "tax_percent": 0,
+   "taxable": 1520.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1520.0,
+   "mrp": null
+  },
+  {
+   "description": "PUMPKIN",
+   "hsn": "0709",
+   "quantity": 25,
+   "unit": "KGS",
+   "rate": 28.75,
+   "tax_percent": 0,
+   "taxable": 718.75,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 718.75,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 4.8,
+   "unit": "KGS",
+   "rate": 94,
+   "tax_percent": 0,
+   "taxable": 451.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 451.2,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 8.87,
+   "unit": "KGS",
+   "rate": 60.96,
+   "tax_percent": 0,
+   "taxable": 540.72,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 540.72,
+   "mrp": null
+  },
+  {
+   "description": "ASH GOURD",
+   "hsn": "0709",
+   "quantity": 10.257,
+   "unit": "KGS",
+   "rate": 36,
+   "tax_percent": 0,
+   "taxable": 369.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 369.25,
+   "mrp": null
+  },
+  {
+   "description": "BEANS BUSH",
+   "hsn": "0708",
+   "quantity": 7.22,
+   "unit": "KGS",
+   "rate": 114.25,
+   "tax_percent": 0,
+   "taxable": 824.89,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 824.89,
+   "mrp": null
+  },
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 18.8,
+   "unit": "KGS",
+   "rate": 105,
+   "tax_percent": 0,
+   "taxable": 1974.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1974.0,
+   "mrp": null
+  },
+  {
+   "description": "CUCUMBER SALAD",
+   "hsn": "0707",
+   "quantity": 11,
+   "unit": "KGS",
+   "rate": 42,
+   "tax_percent": 0,
+   "taxable": 462.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 462.0,
+   "mrp": null
+  },
+  {
+   "description": "CARROT OOTY",
+   "hsn": "0706",
+   "quantity": 4,
+   "unit": "KGS",
+   "rate": 64,
+   "tax_percent": 0,
+   "taxable": 256.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 256.0,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 14,
+   "unit": "KGS",
+   "rate": 73,
+   "tax_percent": 0,
+   "taxable": 1022.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1022.0,
+   "mrp": null
+  },
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 29,
+   "unit": "KGS",
+   "rate": 25.81,
+   "tax_percent": 0,
+   "taxable": 748.49,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 748.49,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 12,
+ "totals": {
+  "subtotal": 9309.6,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 9309.6
+ },
+ "amount_in_words": "RUPEES NINE THOUSAND THREE HUNDRED NINE AND SIXTY PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-667"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.6,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-667",
+    "box": [
+     150.955,
+     18.68,
+     423.955,
+     166.68
+    ],
+    "angle": 6.667,
+    "size": 79.168,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 0.659,
+   "center": [
+    627.537,
+    1749.488
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.414,
+   "print_lum": 48.0,
+   "row_px_estimate": 12.351,
+   "faint": true,
+   "size_mm": [
+    69.275,
+    102.976
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sanal",
+    "name": "Sanal",
+    "date": "25/08/26"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    456.654,
+    257.977,
+    601.063,
+    315.741
+   ],
+   "width": 144.409,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.284,
+    241.676,
+    224.217
+   ],
+   "grain": 0.017,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.006,
+    "bow": -0.877,
+    "lift": 0.17
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 3,
+   "keyboard": {
+    "side": "top",
+    "depth": 0.26
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.124,
+   "gradient_angle": 344.223,
+   "vignette": 0.031,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.352,
+    "strength": 0.218
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.013,
+    1.0,
+    0.973
+   ],
+   "white": 190.354,
+   "black": 47.687,
+   "gamma": 1.142,
+   "glare": {
+    "center": [
+     0.189,
+     0.565
+    ],
+    "radius": [
+     0.197,
+     0.103
+    ],
+    "strength": 0.198
+   }
+  },
+  "text_row_px": 11.194,
+  "text_px": 11.194,
+  "photo_px_per_mm": 3.867,
+  "camera": {
+   "blur_sigma": 0.4,
+   "blur_cap": 0.4,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.471,
+   "sharpen_radius": 1.307,
+   "sharpen_percent": 68
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 78,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.906,
+   "skew_deg": 2.341,
+   "perspective": {
+    "amount": 0.025,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     43.451,
+     66.95
+    ],
+    [
+     871.985,
+     28.82
+    ],
+    [
+     916.03,
+     1172.316
+    ],
+    [
+     101.358,
+     1208.626
+    ]
+   ]
+  }
+ }
+}

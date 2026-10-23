@@ -1,0 +1,369 @@
+{
+ "id": "syn048",
+ "template": "gst_modern",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "17/367, Temple Road",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8472376832",
+  "gstin": "32WCAPK1923S1ZX",
+  "fssai": "17137908608711",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "MF/KK/1304/5413",
+ "invoice_number_printed": "MF/KK/1304/26-27",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 345.0,
+   "tax_percent": 12,
+   "taxable": 690.0,
+   "cgst": 41.4,
+   "sgst": 41.4,
+   "amount": 690.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 29,
+   "unit": "400g",
+   "rate": 39,
+   "tax_percent": 5,
+   "taxable": 1131.0,
+   "cgst": 28.28,
+   "sgst": 28.28,
+   "amount": 1131.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 35,
+   "unit": "Nos",
+   "rate": 53,
+   "tax_percent": 12,
+   "taxable": 1855.0,
+   "cgst": 111.3,
+   "sgst": 111.3,
+   "amount": 1855.0,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 3,
+   "unit": "Nos",
+   "rate": 88.34,
+   "tax_percent": 5,
+   "taxable": 265.02,
+   "cgst": 6.63,
+   "sgst": 6.63,
+   "amount": 265.02,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 95,
+   "unit": "L",
+   "rate": 75,
+   "tax_percent": 0,
+   "taxable": 7125.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 7125.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 4,
+   "unit": "ML",
+   "rate": 25.5,
+   "tax_percent": 0,
+   "taxable": 102.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 102.0,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 53,
+   "unit": "L",
+   "rate": 66.73,
+   "tax_percent": 0,
+   "taxable": 3536.69,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3536.69,
+   "mrp": null
+  },
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 73,
+   "unit": "500g",
+   "rate": 28.25,
+   "tax_percent": 5,
+   "taxable": 2062.25,
+   "cgst": 51.56,
+   "sgst": 51.56,
+   "amount": 2062.25,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 16766.96,
+  "cgst": 239.17,
+  "sgst": 239.17,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 17245.3
+ },
+ "amount_in_words": "Seventeen Thousand Two Hundred Forty Five INDIAN RUPEES and Thirty Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "MF/KK/1304/26-27",
+   "new": "MF/KK/1304/5413"
+  },
+  "quantity": null
+ },
+ "notes": [
+  "B/L 660"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.557,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": {
+   "printed": "MF/KK/1304/26-27",
+   "new": "MF/KK/1304/5413",
+   "where": "right",
+   "box": [
+    534,
+    351,
+    760,
+    381
+   ],
+   "ink": [
+    30,
+    40,
+    135
+   ],
+   "double_strike": false,
+   "font": "Caveat.ttf",
+   "size": 34.005,
+   "pen_on_print": 0.0
+  },
+  "notes": [
+   {
+    "text": "B/L 660",
+    "box": [
+     1137.565,
+     226.474,
+     1450.565,
+     334.474
+    ],
+    "angle": 0.612,
+    "size": 78.965,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 43.443,
+   "center": [
+    359.341,
+    1323.756
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.48,
+   "print_lum": 39.0,
+   "row_px_estimate": 22.02,
+   "faint": false,
+   "size_mm": [
+    75.236,
+    111.837
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Rakhi",
+    "date": "28/08/26"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.086,
+   "title_on_print": 0.184,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.958
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1087.937,
+    1647.747,
+    1304.55,
+    1734.392
+   ],
+   "width": 216.614,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.301,
+    249.734,
+    246.119
+   ],
+   "grain": 0.009,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.694,
+     "tilt": -0.043,
+     "depth": 0.121,
+     "width_mm": 1.449,
+     "panel_step": 0.044
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.013,
+    "bow": 0.9,
+    "lift": -0.109
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.12,
+   "gradient_angle": 224.946,
+   "vignette": 0.061,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.402,
+    "strength": 0.259
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.013,
+    1.0,
+    0.974
+   ],
+   "white": 207.125,
+   "black": 57.2,
+   "gamma": 0.918,
+   "glare": null
+  },
+  "text_row_px": 20.351,
+  "text_px": 7.827,
+  "photo_px_per_mm": 3.943,
+  "camera": {
+   "blur_sigma": 0.712,
+   "blur_cap": 0.712,
+   "defocus": {
+    "sigma_far": 0.712,
+    "angle": 339.334
+   },
+   "motion": {
+    "length_px": 1.01,
+    "angle": 57.446
+   },
+   "noise_sd": 3.377,
+   "sharpen_radius": 0.948,
+   "sharpen_percent": 39
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 70,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.924,
+   "skew_deg": 4.671,
+   "perspective": {
+    "amount": 0.041,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     -3.486,
+     58.336
+    ],
+    [
+     853.301,
+     -10.417
+    ],
+    [
+     916.058,
+     1183.952
+    ],
+    [
+     104.888,
+     1272.565
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "id": "syn007",
+ "template": "carbon",
+ "supplier_kind": "spices",
+ "supplier": {
+  "name": "MALABAR SPICES & MASALA",
+  "address_lines": [
+   "52/398, Agricultural Urban Wholesale Market",
+   "Kalamassery, Kerala - 683104"
+  ],
+  "phone": "9556728504",
+  "gstin": "32LLJFH2045J1ZN",
+  "fssai": null,
+  "email": "malabar@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "26-27/653",
+ "invoice_number_printed": "26-27/653",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-Aug-2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "CARDAMOM 100 G",
+   "hsn": "09083120",
+   "quantity": 1,
+   "unit": "Pkt",
+   "rate": 271,
+   "tax_percent": 5,
+   "taxable": 271.0,
+   "cgst": 6.78,
+   "sgst": 6.78,
+   "amount": 284.56,
+   "mrp": null
+  },
+  {
+   "description": "GARAM MASALA 100 G",
+   "hsn": "09109100",
+   "quantity": 56,
+   "unit": "Pkt",
+   "rate": 79,
+   "tax_percent": 5,
+   "taxable": 4424.0,
+   "cgst": 110.6,
+   "sgst": 110.6,
+   "amount": 4645.2,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER POWDER 500 G",
+   "hsn": "09092200",
+   "quantity": 36,
+   "unit": "Pkt",
+   "rate": 118.44,
+   "tax_percent": 5,
+   "taxable": 4263.84,
+   "cgst": 106.6,
+   "sgst": 106.6,
+   "amount": 4477.04,
+   "mrp": null
+  },
+  {
+   "description": "CHILLI POWDER 500 G",
+   "hsn": "09042211",
+   "quantity": 23,
+   "unit": "Pkt",
+   "rate": 159,
+   "tax_percent": 5,
+   "taxable": 3657.0,
+   "cgst": 91.43,
+   "sgst": 91.43,
+   "amount": 3839.86,
+   "mrp": null
+  },
+  {
+   "description": "PEPPER BLACK 250 G",
+   "hsn": "09041140",
+   "quantity": 11,
+   "unit": "Pkt",
+   "rate": 180,
+   "tax_percent": 5,
+   "taxable": 1980.0,
+   "cgst": 49.5,
+   "sgst": 49.5,
+   "amount": 2079.0,
+   "mrp": null
+  },
+  {
+   "description": "TURMERIC POWDER 500 G",
+   "hsn": "09103030",
+   "quantity": 17,
+   "unit": "Pkt",
+   "rate": 119,
+   "tax_percent": 5,
+   "taxable": 2023.0,
+   "cgst": 50.58,
+   "sgst": 50.58,
+   "amount": 2124.16,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR POWDER 200 G",
+   "hsn": "21039040",
+   "quantity": 89,
+   "unit": "Pkt",
+   "rate": 62,
+   "tax_percent": 5,
+   "taxable": 5518.0,
+   "cgst": 137.95,
+   "sgst": 137.95,
+   "amount": 5793.9,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 22136.84,
+  "cgst": 553.44,
+  "sgst": 553.44,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 23243.72
+ },
+ "amount_in_words": "RUPEES TWENTY THREE THOUSAND TWO HUNDRED FORTY THREE AND SEVENTY TWO PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "yellow",
+  "px_per_mm": 8.228,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -0.995,
+   "center": [
+    362.695,
+    1654.542
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.421,
+   "print_lum": 76.0,
+   "row_px_estimate": 27.092,
+   "faint": false,
+   "size_mm": [
+    73.942,
+    109.913
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Shalet",
+    "name": "Shalet",
+    "date": "30/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "free",
+   "over_table": true,
+   "on_numbers": 0.129,
+   "title_on_print": 0.326,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.091,
+    237.37,
+    170.832
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.004,
+    "bow": -0.3,
+    "lift": 0.263
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.079,
+   "gradient_angle": 110.616,
+   "vignette": 0.13,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.972
+   ],
+   "white": 233.449,
+   "black": 31.695,
+   "gamma": 0.952,
+   "glare": null
+  },
+  "text_row_px": 31.798,
+  "text_px": 10.789,
+  "photo_px_per_mm": 4.672,
+  "camera": {
+   "blur_sigma": 0.495,
+   "blur_cap": 0.981,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.628,
+   "sharpen_radius": 1.482,
+   "sharpen_percent": 41
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 75,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 1.035,
+   "skew_deg": -0.28,
+   "perspective": {
+    "amount": 0.002,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     -24.523,
+     943.11
+    ],
+    [
+     -20.175,
+     5.081
+    ],
+    [
+     1303.372,
+     11.381
+    ],
+    [
+     1300.176,
+     949.976
+    ]
+   ]
+  }
+ }
+}

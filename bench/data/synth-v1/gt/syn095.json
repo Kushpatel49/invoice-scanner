@@ -1,0 +1,318 @@
+{
+ "id": "syn095",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "HYDRO HARVEST FARMS",
+  "address_lines": [
+   "Door No. 10/511-C, Church Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "7187769163",
+  "gstin": null,
+  "fssai": "18828456900510",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "6308",
+ "invoice_number_printed": "6308",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "PARSLEY",
+   "hsn": "0709",
+   "quantity": 8,
+   "unit": "Units",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 416.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 416.0,
+   "mrp": null
+  },
+  {
+   "description": "SUNFLOWER MICROGREENS",
+   "hsn": "0709",
+   "quantity": 9,
+   "unit": "Units",
+   "rate": 104.0,
+   "tax_percent": 0,
+   "taxable": 936.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 936.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 43,
+   "unit": "Units",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 1978.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1978.0,
+   "mrp": null
+  },
+  {
+   "description": "CURLY GREEN",
+   "hsn": "0705",
+   "quantity": 67,
+   "unit": "Units",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 3685.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3685.0,
+   "mrp": null
+  },
+  {
+   "description": "BOK CHOY",
+   "hsn": "0704",
+   "quantity": 22,
+   "unit": "Units",
+   "rate": 52.0,
+   "tax_percent": 0,
+   "taxable": 1144.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1144.0,
+   "mrp": null
+  },
+  {
+   "description": "BASIL",
+   "hsn": "0709",
+   "quantity": 39,
+   "unit": "Units",
+   "rate": 50.0,
+   "tax_percent": 0,
+   "taxable": 1950.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1950.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 10109.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 10109.0
+ },
+ "amount_in_words": "INR Ten Thousand One Hundred Nine Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 677"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 6.729,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 677",
+    "box": [
+     647.148,
+     5.0,
+     833.148,
+     76.0
+    ],
+    "angle": 1.654,
+    "size": 48.8,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 6.95,
+   "center": [
+    404.356,
+    1219.469
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.678,
+   "print_lum": 61.0,
+   "row_px_estimate": 45.919,
+   "faint": false,
+   "size_mm": [
+    70.643,
+    105.01
+   ],
+   "fills": {
+    "received": "Arun",
+    "date": "31.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.138,
+   "title_on_print": 0.35,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.981
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    887.134,
+    1429.388,
+    1042.394,
+    1491.492
+   ],
+   "width": 155.259,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.693,
+    250.874,
+    247.445
+   ],
+   "grain": 0.017,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.004,
+    "bow": 0.393,
+    "lift": 0.7
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.08,
+   "gradient_angle": 99.728,
+   "vignette": 0.105,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.208,
+    "strength": 0.048
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.003,
+    1.0,
+    0.94
+   ],
+   "white": 211.208,
+   "black": 20.789,
+   "gamma": 1.077,
+   "glare": null
+  },
+  "text_row_px": 44.014,
+  "text_px": 25.937,
+  "photo_px_per_mm": 5.289,
+  "camera": {
+   "blur_sigma": 0.487,
+   "blur_cap": 1.293,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.478,
+   "sharpen_radius": 1.237,
+   "sharpen_percent": 57
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 79,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.959,
+   "skew_deg": -1.048,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     23.902,
+     913.719
+    ],
+    [
+     43.518,
+     36.077
+    ],
+    [
+     1265.297,
+     59.572
+    ],
+    [
+     1251.35,
+     934.004
+    ]
+   ]
+  }
+ }
+}

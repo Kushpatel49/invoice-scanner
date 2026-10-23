@@ -1,0 +1,320 @@
+{
+ "id": "syn016",
+ "template": "gst_modern",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "P23/23, Near Railway Station",
+   "Chalakudy, Kerala - 680307"
+  ],
+  "phone": "9526166361",
+  "gstin": "32JZOCN9304T1Z0",
+  "fssai": "11985969669885",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "26-27/321",
+ "invoice_number_printed": "26-27/321",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 35,
+   "unit": "Nos",
+   "rate": 58,
+   "tax_percent": 5,
+   "taxable": 2030.0,
+   "cgst": 50.75,
+   "sgst": 50.75,
+   "amount": 2030.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT PUNCHA EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 88,
+   "unit": "Nos",
+   "rate": 69.94,
+   "tax_percent": 5,
+   "taxable": 6154.72,
+   "cgst": 153.87,
+   "sgst": 153.87,
+   "amount": 6154.72,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 52,
+   "unit": "Nos",
+   "rate": 72,
+   "tax_percent": 5,
+   "taxable": 3744.0,
+   "cgst": 93.6,
+   "sgst": 93.6,
+   "amount": 3744.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT VEG PALAPPAM 1 LTR",
+   "hsn": "21061000",
+   "quantity": 11,
+   "unit": "Nos",
+   "rate": 69,
+   "tax_percent": 5,
+   "taxable": 759.0,
+   "cgst": 18.98,
+   "sgst": 18.98,
+   "amount": 759.0,
+   "mrp": null
+  },
+  {
+   "description": "JAGGERY BALL 1 KG",
+   "hsn": "17011390",
+   "quantity": 8,
+   "unit": "Nos",
+   "rate": 87.75,
+   "tax_percent": 5,
+   "taxable": 702.0,
+   "cgst": 17.55,
+   "sgst": 17.55,
+   "amount": 702.0,
+   "mrp": null
+  },
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 11,
+   "unit": "Nos",
+   "rate": 75.75,
+   "tax_percent": 5,
+   "taxable": 833.25,
+   "cgst": 20.83,
+   "sgst": 20.83,
+   "amount": 833.25,
+   "mrp": null
+  },
+  {
+   "description": "ROASTED RAVA 1 KG",
+   "hsn": "11031100",
+   "quantity": 16,
+   "unit": "Nos",
+   "rate": 65.77,
+   "tax_percent": 5,
+   "taxable": 1052.32,
+   "cgst": 26.31,
+   "sgst": 26.31,
+   "amount": 1052.32,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 15275.29,
+  "cgst": 381.89,
+  "sgst": 381.89,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 16039.07
+ },
+ "amount_in_words": "RUPEES SIXTEEN THOUSAND THIRTY NINE AND SEVEN PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-671"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.42,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-671",
+    "box": [
+     574.027,
+     296.0,
+     768.027,
+     386.0
+    ],
+    "angle": 2.809,
+    "size": 57.6,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": -19.597,
+   "center": [
+    1205.817,
+    1208.63
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.554,
+   "print_lum": 51.0,
+   "row_px_estimate": 20.931,
+   "faint": false,
+   "size_mm": [
+    70.498,
+    104.794
+   ],
+   "fills": {
+    "store_name": "TPR",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.198,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.022,
+   "inside_page": 0.998
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    247.049,
+    251.969,
+    247.982
+   ],
+   "grain": 0.017,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.697,
+     "tilt": -0.035,
+     "depth": 0.077,
+     "width_mm": 0.822,
+     "panel_step": 0.051
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.01,
+    "bow": 0.464,
+    "lift": 0.304
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.179,
+   "gradient_angle": 337.519,
+   "vignette": 0.125,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.499,
+    "strength": 0.207
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.989,
+    1.0,
+    1.014
+   ],
+   "white": 182.198,
+   "black": 43.021,
+   "gamma": 1.034,
+   "glare": null
+  },
+  "text_row_px": 20.596,
+  "text_px": 7.209,
+  "photo_px_per_mm": 3.821,
+  "camera": {
+   "blur_sigma": 0.655,
+   "blur_cap": 0.655,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.334,
+   "sharpen_radius": 1.207,
+   "sharpen_percent": 36
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 66,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.895,
+   "skew_deg": -0.192,
+   "perspective": {
+    "amount": 0.03,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     76.477,
+     31.061
+    ],
+    [
+     886.03,
+     46.983
+    ],
+    [
+     890.487,
+     1163.681
+    ],
+    [
+     80.158,
+     1177.37
+    ]
+   ]
+  }
+ }
+}

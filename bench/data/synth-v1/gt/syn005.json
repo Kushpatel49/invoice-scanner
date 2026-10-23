@@ -1,0 +1,267 @@
+{
+ "id": "syn005",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "ST. JUDE VEGETABLES",
+  "address_lines": [
+   "Door No. 2/260-A, M.G. Road",
+   "Chalakudy, Kerala - 680307"
+  ],
+  "phone": "9737710752",
+  "gstin": null,
+  "fssai": "17746462115094",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh kakkanad"
+ },
+ "invoice_number": "6219",
+ "invoice_number_printed": "6219",
+ "invoice_date": "2026-09-01",
+ "date_printed": "1/09/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SWEET POTATO",
+   "hsn": "0714",
+   "quantity": 10.71,
+   "unit": "KGS",
+   "rate": 58.0,
+   "tax_percent": 0,
+   "taxable": 621.18,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 621.18,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 10.182,
+   "unit": "KGS",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 519.28,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 519.28,
+   "mrp": null
+  },
+  {
+   "description": "BEANS BUSH",
+   "hsn": "0708",
+   "quantity": 26,
+   "unit": "KGS",
+   "rate": 75.0,
+   "tax_percent": 0,
+   "taxable": 1950.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1950.0,
+   "mrp": null
+  },
+  {
+   "description": "ONION SMALL (SAMBAR)",
+   "hsn": "0703",
+   "quantity": 35,
+   "unit": "KGS",
+   "rate": 106.0,
+   "tax_percent": 0,
+   "taxable": 3710.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3710.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 6800.46,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 6800.46
+ },
+ "amount_in_words": "INR Six Thousand Eight Hundred and Forty Six Paise Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 6.16,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -42.625,
+   "center": [
+    438.977,
+    856.201
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.848,
+   "print_lum": 28.0,
+   "row_px_estimate": 43.686,
+   "faint": false,
+   "size_mm": [
+    72.565,
+    107.867
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "name": "Shalet",
+    "date": "01/09/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.08,
+   "title_on_print": 0.199,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1
+   ]
+  },
+  "signature": {
+   "box": [
+    353.896,
+    1290.363,
+    504.288,
+    1350.52
+   ],
+   "width": 150.393,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.442,
+    249.111,
+    245.297
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.003,
+    "bow": -0.278,
+    "lift": -0.008
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.127,
+   "gradient_angle": 45.25,
+   "vignette": 0.114,
+   "shadow": {
+    "kind": "hand",
+    "side": "top",
+    "depth": 0.359,
+    "strength": 0.136
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.984,
+    1.0,
+    1.02
+   ],
+   "white": 202.043,
+   "black": 33.42,
+   "gamma": 1.019,
+   "glare": null
+  },
+  "text_row_px": 45.8,
+  "text_px": 34.808,
+  "photo_px_per_mm": 5.642,
+  "camera": {
+   "blur_sigma": 0.622,
+   "blur_cap": 1.379,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.656,
+   "sharpen_radius": 1.323,
+   "sharpen_percent": 49
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 66,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.048,
+   "skew_deg": 0.429,
+   "perspective": {
+    "amount": 0.024,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     2.58,
+     -21.669
+    ],
+    [
+     938.51,
+     -22.89
+    ],
+    [
+     965.898,
+     1296.858
+    ],
+    [
+     7.055,
+     1312.729
+    ]
+   ]
+  }
+ }
+}

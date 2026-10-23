@@ -1,0 +1,283 @@
+{
+ "id": "syn036",
+ "template": "carbon",
+ "supplier_kind": "packaged",
+ "supplier": {
+  "name": "ALMOVA INTERNATIONAL",
+  "address_lines": [
+   "23/528, Temple Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "8051219288",
+  "gstin": "32KRVPA1379I2ZC",
+  "fssai": null,
+  "email": "almovafresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "8409",
+ "invoice_number_printed": "8409",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/08/26",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "ORGANIC JAGGERY POWDER 500G",
+   "hsn": "17011390",
+   "quantity": 50,
+   "unit": "Pcs",
+   "rate": 71.07,
+   "tax_percent": 5,
+   "taxable": 3553.5,
+   "cgst": 88.84,
+   "sgst": 88.84,
+   "amount": 3731.18,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE BLACK FOREST HONEY 125GM",
+   "hsn": "17026090",
+   "quantity": 2,
+   "unit": "Pcs",
+   "rate": 344,
+   "tax_percent": 5,
+   "taxable": 688.0,
+   "cgst": 17.2,
+   "sgst": 17.2,
+   "amount": 722.4,
+   "mrp": null
+  },
+  {
+   "description": "DATES PREMIUM 500 G",
+   "hsn": "08041020",
+   "quantity": 29,
+   "unit": "Pcs",
+   "rate": 232.72,
+   "tax_percent": 12,
+   "taxable": 6748.88,
+   "cgst": 404.93,
+   "sgst": 404.93,
+   "amount": 7558.74,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 10990.38,
+  "cgst": 510.97,
+  "sgst": 510.97,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 12012.32
+ },
+ "amount_in_words": "Twelve Thousand Twelve INDIAN RUPEES and Thirty Two Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 634"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 7.562,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 634",
+    "box": [
+     818.354,
+     0.0,
+     1170.354,
+     132.0
+    ],
+    "angle": -5.085,
+    "size": 69.59,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -28.01,
+   "center": [
+    620.802,
+    1199.615
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.576,
+   "print_lum": 81.0,
+   "row_px_estimate": 28.939,
+   "faint": false,
+   "size_mm": [
+    69.212,
+    102.882
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Prajesh",
+    "date": "29/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2
+   ]
+  },
+  "signature": {
+   "box": [
+    683.607,
+    43.31,
+    825.575,
+    100.097
+   ],
+   "width": 141.968,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.365,
+    160.989,
+    177.145
+   ],
+   "grain": 0.01,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.008,
+    "bow": 0.628,
+    "lift": 0.8
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.074,
+   "gradient_angle": 102.603,
+   "vignette": 0.041,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.342,
+    "strength": 0.245
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.954
+   ],
+   "white": 200.219,
+   "black": 32.611,
+   "gamma": 0.999,
+   "glare": {
+    "center": [
+     0.508,
+     0.61
+    ],
+    "radius": [
+     0.154,
+     0.093
+    ],
+    "strength": 0.273
+   }
+  },
+  "text_row_px": 43.903,
+  "text_px": 10.29,
+  "photo_px_per_mm": 5.188,
+  "camera": {
+   "blur_sigma": 0.56,
+   "blur_cap": 0.935,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.142,
+   "sharpen_radius": 1.481,
+   "sharpen_percent": 38
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 73,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.924,
+   "skew_deg": 1.274,
+   "perspective": {
+    "amount": 0.023,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     59.704,
+     65.675
+    ],
+    [
+     870.994,
+     47.497
+    ],
+    [
+     906.381,
+     1241.498
+    ],
+    [
+     76.561,
+     1269.461
+    ]
+   ]
+  }
+ }
+}

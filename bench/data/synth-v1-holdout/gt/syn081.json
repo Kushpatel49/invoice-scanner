@@ -1,0 +1,287 @@
+{
+ "id": "syn081",
+ "template": "carbon",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "AEDEN FRUITS INTERNATIONAL PVT LTD",
+  "address_lines": [
+   "59/743, Bypass Junction",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8297201970",
+  "gstin": "32MFGCR2956W1ZW",
+  "fssai": null,
+  "email": "aeden@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "M/s Aeden Fresh Kakkanad"
+ },
+ "invoice_number": "INV/2026/196454",
+ "invoice_number_printed": "INV/2026/196454",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-Aug-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "RASPBERRY (PUNNETS)",
+   "hsn": "0810",
+   "quantity": 52,
+   "unit": "Punnets",
+   "rate": 230.25,
+   "tax_percent": 0,
+   "taxable": 11973.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 11973.0,
+   "mrp": null
+  },
+  {
+   "description": "RED GLOBE CHINA - 6.5 KG",
+   "hsn": "0806",
+   "quantity": 7,
+   "unit": "Boxes",
+   "rate": 1404,
+   "tax_percent": 0,
+   "taxable": 9828.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9828.0,
+   "mrp": null
+  },
+  {
+   "description": "KIWI CRATE CHILE - 10 KG",
+   "hsn": "0810",
+   "quantity": 14,
+   "unit": "Boxes",
+   "rate": 3416,
+   "tax_percent": 0,
+   "taxable": 47824.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 47824.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 69625.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 69625.0
+ },
+ "amount_in_words": "Sixty Nine Thousand Six Hundred and Twenty Five INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-641"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "yellow",
+  "px_per_mm": 9.123,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-641",
+    "box": [
+     1248.49,
+     10.0,
+     1621.49,
+     180.0
+    ],
+    "angle": 5.336,
+    "size": 92.72,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 9.942,
+   "center": [
+    652.404,
+    1876.302
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.643,
+   "print_lum": 69.0,
+   "row_px_estimate": 24.981,
+   "faint": false,
+   "size_mm": [
+    77.639,
+    115.409
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sajitha S",
+    "date": "29/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.985
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.145,
+    237.983,
+    168.013
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.492,
+     "tilt": -0.033,
+     "depth": 0.101,
+     "width_mm": 1.418,
+     "panel_step": 0.025
+    },
+    {
+     "horizontal": true,
+     "pos": 0.532,
+     "tilt": 0.043,
+     "depth": 0.059,
+     "width_mm": 0.538,
+     "panel_step": 0.002
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.007,
+    "bow": 0.138,
+    "lift": 0.269
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "dark wood",
+   "keyboard": {
+    "side": "right",
+    "depth": 0.195
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.075,
+   "gradient_angle": 280.908,
+   "vignette": 0.139,
+   "shadow": {
+    "kind": "phone",
+    "side": "right",
+    "depth": 0.262,
+    "strength": 0.216
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.996,
+    1.0,
+    1.0
+   ],
+   "white": 208.13,
+   "black": 52.679,
+   "gamma": 0.922,
+   "glare": null
+  },
+  "text_row_px": 34.207,
+  "text_px": 9.19,
+  "photo_px_per_mm": 4.658,
+  "camera": {
+   "blur_sigma": 0.744,
+   "blur_cap": 0.835,
+   "defocus": {
+    "sigma_far": 0.835,
+    "angle": 7.348
+   },
+   "motion": null,
+   "noise_sd": 3.908,
+   "sharpen_radius": 1.101,
+   "sharpen_percent": 31
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 74,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.956,
+   "skew_deg": 1.185,
+   "perspective": {
+    "amount": 0.025,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     38.647,
+     42.598
+    ],
+    [
+     893.244,
+     23.46
+    ],
+    [
+     918.365,
+     1251.054
+    ],
+    [
+     47.168,
+     1236.832
+    ]
+   ]
+  }
+ }
+}

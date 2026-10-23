@@ -1,0 +1,285 @@
+{
+ "id": "syn020",
+ "template": "tally",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "PERIYAR VEGETABLE COMPANY",
+  "address_lines": [
+   "XIII/124, Banerji Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "8514961941",
+  "gstin": "32KEAFC6186H1Z4",
+  "fssai": "10696809358404",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "TI-84340",
+ "invoice_number_printed": "TI-84340",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31-08-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 17,
+   "unit": "KGS",
+   "rate": 134,
+   "tax_percent": 0,
+   "taxable": 2278.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2278.0,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 15.62,
+   "unit": "KGS",
+   "rate": 67,
+   "tax_percent": 0,
+   "taxable": 1046.54,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1046.54,
+   "mrp": null
+  },
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 26.4,
+   "unit": "KGS",
+   "rate": 46.39,
+   "tax_percent": 0,
+   "taxable": 1224.7,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1224.7,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 8.676,
+   "unit": "KGS",
+   "rate": 49,
+   "tax_percent": 0,
+   "taxable": 425.12,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 425.12,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 4974.36,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 4974.36
+ },
+ "amount_in_words": "Four Thousand Nine Hundred Seventy Four INDIAN RUPEES and Thirty Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 656"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.58,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 656",
+    "box": [
+     407.143,
+     0.0,
+     669.143,
+     211.0
+    ],
+    "angle": -23.986,
+    "size": 72.2,
+    "font": "Caveat.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 9.625,
+   "center": [
+    768.643,
+    1848.82
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.48,
+   "print_lum": 30.0,
+   "row_px_estimate": 12.383,
+   "faint": false,
+   "size_mm": [
+    76.343,
+    113.483
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "date": "31/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.027,
+   "title_on_print": 0.022,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.986
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2
+   ]
+  },
+  "signature": {
+   "box": [
+    1150.063,
+    2033.533,
+    1289.1,
+    2089.148
+   ],
+   "width": 139.038,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.33,
+    250.779,
+    246.057
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.002,
+    "bow": -0.687,
+    "lift": -0.104
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "dark wood",
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.035,
+   "gradient_angle": 228.868,
+   "vignette": 0.096,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.245,
+    "strength": 0.039
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.948
+   ],
+   "white": 219.225,
+   "black": 37.191,
+   "gamma": 1.105,
+   "glare": null
+  },
+  "text_row_px": 11.913,
+  "text_px": 10.288,
+  "photo_px_per_mm": 4.105,
+  "camera": {
+   "blur_sigma": 0.425,
+   "blur_cap": 0.425,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.749,
+   "sharpen_radius": 0.89,
+   "sharpen_percent": 79
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 82,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.962,
+   "skew_deg": 0.973,
+   "perspective": {
+    "amount": 0.003,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     36.192,
+     937.535
+    ],
+    [
+     20.624,
+     67.419
+    ],
+    [
+     1250.245,
+     47.907
+    ],
+    [
+     1265.767,
+     917.67
+    ]
+   ]
+  }
+ }
+}

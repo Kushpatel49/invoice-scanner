@@ -1,0 +1,286 @@
+{
+ "id": "syn053",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "PERIYAR DAIRY PRODUCTS",
+  "address_lines": [
+   "Door No. 69/62-A, Near Panchayath Office",
+   "Ernakulam, Kerala - 682011"
+  ],
+  "phone": "8753559760",
+  "gstin": "32INJFI0117Z1ZW",
+  "fssai": "19120256552040",
+  "email": "periyar@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "INV/2026/180055",
+ "invoice_number_printed": "INV/2026/180055",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30-Aug-2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 89.0,
+   "tax_percent": 5,
+   "taxable": 1068.0,
+   "cgst": 26.7,
+   "sgst": 26.7,
+   "amount": 1121.4,
+   "mrp": null
+  },
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 11,
+   "unit": "500g",
+   "rate": 30,
+   "tax_percent": 5,
+   "taxable": 330.0,
+   "cgst": 8.25,
+   "sgst": 8.25,
+   "amount": 346.5,
+   "mrp": null
+  },
+  {
+   "description": "GHEE 500 ML",
+   "hsn": "04059020",
+   "quantity": 50,
+   "unit": "Nos",
+   "rate": 308,
+   "tax_percent": 12,
+   "taxable": 15400.0,
+   "cgst": 924.0,
+   "sgst": 924.0,
+   "amount": 17248.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 16798.0,
+  "cgst": 958.95,
+  "sgst": 958.95,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.1,
+  "grand_total": 18716.0
+ },
+ "amount_in_words": "EIGHTEEN THOUSAND SEVEN HUNDRED AND SIXTEEN RUPEES ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 636"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.817,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 636",
+    "box": [
+     1232.363,
+     247.45,
+     1534.363,
+     373.45
+    ],
+    "angle": -7.365,
+    "size": 58.659,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -39.561,
+   "center": [
+    635.897,
+    1106.067
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.478,
+   "print_lum": 37.0,
+   "row_px_estimate": 25.109,
+   "faint": true,
+   "size_mm": [
+    76.663,
+    113.958
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Sajitha S",
+    "date": "30/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.228,
+   "title_on_print": 0.404,
+   "fill_on_numbers": 0.002,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    890.944,
+    1949.034,
+    1089.93,
+    2028.628
+   ],
+   "width": 198.987,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    250.991,
+    252.316,
+    244.364
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.705,
+     "tilt": 0.016,
+     "depth": 0.106,
+     "width_mm": 0.589,
+     "panel_step": 0.037
+    },
+    {
+     "horizontal": false,
+     "pos": 0.521,
+     "tilt": 0.038,
+     "depth": 0.102,
+     "width_mm": 0.597,
+     "panel_step": 0.033
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.017,
+    "bow": 0.234,
+    "lift": 0.505
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.131,
+   "gradient_angle": 5.712,
+   "vignette": 0.047,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.394,
+    "strength": 0.322
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.959
+   ],
+   "white": 213.048,
+   "black": 45.647,
+   "gamma": 1.034,
+   "glare": null
+  },
+  "text_row_px": 25.561,
+  "text_px": 10.558,
+  "photo_px_per_mm": 4.344,
+  "camera": {
+   "blur_sigma": 0.868,
+   "blur_cap": 0.913,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 5.117,
+   "sharpen_radius": 1.22,
+   "sharpen_percent": 31
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.018,
+   "skew_deg": 2.146,
+   "perspective": {
+    "amount": 0.03,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     -7.039,
+     3.282
+    ],
+    [
+     902.879,
+     -9.555
+    ],
+    [
+     948.101,
+     1282.217
+    ],
+    [
+     47.809,
+     1309.318
+    ]
+   ]
+  }
+ }
+}

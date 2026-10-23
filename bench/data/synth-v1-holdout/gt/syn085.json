@@ -1,0 +1,348 @@
+{
+ "id": "syn085",
+ "template": "handbook",
+ "supplier_kind": "fruit",
+ "supplier": {
+  "name": "NKA FRUITS",
+  "address_lines": [
+   "Door No. 74/316-A, Temple Road",
+   "Kalamassery, Kerala - 683104"
+  ],
+  "phone": "7173506656",
+  "gstin": null,
+  "fssai": "12679647049418",
+  "email": "nka@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "1968",
+ "invoice_number_printed": "1968",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "PINEAPPLE",
+   "hsn": "0804",
+   "quantity": 18.195,
+   "unit": "KG",
+   "rate": 62.0,
+   "tax_percent": 0,
+   "taxable": 1128.09,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1128.09,
+   "mrp": null
+  },
+  {
+   "description": "NJALI POOVAN",
+   "hsn": "0803",
+   "quantity": 9.672,
+   "unit": "KG",
+   "rate": 78.0,
+   "tax_percent": 0,
+   "taxable": 754.42,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 754.42,
+   "mrp": null
+  },
+  {
+   "description": "MOSAMBI",
+   "hsn": "0805",
+   "quantity": 22.01,
+   "unit": "KG",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 1210.55,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1210.55,
+   "mrp": null
+  },
+  {
+   "description": "ANAR",
+   "hsn": "0810",
+   "quantity": 13.8,
+   "unit": "KG",
+   "rate": 210.0,
+   "tax_percent": 0,
+   "taxable": 2898.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2898.0,
+   "mrp": null
+  },
+  {
+   "description": "MANGO BANGANAPALLI",
+   "hsn": "0804",
+   "quantity": 20,
+   "unit": "KG",
+   "rate": 126.0,
+   "tax_percent": 0,
+   "taxable": 2520.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2520.0,
+   "mrp": null
+  },
+  {
+   "description": "PAPPAYA",
+   "hsn": "0807",
+   "quantity": 8.99,
+   "unit": "KG",
+   "rate": 48.0,
+   "tax_percent": 0,
+   "taxable": 431.52,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 431.52,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA GOLDEN APPLE",
+   "hsn": "0808",
+   "quantity": 6,
+   "unit": "PACK",
+   "rate": 50.0,
+   "tax_percent": 0,
+   "taxable": 300.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 300.0,
+   "mrp": null
+  },
+  {
+   "description": "NENDRAN BANANA",
+   "hsn": "0803",
+   "quantity": 21,
+   "unit": "KG",
+   "rate": 74.0,
+   "tax_percent": 0,
+   "taxable": 1554.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1554.0,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA APPLE",
+   "hsn": "0808",
+   "quantity": 26.7,
+   "unit": "KG",
+   "rate": 208.0,
+   "tax_percent": 0,
+   "taxable": 5553.6,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5553.6,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 16350.18,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.18,
+  "grand_total": 16350.0
+ },
+ "amount_in_words": "Sixteen Thousand Three Hundred Fifty INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 644"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 5.866,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 644",
+    "box": [
+     586.596,
+     18.246,
+     765.596,
+     97.246
+    ],
+    "angle": -1.488,
+    "size": 54.8,
+    "font": "Caveat.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -14.226,
+   "center": [
+    318.807,
+    1077.924
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.882,
+   "print_lum": 26.0,
+   "row_px_estimate": 39.024,
+   "faint": false,
+   "size_mm": [
+    75.5,
+    112.23
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.385,
+   "title_on_print": 0.938,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    662.048,
+    122.773,
+    780.329,
+    170.085
+   ],
+   "width": 118.282,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    247.125,
+    242.352,
+    221.169
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.009,
+    "bow": 0.892,
+    "lift": 0.086
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.137,
+   "gradient_angle": 299.247,
+   "vignette": 0.054,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.331,
+    "strength": 0.237
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.013,
+    1.0,
+    0.943
+   ],
+   "white": 201.323,
+   "black": 56.403,
+   "gamma": 1.104,
+   "glare": null
+  },
+  "text_row_px": 36.564,
+  "text_px": 25.189,
+  "photo_px_per_mm": 4.766,
+  "camera": {
+   "blur_sigma": 1.165,
+   "blur_cap": 1.165,
+   "defocus": {
+    "sigma_far": 1.165,
+    "angle": 99.802
+   },
+   "motion": null,
+   "noise_sd": 3.051,
+   "sharpen_radius": 1.069,
+   "sharpen_percent": 41
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 64,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.937,
+   "skew_deg": 3.75,
+   "perspective": {
+    "amount": 0.039,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     33.799,
+     54.962
+    ],
+    [
+     856.863,
+     24.987
+    ],
+    [
+     917.361,
+     1210.045
+    ],
+    [
+     106.042,
+     1289.677
+    ]
+   ]
+  }
+ }
+}

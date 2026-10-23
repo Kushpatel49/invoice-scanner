@@ -1,0 +1,284 @@
+{
+ "id": "syn034",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "ST. JUDE VEGETABLES",
+  "address_lines": [
+   "XIII/311, Wholesale Market",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "8001934270",
+  "gstin": "32IBRPE8623V1ZL",
+  "fssai": "11426673877866",
+  "email": "stfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "2036",
+ "invoice_number_printed": "2036",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "RAW BANANA (NENDRAN)",
+   "hsn": "0803",
+   "quantity": 34,
+   "unit": "KGS",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 1428.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1428.0,
+   "mrp": null
+  },
+  {
+   "description": "CABBAGE",
+   "hsn": "0704",
+   "quantity": 13.8,
+   "unit": "KGS",
+   "rate": 38.0,
+   "tax_percent": 0,
+   "taxable": 524.4,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 524.4,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 29.92,
+   "unit": "KGS",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 1466.08,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1466.08,
+   "mrp": null
+  },
+  {
+   "description": "CUCUMBER SALAD",
+   "hsn": "0707",
+   "quantity": 28.5,
+   "unit": "KGS",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 1197.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1197.0,
+   "mrp": null
+  },
+  {
+   "description": "TOMATO HYBRID",
+   "hsn": "0702",
+   "quantity": 9.476,
+   "unit": "KGS",
+   "rate": 38.0,
+   "tax_percent": 0,
+   "taxable": 360.09,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 360.09,
+   "mrp": null
+  },
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 36,
+   "unit": "KGS",
+   "rate": 69.0,
+   "tax_percent": 0,
+   "taxable": 2484.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2484.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA",
+   "hsn": "0709",
+   "quantity": 38,
+   "unit": "KGS",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 2166.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2166.0,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 17,
+   "unit": "KGS",
+   "rate": 124.0,
+   "tax_percent": 0,
+   "taxable": 2108.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2108.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 11733.57,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.43,
+  "grand_total": 11734.0
+ },
+ "amount_in_words": "Eleven Thousand Seven Hundred and Thirty Four Rupees Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 623"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "pink",
+  "px_per_mm": 7.775,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 623",
+    "box": [
+     835.431,
+     0.0,
+     1066.431,
+     118.0
+    ],
+    "angle": -7.726,
+    "size": 58.998,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    249.913,
+    158.47,
+    179.902
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.004,
+    "bow": 0.464,
+    "lift": 0.993
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.055,
+   "gradient_angle": 49.206,
+   "vignette": 0.072,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.238,
+    "strength": 0.069
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.932
+   ],
+   "white": 229.808,
+   "black": 29.575,
+   "gamma": 1.051,
+   "glare": null
+  },
+  "text_row_px": 49.038,
+  "text_px": 36.778,
+  "photo_px_per_mm": 5.607,
+  "camera": {
+   "blur_sigma": 0.429,
+   "blur_cap": 1.371,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.835,
+   "sharpen_radius": 1.48,
+   "sharpen_percent": 57
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 75,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.967,
+   "skew_deg": -0.258,
+   "perspective": {
+    "amount": 0.002,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     30.011,
+     18.062
+    ],
+    [
+     914.822,
+     21.464
+    ],
+    [
+     909.349,
+     1258.62
+    ],
+    [
+     25.354,
+     1255.203
+    ]
+   ]
+  }
+ }
+}

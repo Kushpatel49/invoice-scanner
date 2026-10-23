@@ -1,0 +1,297 @@
+{
+ "id": "syn068",
+ "template": "carbon",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "XIII/269, Main Road",
+   "Ernakulam, Kerala - 682011"
+  ],
+  "phone": "8496997164",
+  "gstin": "32VVWCK2015H1ZU",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "PV/KK/2413/26-27",
+ "invoice_number_printed": "PV/KK/2413/26-27",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 33,
+   "unit": "Nos",
+   "rate": 64.92,
+   "tax_percent": 5,
+   "taxable": 2142.36,
+   "cgst": 53.56,
+   "sgst": 53.56,
+   "amount": 2142.36,
+   "mrp": null
+  },
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 7,
+   "unit": "Nos",
+   "rate": 77,
+   "tax_percent": 5,
+   "taxable": 539.0,
+   "cgst": 13.48,
+   "sgst": 13.48,
+   "amount": 539.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 2681.36,
+  "cgst": 67.04,
+  "sgst": 67.04,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 2815.44
+ },
+ "amount_in_words": "Rupees Two Thousand Eight Hundred Fifteen and Forty Four Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-623",
+  "GRN done"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "yellow",
+  "px_per_mm": 6.211,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-623",
+    "box": [
+     859.549,
+     0.0,
+     1079.549,
+     187.0
+    ],
+    "angle": -18.962,
+    "size": 44.4,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   },
+   {
+    "text": "GRN done",
+    "box": [
+     859.549,
+     0.0,
+     1079.549,
+     187.0
+    ],
+    "angle": -18.962,
+    "size": 44.4,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -5.113,
+   "center": [
+    608.713,
+    576.351
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.48,
+   "print_lum": 56.0,
+   "row_px_estimate": 24.979,
+   "faint": false,
+   "size_mm": [
+    69.614,
+    103.48
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "date": "01/09/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "top",
+   "over_table": true,
+   "on_numbers": 0.14,
+   "title_on_print": 0.157,
+   "fill_on_numbers": 0.004,
+   "on_header": 0.062,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1
+   ]
+  },
+  "signature": {
+   "box": [
+    439.048,
+    35.757,
+    624.564,
+    109.963
+   ],
+   "width": 185.516,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    250.651,
+    237.653,
+    166.65
+   ],
+   "grain": 0.013,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.467,
+     "tilt": 0.009,
+     "depth": 0.063,
+     "width_mm": 0.692,
+     "panel_step": 0.024
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.014,
+    "bow": -0.275,
+    "lift": 0.162
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "white table",
+   "keyboard": {
+    "side": "top",
+    "depth": 0.231
+   },
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.114,
+   "gradient_angle": 94.202,
+   "vignette": 0.099,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.346,
+    "strength": 0.24
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.972
+   ],
+   "white": 213.693,
+   "black": 36.133,
+   "gamma": 0.926,
+   "glare": {
+    "center": [
+     0.679,
+     0.244
+    ],
+    "radius": [
+     0.125,
+     0.175
+    ],
+    "strength": 0.266
+   }
+  },
+  "text_row_px": 30.157,
+  "text_px": 9.117,
+  "photo_px_per_mm": 4.356,
+  "camera": {
+   "blur_sigma": 0.829,
+   "blur_cap": 0.829,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 4.171,
+   "sharpen_radius": 1.054,
+   "sharpen_percent": 82
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 60,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.949,
+   "skew_deg": 2.851,
+   "perspective": {
+    "amount": 0.031,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     34.369,
+     50.305
+    ],
+    [
+     881.317,
+     16.219
+    ],
+    [
+     943.029,
+     1218.149
+    ],
+    [
+     82.648,
+     1273.114
+    ]
+   ]
+  }
+ }
+}

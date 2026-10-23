@@ -1,0 +1,275 @@
+{
+ "id": "syn045",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "UPTOWN URBAN FARMS PVT LTD",
+  "address_lines": [
+   "XIII/253, Main Road",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "7554564302",
+  "gstin": null,
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Green Angadi Kakkanad"
+ },
+ "invoice_number": "5207",
+ "invoice_number_printed": "5207",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "CURLY GREEN",
+   "hsn": "0705",
+   "quantity": 12,
+   "unit": "Units",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 684.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 684.0,
+   "mrp": null
+  },
+  {
+   "description": "BASIL",
+   "hsn": "0709",
+   "quantity": 96,
+   "unit": "Units",
+   "rate": 51.0,
+   "tax_percent": 0,
+   "taxable": 4896.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4896.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 7,
+   "unit": "Units",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 322.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 322.0,
+   "mrp": null
+  },
+  {
+   "description": "PARSLEY",
+   "hsn": "0709",
+   "quantity": 1,
+   "unit": "Units",
+   "rate": 50.0,
+   "tax_percent": 0,
+   "taxable": 50.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 50.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 5952.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 5952.0
+ },
+ "amount_in_words": "INR Five Thousand Nine Hundred Fifty Two Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 627"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.212,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 627",
+    "box": [
+     878.63,
+     0.0,
+     1105.63,
+     163.0
+    ],
+    "angle": -21.952,
+    "size": 52.0,
+    "font": "Caveat.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -2.175,
+   "center": [
+    392.57,
+    1273.124
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.87,
+   "print_lum": 28.0,
+   "row_px_estimate": 44.371,
+   "faint": false,
+   "size_mm": [
+    77.357,
+    114.991
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Sreeja",
+    "date": "30/8/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "free",
+   "over_table": true,
+   "on_numbers": 0.148,
+   "title_on_print": 0.375,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    807.026,
+    1493.76,
+    982.193,
+    1563.827
+   ],
+   "width": 175.168,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.111,
+    252.639,
+    247.206
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.079,
+   "gradient_angle": 293.421,
+   "vignette": 0.091,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.997,
+    1.0,
+    1.026
+   ],
+   "white": 226.492,
+   "black": 35.379,
+   "gamma": 0.903,
+   "glare": null
+  },
+  "text_row_px": 42.749,
+  "text_px": 28.982,
+  "photo_px_per_mm": 5.226,
+  "camera": {
+   "blur_sigma": 0.274,
+   "blur_cap": 1.277,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.493,
+   "sharpen_radius": 1.256,
+   "sharpen_percent": 37
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 80,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.963,
+   "skew_deg": -0.521,
+   "perspective": {
+    "amount": 0.008,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     81.726,
+     18.655
+    ],
+    [
+     917.436,
+     27.024
+    ],
+    [
+     904.907,
+     1249.162
+    ],
+    [
+     72.01,
+     1247.481
+    ]
+   ]
+  }
+ }
+}

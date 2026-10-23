@@ -1,0 +1,331 @@
+{
+ "id": "syn001",
+ "template": "tally",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "AEDEN FRUITS INTERNATIONAL PVT LTD",
+  "address_lines": [
+   "50/957, Agricultural Urban Wholesale Market",
+   "Ernakulam, Kerala - 682011"
+  ],
+  "phone": "8635071425",
+  "gstin": "32UIHCG3076G2ZQ",
+  "fssai": null,
+  "email": "aeden@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "6055",
+ "invoice_number_printed": "6055",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31-08-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "DRAGON WHITE VIETNAM - 9 KG",
+   "hsn": "0810",
+   "quantity": 15,
+   "unit": "Boxes",
+   "rate": 1196,
+   "tax_percent": 0,
+   "taxable": 17940.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 17940.0,
+   "mrp": null
+  },
+  {
+   "description": "PINK LADY NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 7,
+   "unit": "Boxes",
+   "rate": 4294,
+   "tax_percent": 0,
+   "taxable": 30058.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 30058.0,
+   "mrp": null
+  },
+  {
+   "description": "BLACK GRAPES CHINA - 5 KG",
+   "hsn": "0806",
+   "quantity": 7,
+   "unit": "Boxes",
+   "rate": 1520,
+   "tax_percent": 0,
+   "taxable": 10640.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 10640.0,
+   "mrp": null
+  },
+  {
+   "description": "RED GLOBE CHINA - 6.5 KG",
+   "hsn": "0806",
+   "quantity": 4,
+   "unit": "Boxes",
+   "rate": 1576,
+   "tax_percent": 0,
+   "taxable": 6304.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 6304.0,
+   "mrp": null
+  },
+  {
+   "description": "PEAR RED SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 2,
+   "unit": "Boxes",
+   "rate": 4798,
+   "tax_percent": 0,
+   "taxable": 9596.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9596.0,
+   "mrp": null
+  },
+  {
+   "description": "BLACKBERRY (PUNNETS)",
+   "hsn": "0810",
+   "quantity": 43,
+   "unit": "Punnets",
+   "rate": 249.88,
+   "tax_percent": 0,
+   "taxable": 10744.84,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 10744.84,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 85282.84,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.16,
+  "grand_total": 85283.0
+ },
+ "amount_in_words": "Rupees Eighty Five Thousand Two Hundred and Eighty Three Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 691"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.54,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 691",
+    "box": [
+     143.329,
+     18.029,
+     355.329,
+     133.029
+    ],
+    "angle": -5.416,
+    "size": 66.047,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -28.926,
+   "center": [
+    369.605,
+    1307.684
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.854,
+   "print_lum": 30.0,
+   "row_px_estimate": 14.147,
+   "faint": false,
+   "size_mm": [
+    70.087,
+    104.183
+   ],
+   "fills": {
+    "received": "Sreeja",
+    "name": "Sreeja",
+    "date": "31/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.018,
+   "title_on_print": 0.045,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.99
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    2,
+    3,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    1268.494,
+    1678.821,
+    1474.381,
+    1761.175
+   ],
+   "width": 205.886,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.042,
+    247.845,
+    248.435
+   ],
+   "grain": 0.016,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.662,
+     "tilt": 0.035,
+     "depth": 0.064,
+     "width_mm": 0.753,
+     "panel_step": 0.057
+    },
+    {
+     "horizontal": false,
+     "pos": 0.529,
+     "tilt": -0.004,
+     "depth": 0.116,
+     "width_mm": 1.487,
+     "panel_step": 0.035
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.008,
+    "bow": -0.197,
+    "lift": 0.457
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.117,
+   "gradient_angle": 305.469,
+   "vignette": 0.104,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.243,
+    "strength": 0.196
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.963
+   ],
+   "white": 212.273,
+   "black": 48.637,
+   "gamma": 0.972,
+   "glare": null
+  },
+  "text_row_px": 13.239,
+  "text_px": 13.239,
+  "photo_px_per_mm": 3.993,
+  "camera": {
+   "blur_sigma": 0.473,
+   "blur_cap": 0.473,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.481,
+   "sharpen_radius": 1.121,
+   "sharpen_percent": 50
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 75,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.936,
+   "skew_deg": 2.655,
+   "perspective": {
+    "amount": 0.028,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     1210.361,
+     20.188
+    ],
+    [
+     1263.441,
+     885.442
+    ],
+    [
+     90.976,
+     927.027
+    ],
+    [
+     24.226,
+     74.875
+    ]
+   ]
+  }
+ }
+}

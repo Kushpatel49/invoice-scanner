@@ -1,0 +1,269 @@
+{
+ "id": "syn032",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "MALABAR FRESH FARMS PVT LTD",
+  "address_lines": [
+   "41/729, Church Road",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "9928155697",
+  "gstin": "32TQICL0718O1ZY",
+  "fssai": null,
+  "email": "malabar@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Green Angadi Kakkanad"
+ },
+ "invoice_number": "6364",
+ "invoice_number_printed": "6364",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 29,
+   "unit": "KGS",
+   "rate": 67.0,
+   "tax_percent": 0,
+   "taxable": 1943.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1943.0,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 39,
+   "unit": "KGS",
+   "rate": 59.0,
+   "tax_percent": 0,
+   "taxable": 2301.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2301.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA",
+   "hsn": "0709",
+   "quantity": 7,
+   "unit": "KGS",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 287.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 287.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 4531.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 4531.0
+ },
+ "amount_in_words": "Four Thousand Five Hundred and Thirty One INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill - 616"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 6.606,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill - 616",
+    "box": [
+     627.712,
+     0.0,
+     937.712,
+     130.0
+    ],
+    "angle": 6.5,
+    "size": 65.042,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -0.553,
+   "center": [
+    491.681,
+    1104.578
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.705,
+   "print_lum": 56.0,
+   "row_px_estimate": 44.308,
+   "faint": false,
+   "size_mm": [
+    73.759,
+    109.642
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sanal",
+    "date": "26/8/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.084,
+   "title_on_print": 0.217,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    931.863,
+    146.389,
+    1082.072,
+    206.473
+   ],
+   "width": 150.209,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.818,
+    248.836,
+    247.706
+   ],
+   "grain": 0.017,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.009,
+    "bow": -0.218,
+    "lift": 0.182
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.107,
+   "gradient_angle": 165.419,
+   "vignette": 0.061,
+   "shadow": {
+    "kind": "hand",
+    "side": "right",
+    "depth": 0.419,
+    "strength": 0.221
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.011,
+    1.0,
+    0.959
+   ],
+   "white": 194.604,
+   "black": 36.67,
+   "gamma": 1.04,
+   "glare": null
+  },
+  "text_row_px": 42.071,
+  "text_px": 28.047,
+  "photo_px_per_mm": 5.147,
+  "camera": {
+   "blur_sigma": 0.454,
+   "blur_cap": 1.258,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.038,
+   "sharpen_radius": 1.155,
+   "sharpen_percent": 73
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 77,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.95,
+   "skew_deg": 0.525,
+   "perspective": {
+    "amount": 0.014,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     35.828,
+     929.352
+    ],
+    [
+     23.345,
+     35.074
+    ],
+    [
+     1235.073,
+     25.442
+    ],
+    [
+     1255.763,
+     916.069
+    ]
+   ]
+  }
+ }
+}

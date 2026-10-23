@@ -1,0 +1,264 @@
+{
+ "id": "syn055",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "XIII/122, Banerji Road",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "7369261839",
+  "gstin": "32LGNPP1565W2Z3",
+  "fssai": "12871323893056",
+  "email": "milkyfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "GST/9281/26-27",
+ "invoice_number_printed": "GST/9281/26-27",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01-Sep-2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 64,
+   "unit": "Nos",
+   "rate": 56,
+   "tax_percent": 12,
+   "taxable": 3584.0,
+   "cgst": 215.04,
+   "sgst": 215.04,
+   "amount": 4014.08,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 5,
+   "unit": "L",
+   "rate": 72,
+   "tax_percent": 0,
+   "taxable": 360.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 360.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 66,
+   "unit": "400g",
+   "rate": 42,
+   "tax_percent": 5,
+   "taxable": 2772.0,
+   "cgst": 69.3,
+   "sgst": 69.3,
+   "amount": 2910.6,
+   "mrp": null
+  },
+  {
+   "description": "PET MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 29,
+   "unit": "L",
+   "rate": 65,
+   "tax_percent": 0,
+   "taxable": 1885.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1885.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 8601.0,
+  "cgst": 284.34,
+  "sgst": 284.34,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.32,
+  "grand_total": 9170.0
+ },
+ "amount_in_words": "INR Nine Thousand One Hundred and Seventy Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.693,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 32.781,
+   "center": [
+    410.264,
+    1138.301
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 25.511,
+   "faint": false,
+   "size_mm": [
+    68.087,
+    101.21
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Arun",
+    "name": "Arun",
+    "date": "1/09/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.09,
+   "title_on_print": 0.178,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.999
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1288.593,
+    213.058,
+    1431.456,
+    270.203
+   ],
+   "width": 142.863,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.525,
+    251.91,
+    247.387
+   ],
+   "grain": 0.016,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.003,
+    "bow": -0.114,
+    "lift": 0.261
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.211
+   },
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.055,
+   "gradient_angle": 221.528,
+   "vignette": 0.111,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.307,
+    "strength": 0.092
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.98,
+    1.0,
+    1.03
+   ],
+   "white": 205.813,
+   "black": 28.27,
+   "gamma": 1.03,
+   "glare": null
+  },
+  "text_row_px": 23.514,
+  "text_px": 9.201,
+  "photo_px_per_mm": 3.933,
+  "camera": {
+   "blur_sigma": 0.401,
+   "blur_cap": 0.836,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.994,
+   "sharpen_radius": 1.333,
+   "sharpen_percent": 33
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 81,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.922,
+   "skew_deg": -1.24,
+   "perspective": {
+    "amount": 0.007,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     54.977,
+     65.057
+    ],
+    [
+     884.715,
+     81.525
+    ],
+    [
+     856.916,
+     1258.05
+    ],
+    [
+     28.071,
+     1243.973
+    ]
+   ]
+  }
+ }
+}

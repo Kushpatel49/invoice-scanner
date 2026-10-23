@@ -1,0 +1,285 @@
+{
+ "id": "syn025",
+ "template": "gst_modern",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "P52/32, Wholesale Market",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "7384672563",
+  "gstin": "32HVRPB7631F1ZJ",
+  "fssai": "12261603605953",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "AEDEN FRESH KAKKANAD"
+ },
+ "invoice_number": "9977",
+ "invoice_number_printed": "9977",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/08/26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 9,
+   "unit": "Nos",
+   "rate": 9,
+   "tax_percent": 5,
+   "taxable": 81.0,
+   "cgst": 2.03,
+   "sgst": 2.03,
+   "amount": 81.0,
+   "mrp": null
+  },
+  {
+   "description": "CURD 500 G SACHET",
+   "hsn": "04031000",
+   "quantity": 7,
+   "unit": "500g",
+   "rate": 28,
+   "tax_percent": 5,
+   "taxable": 196.0,
+   "cgst": 4.9,
+   "sgst": 4.9,
+   "amount": 196.0,
+   "mrp": null
+  },
+  {
+   "description": "WHOLE MILK 1000 ML",
+   "hsn": "04012000",
+   "quantity": 86,
+   "unit": "L",
+   "rate": 76.88,
+   "tax_percent": 0,
+   "taxable": 6611.68,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 6611.68,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 91,
+   "unit": "Nos",
+   "rate": 83,
+   "tax_percent": 5,
+   "taxable": 7553.0,
+   "cgst": 188.83,
+   "sgst": 188.83,
+   "amount": 7553.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 15,
+   "unit": "ML",
+   "rate": 28.75,
+   "tax_percent": 0,
+   "taxable": 431.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 431.25,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 14872.93,
+  "cgst": 195.76,
+  "sgst": 195.76,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.45,
+  "grand_total": 15264.0
+ },
+ "amount_in_words": "RUPEES FIFTEEN THOUSAND TWO HUNDRED SIXTY FOUR ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-676"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.653,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-676",
+    "box": [
+     662.391,
+     263.5,
+     823.391,
+     324.5
+    ],
+    "angle": -2.214,
+    "size": 40.0,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -25.122,
+   "center": [
+    470.159,
+    1709.667
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.847,
+   "print_lum": 30.0,
+   "row_px_estimate": 20.293,
+   "faint": false,
+   "size_mm": [
+    75.937,
+    112.88
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Jithin",
+    "name": "Jithin",
+    "date": "26.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    250.801,
+    248.345,
+    244.097
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.002,
+    "bow": -0.93,
+    "lift": 0.045
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.075,
+   "gradient_angle": 171.589,
+   "vignette": 0.145,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.332,
+    "strength": 0.041
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.002,
+    1.0,
+    0.963
+   ],
+   "white": 211.737,
+   "black": 29.805,
+   "gamma": 0.976,
+   "glare": null
+  },
+  "text_row_px": 22.136,
+  "text_px": 7.748,
+  "photo_px_per_mm": 4.235,
+  "camera": {
+   "blur_sigma": 0.44,
+   "blur_cap": 0.704,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.677,
+   "sharpen_radius": 1.196,
+   "sharpen_percent": 84
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 77,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.993,
+   "skew_deg": 1.355,
+   "perspective": {
+    "amount": 0.008,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     19.273,
+     18.756
+    ],
+    [
+     908.784,
+     -10.3
+    ],
+    [
+     942.894,
+     1260.669
+    ],
+    [
+     46.785,
+     1281.503
+    ]
+   ]
+  }
+ }
+}

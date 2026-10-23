@@ -1,0 +1,404 @@
+{
+ "id": "syn060",
+ "template": "tally",
+ "supplier_kind": "exotic",
+ "supplier": {
+  "name": "NILGIRI GREENS",
+  "address_lines": [
+   "P27/39, Near Railway Station",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8464891283",
+  "gstin": "32ZSJFI5660R1Z3",
+  "fssai": "11204951823076",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "1802",
+ "invoice_number_printed": "7454",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31-Aug-26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ZUCCHINI YELLOW",
+   "hsn": "0709",
+   "quantity": 5.82,
+   "unit": "Kilogram",
+   "rate": 104.25,
+   "tax_percent": 0,
+   "taxable": 606.74,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 606.74,
+   "mrp": null
+  },
+  {
+   "description": "LEEKS",
+   "hsn": "0703",
+   "quantity": 4,
+   "unit": "Kilogram",
+   "rate": 156.1,
+   "tax_percent": 0,
+   "taxable": 624.4,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 624.4,
+   "mrp": null
+  },
+  {
+   "description": "BABY POTATO",
+   "hsn": "0701",
+   "quantity": 2,
+   "unit": "Kilogram",
+   "rate": 54,
+   "tax_percent": 0,
+   "taxable": 108.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 108.0,
+   "mrp": null
+  },
+  {
+   "description": "KALE",
+   "hsn": "0704",
+   "quantity": 54,
+   "unit": "PACK",
+   "rate": 21.5,
+   "tax_percent": 0,
+   "taxable": 1161.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1161.0,
+   "mrp": null
+  },
+  {
+   "description": "SPRING ONION",
+   "hsn": "0703",
+   "quantity": 1.98,
+   "unit": "Kilogram",
+   "rate": 135.78,
+   "tax_percent": 0,
+   "taxable": 268.84,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 268.84,
+   "mrp": null
+  },
+  {
+   "description": "CHINESE CABBAGE",
+   "hsn": "0704",
+   "quantity": 3,
+   "unit": "Kilogram",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 123.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 123.0,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE LETTUCE",
+   "hsn": "0705",
+   "quantity": 3.28,
+   "unit": "Kilogram",
+   "rate": 128,
+   "tax_percent": 0,
+   "taxable": 419.84,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 419.84,
+   "mrp": null
+  },
+  {
+   "description": "BROCCOLI",
+   "hsn": "0704",
+   "quantity": 19.31,
+   "unit": "Kilogram",
+   "rate": 185.07,
+   "tax_percent": 0,
+   "taxable": 3573.7,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3573.7,
+   "mrp": null
+  },
+  {
+   "description": "CHERRY TOMATO RED",
+   "hsn": "0702",
+   "quantity": 10,
+   "unit": "PACK",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 540.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 540.0,
+   "mrp": null
+  },
+  {
+   "description": "SWEET CORN",
+   "hsn": "0709",
+   "quantity": 53,
+   "unit": "PC",
+   "rate": 27,
+   "tax_percent": 0,
+   "taxable": 1431.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1431.0,
+   "mrp": null
+  },
+  {
+   "description": "ICEBERG LETTUCE",
+   "hsn": "0705",
+   "quantity": 7,
+   "unit": "Kilogram",
+   "rate": 73.25,
+   "tax_percent": 0,
+   "taxable": 512.75,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 512.75,
+   "mrp": null
+  },
+  {
+   "description": "RED CABBAGE",
+   "hsn": "0704",
+   "quantity": 27.3,
+   "unit": "Kilogram",
+   "rate": 65.63,
+   "tax_percent": 0,
+   "taxable": 1791.7,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1791.7,
+   "mrp": null
+  },
+  {
+   "description": "ZUCCHINI GREEN",
+   "hsn": "0709",
+   "quantity": 26,
+   "unit": "Kilogram",
+   "rate": 82.5,
+   "tax_percent": 0,
+   "taxable": 2145.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2145.0,
+   "mrp": null
+  },
+  {
+   "description": "ROSEMARY",
+   "hsn": "0709",
+   "quantity": 53,
+   "unit": "PACK",
+   "rate": 36,
+   "tax_percent": 0,
+   "taxable": 1908.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1908.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 14,
+ "totals": {
+  "subtotal": 15213.97,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.03,
+  "grand_total": 15214.0
+ },
+ "amount_in_words": "Fifteen Thousand Two Hundred and Fourteen INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "7454",
+   "new": "1802"
+  },
+  "quantity": null
+ },
+ "notes": [
+  "BIL-656"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.88,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": {
+   "printed": "7454",
+   "new": "1802",
+   "where": "right",
+   "box": [
+    886,
+    227,
+    944,
+    250
+   ],
+   "ink": [
+    20,
+    35,
+    120
+   ],
+   "double_strike": false,
+   "font": "Caveat.ttf",
+   "size": 35.46,
+   "pen_on_print": 0.0
+  },
+  "notes": [
+   {
+    "text": "BIL-656",
+    "box": [
+     276.844,
+     12.392,
+     501.844,
+     139.392
+    ],
+    "angle": -7.476,
+    "size": 65.58,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    250.379,
+    249.491,
+    247.434
+   ],
+   "grain": 0.017,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.005,
+    "bow": 0.269,
+    "lift": 0.03
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 1,
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.092,
+   "gradient_angle": 277.046,
+   "vignette": 0.132,
+   "shadow": {
+    "kind": "phone",
+    "side": "bottom",
+    "depth": 0.45,
+    "strength": 0.146
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.005,
+    1.0,
+    0.941
+   ],
+   "white": 220.329,
+   "black": 32.98,
+   "gamma": 0.923,
+   "glare": null
+  },
+  "text_row_px": 12.045,
+  "text_px": 10.474,
+  "photo_px_per_mm": 4.127,
+  "camera": {
+   "blur_sigma": 0.43,
+   "blur_cap": 0.43,
+   "defocus": {
+    "sigma_far": 0.43,
+    "angle": 306.523
+   },
+   "motion": null,
+   "noise_sd": 2.974,
+   "sharpen_radius": 0.914,
+   "sharpen_percent": 67
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 78,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.967,
+   "skew_deg": 1.979,
+   "perspective": {
+    "amount": 0.016,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     1238.482,
+     7.886
+    ],
+    [
+     1264.74,
+     893.508
+    ],
+    [
+     34.818,
+     933.68
+    ],
+    [
+     9.097,
+     53.207
+    ]
+   ]
+  }
+ }
+}

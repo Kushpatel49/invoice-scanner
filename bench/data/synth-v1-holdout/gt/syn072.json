@@ -1,0 +1,308 @@
+{
+ "id": "syn072",
+ "template": "carbon",
+ "supplier_kind": "fruit_import",
+ "supplier": {
+  "name": "COCHIN FRUIT COMPANY",
+  "address_lines": [
+   "XIII/123, Industrial Estate",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "7793930900",
+  "gstin": "32FPYFW6589E1ZD",
+  "fssai": "10852559572160",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "EKM/2026/1420",
+ "invoice_number_printed": "EKM/2026/1420",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25.08.2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "ORANGE MANDARIN EGYPT - 15 KG",
+   "hsn": "0805",
+   "quantity": 2,
+   "unit": "Boxes",
+   "rate": 2799,
+   "tax_percent": 0,
+   "taxable": 5598.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5598.0,
+   "mrp": null
+  },
+  {
+   "description": "GRANNY SMITH NEW ZEALAND - 18 KG",
+   "hsn": "0808",
+   "quantity": 5,
+   "unit": "Boxes",
+   "rate": 4577,
+   "tax_percent": 0,
+   "taxable": 22885.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 22885.0,
+   "mrp": null
+  },
+  {
+   "description": "BLUEBERRY PERU 1.5 KG - 12 PACK",
+   "hsn": "0810",
+   "quantity": 6,
+   "unit": "Boxes",
+   "rate": 2520,
+   "tax_percent": 0,
+   "taxable": 15120.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 15120.0,
+   "mrp": null
+  },
+  {
+   "description": "KIWI CRATE CHILE - 10 KG",
+   "hsn": "0810",
+   "quantity": 2,
+   "unit": "Boxes",
+   "rate": 4005,
+   "tax_percent": 0,
+   "taxable": 8010.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 8010.0,
+   "mrp": null
+  },
+  {
+   "description": "DRAGON WHITE VIETNAM - 9 KG",
+   "hsn": "0810",
+   "quantity": 14,
+   "unit": "Boxes",
+   "rate": 1267,
+   "tax_percent": 0,
+   "taxable": 17738.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 17738.0,
+   "mrp": null
+  },
+  {
+   "description": "PEAR RED SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 15,
+   "unit": "Boxes",
+   "rate": 4727,
+   "tax_percent": 0,
+   "taxable": 70905.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 70905.0,
+   "mrp": null
+  },
+  {
+   "description": "PEAR GREEN SOUTH AFRICA - 12.5 KG",
+   "hsn": "0808",
+   "quantity": 2,
+   "unit": "Boxes",
+   "rate": 4371,
+   "tax_percent": 0,
+   "taxable": 8742.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 8742.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 148998.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 148998.0
+ },
+ "amount_in_words": "INR ONE LAKH FORTY EIGHT THOUSAND NINE HUNDRED AND NINETY EIGHT ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 6.938,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 41.598,
+   "center": [
+    600.071,
+    1150.319
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.521,
+   "print_lum": 91.0,
+   "row_px_estimate": 34.808,
+   "faint": false,
+   "size_mm": [
+    74.384,
+    110.57
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Arun",
+    "date": "25/8/26"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.145,
+   "title_on_print": 0.278,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    2,
+    6
+   ]
+  },
+  "signature": {
+   "box": [
+    598.665,
+    29.186,
+    740.334,
+    85.854
+   ],
+   "width": 141.67,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    248.25,
+    249.733,
+    249.593
+   ],
+   "grain": 0.011,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.016,
+    "bow": 0.242,
+    "lift": 0.432
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "keyboard": {
+    "side": "top",
+    "depth": 0.303
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.119,
+   "gradient_angle": 196.221,
+   "vignette": 0.05,
+   "shadow": {
+    "kind": "edge",
+    "side": "right",
+    "depth": 0.389,
+    "strength": 0.182
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.014,
+    1.0,
+    0.952
+   ],
+   "white": 202.362,
+   "black": 39.563,
+   "gamma": 0.984,
+   "glare": null
+  },
+  "text_row_px": 38.235,
+  "text_px": 12.745,
+  "photo_px_per_mm": 4.913,
+  "camera": {
+   "blur_sigma": 0.826,
+   "blur_cap": 1.159,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 5.074,
+   "sharpen_radius": 1.199,
+   "sharpen_percent": 76
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 61,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.952,
+   "skew_deg": -0.801,
+   "perspective": {
+    "amount": 0.034,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     21.668,
+     883.034
+    ],
+    [
+     63.287,
+     36.559
+    ],
+    [
+     1222.019,
+     60.144
+    ],
+    [
+     1257.816,
+     908.254
+    ]
+   ]
+  }
+ }
+}

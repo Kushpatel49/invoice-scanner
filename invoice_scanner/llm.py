@@ -94,8 +94,12 @@ class LLM:
                 self._record(step, u.get("prompt_tokens"), u.get("completion_tokens"), u.get("cost"), resp.get("provider"))
                 return resp["choices"][0]["message"]["content"] or ""
             except urllib.error.HTTPError as e:
-                if e.code not in (429, 500, 502, 503) or n == attempts - 1:
-                    raise RuntimeError(f"OpenRouter {e.code}: {e.read()[:300]!r}") from None
+                detail = e.read()[:300]
+                # 402 "in_flight_budget_exhausted": parallel requests reserve their worst-case cost against a low
+                # credit balance; it clears as they finish. Any other 402 means out of credit - fail fast.
+                retryable = e.code in (429, 500, 502, 503) or (e.code == 402 and b"in_flight" in detail)
+                if not retryable or n == attempts - 1:
+                    raise RuntimeError(f"OpenRouter {e.code}: {detail!r}") from None
             except (urllib.error.URLError, TimeoutError, KeyError, IndexError):
                 if n == attempts - 1:
                     raise

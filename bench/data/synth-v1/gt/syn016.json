@@ -1,0 +1,358 @@
+{
+ "id": "syn016",
+ "template": "handbook",
+ "supplier_kind": "microgreens",
+ "supplier": {
+  "name": "UPTOWN URBAN FARMS PVT LTD",
+  "address_lines": [
+   "59/316, Main Road",
+   "Kochi, Kerala - 682016"
+  ],
+  "phone": "8099771463",
+  "gstin": null,
+  "fssai": "18781706512514",
+  "email": "uptown@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Green Angadi Kakkanad"
+ },
+ "invoice_number": "5101",
+ "invoice_number_printed": "5101",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25-8-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "CURLY GREEN",
+   "hsn": "0705",
+   "quantity": 8,
+   "unit": "Units",
+   "rate": 57.0,
+   "tax_percent": 0,
+   "taxable": 456.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 456.0,
+   "mrp": null
+  },
+  {
+   "description": "CELERY",
+   "hsn": "0709",
+   "quantity": 7,
+   "unit": "Units",
+   "rate": 48.0,
+   "tax_percent": 0,
+   "taxable": 336.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 336.0,
+   "mrp": null
+  },
+  {
+   "description": "MIXED MICROGREENS",
+   "hsn": "0709",
+   "quantity": 49,
+   "unit": "Units",
+   "rate": 108.0,
+   "tax_percent": 0,
+   "taxable": 5292.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5292.0,
+   "mrp": null
+  },
+  {
+   "description": "BASIL",
+   "hsn": "0709",
+   "quantity": 46,
+   "unit": "Units",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 2116.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2116.0,
+   "mrp": null
+  },
+  {
+   "description": "PARSLEY",
+   "hsn": "0709",
+   "quantity": 50,
+   "unit": "Units",
+   "rate": 48.5,
+   "tax_percent": 0,
+   "taxable": 2425.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2425.0,
+   "mrp": null
+  },
+  {
+   "description": "CHERRY TOMATO",
+   "hsn": "0702",
+   "quantity": 26,
+   "unit": "Units",
+   "rate": 58.0,
+   "tax_percent": 0,
+   "taxable": 1508.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1508.0,
+   "mrp": null
+  },
+  {
+   "description": "BOK CHOY",
+   "hsn": "0704",
+   "quantity": 81,
+   "unit": "Units",
+   "rate": 48.0,
+   "tax_percent": 0,
+   "taxable": 3888.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3888.0,
+   "mrp": null
+  },
+  {
+   "description": "ROMAINE",
+   "hsn": "0705",
+   "quantity": 14,
+   "unit": "Units",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 756.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 756.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 16777.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 16777.0
+ },
+ "amount_in_words": "INR Sixteen Thousand Seven Hundred Seventy Seven Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 614"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 6.81,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 614",
+    "box": [
+     867.071,
+     0.0,
+     1081.071,
+     120.0
+    ],
+    "angle": -7.765,
+    "size": 60.443,
+    "font": "Caveat.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -38.674,
+   "center": [
+    635.702,
+    964.077
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.678,
+   "print_lum": 61.0,
+   "row_px_estimate": 41.689,
+   "faint": false,
+   "size_mm": [
+    77.716,
+    115.524
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Prajesh",
+    "date": "25.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.38,
+   "title_on_print": 0.791,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    481.029,
+    195.231,
+    669.118,
+    270.467
+   ],
+   "width": 188.089,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.624,
+    248.765,
+    248.752
+   ],
+   "grain": 0.01,
+   "creases": [
+    {
+     "horizontal": false,
+     "pos": 0.473,
+     "tilt": -0.036,
+     "depth": 0.112,
+     "width_mm": 1.452,
+     "panel_step": 0.021
+    },
+    {
+     "horizontal": true,
+     "pos": 0.303,
+     "tilt": 0.018,
+     "depth": 0.091,
+     "width_mm": 0.875,
+     "panel_step": 0.053
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.005,
+    "bow": -0.464,
+    "lift": 0.955
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.123,
+   "gradient_angle": 218.724,
+   "vignette": 0.087,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.323,
+    "strength": 0.129
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.022,
+    1.0,
+    0.934
+   ],
+   "white": 191.743,
+   "black": 54.266,
+   "gamma": 1.015,
+   "glare": null
+  },
+  "text_row_px": 38.85,
+  "text_px": 23.022,
+  "photo_px_per_mm": 4.899,
+  "camera": {
+   "blur_sigma": 0.589,
+   "blur_cap": 1.198,
+   "defocus": {
+    "sigma_far": 1.176,
+    "angle": 285.321
+   },
+   "motion": null,
+   "noise_sd": 3.911,
+   "sharpen_radius": 0.866,
+   "sharpen_percent": 30
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.932,
+   "skew_deg": -0.555,
+   "perspective": {
+    "amount": 0.019,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     51.906,
+     27.692
+    ],
+    [
+     884.369,
+     38.324
+    ],
+    [
+     869.782,
+     1210.745
+    ],
+    [
+     33.99,
+     1209.625
+    ]
+   ]
+  }
+ }
+}

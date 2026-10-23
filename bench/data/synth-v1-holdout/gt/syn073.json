@@ -1,0 +1,467 @@
+{
+ "id": "syn073",
+ "template": "dotmatrix",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "KAIRALI AGRO TRADERS",
+  "address_lines": [
+   "27/713, Wholesale Market",
+   "Tripunithura, Kerala - 682301"
+  ],
+  "phone": "7681917120",
+  "gstin": "32ZMDFC6315E1ZO",
+  "fssai": "11437368331333",
+  "email": "kairali@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "M/s Aeden Fresh Kakkanad"
+ },
+ "invoice_number": "B1/FS/018935",
+ "invoice_number_printed": "B1/FS/018935",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27-Aug-26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 23,
+   "unit": "KGS",
+   "rate": 43.83,
+   "tax_percent": 0,
+   "taxable": 1008.09,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1008.09,
+   "mrp": null
+  },
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 5.061,
+   "unit": "KGS",
+   "rate": 41.5,
+   "tax_percent": 0,
+   "taxable": 210.03,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 210.03,
+   "mrp": null
+  },
+  {
+   "description": "CABBAGE",
+   "hsn": "0704",
+   "quantity": 27.64,
+   "unit": "KGS",
+   "rate": 23,
+   "tax_percent": 0,
+   "taxable": 635.72,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 635.72,
+   "mrp": null
+  },
+  {
+   "description": "CHILLY GREEN",
+   "hsn": "0709",
+   "quantity": 20,
+   "unit": "KGS",
+   "rate": 41,
+   "tax_percent": 0,
+   "taxable": 820.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 820.0,
+   "mrp": null
+  },
+  {
+   "description": "SWEET POTATO",
+   "hsn": "0714",
+   "quantity": 25.5,
+   "unit": "KGS",
+   "rate": 50.51,
+   "tax_percent": 0,
+   "taxable": 1288.01,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1288.01,
+   "mrp": null
+  },
+  {
+   "description": "TOMATO HYBRID",
+   "hsn": "0702",
+   "quantity": 34,
+   "unit": "KGS",
+   "rate": 46.04,
+   "tax_percent": 0,
+   "taxable": 1565.36,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1565.36,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 15.447,
+   "unit": "KGS",
+   "rate": 50,
+   "tax_percent": 0,
+   "taxable": 772.35,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 772.35,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 4.406,
+   "unit": "KGS",
+   "rate": 122.75,
+   "tax_percent": 0,
+   "taxable": 540.84,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 540.84,
+   "mrp": null
+  },
+  {
+   "description": "BAJI CHILLY",
+   "hsn": "0709",
+   "quantity": 27.003,
+   "unit": "KGS",
+   "rate": 56.73,
+   "tax_percent": 0,
+   "taxable": 1531.88,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1531.88,
+   "mrp": null
+  },
+  {
+   "description": "LADIES FINGER",
+   "hsn": "0709",
+   "quantity": 8.681,
+   "unit": "KGS",
+   "rate": 41.89,
+   "tax_percent": 0,
+   "taxable": 363.65,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 363.65,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 33,
+   "unit": "UNT",
+   "rate": 19,
+   "tax_percent": 0,
+   "taxable": 627.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 627.0,
+   "mrp": null
+  },
+  {
+   "description": "BEETROOT OOTY",
+   "hsn": "0706",
+   "quantity": 19,
+   "unit": "KGS",
+   "rate": 50,
+   "tax_percent": 0,
+   "taxable": 950.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 950.0,
+   "mrp": null
+  },
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 2.1,
+   "unit": "KGS",
+   "rate": 31,
+   "tax_percent": 0,
+   "taxable": 65.1,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 65.1,
+   "mrp": null
+  },
+  {
+   "description": "ASH GOURD",
+   "hsn": "0709",
+   "quantity": 17,
+   "unit": "KGS",
+   "rate": 34,
+   "tax_percent": 0,
+   "taxable": 578.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 578.0,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 14.64,
+   "unit": "KGS",
+   "rate": 58,
+   "tax_percent": 0,
+   "taxable": 849.12,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 849.12,
+   "mrp": null
+  },
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 13,
+   "unit": "KGS",
+   "rate": 53.25,
+   "tax_percent": 0,
+   "taxable": 692.25,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 692.25,
+   "mrp": null
+  },
+  {
+   "description": "BEANS BUSH",
+   "hsn": "0708",
+   "quantity": 25.06,
+   "unit": "KGS",
+   "rate": 93,
+   "tax_percent": 0,
+   "taxable": 2330.58,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2330.58,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 17,
+ "totals": {
+  "subtotal": 14827.98,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 14827.98
+ },
+ "amount_in_words": "RUPEES FOURTEEN THOUSAND EIGHT HUNDRED AND TWENTY SEVEN AND NINETY EIGHT PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 697"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.533,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 697",
+    "box": [
+     535.741,
+     23.452,
+     788.741,
+     144.452
+    ],
+    "angle": 3.609,
+    "size": 75.257,
+    "font": "Caveat.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -28.294,
+   "center": [
+    861.566,
+    1721.842
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.45,
+   "print_lum": 104.0,
+   "row_px_estimate": 15.858,
+   "faint": false,
+   "size_mm": [
+    77.084,
+    114.584
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Neethu",
+    "date": "28.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    848.636,
+    65.882,
+    1014.034,
+    132.041
+   ],
+   "width": 165.398,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.751,
+    248.445,
+    247.764
+   ],
+   "grain": 0.014,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.669,
+     "tilt": 0.005,
+     "depth": 0.11,
+     "width_mm": 1.116,
+     "panel_step": 0.002
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.015,
+    "bow": 0.353,
+    "lift": 0.506
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "grey laminate",
+   "keyboard": {
+    "side": "top",
+    "depth": 0.213
+   },
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.112,
+   "gradient_angle": 24.209,
+   "vignette": 0.033,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.378,
+    "strength": 0.284
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    0.987,
+    1.0,
+    1.01
+   ],
+   "white": 213.346,
+   "black": 40.927,
+   "gamma": 1.03,
+   "glare": null
+  },
+  "text_row_px": 14.977,
+  "text_px": 14.977,
+  "photo_px_per_mm": 4.029,
+  "camera": {
+   "blur_sigma": 0.535,
+   "blur_cap": 0.535,
+   "defocus": {
+    "sigma_far": 0.535,
+    "angle": 250.232
+   },
+   "motion": {
+    "length_px": 0.856,
+    "angle": 90.979
+   },
+   "noise_sd": 5.241,
+   "sharpen_radius": 0.816,
+   "sharpen_percent": 47
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 74,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.944,
+   "skew_deg": -0.16,
+   "perspective": {
+    "amount": 0.028,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     23.021,
+     903.489
+    ],
+    [
+     42.338,
+     55.192
+    ],
+    [
+     1231.5,
+     55.044
+    ],
+    [
+     1230.44,
+     919.101
+    ]
+   ]
+  }
+ }
+}

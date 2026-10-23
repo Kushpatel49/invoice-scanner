@@ -1,0 +1,313 @@
+{
+ "id": "syn012",
+ "template": "gst_modern",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "PERIYAR DAIRY PRODUCTS",
+  "address_lines": [
+   "Door No. 46/973-C, Seaport-Airport Road",
+   "Angamaly, Kerala - 683572"
+  ],
+  "phone": "9702733295",
+  "gstin": "32ZSEFV7628W1ZH",
+  "fssai": "17233985709206",
+  "email": "periyar@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "GST/7967/26-27",
+ "invoice_number_printed": "GST/7967/26-27",
+ "invoice_date": "2026-08-28",
+ "date_printed": "28/08/26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 23,
+   "unit": "Nos",
+   "rate": 53,
+   "tax_percent": 12,
+   "taxable": 1219.0,
+   "cgst": 73.14,
+   "sgst": 73.14,
+   "amount": 1219.0,
+   "mrp": null
+  },
+  {
+   "description": "PROBIOTIC CURD 400 GM",
+   "hsn": "04031000",
+   "quantity": 44,
+   "unit": "400g",
+   "rate": 42,
+   "tax_percent": 5,
+   "taxable": 1848.0,
+   "cgst": 46.2,
+   "sgst": 46.2,
+   "amount": 1848.0,
+   "mrp": null
+  },
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 51,
+   "unit": "ML",
+   "rate": 25.34,
+   "tax_percent": 0,
+   "taxable": 1292.34,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1292.34,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER MILK 200 ML",
+   "hsn": "04039090",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 13,
+   "tax_percent": 5,
+   "taxable": 156.0,
+   "cgst": 3.9,
+   "sgst": 3.9,
+   "amount": 156.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 4515.34,
+  "cgst": 123.24,
+  "sgst": 123.24,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.18,
+  "grand_total": 4762.0
+ },
+ "amount_in_words": "INR FOUR THOUSAND SEVEN HUNDRED AND SIXTY TWO ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "B/L 694",
+  "not received"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.323,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "B/L 694",
+    "box": [
+     1084.75,
+     233.5,
+     1244.75,
+     338.5
+    ],
+    "angle": -5.556,
+    "size": 32.955,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   },
+   {
+    "text": "not received",
+    "box": [
+     1084.75,
+     233.5,
+     1244.75,
+     338.5
+    ],
+    "angle": -5.556,
+    "size": 32.955,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": -38.782,
+   "center": [
+    401.807,
+    1044.899
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.48,
+   "print_lum": 39.0,
+   "row_px_estimate": 23.887,
+   "faint": false,
+   "size_mm": [
+    74.006,
+    110.009
+   ],
+   "fills": {
+    "store_name": "Tripunithura",
+    "received": "Sanal",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.205,
+   "title_on_print": 0.454,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.989
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  "signature": {
+   "box": [
+    915.023,
+    2024.776,
+    1116.275,
+    2105.277
+   ],
+   "width": 201.252,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.709,
+    248.906,
+    244.492
+   ],
+   "grain": 0.017,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.5,
+     "tilt": -0.013,
+     "depth": 0.087,
+     "width_mm": 1.28,
+     "panel_step": 0.025
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.004,
+    "bow": 0.835,
+    "lift": -0.193
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 2,
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.074,
+   "gradient_angle": 86.793,
+   "vignette": 0.091,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.221,
+    "strength": 0.084
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.938
+   ],
+   "white": 219.788,
+   "black": 37.653,
+   "gamma": 1.144,
+   "glare": null
+  },
+  "text_row_px": 24.687,
+  "text_px": 9.634,
+  "photo_px_per_mm": 4.41,
+  "camera": {
+   "blur_sigma": 0.508,
+   "blur_cap": 0.876,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.758,
+   "sharpen_radius": 1.204,
+   "sharpen_percent": 44
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 68,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 1.033,
+   "skew_deg": 0.642,
+   "perspective": {
+    "amount": 0.029,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     -1.108,
+     -7.538
+    ],
+    [
+     954.407,
+     -4.639
+    ],
+    [
+     964.723,
+     1288.487
+    ],
+    [
+     31.722,
+     1317.41
+    ]
+   ]
+  }
+ }
+}

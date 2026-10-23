@@ -1,0 +1,313 @@
+{
+ "id": "syn035",
+ "template": "gst_modern",
+ "supplier_kind": "packaged",
+ "supplier": {
+  "name": "ALMOVA INTERNATIONAL",
+  "address_lines": [
+   "P55/14, Near Railway Station",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "8200292080",
+  "gstin": "32GOSPB3632L1ZR",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "TI-31552",
+ "invoice_number_printed": "TI-31552",
+ "invoice_date": "2026-08-27",
+ "date_printed": "27.08.2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "DATES PREMIUM 500 G",
+   "hsn": "08041020",
+   "quantity": 9,
+   "unit": "Pcs",
+   "rate": 184,
+   "tax_percent": 12,
+   "taxable": 1656.0,
+   "cgst": 99.36,
+   "sgst": 99.36,
+   "amount": 1854.72,
+   "mrp": null
+  },
+  {
+   "description": "ALMONDS CALIFORNIA 250 G",
+   "hsn": "08021200",
+   "quantity": 66,
+   "unit": "Pcs",
+   "rate": 278,
+   "tax_percent": 12,
+   "taxable": 18348.0,
+   "cgst": 1100.88,
+   "sgst": 1100.88,
+   "amount": 20549.76,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE WHITE HONEY 500GM",
+   "hsn": "18069090",
+   "quantity": 50,
+   "unit": "Pcs",
+   "rate": 1332,
+   "tax_percent": 5,
+   "taxable": 66600.0,
+   "cgst": 1665.0,
+   "sgst": 1665.0,
+   "amount": 69930.0,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE FOREST HONEY 500G",
+   "hsn": "17029030",
+   "quantity": 94,
+   "unit": "Pcs",
+   "rate": 1349,
+   "tax_percent": 5,
+   "taxable": 126806.0,
+   "cgst": 3170.15,
+   "sgst": 3170.15,
+   "amount": 133146.3,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE BLACK FOREST HONEY 125GM",
+   "hsn": "17026090",
+   "quantity": 3,
+   "unit": "Pcs",
+   "rate": 344.53,
+   "tax_percent": 5,
+   "taxable": 1033.59,
+   "cgst": 25.84,
+   "sgst": 25.84,
+   "amount": 1085.27,
+   "mrp": null
+  },
+  {
+   "description": "ORGANIC JAGGERY POWDER 500G",
+   "hsn": "17011390",
+   "quantity": 11,
+   "unit": "Pcs",
+   "rate": 81.5,
+   "tax_percent": 5,
+   "taxable": 896.5,
+   "cgst": 22.41,
+   "sgst": 22.41,
+   "amount": 941.32,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 215340.09,
+  "cgst": 6083.64,
+  "sgst": 6083.64,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.37,
+  "grand_total": 227507.0
+ },
+ "amount_in_words": "Two Lakh Twenty Seven Thousand Five Hundred Seven INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-639"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.28,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-639",
+    "box": [
+     1169.067,
+     185.703,
+     1393.067,
+     285.703
+    ],
+    "angle": 3.01,
+    "size": 63.658,
+    "font": "Caveat.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 1.607,
+   "center": [
+    254.935,
+    1010.352
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.48,
+   "print_lum": 20.0,
+   "row_px_estimate": 25.905,
+   "faint": false,
+   "size_mm": [
+    76.374,
+    113.529
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sanal",
+    "name": "Sanal",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.068,
+   "title_on_print": 0.099,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.947
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1238.18,
+    1798.826,
+    1446.133,
+    1882.007
+   ],
+   "width": 207.953,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    252.9,
+    247.408,
+    245.099
+   ],
+   "grain": 0.008,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.669,
+     "tilt": -0.003,
+     "depth": 0.069,
+     "width_mm": 0.639,
+     "panel_step": 0.017
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.006,
+    "bow": 0.15,
+    "lift": 0.007
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "wood",
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.081,
+   "gradient_angle": 124.646,
+   "vignette": 0.108,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.202,
+    "strength": 0.24
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.01,
+    1.0,
+    0.931
+   ],
+   "white": 217.001,
+   "black": 44.812,
+   "gamma": 0.913,
+   "glare": null
+  },
+  "text_row_px": 25.477,
+  "text_px": 9.625,
+  "photo_px_per_mm": 4.122,
+  "camera": {
+   "blur_sigma": 0.689,
+   "blur_cap": 0.875,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.904,
+   "sharpen_radius": 1.435,
+   "sharpen_percent": 34
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 66,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.966,
+   "skew_deg": -2.654,
+   "perspective": {
+    "amount": 0.024,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     49.332,
+     -10.165
+    ],
+    [
+     927.301,
+     43.439
+    ],
+    [
+     865.062,
+     1273.803
+    ],
+    [
+     -6.461,
+     1230.491
+    ]
+   ]
+  }
+ }
+}

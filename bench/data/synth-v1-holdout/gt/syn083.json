@@ -1,0 +1,323 @@
+{
+ "id": "syn083",
+ "template": "handbook",
+ "supplier_kind": "fruit",
+ "supplier": {
+  "name": "AL-AMEEN FRUITS",
+  "address_lines": [
+   "Door No. 80/46-C, Agricultural Urban Wholesale Market",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "9134797569",
+  "gstin": null,
+  "fssai": "17805705092220",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "8050",
+ "invoice_number_printed": "8050",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/8/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "GRAPES SEEDLESS",
+   "hsn": "0806",
+   "quantity": 23,
+   "unit": "KG",
+   "rate": 135.0,
+   "tax_percent": 0,
+   "taxable": 3105.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3105.0,
+   "mrp": null
+  },
+  {
+   "description": "SIMLA APPLE",
+   "hsn": "0808",
+   "quantity": 6.65,
+   "unit": "KG",
+   "rate": 169.0,
+   "tax_percent": 0,
+   "taxable": 1123.85,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1123.85,
+   "mrp": null
+  },
+  {
+   "description": "MOSAMBI",
+   "hsn": "0805",
+   "quantity": 20.991,
+   "unit": "KG",
+   "rate": 74.0,
+   "tax_percent": 0,
+   "taxable": 1553.33,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1553.33,
+   "mrp": null
+  },
+  {
+   "description": "NJALI POOVAN",
+   "hsn": "0803",
+   "quantity": 29.3,
+   "unit": "KG",
+   "rate": 109.0,
+   "tax_percent": 0,
+   "taxable": 3193.7,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3193.7,
+   "mrp": null
+  },
+  {
+   "description": "MANGO BANGANAPALLI",
+   "hsn": "0804",
+   "quantity": 24.8,
+   "unit": "KG",
+   "rate": 149.0,
+   "tax_percent": 0,
+   "taxable": 3695.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3695.2,
+   "mrp": null
+  },
+  {
+   "description": "CAVENDISH BANANA",
+   "hsn": "0803",
+   "quantity": 1,
+   "unit": "KG",
+   "rate": 37.0,
+   "tax_percent": 0,
+   "taxable": 37.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 37.0,
+   "mrp": null
+  },
+  {
+   "description": "ANAR",
+   "hsn": "0810",
+   "quantity": 38,
+   "unit": "KG",
+   "rate": 229.0,
+   "tax_percent": 0,
+   "taxable": 8702.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 8702.0,
+   "mrp": null
+  },
+  {
+   "description": "NENDRAN BANANA",
+   "hsn": "0803",
+   "quantity": 8,
+   "unit": "KG",
+   "rate": 61.0,
+   "tax_percent": 0,
+   "taxable": 488.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 488.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 8,
+ "totals": {
+  "subtotal": 21898.08,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.08,
+  "grand_total": 21898.0
+ },
+ "amount_in_words": "Twenty One Thousand Eight Hundred and Ninety Eight INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 614"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "pink",
+  "px_per_mm": 6.602,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 614",
+    "box": [
+     713.452,
+     10.764,
+     908.452,
+     97.764
+    ],
+    "angle": 2.267,
+    "size": 58.271,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "TRIPUNITHURA",
+   "angle_deg": 10.28,
+   "center": [
+    490.766,
+    1189.199
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.404,
+   "print_lum": 69.0,
+   "row_px_estimate": 44.365,
+   "faint": true,
+   "size_mm": [
+    72.224,
+    107.359
+   ],
+   "fills": {
+    "store_name": "TPRA",
+    "received": "Neethu",
+    "name": "Neethu",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.233,
+   "title_on_print": 0.536,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.013,
+   "inside_page": 0.995
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    251.938,
+    161.067,
+    179.781
+   ],
+   "grain": 0.012,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.002,
+    "bow": -0.244,
+    "lift": -0.296
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    176,
+    178,
+    182
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.087,
+   "gradient_angle": 205.895,
+   "vignette": 0.063,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.996,
+    1.0,
+    1.017
+   ],
+   "white": 231.234,
+   "black": 27.52,
+   "gamma": 1.149,
+   "glare": null
+  },
+  "text_row_px": 42.255,
+  "text_px": 25.823,
+  "photo_px_per_mm": 5.166,
+  "camera": {
+   "blur_sigma": 0.291,
+   "blur_cap": 1.263,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 1.755,
+   "sharpen_radius": 1.471,
+   "sharpen_percent": 79
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 75,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.952,
+   "skew_deg": 1.111,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     43.001,
+     925.445
+    ],
+    [
+     27.33,
+     51.922
+    ],
+    [
+     1242.321,
+     29.167
+    ],
+    [
+     1260.154,
+     902.831
+    ]
+   ]
+  }
+ }
+}

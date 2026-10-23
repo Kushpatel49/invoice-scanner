@@ -1,0 +1,317 @@
+{
+ "id": "syn009",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "KUTTANAD FRESH CUTS",
+  "address_lines": [
+   "Door No. 37/447-A, Temple Road",
+   "Muvattupuzha, Kerala - 686661"
+  ],
+  "phone": "9647290360",
+  "gstin": null,
+  "fssai": null,
+  "email": "kuttanadfresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh KKD"
+ },
+ "invoice_number": "1120",
+ "invoice_number_printed": "1120",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "VENDAKKA CUT",
+   "hsn": "0709",
+   "quantity": 43,
+   "unit": "Pkt",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 1892.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1892.0,
+   "mrp": null
+  },
+  {
+   "description": "KAYAM PAYAR CUT",
+   "hsn": "0709",
+   "quantity": 6,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 240.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 240.0,
+   "mrp": null
+  },
+  {
+   "description": "BEANS CUT",
+   "hsn": "0709",
+   "quantity": 27,
+   "unit": "Pkt",
+   "rate": 44.0,
+   "tax_percent": 0,
+   "taxable": 1188.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1188.0,
+   "mrp": null
+  },
+  {
+   "description": "JACKFRUIT RIPE",
+   "hsn": "0810",
+   "quantity": 14,
+   "unit": "Pkt",
+   "rate": 91.0,
+   "tax_percent": 0,
+   "taxable": 1274.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1274.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA CUT",
+   "hsn": "0709",
+   "quantity": 19,
+   "unit": "Pkt",
+   "rate": 41.5,
+   "tax_percent": 0,
+   "taxable": 788.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 788.5,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR CUT",
+   "hsn": "0709",
+   "quantity": 11,
+   "unit": "Pkt",
+   "rate": 37.0,
+   "tax_percent": 0,
+   "taxable": 407.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 407.0,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT GRATED",
+   "hsn": "0801",
+   "quantity": 29,
+   "unit": "Pkt",
+   "rate": 63.0,
+   "tax_percent": 0,
+   "taxable": 1827.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1827.0,
+   "mrp": null
+  },
+  {
+   "description": "PLANTAIN FLOWER",
+   "hsn": "0709",
+   "quantity": 41,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 1640.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1640.0,
+   "mrp": null
+  },
+  {
+   "description": "AVIAL CUT",
+   "hsn": "0709",
+   "quantity": 77,
+   "unit": "Pkt",
+   "rate": 47.0,
+   "tax_percent": 0,
+   "taxable": 3619.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3619.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 12875.5,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.5,
+  "grand_total": 12876.0
+ },
+ "amount_in_words": "Rupees Twelve Thousand Eight Hundred and Seventy Six Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 617"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "cream",
+  "px_per_mm": 6.342,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 617",
+    "box": [
+     784.137,
+     0.0,
+     986.137,
+     132.0
+    ],
+    "angle": -14.581,
+    "size": 52.8,
+    "font": "Kalam-Bold.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    6,
+    7
+   ]
+  },
+  "signature": {
+   "box": [
+    297.428,
+    1405.165,
+    440.409,
+    1462.357
+   ],
+   "width": 142.981,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.11,
+    241.223,
+    220.63
+   ],
+   "grain": 0.011,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.016,
+    "bow": -0.082,
+    "lift": 0.833
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.173,
+   "gradient_angle": 162.635,
+   "vignette": 0.093,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.495,
+    "strength": 0.339
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.956
+   ],
+   "white": 193.131,
+   "black": 38.199,
+   "gamma": 1.004,
+   "glare": null
+  },
+  "text_row_px": 38.803,
+  "text_px": 26.386,
+  "photo_px_per_mm": 4.922,
+  "camera": {
+   "blur_sigma": 0.719,
+   "blur_cap": 1.203,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 5.158,
+   "sharpen_radius": 1.488,
+   "sharpen_percent": 84
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 62,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.942,
+   "skew_deg": -4.514,
+   "perspective": {
+    "amount": 0.039,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     12.088,
+     864.809
+    ],
+    [
+     84.034,
+     -5.587
+    ],
+    [
+     1263.856,
+     89.379
+    ],
+    [
+     1210.325,
+     948.627
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,265 @@
+{
+ "id": "syn018",
+ "template": "software",
+ "supplier_kind": "dairy",
+ "supplier": {
+  "name": "MILKY WAY DAIRY",
+  "address_lines": [
+   "12/966, Seaport-Airport Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "9585662613",
+  "gstin": "32XRHPF2353H1ZK",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "MF/KK/1452/26-27",
+ "invoice_number_printed": "MF/KK/1452/26-27",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "SACHET MILK 450 ML",
+   "hsn": "04012000",
+   "quantity": 23,
+   "unit": "ML",
+   "rate": 28,
+   "tax_percent": 0,
+   "taxable": 644.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 644.0,
+   "mrp": null
+  },
+  {
+   "description": "BUTTER 100 G",
+   "hsn": "04051000",
+   "quantity": 65,
+   "unit": "Nos",
+   "rate": 59,
+   "tax_percent": 12,
+   "taxable": 3835.0,
+   "cgst": 230.1,
+   "sgst": 230.1,
+   "amount": 3835.0,
+   "mrp": null
+  },
+  {
+   "description": "PANEER 200 G",
+   "hsn": "04061000",
+   "quantity": 50,
+   "unit": "Nos",
+   "rate": 91,
+   "tax_percent": 5,
+   "taxable": 4550.0,
+   "cgst": 113.75,
+   "sgst": 113.75,
+   "amount": 4550.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 3,
+ "totals": {
+  "subtotal": 9029.0,
+  "cgst": 343.85,
+  "sgst": 343.85,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.3,
+  "grand_total": 9717.0
+ },
+ "amount_in_words": "INR Nine Thousand Seven Hundred Seventeen Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 678"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.41,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 678",
+    "box": [
+     1212.855,
+     99.863,
+     1416.855,
+     202.863
+    ],
+    "angle": 1.949,
+    "size": 70.281,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -13.773,
+   "center": [
+    1041.534,
+    1636.468
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.787,
+   "print_lum": 41.0,
+   "row_px_estimate": 26.487,
+   "faint": false,
+   "size_mm": [
+    71.649,
+    106.506
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Shalet",
+    "date": "25/8/26"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1042.424,
+    2106.653,
+    1182.468,
+    2162.671
+   ],
+   "width": 140.044,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.603,
+    251.73,
+    245.16
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.009,
+    "bow": 0.819,
+    "lift": 0.845
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.11,
+   "gradient_angle": 56.895,
+   "vignette": 0.075,
+   "shadow": {
+    "kind": "edge",
+    "side": "left",
+    "depth": 0.336,
+    "strength": 0.129
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.964
+   ],
+   "white": 199.617,
+   "black": 54.466,
+   "gamma": 1.017,
+   "glare": null
+  },
+  "text_row_px": 24.13,
+  "text_px": 9.967,
+  "photo_px_per_mm": 3.887,
+  "camera": {
+   "blur_sigma": 0.469,
+   "blur_cap": 0.862,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.792,
+   "sharpen_radius": 0.933,
+   "sharpen_percent": 41
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 68,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.911,
+   "skew_deg": 0.112,
+   "perspective": {
+    "amount": 0.015,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     61.635,
+     883.578
+    ],
+    [
+     68.083,
+     67.149
+    ],
+    [
+     1235.64,
+     59.597
+    ],
+    [
+     1230.706,
+     886.961
+    ]
+   ]
+  }
+ }
+}

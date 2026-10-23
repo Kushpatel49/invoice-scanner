@@ -1,0 +1,327 @@
+{
+ "id": "syn099",
+ "template": "gst_modern",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "R K MERCANTILE",
+  "address_lines": [
+   "Door No. 63/519-C, Industrial Estate",
+   "Kochi, Kerala - 682016"
+  ],
+  "phone": "8338121478",
+  "gstin": "32NLGPL9327Q1Z6",
+  "fssai": "13617249413800",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGAADI AGRO PVT LTD (KAKKANAD)"
+ },
+ "invoice_number": "INV/2026/158937",
+ "invoice_number_printed": "INV/2026/158937",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 180.5,
+   "tax_percent": 18,
+   "taxable": 361.0,
+   "cgst": 32.49,
+   "sgst": 32.49,
+   "amount": 361.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 15,
+   "unit": "Nos",
+   "rate": 304,
+   "tax_percent": 5,
+   "taxable": 4560.0,
+   "cgst": 114.0,
+   "sgst": 114.0,
+   "amount": 4560.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 25,
+   "unit": "KGS",
+   "rate": 364,
+   "tax_percent": 5,
+   "taxable": 9100.0,
+   "cgst": 227.5,
+   "sgst": 227.5,
+   "amount": 9100.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 20,
+   "unit": "Nos",
+   "rate": 152,
+   "tax_percent": 5,
+   "taxable": 3040.0,
+   "cgst": 76.0,
+   "sgst": 76.0,
+   "amount": 3040.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 54,
+   "unit": "Nos",
+   "rate": 167.5,
+   "tax_percent": 5,
+   "taxable": 9045.0,
+   "cgst": 226.13,
+   "sgst": 226.13,
+   "amount": 9045.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 8.0,
+   "unit": "KGS",
+   "rate": 276.5,
+   "tax_percent": 5,
+   "taxable": 2212.0,
+   "cgst": 55.3,
+   "sgst": 55.3,
+   "amount": 2212.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 28318.0,
+  "cgst": 731.42,
+  "sgst": 731.42,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.16,
+  "grand_total": 29781.0
+ },
+ "amount_in_words": "Twenty Nine Thousand Seven Hundred Eighty One INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 656"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "white",
+  "px_per_mm": 7.717,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 656",
+    "box": [
+     1160.664,
+     195.249,
+     1382.664,
+     320.249
+    ],
+    "angle": -4.449,
+    "size": 74.709,
+    "font": "Caveat.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 22.926,
+   "center": [
+    986.407,
+    1797.594
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.81,
+   "print_lum": 39.0,
+   "row_px_estimate": 24.439,
+   "faint": false,
+   "size_mm": [
+    76.032,
+    113.02
+   ],
+   "fills": {
+    "store_name": "K.K.D",
+    "received": "Sanal",
+    "date": "30/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    35,
+    55,
+    165
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.005,
+   "title_on_print": 0.014,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    147.907,
+    2159.083,
+    334.91,
+    2233.884
+   ],
+   "width": 187.003,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    251.595,
+    250.134,
+    248.254
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.007,
+    "bow": 0.856,
+    "lift": 0.586
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.108,
+   "gradient_angle": 320.583,
+   "vignette": 0.086,
+   "shadow": {
+    "kind": "edge",
+    "side": "right",
+    "depth": 0.428,
+    "strength": 0.114
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.024,
+    1.0,
+    0.958
+   ],
+   "white": 216.133,
+   "black": 40.805,
+   "gamma": 1.128,
+   "glare": {
+    "center": [
+     0.355,
+     0.662
+    ],
+    "radius": [
+     0.154,
+     0.121
+    ],
+    "strength": 0.349
+   }
+  },
+  "text_row_px": 23.926,
+  "text_px": 9.039,
+  "photo_px_per_mm": 4.103,
+  "camera": {
+   "blur_sigma": 0.737,
+   "blur_cap": 0.822,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.745,
+   "sharpen_radius": 1.147,
+   "sharpen_percent": 80
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 69,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.962,
+   "skew_deg": 1.15,
+   "perspective": {
+    "amount": 0.025,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     29.548,
+     44.365
+    ],
+    [
+     893.1,
+     15.848
+    ],
+    [
+     924.876,
+     1245.757
+    ],
+    [
+     52.318,
+     1276.251
+    ]
+   ]
+  }
+ }
+}

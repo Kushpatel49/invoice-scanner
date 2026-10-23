@@ -1,0 +1,384 @@
+{
+ "id": "syn040",
+ "template": "handbook",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "MALABAR FRESH FARMS PVT LTD",
+  "address_lines": [
+   "Door No. 72/135-A, M.G. Road",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "7322073012",
+  "gstin": null,
+  "fssai": "19883667269267",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi"
+ },
+ "invoice_number": "9257",
+ "invoice_number_printed": "9257",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 20,
+   "unit": "KGS",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 920.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 920.0,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT",
+   "hsn": "0801",
+   "quantity": 2,
+   "unit": "NOS",
+   "rate": 28.0,
+   "tax_percent": 0,
+   "taxable": 56.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 56.0,
+   "mrp": null
+  },
+  {
+   "description": "CURRY LEAVES",
+   "hsn": "0709",
+   "quantity": 25.57,
+   "unit": "KGS",
+   "rate": 60.0,
+   "tax_percent": 0,
+   "taxable": 1534.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1534.2,
+   "mrp": null
+  },
+  {
+   "description": "ASH GOURD",
+   "hsn": "0709",
+   "quantity": 9.09,
+   "unit": "KGS",
+   "rate": 34.0,
+   "tax_percent": 0,
+   "taxable": 309.06,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 309.06,
+   "mrp": null
+  },
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 18,
+   "unit": "KGS",
+   "rate": 34.0,
+   "tax_percent": 0,
+   "taxable": 612.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 612.0,
+   "mrp": null
+  },
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 22.76,
+   "unit": "KGS",
+   "rate": 62.0,
+   "tax_percent": 0,
+   "taxable": 1411.12,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1411.12,
+   "mrp": null
+  },
+  {
+   "description": "POTATO",
+   "hsn": "0701",
+   "quantity": 10.84,
+   "unit": "KGS",
+   "rate": 26.0,
+   "tax_percent": 0,
+   "taxable": 281.84,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 281.84,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 37,
+   "unit": "KGS",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 2035.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2035.0,
+   "mrp": null
+  },
+  {
+   "description": "BRINJAL GREEN LONG",
+   "hsn": "0709",
+   "quantity": 40,
+   "unit": "KGS",
+   "rate": 55.0,
+   "tax_percent": 0,
+   "taxable": 2200.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2200.0,
+   "mrp": null
+  },
+  {
+   "description": "BEETROOT OOTY",
+   "hsn": "0706",
+   "quantity": 10.5,
+   "unit": "KGS",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 420.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 420.0,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 28.312,
+   "unit": "KGS",
+   "rate": 114.0,
+   "tax_percent": 0,
+   "taxable": 3227.57,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3227.57,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 21,
+   "unit": "UNT",
+   "rate": 11.0,
+   "tax_percent": 0,
+   "taxable": 231.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 231.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 12,
+ "totals": {
+  "subtotal": 13237.79,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 13237.79
+ },
+ "amount_in_words": "THIRTEEN THOUSAND TWO HUNDRED AND THIRTY SEVEN INDIAN RUPEES AND SEVENTY NINE PAISE ONLY",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": {
+   "row": 5,
+   "printed": 23.76,
+   "new": 22.76
+  }
+ },
+ "notes": [],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten",
+  "no supplier GSTIN"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 8.193,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -0.326,
+   "center": [
+    452.146,
+    1888.292
+   ],
+   "ink": [
+    95,
+    62,
+    160
+   ],
+   "opacity": 0.48,
+   "print_lum": 31.0,
+   "row_px_estimate": 30.977,
+   "faint": false,
+   "size_mm": [
+    77.383,
+    115.029
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Bibin",
+    "name": "Bibin",
+    "date": "1/09/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.074,
+   "title_on_print": 0.179,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.007,
+   "inside_page": 0.945
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    621.242,
+    49.993,
+    846.991,
+    140.293
+   ],
+   "width": 225.749,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.82,
+    250.603,
+    244.888
+   ],
+   "grain": 0.018,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.655,
+     "tilt": 0.017,
+     "depth": 0.116,
+     "width_mm": 0.749,
+     "panel_step": 0.029
+    }
+   ],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.01,
+    "bow": -0.463,
+    "lift": -0.173
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.119,
+   "gradient_angle": 339.715,
+   "vignette": 0.041,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.451,
+    "strength": 0.296
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.003,
+    1.0,
+    0.978
+   ],
+   "white": 191.468,
+   "black": 35.043,
+   "gamma": 0.98,
+   "glare": null
+  },
+  "text_row_px": 29.93,
+  "text_px": 21.913,
+  "photo_px_per_mm": 4.379,
+  "camera": {
+   "blur_sigma": 0.92,
+   "blur_cap": 1.069,
+   "defocus": {
+    "sigma_far": 1.069,
+    "angle": 85.752
+   },
+   "motion": null,
+   "noise_sd": 3.822,
+   "sharpen_radius": 0.994,
+   "sharpen_percent": 53
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 61,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.966,
+   "skew_deg": -2.452,
+   "perspective": {
+    "amount": 0.031,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     15.611,
+     781.63
+    ],
+    [
+     23.877,
+     157.382
+    ],
+    [
+     1260.508,
+     205.089
+    ],
+    [
+     1244.505,
+     830.006
+    ]
+   ]
+  }
+ }
+}

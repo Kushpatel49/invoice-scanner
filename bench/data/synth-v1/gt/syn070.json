@@ -1,0 +1,300 @@
+{
+ "id": "syn070",
+ "template": "gst_modern",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "SEA KING FROZEN FOODS",
+  "address_lines": [
+   "Door No. 13/788-B, Seaport-Airport Road",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "7784472088",
+  "gstin": "32KCMFL0648I1ZX",
+  "fssai": "17739142351183",
+  "email": "seafresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "3619",
+ "invoice_number_printed": "3619",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29/08/2026",
+ "tax_mode": "inclusive",
+ "items": [
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 25,
+   "unit": "KGS",
+   "rate": 281,
+   "tax_percent": 5,
+   "taxable": 7025.0,
+   "cgst": 175.63,
+   "sgst": 175.63,
+   "amount": 7376.26,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 175,
+   "tax_percent": 5,
+   "taxable": 350.0,
+   "cgst": 8.75,
+   "sgst": 8.75,
+   "amount": 367.5,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 91,
+   "unit": "Nos",
+   "rate": 142.31,
+   "tax_percent": 5,
+   "taxable": 12950.21,
+   "cgst": 323.76,
+   "sgst": 323.76,
+   "amount": 13597.73,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 9.6,
+   "unit": "KGS",
+   "rate": 372,
+   "tax_percent": 5,
+   "taxable": 3571.2,
+   "cgst": 89.28,
+   "sgst": 89.28,
+   "amount": 3749.76,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 10,
+   "unit": "Nos",
+   "rate": 295,
+   "tax_percent": 5,
+   "taxable": 2950.0,
+   "cgst": 73.75,
+   "sgst": 73.75,
+   "amount": 3097.5,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 5,
+ "totals": {
+  "subtotal": 26846.41,
+  "cgst": 671.17,
+  "sgst": 671.17,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.25,
+  "grand_total": 28189.0
+ },
+ "amount_in_words": "Twenty Eight Thousand One Hundred Eighty Nine Rupees Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "not received"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.433,
+  "pen_ink": [
+   30,
+   30,
+   40
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "not received",
+    "box": [
+     895.395,
+     240.5,
+     1198.395,
+     369.5
+    ],
+    "angle": -6.578,
+    "size": 64.613,
+    "font": "Caveat.ttf",
+    "ink": [
+     30,
+     30,
+     40
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 15.757,
+   "center": [
+    487.078,
+    1762.921
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.713,
+   "print_lum": 51.0,
+   "row_px_estimate": 24.108,
+   "faint": false,
+   "size_mm": [
+    75.813,
+    112.694
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Vishnu",
+    "date": "29/08/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "free",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.999
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    247.378,
+    244.424,
+    224.885
+   ],
+   "grain": 0.016,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.344,
+     "tilt": 0.042,
+     "depth": 0.107,
+     "width_mm": 0.973,
+     "panel_step": 0.016
+    },
+    {
+     "horizontal": false,
+     "pos": 0.532,
+     "tilt": 0.01,
+     "depth": 0.059,
+     "width_mm": 0.916,
+     "panel_step": 0.012
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.008,
+    "bow": 0.828,
+    "lift": 0.397
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.074,
+   "gradient_angle": 78.408,
+   "vignette": 0.034,
+   "shadow": {
+    "kind": "phone",
+    "side": "left",
+    "depth": 0.317,
+    "strength": 0.165
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.005,
+    1.0,
+    0.951
+   ],
+   "white": 191.602,
+   "black": 37.809,
+   "gamma": 1.084,
+   "glare": null
+  },
+  "text_row_px": 23.988,
+  "text_px": 9.709,
+  "photo_px_per_mm": 4.245,
+  "camera": {
+   "blur_sigma": 0.577,
+   "blur_cap": 0.857,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.599,
+   "sharpen_radius": 0.926,
+   "sharpen_percent": 47
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 76,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.995,
+   "skew_deg": 2.189,
+   "perspective": {
+    "amount": 0.018,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     2.288,
+     30.118
+    ],
+    [
+     898.511,
+     -6.373
+    ],
+    [
+     953.795,
+     1241.608
+    ],
+    [
+     51.741,
+     1296.146
+    ]
+   ]
+  }
+ }
+}

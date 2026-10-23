@@ -1,0 +1,321 @@
+{
+ "id": "syn004",
+ "template": "carbon",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "XIII/266, Church Road",
+   "Perumbavoor, Kerala - 683542"
+  ],
+  "phone": "7845423359",
+  "gstin": "32CNQCF5756C1ZS",
+  "fssai": "19136705173079",
+  "email": "arayacherril@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "5929",
+ "invoice_number_printed": "5929",
+ "invoice_date": "2026-08-30",
+ "date_printed": "30-08-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "PUTTU PODI 1 KG",
+   "hsn": "11029090",
+   "quantity": 51,
+   "unit": "Nos",
+   "rate": 79,
+   "tax_percent": 5,
+   "taxable": 4029.0,
+   "cgst": 100.73,
+   "sgst": 100.73,
+   "amount": 4029.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT VEG PALAPPAM 1 LTR",
+   "hsn": "21061000",
+   "quantity": 9,
+   "unit": "Nos",
+   "rate": 67,
+   "tax_percent": 5,
+   "taxable": 603.0,
+   "cgst": 15.08,
+   "sgst": 15.08,
+   "amount": 603.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 2,
+   "unit": "Nos",
+   "rate": 72.06,
+   "tax_percent": 5,
+   "taxable": 144.12,
+   "cgst": 3.6,
+   "sgst": 3.6,
+   "amount": 144.12,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT PUNCHA EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 66,
+   "tax_percent": 5,
+   "taxable": 792.0,
+   "cgst": 19.8,
+   "sgst": 19.8,
+   "amount": 792.0,
+   "mrp": null
+  },
+  {
+   "description": "JAGGERY BALL 1 KG",
+   "hsn": "17011390",
+   "quantity": 80,
+   "unit": "Nos",
+   "rate": 86,
+   "tax_percent": 5,
+   "taxable": 6880.0,
+   "cgst": 172.0,
+   "sgst": 172.0,
+   "amount": 6880.0,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 54,
+   "unit": "Nos",
+   "rate": 62.76,
+   "tax_percent": 5,
+   "taxable": 3389.04,
+   "cgst": 84.73,
+   "sgst": 84.73,
+   "amount": 3389.04,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 15837.16,
+  "cgst": 395.94,
+  "sgst": 395.94,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 16629.04
+ },
+ "amount_in_words": "SIXTEEN THOUSAND SIX HUNDRED TWENTY NINE RUPEES AND FOUR PAISE ONLY",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-621"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "pink",
+  "px_per_mm": 7.896,
+  "pen_ink": [
+   45,
+   70,
+   170
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-621",
+    "box": [
+     898.424,
+     2.5,
+     1179.424,
+     115.5
+    ],
+    "angle": -2.608,
+    "size": 72.0,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     45,
+     70,
+     170
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 40.333,
+   "center": [
+    622.5,
+    1277.886
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.422,
+   "print_lum": 79.0,
+   "row_px_estimate": 24.443,
+   "faint": false,
+   "size_mm": [
+    77.792,
+    115.637
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Rakhi",
+    "name": "Rakhi",
+    "date": "30/08/26"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Kalam-Light.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.132,
+   "title_on_print": 0.172,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.994
+  },
+  "stamp_over_table": true,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  "signature": {
+   "box": [
+    966.936,
+    132.654,
+    1165.935,
+    212.253
+   ],
+   "width": 198.998,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.077,
+    157.271,
+    180.485
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "left",
+    "amount": 0.008,
+    "bow": -0.998,
+    "lift": 0.287
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    176,
+    178,
+    182
+   ],
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.143,
+   "gradient_angle": 313.853,
+   "vignette": 0.053,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.443,
+    "strength": 0.118
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.011,
+    1.0,
+    0.94
+   ],
+   "white": 211.829,
+   "black": 51.644,
+   "gamma": 1.124,
+   "glare": null
+  },
+  "text_row_px": 47.231,
+  "text_px": 9.029,
+  "photo_px_per_mm": 5.484,
+  "camera": {
+   "blur_sigma": 0.525,
+   "blur_cap": 0.821,
+   "defocus": {
+    "sigma_far": 0.821,
+    "angle": 113.466
+   },
+   "motion": null,
+   "noise_sd": 3.372,
+   "sharpen_radius": 1.469,
+   "sharpen_percent": 40
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 82,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.96,
+   "skew_deg": -2.195,
+   "perspective": {
+    "amount": 0.021,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     71.671,
+     23.138
+    ],
+    [
+     928.827,
+     60.348
+    ],
+    [
+     881.628,
+     1254.269
+    ],
+    [
+     12.613,
+     1251.095
+    ]
+   ]
+  }
+ }
+}

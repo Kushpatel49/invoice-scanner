@@ -1,0 +1,273 @@
+{
+ "id": "syn079",
+ "template": "gst_modern",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "SEA KING FROZEN FOODS",
+  "address_lines": [
+   "XIII/165, Industrial Estate",
+   "Kalamassery, Kerala - 683104"
+  ],
+  "phone": "9822066973",
+  "gstin": "32HAWFS1311B1ZG",
+  "fssai": null,
+  "email": "sea@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "COK26-27/1679",
+ "invoice_number_printed": "COK26-27/1679",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29-08-2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 97,
+   "unit": "Nos",
+   "rate": 142.78,
+   "tax_percent": 5,
+   "taxable": 13849.66,
+   "cgst": 346.24,
+   "sgst": 346.24,
+   "amount": 13849.66,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 7,
+   "unit": "Nos",
+   "rate": 153,
+   "tax_percent": 5,
+   "taxable": 1071.0,
+   "cgst": 26.78,
+   "sgst": 26.78,
+   "amount": 1071.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 20,
+   "unit": "Nos",
+   "rate": 309,
+   "tax_percent": 5,
+   "taxable": 6180.0,
+   "cgst": 154.5,
+   "sgst": 154.5,
+   "amount": 6180.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 12,
+   "unit": "Nos",
+   "rate": 176,
+   "tax_percent": 18,
+   "taxable": 2112.0,
+   "cgst": 190.08,
+   "sgst": 190.08,
+   "amount": 2112.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 4,
+ "totals": {
+  "subtotal": 23212.66,
+  "cgst": 717.6,
+  "sgst": 717.6,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 24647.86
+ },
+ "amount_in_words": "INR Twenty Four Thousand Six Hundred Forty Seven and Eighty Six Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-685"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.48,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-685",
+    "box": [
+     1214.0,
+     165.84,
+     1475.0,
+     280.84
+    ],
+    "angle": 2.514,
+    "size": 74.754,
+    "font": "Caveat.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 40.229,
+   "center": [
+    476.43,
+    1489.845
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.472,
+   "print_lum": 51.0,
+   "row_px_estimate": 23.957,
+   "faint": true,
+   "size_mm": [
+    76.963,
+    114.404
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Arun",
+    "date": "29.08.2026",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "PatrickHand-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.01,
+   "title_on_print": 0.001,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.005,
+   "inside_page": 0.999
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    250.751,
+    251.566,
+    246.302
+   ],
+   "grain": 0.009,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.016,
+    "bow": -0.385,
+    "lift": 0.631
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 2
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.164,
+   "gradient_angle": 148.95,
+   "vignette": 0.128,
+   "shadow": {
+    "kind": "edge",
+    "side": "right",
+    "depth": 0.251,
+    "strength": 0.305
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.968
+   ],
+   "white": 193.739,
+   "black": 35.708,
+   "gamma": 1.06,
+   "glare": null
+  },
+  "text_row_px": 22.136,
+  "text_px": 10.541,
+  "photo_px_per_mm": 3.942,
+  "camera": {
+   "blur_sigma": 0.713,
+   "blur_cap": 0.791,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.535,
+   "sharpen_radius": 1.557,
+   "sharpen_percent": 46
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 72,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.924,
+   "skew_deg": 1.893,
+   "perspective": {
+    "amount": 0.037,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     31.535,
+     67.163
+    ],
+    [
+     885.599,
+     46.401
+    ],
+    [
+     910.486,
+     1223.087
+    ],
+    [
+     82.255,
+     1252.342
+    ]
+   ]
+  }
+ }
+}

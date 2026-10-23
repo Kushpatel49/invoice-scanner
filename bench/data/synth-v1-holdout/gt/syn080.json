@@ -1,0 +1,376 @@
+{
+ "id": "syn080",
+ "template": "handbook",
+ "supplier_kind": "eggs",
+ "supplier": {
+  "name": "EGGS DAILY",
+  "address_lines": [
+   "P11/38, Main Road",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "8682289362",
+  "gstin": "32HLYFM7527J1ZU",
+  "fssai": null,
+  "email": "eggs@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden fresh KKD"
+ },
+ "invoice_number": "965",
+ "invoice_number_printed": "965",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31/08/2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "NADAN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 7,
+   "unit": "Pack",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 378.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 378.0,
+   "mrp": null
+  },
+  {
+   "description": "DUCK EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 46,
+   "unit": "Pack",
+   "rate": 79.0,
+   "tax_percent": 0,
+   "taxable": 3634.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3634.0,
+   "mrp": null
+  },
+  {
+   "description": "NADAN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 29,
+   "unit": "Pack",
+   "rate": 116.0,
+   "tax_percent": 0,
+   "taxable": 3364.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3364.0,
+   "mrp": null
+  },
+  {
+   "description": "QUAIL EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 98,
+   "unit": "Pack",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 4802.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4802.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 30",
+   "hsn": "0407",
+   "quantity": 45,
+   "unit": "Tray",
+   "rate": 206.0,
+   "tax_percent": 0,
+   "taxable": 9270.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 9270.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 6,
+   "unit": "Pack",
+   "rate": 54.0,
+   "tax_percent": 0,
+   "taxable": 324.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 324.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 6",
+   "hsn": "0407",
+   "quantity": 59,
+   "unit": "Pack",
+   "rate": 49.0,
+   "tax_percent": 0,
+   "taxable": 2891.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2891.0,
+   "mrp": null
+  },
+  {
+   "description": "BROWN EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 28,
+   "unit": "Pack",
+   "rate": 111.0,
+   "tax_percent": 0,
+   "taxable": 3108.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3108.0,
+   "mrp": null
+  },
+  {
+   "description": "WHITE EGG PACK 12",
+   "hsn": "0407",
+   "quantity": 7,
+   "unit": "Pack",
+   "rate": 98.0,
+   "tax_percent": 0,
+   "taxable": 686.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 686.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 9,
+ "totals": {
+  "subtotal": 28457.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 28457.0
+ },
+ "amount_in_words": "Rupees Twenty Eight Thousand Four Hundred and Fifty Seven Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-679"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 6.711,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-679",
+    "box": [
+     788.192,
+     7.0,
+     1023.192,
+     126.0
+    ],
+    "angle": 6.001,
+    "size": 64.279,
+    "font": "Caveat.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -33.749,
+   "center": [
+    480.958,
+    1190.763
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.312,
+   "print_lum": 61.0,
+   "row_px_estimate": 44.529,
+   "faint": true,
+   "size_mm": [
+    74.155,
+    110.23
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Pradeesh",
+    "name": "Pradeesh",
+    "date": "31.08.2026",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.44,
+   "title_on_print": 0.955,
+   "fill_on_numbers": 0.06,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.99
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    971.688,
+    237.29,
+    1096.742,
+    287.311
+   ],
+   "width": 125.054,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    252.574,
+    247.769,
+    247.308
+   ],
+   "grain": 0.011,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.504,
+     "tilt": 0.039,
+     "depth": 0.056,
+     "width_mm": 1.177,
+     "panel_step": 0.039
+    }
+   ],
+   "curl": {
+    "edge": "top",
+    "amount": 0.011,
+    "bow": 0.648,
+    "lift": -0.289
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "grey laminate",
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.237
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.143,
+   "gradient_angle": 284.307,
+   "vignette": 0.121,
+   "shadow": {
+    "kind": "edge",
+    "side": "bottom",
+    "depth": 0.218,
+    "strength": 0.288
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.005,
+    1.0,
+    0.968
+   ],
+   "white": 181.393,
+   "black": 36.585,
+   "gamma": 1.115,
+   "glare": {
+    "center": [
+     0.868,
+     0.334
+    ],
+    "radius": [
+     0.24,
+     0.172
+    ],
+    "strength": 0.297
+   }
+  },
+  "text_row_px": 39.429,
+  "text_px": 20.073,
+  "photo_px_per_mm": 4.811,
+  "camera": {
+   "blur_sigma": 0.853,
+   "blur_cap": 1.176,
+   "defocus": {
+    "sigma_far": 1.176,
+    "angle": 213.42
+   },
+   "motion": {
+    "length_px": 1.66,
+    "angle": 115.357
+   },
+   "noise_sd": 3.483,
+   "sharpen_radius": 0.802,
+   "sharpen_percent": 42
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 71,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.885,
+   "skew_deg": -4.311,
+   "perspective": {
+    "amount": 0.044,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     68.049,
+     846.213
+    ],
+    [
+     93.186,
+     -0.97
+    ],
+    [
+     1265.605,
+     115.549
+    ],
+    [
+     1182.854,
+     919.486
+    ]
+   ]
+  }
+ }
+}

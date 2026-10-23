@@ -1,0 +1,222 @@
+{
+ "id": "syn067",
+ "template": "carbon",
+ "supplier_kind": "packaged",
+ "supplier": {
+  "name": "ALMOVA INTERNATIONAL",
+  "address_lines": [
+   "42/169, Church Road",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "9850094741",
+  "gstin": "32IKJPS3763K2ZI",
+  "fssai": null,
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "TI-53736",
+ "invoice_number_printed": "TI-53736",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-Aug-26",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "ORGANIC JAGGERY POWDER 500G",
+   "hsn": "17011390",
+   "quantity": 7,
+   "unit": "Pcs",
+   "rate": 88.6,
+   "tax_percent": 5,
+   "taxable": 620.2,
+   "cgst": 15.51,
+   "sgst": 15.51,
+   "amount": 620.2,
+   "mrp": null
+  },
+  {
+   "description": "LANGNESE BLACK FOREST HONEY 125GM",
+   "hsn": "17026090",
+   "quantity": 11,
+   "unit": "Pcs",
+   "rate": 341.52,
+   "tax_percent": 5,
+   "taxable": 3756.72,
+   "cgst": 93.92,
+   "sgst": 93.92,
+   "amount": 3756.72,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 4376.92,
+  "cgst": 109.43,
+  "sgst": 109.43,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.22,
+  "grand_total": 4596.0
+ },
+ "amount_in_words": "Rupees Four Thousand Five Hundred Ninety Six Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "quality issue return"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "yellow",
+  "px_per_mm": 9.523,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "quality issue return",
+    "box": [
+     885.633,
+     16.5,
+     1619.633,
+     132.5
+    ],
+    "angle": -0.563,
+    "size": 82.175,
+    "font": "Kalam-Regular.ttf",
+    "ink": [
+     20,
+     35,
+     120
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_desc",
+   "rows": [
+    1
+   ]
+  },
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    249.731,
+    239.056,
+    170.973
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "right",
+    "amount": 0.008,
+    "bow": -0.765,
+    "lift": 0.626
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.152,
+   "gradient_angle": 239.902,
+   "vignette": 0.041,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.349,
+    "strength": 0.192
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.946
+   ],
+   "white": 181.884,
+   "black": 54.159,
+   "gamma": 1.06,
+   "glare": {
+    "center": [
+     0.452,
+     0.72
+    ],
+    "radius": [
+     0.137,
+     0.079
+    ],
+    "strength": 0.31
+   }
+  },
+  "text_row_px": 35.404,
+  "text_px": 9.09,
+  "photo_px_per_mm": 4.556,
+  "camera": {
+   "blur_sigma": 0.819,
+   "blur_cap": 0.826,
+   "defocus": {
+    "sigma_far": 0.826,
+    "angle": 107.339
+   },
+   "motion": null,
+   "noise_sd": 3.617,
+   "sharpen_radius": 1.291,
+   "sharpen_percent": 55
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 70,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.884,
+   "skew_deg": 3.164,
+   "perspective": {
+    "amount": 0.047,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     96.143,
+     859.476
+    ],
+    [
+     17.478,
+     93.414
+    ],
+    [
+     1167.232,
+     19.619
+    ],
+    [
+     1212.907,
+     828.792
+    ]
+   ]
+  }
+ }
+}

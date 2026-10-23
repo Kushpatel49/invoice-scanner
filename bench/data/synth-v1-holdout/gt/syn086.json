@@ -1,0 +1,325 @@
+{
+ "id": "syn086",
+ "template": "tally",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "KAIRALI AGRO TRADERS",
+  "address_lines": [
+   "P37/18, Agricultural Urban Wholesale Market",
+   "Alappuzha, Kerala - 688001"
+  ],
+  "phone": "9733762215",
+  "gstin": "32ULRFG7484V1ZY",
+  "fssai": null,
+  "email": "kairalifresh@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "ALM/B2B/1018",
+ "invoice_number_printed": "ALM/B2B/1018",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26-Aug-2026",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "AMARANTHUS GREEN BUNCH",
+   "hsn": "0709",
+   "quantity": 77,
+   "unit": "UNT",
+   "rate": 21.5,
+   "tax_percent": 0,
+   "taxable": 1655.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1655.5,
+   "mrp": null
+  },
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 8.2,
+   "unit": "KGS",
+   "rate": 36,
+   "tax_percent": 0,
+   "taxable": 295.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 295.2,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA",
+   "hsn": "0709",
+   "quantity": 5,
+   "unit": "KGS",
+   "rate": 64.0,
+   "tax_percent": 0,
+   "taxable": 320.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 320.0,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 27,
+   "unit": "KGS",
+   "rate": 112.53,
+   "tax_percent": 0,
+   "taxable": 3038.31,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3038.31,
+   "mrp": null
+  },
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 27.94,
+   "unit": "KGS",
+   "rate": 30,
+   "tax_percent": 0,
+   "taxable": 838.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 838.2,
+   "mrp": null
+  },
+  {
+   "description": "GARLIC (INDIAN)",
+   "hsn": "0703",
+   "quantity": 23,
+   "unit": "KGS",
+   "rate": 177,
+   "tax_percent": 0,
+   "taxable": 4071.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4071.0,
+   "mrp": null
+  },
+  {
+   "description": "CARROT OOTY",
+   "hsn": "0706",
+   "quantity": 15.557,
+   "unit": "KGS",
+   "rate": 51,
+   "tax_percent": 0,
+   "taxable": 793.41,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 793.41,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 11011.62,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.38,
+  "grand_total": 11012.0
+ },
+ "amount_in_words": "INR Eleven Thousand Twelve Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "hard",
+  "paper": "white",
+  "px_per_mm": 7.947,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 20.785,
+   "center": [
+    478.384,
+    1692.662
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.878,
+   "print_lum": 20.0,
+   "row_px_estimate": 12.886,
+   "faint": false,
+   "size_mm": [
+    72.259,
+    107.413
+   ],
+   "fills": {
+    "store_name": "Kakkanad",
+    "received": "Vishnu",
+    "date": "26/08/26"
+   },
+   "fill_ink": [
+    25,
+    45,
+    150
+   ],
+   "fill_font": "Caveat.ttf",
+   "placement": "table",
+   "over_table": true,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": {
+   "box": [
+    593.356,
+    91.597,
+    809.851,
+    178.195
+   ],
+   "width": 216.495,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    249.303,
+    250.281,
+    246.075
+   ],
+   "grain": 0.013,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.665,
+     "tilt": 0.023,
+     "depth": 0.125,
+     "width_mm": 0.96,
+     "panel_step": 0.013
+    }
+   ],
+   "curl": {
+    "edge": "left",
+    "amount": 0.01,
+    "bow": -0.737,
+    "lift": 0.865
+   }
+  },
+  "background": {
+   "kind": "desk",
+   "desk": "black table",
+   "keyboard": {
+    "side": "right",
+    "depth": 0.203
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.148,
+   "gradient_angle": 308.902,
+   "vignette": 0.146,
+   "shadow": {
+    "kind": "edge",
+    "side": "right",
+    "depth": 0.291,
+    "strength": 0.327
+   },
+   "light_floor": 0.58,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.954
+   ],
+   "white": 206.204,
+   "black": 48.729,
+   "gamma": 0.94,
+   "glare": {
+    "center": [
+     0.865,
+     0.33
+    ],
+    "radius": [
+     0.177,
+     0.118
+    ],
+    "strength": 0.339
+   }
+  },
+  "text_row_px": 12.382,
+  "text_px": 12.382,
+  "photo_px_per_mm": 4.1,
+  "camera": {
+   "blur_sigma": 0.442,
+   "blur_cap": 0.442,
+   "defocus": {
+    "sigma_far": 0.442,
+    "angle": 25.148
+   },
+   "motion": {
+    "length_px": 0.708,
+    "angle": 98.549
+   },
+   "noise_sd": 4.594,
+   "sharpen_radius": 1.423,
+   "sharpen_percent": 81
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 67,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.961,
+   "skew_deg": 3.261,
+   "perspective": {
+    "amount": 0.038,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     0.873,
+     30.498
+    ],
+    [
+     853.7,
+     11.257
+    ],
+    [
+     918.592,
+     1214.429
+    ],
+    [
+     65.742,
+     1252.318
+    ]
+   ]
+  }
+ }
+}

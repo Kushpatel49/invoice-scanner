@@ -1,0 +1,252 @@
+{
+ "id": "syn027",
+ "template": "tally",
+ "supplier_kind": "spices",
+ "supplier": {
+  "name": "MALABAR SPICES & MASALA",
+  "address_lines": [
+   "21/487, Church Road",
+   "Kalamassery, Kerala - 683104"
+  ],
+  "phone": "9819024272",
+  "gstin": "32GHHFD3861U1ZB",
+  "fssai": null,
+  "email": "malabar@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi - Kakkanad"
+ },
+ "invoice_number": "26-27/4604",
+ "invoice_number_printed": "26-27/4604",
+ "invoice_date": "2026-08-29",
+ "date_printed": "29.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "CORIANDER POWDER 500 G",
+   "hsn": "09092200",
+   "quantity": 10,
+   "unit": "Pkt",
+   "rate": 95.0,
+   "tax_percent": 5,
+   "taxable": 950.0,
+   "cgst": 23.75,
+   "sgst": 23.75,
+   "amount": 950.0,
+   "mrp": null
+  },
+  {
+   "description": "SAMBAR POWDER 200 G",
+   "hsn": "21039040",
+   "quantity": 2,
+   "unit": "Pkt",
+   "rate": 56.5,
+   "tax_percent": 5,
+   "taxable": 113.0,
+   "cgst": 2.83,
+   "sgst": 2.83,
+   "amount": 113.0,
+   "mrp": null
+  },
+  {
+   "description": "GARAM MASALA 100 G",
+   "hsn": "09109100",
+   "quantity": 25,
+   "unit": "Pkt",
+   "rate": 72,
+   "tax_percent": 5,
+   "taxable": 1800.0,
+   "cgst": 45.0,
+   "sgst": 45.0,
+   "amount": 1800.0,
+   "mrp": null
+  },
+  {
+   "description": "CARDAMOM 100 G",
+   "hsn": "09083120",
+   "quantity": 9,
+   "unit": "Pkt",
+   "rate": 324,
+   "tax_percent": 5,
+   "taxable": 2916.0,
+   "cgst": 72.9,
+   "sgst": 72.9,
+   "amount": 2916.0,
+   "mrp": null
+  },
+  {
+   "description": "TURMERIC POWDER 500 G",
+   "hsn": "09103030",
+   "quantity": 8,
+   "unit": "Pkt",
+   "rate": 124.25,
+   "tax_percent": 5,
+   "taxable": 994.0,
+   "cgst": 24.85,
+   "sgst": 24.85,
+   "amount": 994.0,
+   "mrp": null
+  },
+  {
+   "description": "CHILLI POWDER 500 G",
+   "hsn": "09042211",
+   "quantity": 62,
+   "unit": "Pkt",
+   "rate": 158.75,
+   "tax_percent": 5,
+   "taxable": 9842.5,
+   "cgst": 246.06,
+   "sgst": 246.06,
+   "amount": 9842.5,
+   "mrp": null
+  },
+  {
+   "description": "PEPPER BLACK 250 G",
+   "hsn": "09041140",
+   "quantity": 1,
+   "unit": "Pkt",
+   "rate": 202,
+   "tax_percent": 5,
+   "taxable": 202.0,
+   "cgst": 5.05,
+   "sgst": 5.05,
+   "amount": 202.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 16817.5,
+  "cgst": 420.44,
+  "sgst": 420.44,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.38,
+  "grand_total": 17658.0
+ },
+ "amount_in_words": "Seventeen Thousand Six Hundred and Fifty Eight INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.987,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1217.615,
+    130.394,
+    1370.365,
+    191.494
+   ],
+   "width": 152.751,
+   "style": "scribble"
+  },
+  "paper_effects": {
+   "tint": [
+    249.61,
+    248.207,
+    249.775
+   ],
+   "grain": 0.013,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 2,
+   "keyboard": {
+    "side": "bottom",
+    "depth": 0.201
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.068,
+   "gradient_angle": 183.353,
+   "vignette": 0.136,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.992,
+    1.0,
+    1.011
+   ],
+   "white": 220.901,
+   "black": 43.513,
+   "gamma": 0.965,
+   "glare": null
+  },
+  "text_row_px": 13.799,
+  "text_px": 13.799,
+  "photo_px_per_mm": 4.239,
+  "camera": {
+   "blur_sigma": 0.493,
+   "blur_cap": 0.493,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.326,
+   "sharpen_radius": 1.472,
+   "sharpen_percent": 67
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 77,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.993,
+   "skew_deg": 1.296,
+   "perspective": {
+    "amount": 0.011,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     1260.848,
+     28.39
+    ],
+    [
+     1290.956,
+     922.835
+    ],
+    [
+     13.252,
+     950.563
+    ],
+    [
+     -9.201,
+     53.148
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,323 @@
+{
+ "id": "syn069",
+ "template": "gst_modern",
+ "supplier_kind": "bakery",
+ "supplier": {
+  "name": "KERALA BAKERS SUPPLY",
+  "address_lines": [
+   "43/799, Agricultural Urban Wholesale Market",
+   "Kalamassery, Kerala - 683104"
+  ],
+  "phone": "7983913889",
+  "gstin": "32AKVFV4997V2ZW",
+  "fssai": null,
+  "email": "kerala@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "GREENS ANGADI KKD"
+ },
+ "invoice_number": "KF/KK/1174/26-27",
+ "invoice_number_printed": "KF/KK/1174/26-27",
+ "invoice_date": "2026-08-26",
+ "date_printed": "26/08/2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "RUSK 200 G",
+   "hsn": "19054000",
+   "quantity": 71,
+   "unit": "Nos",
+   "rate": 36.75,
+   "tax_percent": 5,
+   "taxable": 2609.25,
+   "cgst": 65.23,
+   "sgst": 65.23,
+   "amount": 2609.25,
+   "mrp": null
+  },
+  {
+   "description": "COOKIES BUTTER 200 G",
+   "hsn": "19053100",
+   "quantity": 28,
+   "unit": "Nos",
+   "rate": 77.5,
+   "tax_percent": 18,
+   "taxable": 2170.0,
+   "cgst": 195.3,
+   "sgst": 195.3,
+   "amount": 2170.0,
+   "mrp": null
+  },
+  {
+   "description": "BUN (PACK OF 4)",
+   "hsn": "19059090",
+   "quantity": 45,
+   "unit": "Nos",
+   "rate": 29,
+   "tax_percent": 0,
+   "taxable": 1305.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1305.0,
+   "mrp": null
+  },
+  {
+   "description": "PLUM CAKE 400 G",
+   "hsn": "19059020",
+   "quantity": 49,
+   "unit": "Nos",
+   "rate": 170,
+   "tax_percent": 18,
+   "taxable": 8330.0,
+   "cgst": 749.7,
+   "sgst": 749.7,
+   "amount": 8330.0,
+   "mrp": null
+  },
+  {
+   "description": "SANDWICH BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 67,
+   "unit": "Nos",
+   "rate": 38.27,
+   "tax_percent": 0,
+   "taxable": 2564.09,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2564.09,
+   "mrp": null
+  },
+  {
+   "description": "BROWN BREAD 400 G",
+   "hsn": "19059010",
+   "quantity": 54,
+   "unit": "Nos",
+   "rate": 48,
+   "tax_percent": 0,
+   "taxable": 2592.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2592.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 19570.34,
+  "cgst": 1010.23,
+  "sgst": 1010.23,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 21590.8
+ },
+ "amount_in_words": "INR Twenty One Thousand Five Hundred Ninety and Eighty Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 656"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "cream",
+  "px_per_mm": 7.68,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 656",
+    "box": [
+     803.449,
+     95.682,
+     1014.449,
+     244.682
+    ],
+    "angle": -15.295,
+    "size": 61.382,
+    "font": "Caveat.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -8.618,
+   "center": [
+    831.574,
+    1920.208
+   ],
+   "ink": [
+    72,
+    58,
+    145
+   ],
+   "opacity": 0.324,
+   "print_lum": 20.0,
+   "row_px_estimate": 23.333,
+   "faint": true,
+   "size_mm": [
+    68.569,
+    101.927
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Vishnu"
+   },
+   "fill_ink": [
+    45,
+    70,
+    170
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.015,
+   "title_on_print": 0.039,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.982
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    982.957,
+    7.929,
+    1149.542,
+    74.563
+   ],
+   "width": 166.585,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    250.43,
+    244.076,
+    222.591
+   ],
+   "grain": 0.008,
+   "creases": [
+    {
+     "horizontal": true,
+     "pos": 0.328,
+     "tilt": 0.04,
+     "depth": 0.138,
+     "width_mm": 0.806,
+     "panel_step": 0.004
+    },
+    {
+     "horizontal": false,
+     "pos": 0.346,
+     "tilt": 0.002,
+     "depth": 0.089,
+     "width_mm": 0.829,
+     "panel_step": 0.038
+    }
+   ],
+   "curl": {
+    "edge": "right",
+    "amount": 0.007,
+    "bow": 0.797,
+    "lift": 0.933
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 2,
+   "stack": 3
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.094,
+   "gradient_angle": 345.593,
+   "vignette": 0.15,
+   "shadow": {
+    "kind": "edge",
+    "side": "top",
+    "depth": 0.284,
+    "strength": 0.242
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.987,
+    1.0,
+    1.03
+   ],
+   "white": 219.162,
+   "black": 40.131,
+   "gamma": 1.025,
+   "glare": null
+  },
+  "text_row_px": 22.902,
+  "text_px": 10.36,
+  "photo_px_per_mm": 4.188,
+  "camera": {
+   "blur_sigma": 0.797,
+   "blur_cap": 0.818,
+   "defocus": {
+    "sigma_far": 0.818,
+    "angle": 13.787
+   },
+   "motion": null,
+   "noise_sd": 2.899,
+   "sharpen_radius": 1.426,
+   "sharpen_percent": 68
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 80,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.982,
+   "skew_deg": -1.195,
+   "perspective": {
+    "amount": 0.026,
+    "keystone": "top"
+   },
+   "page_corners_photo": [
+    [
+     47.444,
+     9.132
+    ],
+    [
+     912.708,
+     23.865
+    ],
+    [
+     902.521,
+     1274.319
+    ],
+    [
+     2.786,
+     1251.98
+    ]
+   ]
+  }
+ }
+}

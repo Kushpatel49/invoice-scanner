@@ -1,0 +1,387 @@
+{
+ "id": "syn077",
+ "template": "tally",
+ "supplier_kind": "fruit",
+ "supplier": {
+  "name": "AL-AMEEN FRUITS",
+  "address_lines": [
+   "Door No. 30/326-A, Banerji Road",
+   "Kothamangalam, Kerala - 686691"
+  ],
+  "phone": "8946681688",
+  "gstin": "32NJKPA0049A1ZT",
+  "fssai": "14474484705631",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "GST/1533/26-27",
+ "invoice_number_printed": "GST/1533/26-27",
+ "invoice_date": "2026-08-31",
+ "date_printed": "31-Aug-26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SIMLA GOLDEN APPLE",
+   "hsn": "0808",
+   "quantity": 45,
+   "unit": "PACK",
+   "rate": 58.38,
+   "tax_percent": 0,
+   "taxable": 2627.1,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2627.1,
+   "mrp": null
+  },
+  {
+   "description": "KIRAN WATERMELON",
+   "hsn": "0807",
+   "quantity": 22.1,
+   "unit": "KG",
+   "rate": 20,
+   "tax_percent": 0,
+   "taxable": 442.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 442.0,
+   "mrp": null
+  },
+  {
+   "description": "CAVENDISH BANANA",
+   "hsn": "0803",
+   "quantity": 9.2,
+   "unit": "KG",
+   "rate": 51,
+   "tax_percent": 0,
+   "taxable": 469.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 469.2,
+   "mrp": null
+  },
+  {
+   "description": "MANGO BANGANAPALLI",
+   "hsn": "0804",
+   "quantity": 28.054,
+   "unit": "KG",
+   "rate": 156,
+   "tax_percent": 0,
+   "taxable": 4376.42,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4376.42,
+   "mrp": null
+  },
+  {
+   "description": "SAPOTA",
+   "hsn": "0810",
+   "quantity": 29.6,
+   "unit": "KG",
+   "rate": 89,
+   "tax_percent": 0,
+   "taxable": 2634.4,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2634.4,
+   "mrp": null
+  },
+  {
+   "description": "NENDRAN BANANA",
+   "hsn": "0803",
+   "quantity": 13.94,
+   "unit": "KG",
+   "rate": 78.76,
+   "tax_percent": 0,
+   "taxable": 1097.91,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1097.91,
+   "mrp": null
+  },
+  {
+   "description": "MOSAMBI",
+   "hsn": "0805",
+   "quantity": 7.6,
+   "unit": "KG",
+   "rate": 77,
+   "tax_percent": 0,
+   "taxable": 585.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 585.2,
+   "mrp": null
+  },
+  {
+   "description": "PINEAPPLE",
+   "hsn": "0804",
+   "quantity": 3.8,
+   "unit": "KG",
+   "rate": 67.6,
+   "tax_percent": 0,
+   "taxable": 256.88,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 256.88,
+   "mrp": null
+  },
+  {
+   "description": "GRAPES SEEDLESS",
+   "hsn": "0806",
+   "quantity": 35,
+   "unit": "KG",
+   "rate": 102,
+   "tax_percent": 0,
+   "taxable": 3570.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3570.0,
+   "mrp": null
+  },
+  {
+   "description": "NJALI POOVAN",
+   "hsn": "0803",
+   "quantity": 33,
+   "unit": "KG",
+   "rate": 104.5,
+   "tax_percent": 0,
+   "taxable": 3448.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3448.5,
+   "mrp": null
+  },
+  {
+   "description": "PACHAKAYA (RAW BANANA)",
+   "hsn": "0803",
+   "quantity": 14.669,
+   "unit": "KG",
+   "rate": 51,
+   "tax_percent": 0,
+   "taxable": 748.12,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 748.12,
+   "mrp": null
+  },
+  {
+   "description": "THAI KOYYA (GUAVA)",
+   "hsn": "0804",
+   "quantity": 8,
+   "unit": "KG",
+   "rate": 120.25,
+   "tax_percent": 0,
+   "taxable": 962.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 962.0,
+   "mrp": null
+  },
+  {
+   "description": "ANAR",
+   "hsn": "0810",
+   "quantity": 15,
+   "unit": "KG",
+   "rate": 215.25,
+   "tax_percent": 0,
+   "taxable": 3228.75,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3228.75,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 13,
+ "totals": {
+  "subtotal": null,
+  "cgst": null,
+  "sgst": null,
+  "igst": null,
+  "cess": null,
+  "round_off": null,
+  "grand_total": null
+ },
+ "amount_in_words": null,
+ "continued": true,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "BIL-638"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "continued"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.893,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "BIL-638",
+    "box": [
+     439.632,
+     1.0,
+     685.632,
+     129.0
+    ],
+    "angle": 5.256,
+    "size": 72.64,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 39.519,
+   "center": [
+    680.486,
+    1914.511
+   ],
+   "ink": [
+    75,
+    50,
+    135
+   ],
+   "opacity": 0.354,
+   "print_lum": 30.0,
+   "row_px_estimate": 14.595,
+   "faint": true,
+   "size_mm": [
+    71.604,
+    106.438
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sajitha S",
+    "date": "31/08/26",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "Kalam-Regular.ttf",
+   "placement": "below",
+   "over_table": true,
+   "on_numbers": 0.074,
+   "title_on_print": 0.19,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.994
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    250.611,
+    249.969,
+    249.867
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.002,
+    "bow": 0.959,
+    "lift": 0.463
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "grey laminate",
+   "sheets": 1,
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.031,
+   "gradient_angle": 292.551,
+   "vignette": 0.108,
+   "shadow": null,
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.004,
+    1.0,
+    0.964
+   ],
+   "white": 222.714,
+   "black": 32.546,
+   "gamma": 0.97,
+   "glare": null
+  },
+  "text_row_px": 13.625,
+  "text_px": 13.625,
+  "photo_px_per_mm": 3.983,
+  "camera": {
+   "blur_sigma": 0.356,
+   "blur_cap": 0.487,
+   "defocus": {
+    "sigma_far": 0.487,
+    "angle": 56.709
+   },
+   "motion": null,
+   "noise_sd": 1.783,
+   "sharpen_radius": 1.248,
+   "sharpen_percent": 53
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 75,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.934,
+   "skew_deg": 1.195,
+   "perspective": {
+    "amount": 0.003,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     35.098,
+     44.947
+    ],
+    [
+     879.5,
+     25.366
+    ],
+    [
+     905.38,
+     1219.31
+    ],
+    [
+     59.052,
+     1238.645
+    ]
+   ]
+  }
+ }
+}

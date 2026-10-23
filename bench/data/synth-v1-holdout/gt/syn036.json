@@ -1,0 +1,763 @@
+{
+ "id": "syn036",
+ "template": "dotmatrix",
+ "supplier_kind": "veg",
+ "supplier": {
+  "name": "KAIRALI AGRO TRADERS",
+  "address_lines": [
+   "P55/55, Near Railway Station",
+   "Edappally, Kerala - 682024"
+  ],
+  "phone": "8017600069",
+  "gstin": "32QDOFV6457V1ZC",
+  "fssai": "12516596772510",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angaadi (Super Market)"
+ },
+ "invoice_number": "B1/FS/7413",
+ "invoice_number_printed": "B1/FS/017728",
+ "invoice_date": "2026-09-01",
+ "date_printed": "01-Sep-26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "SPRING ONION",
+   "hsn": "0703",
+   "quantity": 36,
+   "unit": "Kilogram",
+   "rate": 116.0,
+   "tax_percent": 0,
+   "taxable": 4176.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4176.0,
+   "mrp": null
+  },
+  {
+   "description": "BRINJAL GREEN LONG",
+   "hsn": "0709",
+   "quantity": 24.9,
+   "unit": "KGS",
+   "rate": 44.5,
+   "tax_percent": 0,
+   "taxable": 1108.05,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1108.05,
+   "mrp": null
+  },
+  {
+   "description": "SWEET CORN",
+   "hsn": "0709",
+   "quantity": 20,
+   "unit": "PC",
+   "rate": 22.5,
+   "tax_percent": 0,
+   "taxable": 450.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 450.0,
+   "mrp": null
+  },
+  {
+   "description": "TOMATO HYBRID",
+   "hsn": "0702",
+   "quantity": 27.117,
+   "unit": "KGS",
+   "rate": 22.04,
+   "tax_percent": 0,
+   "taxable": 597.66,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 597.66,
+   "mrp": null
+  },
+  {
+   "description": "PARSLEY CURLY",
+   "hsn": "0709",
+   "quantity": 57,
+   "unit": "PACK",
+   "rate": 24,
+   "tax_percent": 0,
+   "taxable": 1368.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1368.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA",
+   "hsn": "0709",
+   "quantity": 25.763,
+   "unit": "KGS",
+   "rate": 63,
+   "tax_percent": 0,
+   "taxable": 1623.07,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1623.07,
+   "mrp": null
+  },
+  {
+   "description": "CORIANDER LEAVES",
+   "hsn": "0709",
+   "quantity": 21.7,
+   "unit": "KGS",
+   "rate": 116,
+   "tax_percent": 0,
+   "taxable": 2517.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2517.2,
+   "mrp": null
+  },
+  {
+   "description": "ONION SMALL (SAMBAR)",
+   "hsn": "0703",
+   "quantity": 32,
+   "unit": "KGS",
+   "rate": 107.25,
+   "tax_percent": 0,
+   "taxable": 3432.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3432.0,
+   "mrp": null
+  },
+  {
+   "description": "COCONUT",
+   "hsn": "0801",
+   "quantity": 45,
+   "unit": "NOS",
+   "rate": 31,
+   "tax_percent": 0,
+   "taxable": 1395.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1395.0,
+   "mrp": null
+  },
+  {
+   "description": "PUMPKIN",
+   "hsn": "0709",
+   "quantity": 19.8,
+   "unit": "KGS",
+   "rate": 30.25,
+   "tax_percent": 0,
+   "taxable": 598.95,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 598.95,
+   "mrp": null
+  },
+  {
+   "description": "ZUCCHINI YELLOW",
+   "hsn": "0709",
+   "quantity": 25,
+   "unit": "Kilogram",
+   "rate": 81.5,
+   "tax_percent": 0,
+   "taxable": 2037.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2037.5,
+   "mrp": null
+  },
+  {
+   "description": "ONION BIG",
+   "hsn": "0703",
+   "quantity": 11.91,
+   "unit": "KGS",
+   "rate": 48.5,
+   "tax_percent": 0,
+   "taxable": 577.64,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 577.64,
+   "mrp": null
+  },
+  {
+   "description": "CAULIFLOWER",
+   "hsn": "0704",
+   "quantity": 21.216,
+   "unit": "KGS",
+   "rate": 48.25,
+   "tax_percent": 0,
+   "taxable": 1023.67,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1023.67,
+   "mrp": null
+  },
+  {
+   "description": "THYME",
+   "hsn": "0709",
+   "quantity": 4,
+   "unit": "PACK",
+   "rate": 29.75,
+   "tax_percent": 0,
+   "taxable": 119.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 119.0,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM GREEN",
+   "hsn": "0709",
+   "quantity": 28.862,
+   "unit": "KGS",
+   "rate": 64.9,
+   "tax_percent": 0,
+   "taxable": 1873.14,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1873.14,
+   "mrp": null
+  },
+  {
+   "description": "POTATO",
+   "hsn": "0701",
+   "quantity": 17.107,
+   "unit": "KGS",
+   "rate": 38.0,
+   "tax_percent": 0,
+   "taxable": 650.07,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 650.07,
+   "mrp": null
+  },
+  {
+   "description": "CHERRY TOMATO RED",
+   "hsn": "0702",
+   "quantity": 9,
+   "unit": "PACK",
+   "rate": 56,
+   "tax_percent": 0,
+   "taxable": 504.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 504.0,
+   "mrp": null
+  },
+  {
+   "description": "CAPSICUM YELLOW",
+   "hsn": "0709",
+   "quantity": 21.758,
+   "unit": "Kilogram",
+   "rate": 159,
+   "tax_percent": 0,
+   "taxable": 3459.52,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3459.52,
+   "mrp": null
+  },
+  {
+   "description": "LEMON",
+   "hsn": "0805",
+   "quantity": 2,
+   "unit": "KGS",
+   "rate": 60.35,
+   "tax_percent": 0,
+   "taxable": 120.7,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 120.7,
+   "mrp": null
+  },
+  {
+   "description": "RED CABBAGE",
+   "hsn": "0704",
+   "quantity": 32,
+   "unit": "Kilogram",
+   "rate": 84.0,
+   "tax_percent": 0,
+   "taxable": 2688.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2688.0,
+   "mrp": null
+  },
+  {
+   "description": "GARLIC (INDIAN)",
+   "hsn": "0703",
+   "quantity": 18.825,
+   "unit": "KGS",
+   "rate": 203,
+   "tax_percent": 0,
+   "taxable": 3821.48,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3821.48,
+   "mrp": null
+  },
+  {
+   "description": "CHINESE CABBAGE",
+   "hsn": "0704",
+   "quantity": 19,
+   "unit": "Kilogram",
+   "rate": 64.72,
+   "tax_percent": 0,
+   "taxable": 1229.68,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1229.68,
+   "mrp": null
+  },
+  {
+   "description": "BOTTLE GOURD",
+   "hsn": "0709",
+   "quantity": 26,
+   "unit": "KGS",
+   "rate": 42.75,
+   "tax_percent": 0,
+   "taxable": 1111.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1111.5,
+   "mrp": null
+  },
+  {
+   "description": "KALE",
+   "hsn": "0704",
+   "quantity": 24,
+   "unit": "PACK",
+   "rate": 18,
+   "tax_percent": 0,
+   "taxable": 432.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 432.0,
+   "mrp": null
+  },
+  {
+   "description": "BITTER GOURD GREEN",
+   "hsn": "0709",
+   "quantity": 30,
+   "unit": "KGS",
+   "rate": 51,
+   "tax_percent": 0,
+   "taxable": 1530.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1530.0,
+   "mrp": null
+  },
+  {
+   "description": "PEELED BABY CORN",
+   "hsn": "0709",
+   "quantity": 81,
+   "unit": "PACK",
+   "rate": 44,
+   "tax_percent": 0,
+   "taxable": 3564.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3564.0,
+   "mrp": null
+  },
+  {
+   "description": "ICEBERG LETTUCE",
+   "hsn": "0705",
+   "quantity": 28,
+   "unit": "Kilogram",
+   "rate": 62,
+   "tax_percent": 0,
+   "taxable": 1736.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1736.0,
+   "mrp": null
+  },
+  {
+   "description": "CABBAGE",
+   "hsn": "0704",
+   "quantity": 1.37,
+   "unit": "KGS",
+   "rate": 36,
+   "tax_percent": 0,
+   "taxable": 49.32,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 49.32,
+   "mrp": null
+  },
+  {
+   "description": "MINT LEAVES",
+   "hsn": "0709",
+   "quantity": 36,
+   "unit": "UNT",
+   "rate": 15,
+   "tax_percent": 0,
+   "taxable": 540.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 540.0,
+   "mrp": null
+  },
+  {
+   "description": "BABY POTATO",
+   "hsn": "0701",
+   "quantity": 17.4,
+   "unit": "Kilogram",
+   "rate": 58.0,
+   "tax_percent": 0,
+   "taxable": 1009.2,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1009.2,
+   "mrp": null
+  },
+  {
+   "description": "GINGER",
+   "hsn": "0910",
+   "quantity": 29.19,
+   "unit": "KGS",
+   "rate": 151.98,
+   "tax_percent": 0,
+   "taxable": 4436.3,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 4436.3,
+   "mrp": null
+  },
+  {
+   "description": "YAM (CHENA)",
+   "hsn": "0714",
+   "quantity": 29,
+   "unit": "KGS",
+   "rate": 68,
+   "tax_percent": 0,
+   "taxable": 1972.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1972.0,
+   "mrp": null
+  },
+  {
+   "description": "TAPIOCA",
+   "hsn": "0714",
+   "quantity": 3.35,
+   "unit": "KGS",
+   "rate": 39.79,
+   "tax_percent": 0,
+   "taxable": 133.3,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 133.3,
+   "mrp": null
+  },
+  {
+   "description": "SWEET POTATO",
+   "hsn": "0714",
+   "quantity": 6.736,
+   "unit": "KGS",
+   "rate": 61,
+   "tax_percent": 0,
+   "taxable": 410.9,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 410.9,
+   "mrp": null
+  },
+  {
+   "description": "AMARANTHUS GREEN BUNCH",
+   "hsn": "0709",
+   "quantity": 99,
+   "unit": "UNT",
+   "rate": 18,
+   "tax_percent": 0,
+   "taxable": 1782.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1782.0,
+   "mrp": null
+  },
+  {
+   "description": "SNAKE GOURD",
+   "hsn": "0709",
+   "quantity": 40,
+   "unit": "KGS",
+   "rate": 34.25,
+   "tax_percent": 0,
+   "taxable": 1370.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1370.0,
+   "mrp": null
+  },
+  {
+   "description": "LEEKS",
+   "hsn": "0703",
+   "quantity": 23.306,
+   "unit": "Kilogram",
+   "rate": 155.47,
+   "tax_percent": 0,
+   "taxable": 3623.38,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 3623.38,
+   "mrp": null
+  },
+  {
+   "description": "RED RADISH",
+   "hsn": "0706",
+   "quantity": 15.132,
+   "unit": "Kilogram",
+   "rate": 80,
+   "tax_percent": 0,
+   "taxable": 1210.56,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1210.56,
+   "mrp": null
+  },
+  {
+   "description": "CUCUMBER SALAD",
+   "hsn": "0707",
+   "quantity": 26.4,
+   "unit": "KGS",
+   "rate": 35,
+   "tax_percent": 0,
+   "taxable": 924.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 924.0,
+   "mrp": null
+  },
+  {
+   "description": "DRUMSTICK",
+   "hsn": "0709",
+   "quantity": 34,
+   "unit": "KGS",
+   "rate": 147.25,
+   "tax_percent": 0,
+   "taxable": 5006.5,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 5006.5,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 40,
+ "totals": {
+  "subtotal": 66211.29,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.29,
+  "grand_total": 66211.0
+ },
+ "amount_in_words": "Sixty Six Thousand Two Hundred and Eleven Rupees Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": {
+   "printed": "B1/FS/017728",
+   "new": "B1/FS/7413"
+  },
+  "quantity": null
+ },
+ "notes": [
+  "Bill-622"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "invoice number corrected"
+ ],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "white",
+  "px_per_mm": 7.383,
+  "pen_ink": [
+   30,
+   40,
+   135
+  ],
+  "invoice_correction": {
+   "printed": "B1/FS/017728",
+   "new": "B1/FS/7413",
+   "where": "right",
+   "box": [
+    546,
+    102,
+    724,
+    139
+   ],
+   "ink": [
+    25,
+    45,
+    150
+   ],
+   "double_strike": true,
+   "font": "Caveat.ttf",
+   "size": 40.235,
+   "pen_on_print": 0.0
+  },
+  "notes": [
+   {
+    "text": "Bill-622",
+    "box": [
+     991.959,
+     0.0,
+     1247.959,
+     141.0
+    ],
+    "angle": -8.377,
+    "size": 68.8,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     30,
+     40,
+     135
+    ]
+   }
+  ],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": 11.744,
+   "center": [
+    495.041,
+    1762.728
+   ],
+   "ink": [
+    92,
+    52,
+    145
+   ],
+   "opacity": 0.432,
+   "print_lum": 77.0,
+   "row_px_estimate": 13.869,
+   "faint": false,
+   "size_mm": [
+    75.345,
+    111.999
+   ],
+   "fills": {
+    "store_name": "KKD",
+    "received": "Sreeja",
+    "date": "1/09/26",
+    "checked_by": "(signature)"
+   },
+   "fill_ink": [
+    20,
+    35,
+    120
+   ],
+   "fill_font": "GochiHand-Regular.ttf",
+   "placement": "free",
+   "over_table": true,
+   "on_numbers": 0.227,
+   "title_on_print": 0.564,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 1.0
+  },
+  "stamp_over_table": true,
+  "ticks": null,
+  "signature": null,
+  "paper_effects": {
+   "tint": [
+    247.487,
+    251.616,
+    248.265
+   ],
+   "grain": 0.015,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    60,
+    62,
+    66
+   ],
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.087,
+   "gradient_angle": 2.33,
+   "vignette": 0.065,
+   "shadow": {
+    "kind": "phone",
+    "side": "top",
+    "depth": 0.229,
+    "strength": 0.119
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    0.996,
+    1.0,
+    1.022
+   ],
+   "white": 217.893,
+   "black": 37.0,
+   "gamma": 1.044,
+   "glare": null
+  },
+  "text_row_px": 13.21,
+  "text_px": 13.761,
+  "photo_px_per_mm": 4.064,
+  "camera": {
+   "blur_sigma": 0.393,
+   "blur_cap": 0.472,
+   "defocus": {
+    "sigma_far": 0.472,
+    "angle": 228.19
+   },
+   "motion": null,
+   "noise_sd": 1.088,
+   "sharpen_radius": 1.126,
+   "sharpen_percent": 34
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 75,
+  "size": [
+   960,
+   1280
+  ],
+  "geometry": {
+   "fill": 0.953,
+   "skew_deg": 1.105,
+   "perspective": {
+    "amount": 0.005,
+    "keystone": "left"
+   },
+   "page_corners_photo": [
+    [
+     11.046,
+     48.911
+    ],
+    [
+     927.965,
+     28.034
+    ],
+    [
+     950.996,
+     1249.088
+    ],
+    [
+     35.634,
+     1262.456
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,284 @@
+{
+ "id": "syn083",
+ "template": "handbook",
+ "supplier_kind": "cut_veg",
+ "supplier": {
+  "name": "THALIR FRESH",
+  "address_lines": [
+   "P46/17, Near Panchayath Office",
+   "Aluva, Kerala - 683101"
+  ],
+  "phone": "8469849890",
+  "gstin": "32RETPE3566X1Z0",
+  "fssai": "12682467409975",
+  "email": "thalir@gmail.com",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Green Angadi Kakkanad"
+ },
+ "invoice_number": "834",
+ "invoice_number_printed": "834",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25/08/26",
+ "tax_mode": "none",
+ "items": [
+  {
+   "description": "COCONUT GRATED",
+   "hsn": "0801",
+   "quantity": 32,
+   "unit": "Pkt",
+   "rate": 60.0,
+   "tax_percent": 0,
+   "taxable": 1920.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 1920.0,
+   "mrp": null
+  },
+  {
+   "description": "KOVAKKA CUT",
+   "hsn": "0709",
+   "quantity": 2,
+   "unit": "Pkt",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 84.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 84.0,
+   "mrp": null
+  },
+  {
+   "description": "BEANS CUT",
+   "hsn": "0709",
+   "quantity": 5,
+   "unit": "Pkt",
+   "rate": 42.0,
+   "tax_percent": 0,
+   "taxable": 210.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 210.0,
+   "mrp": null
+  },
+  {
+   "description": "KAYAM PAYAR CUT",
+   "hsn": "0709",
+   "quantity": 22,
+   "unit": "Pkt",
+   "rate": 41.0,
+   "tax_percent": 0,
+   "taxable": 902.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 902.0,
+   "mrp": null
+  },
+  {
+   "description": "PLANTAIN FLOWER",
+   "hsn": "0709",
+   "quantity": 25,
+   "unit": "Pkt",
+   "rate": 39.0,
+   "tax_percent": 0,
+   "taxable": 975.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 975.0,
+   "mrp": null
+  },
+  {
+   "description": "PAPPAYA CUT",
+   "hsn": "0709",
+   "quantity": 48,
+   "unit": "Pkt",
+   "rate": 46.0,
+   "tax_percent": 0,
+   "taxable": 2208.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 2208.0,
+   "mrp": null
+  },
+  {
+   "description": "AVIAL CUT",
+   "hsn": "0709",
+   "quantity": 2,
+   "unit": "Pkt",
+   "rate": 40.0,
+   "tax_percent": 0,
+   "taxable": 80.0,
+   "cgst": 0.0,
+   "sgst": 0.0,
+   "amount": 80.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 7,
+ "totals": {
+  "subtotal": 6379.0,
+  "cgst": 0.0,
+  "sgst": 0.0,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 6379.0
+ },
+ "amount_in_words": "Six Thousand Three Hundred and Seventy Nine INDIAN RUPEES Only",
+ "continued": false,
+ "handwritten_items": true,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bill-632"
+ ],
+ "expected_review": true,
+ "expected_review_reasons": [
+  "handwritten"
+ ],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "yellow",
+  "px_per_mm": 7.729,
+  "pen_ink": [
+   25,
+   45,
+   150
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bill-632",
+    "box": [
+     912.936,
+     10.202,
+     1136.936,
+     108.202
+    ],
+    "angle": -0.013,
+    "size": 74.257,
+    "font": "Caveat.ttf",
+    "ink": [
+     25,
+     45,
+     150
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    972.254,
+    155.226,
+    1173.675,
+    235.794
+   ],
+   "width": 201.421,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.85,
+    240.613,
+    169.281
+   ],
+   "grain": 0.012,
+   "creases": [],
+   "curl": {
+    "edge": "top",
+    "amount": 0.008,
+    "bow": -0.947,
+    "lift": 0.258
+   }
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "wood",
+   "sheets": 1,
+   "keyboard": {
+    "side": "right",
+    "depth": 0.224
+   },
+   "stack": 0
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.127,
+   "gradient_angle": 95.765,
+   "vignette": 0.077,
+   "shadow": {
+    "kind": "hand",
+    "side": "left",
+    "depth": 0.292,
+    "strength": 0.23
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    1.013,
+    1.0,
+    0.964
+   ],
+   "white": 212.631,
+   "black": 39.98,
+   "gamma": 0.961,
+   "glare": null
+  },
+  "text_row_px": 42.225,
+  "text_px": 23.752,
+  "photo_px_per_mm": 5.099,
+  "camera": {
+   "blur_sigma": 0.674,
+   "blur_cap": 1.247,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.258,
+   "sharpen_radius": 1.59,
+   "sharpen_percent": 75
+  },
+  "rotate_deg": 90,
+  "jpeg_quality": 69,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.929,
+   "skew_deg": -0.304,
+   "perspective": {
+    "amount": 0.022,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     23.585,
+     869.218
+    ],
+    [
+     48.767,
+     74.296
+    ],
+    [
+     1216.24,
+     76.736
+    ],
+    [
+     1224.256,
+     860.365
+    ]
+   ]
+  }
+ }
+}

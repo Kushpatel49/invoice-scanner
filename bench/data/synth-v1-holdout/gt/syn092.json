@@ -1,0 +1,221 @@
+{
+ "id": "syn092",
+ "template": "carbon",
+ "supplier_kind": "packaged_food",
+ "supplier": {
+  "name": "ARAYACHERRIL VARKEY & SONS PVT. LTD.",
+  "address_lines": [
+   "XIII/183, Seaport-Airport Road",
+   "Thrissur, Kerala - 680001"
+  ],
+  "phone": "8532243914",
+  "gstin": "32OCACX3779A1Z2",
+  "fssai": "16340065659646",
+  "email": null,
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Greens Angadi Agro Pvt Ltd"
+ },
+ "invoice_number": "RFN/B2B/2700",
+ "invoice_number_printed": "RFN/B2B/2700",
+ "invoice_date": "2026-08-25",
+ "date_printed": "25.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "INSTANT DOSA BATTER 1 LTR",
+   "hsn": "21061000",
+   "quantity": 1,
+   "unit": "Nos",
+   "rate": 58.25,
+   "tax_percent": 5,
+   "taxable": 58.25,
+   "cgst": 1.46,
+   "sgst": 1.46,
+   "amount": 58.25,
+   "mrp": null
+  },
+  {
+   "description": "INSTANT EDIYAPPAM 1 KG",
+   "hsn": "21061000",
+   "quantity": 57,
+   "unit": "Nos",
+   "rate": 74,
+   "tax_percent": 5,
+   "taxable": 4218.0,
+   "cgst": 105.45,
+   "sgst": 105.45,
+   "amount": 4218.0,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 2,
+ "totals": {
+  "subtotal": 4276.25,
+  "cgst": 106.91,
+  "sgst": 106.91,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": 0.0,
+  "grand_total": 4490.07
+ },
+ "amount_in_words": "Four Thousand Four Hundred Ninety INDIAN RUPEES and Seven Paise Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [
+  "Bil 679"
+ ],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "medium",
+  "paper": "yellow",
+  "px_per_mm": 5.898,
+  "pen_ink": [
+   35,
+   55,
+   165
+  ],
+  "invoice_correction": null,
+  "notes": [
+   {
+    "text": "Bil 679",
+    "box": [
+     1327.569,
+     7.0,
+     1494.569,
+     96.0
+    ],
+    "angle": 2.884,
+    "size": 57.898,
+    "font": "PatrickHand-Regular.ttf",
+    "ink": [
+     35,
+     55,
+     165
+    ]
+   }
+  ],
+  "stamp": null,
+  "stamp_over_table": false,
+  "ticks": {
+   "style": "before_qty",
+   "rows": [
+    0
+   ]
+  },
+  "signature": {
+   "box": [
+    1128.593,
+    152.134,
+    1237.653,
+    195.758
+   ],
+   "width": 109.06,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    247.382,
+    236.394,
+    165.398
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": {
+    "edge": "bottom",
+    "amount": 0.007,
+    "bow": -0.724,
+    "lift": 0.218
+   }
+  },
+  "background": {
+   "kind": "laptop",
+   "deck": [
+    140,
+    142,
+    148
+   ],
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.158,
+   "gradient_angle": 283.352,
+   "vignette": 0.056,
+   "shadow": {
+    "kind": "hand",
+    "side": "bottom",
+    "depth": 0.414,
+    "strength": 0.122
+   },
+   "light_floor": 0.68,
+   "colour_cast": [
+    0.997,
+    1.0,
+    1.023
+   ],
+   "white": 215.361,
+   "black": 33.355,
+   "gamma": 0.95,
+   "glare": null
+  },
+  "text_row_px": 35.132,
+  "text_px": 11.438,
+  "photo_px_per_mm": 4.819,
+  "camera": {
+   "blur_sigma": 0.745,
+   "blur_cap": 1.04,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 3.326,
+   "sharpen_radius": 0.878,
+   "sharpen_percent": 59
+  },
+  "rotate_deg": 0,
+  "jpeg_quality": 82,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.997,
+   "skew_deg": 0.474,
+   "perspective": {
+    "amount": 0.024,
+    "keystone": "bottom"
+   },
+   "page_corners_photo": [
+    [
+     -2.81,
+     19.753
+    ],
+    [
+     1284.799,
+     24.568
+    ],
+    [
+     1266.084,
+     948.021
+    ],
+    [
+     13.127,
+     956.51
+    ]
+   ]
+  }
+ }
+}

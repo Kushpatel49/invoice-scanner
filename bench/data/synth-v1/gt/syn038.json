@@ -1,0 +1,280 @@
+{
+ "id": "syn038",
+ "template": "software",
+ "supplier_kind": "frozen",
+ "supplier": {
+  "name": "SEA KING FROZEN FOODS",
+  "address_lines": [
+   "P53/18, Market Road",
+   "Vyttila, Kerala - 682019"
+  ],
+  "phone": "9218394434",
+  "gstin": "32GQQFG8299G1ZR",
+  "fssai": "10312063357918",
+  "email": "sea@yahoo.in",
+  "state": "Kerala",
+  "state_code": "32"
+ },
+ "buyer": {
+  "name": "GREENS ANGAADI AGRO PVT LTD",
+  "gstin": "32AAHCG9621M1ZC",
+  "address_lines": [
+   "INFO Park Road, Kusumagiri P.O",
+   "Kakkanad, Ernakulam - 682030"
+  ],
+  "display": "Aeden Fresh, Kakkanad"
+ },
+ "invoice_number": "ALM/B2B/2609",
+ "invoice_number_printed": "ALM/B2B/2609",
+ "invoice_date": "2026-08-24",
+ "date_printed": "24.08.2026",
+ "tax_mode": "exclusive",
+ "items": [
+  {
+   "description": "FROZEN CHICKEN DRUMSTICK",
+   "hsn": "02071400",
+   "quantity": 27,
+   "unit": "KGS",
+   "rate": 288,
+   "tax_percent": 5,
+   "taxable": 7776.0,
+   "cgst": 194.4,
+   "sgst": 194.4,
+   "amount": 7776.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PARATHA 20 PCS",
+   "hsn": "19059090",
+   "quantity": 63,
+   "unit": "Nos",
+   "rate": 177.25,
+   "tax_percent": 18,
+   "taxable": 11166.75,
+   "cgst": 1005.01,
+   "sgst": 1005.01,
+   "amount": 11166.75,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN GREEN PEAS 1 KG",
+   "hsn": "07102100",
+   "quantity": 5,
+   "unit": "Nos",
+   "rate": 141,
+   "tax_percent": 5,
+   "taxable": 705.0,
+   "cgst": 17.63,
+   "sgst": 17.63,
+   "amount": 705.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN PRAWNS 500 G",
+   "hsn": "03061790",
+   "quantity": 9,
+   "unit": "Nos",
+   "rate": 313,
+   "tax_percent": 5,
+   "taxable": 2817.0,
+   "cgst": 70.43,
+   "sgst": 70.43,
+   "amount": 2817.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN SWEET CORN 1 KG",
+   "hsn": "07104000",
+   "quantity": 13,
+   "unit": "Nos",
+   "rate": 179,
+   "tax_percent": 5,
+   "taxable": 2327.0,
+   "cgst": 58.18,
+   "sgst": 58.18,
+   "amount": 2327.0,
+   "mrp": null
+  },
+  {
+   "description": "FROZEN CHICKEN BONELESS BREAST",
+   "hsn": "02071200",
+   "quantity": 25.19,
+   "unit": "KGS",
+   "rate": 356,
+   "tax_percent": 5,
+   "taxable": 8967.64,
+   "cgst": 224.19,
+   "sgst": 224.19,
+   "amount": 8967.64,
+   "mrp": null
+  }
+ ],
+ "items_on_page": 6,
+ "totals": {
+  "subtotal": 33759.39,
+  "cgst": 1569.84,
+  "sgst": 1569.84,
+  "igst": 0.0,
+  "cess": 0.0,
+  "round_off": -0.07,
+  "grand_total": 36899.0
+ },
+ "amount_in_words": "INR Thirty Six Thousand Eight Hundred Ninety Nine Only",
+ "continued": false,
+ "handwritten_items": false,
+ "corrections": {
+  "invoice_number": null,
+  "quantity": null
+ },
+ "notes": [],
+ "expected_review": false,
+ "expected_review_reasons": [],
+ "photo": {
+  "difficulty": "easy",
+  "paper": "cream",
+  "px_per_mm": 7.602,
+  "pen_ink": [
+   20,
+   35,
+   120
+  ],
+  "invoice_correction": null,
+  "notes": [],
+  "stamp": {
+   "branch": "KAKKANAD",
+   "angle_deg": -22.847,
+   "center": [
+    610.014,
+    1823.783
+   ],
+   "ink": [
+    85,
+    55,
+    150
+   ],
+   "opacity": 0.843,
+   "print_lum": 24.0,
+   "row_px_estimate": 27.545,
+   "faint": false,
+   "size_mm": [
+    74.627,
+    110.932
+   ],
+   "fills": {
+    "received": "Sanal",
+    "date": "25/08/26",
+    "checked_by": "(signature)",
+    "signature": "(signature)"
+   },
+   "fill_ink": [
+    30,
+    40,
+    135
+   ],
+   "fill_font": "ReenieBeanie.ttf",
+   "placement": "below",
+   "over_table": false,
+   "on_numbers": 0.0,
+   "title_on_print": 0.0,
+   "fill_on_numbers": 0.0,
+   "on_header": 0.0,
+   "on_key": 0.0,
+   "inside_page": 0.993
+  },
+  "stamp_over_table": false,
+  "ticks": null,
+  "signature": {
+   "box": [
+    1181.719,
+    88.57,
+    1324.256,
+    145.584
+   ],
+   "width": 142.536,
+   "style": "loops"
+  },
+  "paper_effects": {
+   "tint": [
+    248.91,
+    244.446,
+    221.945
+   ],
+   "grain": 0.014,
+   "creases": [],
+   "curl": null
+  },
+  "background": {
+   "kind": "papers",
+   "desk": "white table",
+   "sheets": 3,
+   "stack": 1
+  },
+  "underlay_gstin": null,
+  "underlay": null,
+  "lighting": {
+   "gradient": 0.049,
+   "gradient_angle": 259.394,
+   "vignette": 0.128,
+   "shadow": {
+    "kind": "phone",
+    "side": "right",
+    "depth": 0.342,
+    "strength": 0.088
+   },
+   "light_floor": 0.8,
+   "colour_cast": [
+    1.008,
+    1.0,
+    0.933
+   ],
+   "white": 220.938,
+   "black": 34.987,
+   "gamma": 1.048,
+   "glare": null
+  },
+  "text_row_px": 26.435,
+  "text_px": 10.79,
+  "photo_px_per_mm": 4.101,
+  "camera": {
+   "blur_sigma": 0.378,
+   "blur_cap": 0.944,
+   "defocus": null,
+   "motion": null,
+   "noise_sd": 2.153,
+   "sharpen_radius": 1.349,
+   "sharpen_percent": 73
+  },
+  "rotate_deg": 270,
+  "jpeg_quality": 85,
+  "size": [
+   1280,
+   960
+  ],
+  "geometry": {
+   "fill": 0.96,
+   "skew_deg": -0.528,
+   "perspective": {
+    "amount": 0.001,
+    "keystone": "right"
+   },
+   "page_corners_photo": [
+    [
+     1259.334,
+     58.648
+    ],
+    [
+     1249.994,
+     927.082
+    ],
+    [
+     22.819,
+     915.369
+    ],
+    [
+     30.581,
+     46.944
+    ]
+   ]
+  }
+ }
+}
