@@ -166,3 +166,40 @@
 - **Treat `invoice_number` + `supplier.gstin` (or the supplier name when there's no GSTIN) as the duplicate key.** The same bill gets photographed twice.
 - **Line items with a `line N` issue** usually have a right amount and a misread qty or rate; the issue text gives the implied rate. Rows named in a "read differently in two passes" issue have two plausible readings: check those cells against the photo.
 - **Store `handwritten_notes`.** The receiver's "Bill-6xx" note is the store's own reference number, and remarks like "quality issue return" matter for returns.
+
+## ERP import format
+
+`invoice_scanner.erp.to_erp(result)` converts a scan result into the ERP's purchase-bill import payload:
+
+```python
+from invoice_scanner import scan_bill
+from invoice_scanner.erp import to_erp
+
+result = scan_bill("bill.jpg")
+if result["_meta"]["status"] == "auto_ok":
+    post_to_erp(to_erp(result))        # your ERP call
+```
+
+| ERP field | From | Notes |
+|---|---|---|
+| `invoiceDetails.invoiceNo` | `invoice_number` | |
+| `invoiceDetails.invoiceDate` | `invoice_date` | `YYYY-MM-DD`; change `erp.DATE_FORMAT` if the ERP expects another format |
+| `invoiceDetails.supplierName` | `supplier.name` | |
+| `invoiceDetails.supplierMobileNo` | `supplier.phone` | The first 10-digit Indian mobile number in it, else `""` |
+| `invoiceDetails.dueDate`, `shippingDate` | (not on bills) | `""` |
+| `invoiceDetails.flatDiscount` | (not extracted yet) | `0.0` |
+| `productDetail[].name` | `line_items[].description` | |
+| `productDetail[].qty` | `quantity` | |
+| `productDetail[].purchasePrice` | `rate` | The unit price before GST |
+| `productDetail[].taxable` | qty × rate | The pre-GST line value |
+| `productDetail[].tax` | total − taxable | The GST amount of the line |
+| `productDetail[].total` | the line total incl. GST | A printed amount is treated as GST-inclusive when qty × rate × (1 + GST%) gives it; otherwise its GST is added from the row's rate |
+| `productDetail[].landingCost` | total ÷ qty | The landed cost of one unit, GST included |
+| `productDetail[].mrp` | MRP printed in the description ("… MRP 149/-") | Otherwise `0.0` |
+| `productDetail[].itemCode` | (not on bills) | `""`: match `name` against the ERP item master |
+| `productDetail[].sellingPrice` | (the store's own) | `0.0` |
+| `productDetail[].discount*` | (not extracted yet) | `0.0` |
+
+The supplier GSTIN and the grand total aren't in this format. They stay available in the scan result for checks and for matching the supplier.
+
+`tools/erp_review.py` builds a review page that shows each bill photo beside its ERP payload, with wrong values marked when ground truth exists.

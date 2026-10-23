@@ -1,0 +1,437 @@
+<title>Purchase Bill Scan Review</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: a review queue - summary band, sticky filter bar, then one card per bill (photo | ERP payload | review). */
+:root {
+  --bg: #f4f3f7; --surface: #ffffff; --surface-2: #f9f8fb; --ink: #1d1a27; --muted: #676277; --line: #e2dfe9;
+  --accent: #5a3e9e; --accent-ink: #ffffff; --accent-soft: #ebe5f7;
+  --ok: #1b7446; --ok-soft: #e2f2e8; --warn: #93500e; --warn-soft: #faeedf; --bad: #ad2a22; --bad-soft: #fae6e4;
+  --font-ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-cond: "IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #14121a; --surface: #1c1924; --surface-2: #211e2b; --ink: #ebe8f2; --muted: #a39db4; --line: #312c3d;
+  --accent: #b6a1f0; --accent-ink: #1a1526; --accent-soft: #2b2342;
+  --ok: #62cc93; --ok-soft: #15301f; --warn: #eea55c; --warn-soft: #382712; --bad: #ff8b82; --bad-soft: #3b1a18;
+  color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #14121a; --surface: #1c1924; --surface-2: #211e2b; --ink: #ebe8f2; --muted: #a39db4; --line: #312c3d;
+  --accent: #b6a1f0; --accent-ink: #1a1526; --accent-soft: #2b2342;
+  --ok: #62cc93; --ok-soft: #15301f; --warn: #eea55c; --warn-soft: #382712; --bad: #ff8b82; --bad-soft: #3b1a18;
+  color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 14px/1.5 var(--font-ui); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+.wrap { max-width: 1240px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { font-family: var(--font-cond); font-weight: 600; text-wrap: balance; margin: 0; }
+button, input, select, textarea { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mono { font-family: var(--font-mono); font-size: 12.5px; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* masthead */
+.mast { background: var(--surface); border-bottom: 1px solid var(--line); }
+.mast .wrap { padding-block: 24px 20px; display: grid; gap: 14px; }
+.mast h1 { font-size: 28px; letter-spacing: .2px; }
+.mast p { margin: 0; color: var(--muted); max-width: 70ch; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 10px; }
+.stat { background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: grid; gap: 2px; }
+.stat .k { font-size: 11.5px; letter-spacing: .5px; text-transform: uppercase; color: var(--muted); }
+.stat .v { font-family: var(--font-cond); font-size: 22px; font-weight: 600; }
+.stat .s { font-size: 12.5px; color: var(--muted); }
+.stat .v.good { color: var(--ok); }
+
+/* filter bar */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); }
+.bar .wrap { padding-block: 10px; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 7px; overflow: hidden; background: var(--surface); }
+.seg button { border: 0; background: none; padding: 5px 10px; cursor: pointer; color: var(--muted); white-space: nowrap; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.bar select, .bar input[type="search"] { border: 1px solid var(--line); border-radius: 7px; background: var(--surface); padding: 5px 9px; }
+.bar input[type="search"] { min-width: 0; flex: 1 1 180px; }
+.bar .count { color: var(--muted); font-size: 12.5px; margin-left: auto; }
+
+/* cards */
+main .wrap { padding-block: 18px 48px; display: grid; gap: 16px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; display: grid; grid-template-columns: minmax(0, 330px) minmax(0, 1fr); overflow: hidden; scroll-margin-top: 80px; }
+.card.flash { box-shadow: 0 0 0 3px var(--accent); }
+.photo { background: var(--surface-2); border-right: 1px solid var(--line); padding: 10px; display: flex; flex-direction: column; gap: 8px; }
+.photo button { border: 0; padding: 0; background: none; cursor: zoom-in; display: block; }
+.photo img { display: block; width: 100%; height: auto; max-height: 460px; object-fit: contain; border-radius: 4px; background: var(--surface); }
+.photo .cap { font-size: 12px; color: var(--muted); }
+.body { padding: 14px 16px; display: grid; gap: 12px; min-width: 0; }
+.head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }
+.head h2 { font-size: 18px; margin-right: 4px; }
+.chip { display: inline-flex; align-items: center; gap: 5px; border-radius: 99px; padding: 2px 9px; font-size: 12px; font-weight: 500; border: 1px solid var(--line); background: var(--surface-2); color: var(--muted); white-space: nowrap; }
+.chip.ready { background: var(--ok-soft); color: var(--ok); border-color: transparent; }
+.chip.review { background: var(--warn-soft); color: var(--warn); border-color: transparent; }
+.chip.right { color: var(--ok); }
+.chip.wrong { background: var(--bad-soft); color: var(--bad); border-color: transparent; }
+.issues { margin: 0; padding: 8px 12px 8px 28px; background: var(--warn-soft); color: var(--warn); border-radius: 7px; font-size: 13px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 6px 14px; }
+.field { display: grid; gap: 1px; min-width: 0; }
+.field .k { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); }
+.field .v { overflow-wrap: anywhere; }
+.field .v.empty { color: var(--muted); }
+.mark { font-weight: 600; }
+.mark.ok { color: var(--ok); }
+.mark.no { color: var(--bad); }
+.truth { display: block; font-size: 12px; color: var(--bad); }
+.sub { font-size: 11.5px; letter-spacing: .5px; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+.tablebox { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { padding: 5px 8px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: var(--muted); background: var(--surface-2); white-space: nowrap; }
+td.r, th.r { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+td.bad { background: var(--bad-soft); color: var(--bad); }
+tr.extra td { background: var(--bad-soft); }
+tr.missed td { color: var(--muted); font-style: italic; background: var(--surface-2); }
+.tag { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 4px; margin-left: 6px; font-style: normal; white-space: nowrap; }
+.tag.warn { background: var(--warn-soft); color: var(--warn); }
+.tag.bad { background: var(--bad-soft); color: var(--bad); }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.btn { border: 1px solid var(--line); background: var(--surface); border-radius: 7px; padding: 4px 11px; cursor: pointer; }
+.btn:hover { border-color: var(--accent); }
+.btn[aria-pressed="true"].okv { background: var(--ok); color: #fff; border-color: var(--ok); }
+.btn[aria-pressed="true"].badv { background: var(--bad); color: #fff; border-color: var(--bad); }
+details pre { margin: 6px 0 0; max-height: 360px; overflow: auto; background: var(--surface-2); border: 1px solid var(--line); border-radius: 7px; padding: 10px; font: 12px/1.45 var(--font-mono); }
+details summary { cursor: pointer; color: var(--accent); width: fit-content; }
+.review { border-top: 1px dashed var(--line); padding-top: 10px; display: grid; gap: 8px; }
+.review .mine { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.review input[type="text"] { flex: 1 1 220px; min-width: 0; border: 1px solid var(--line); border-radius: 7px; padding: 4px 9px; background: var(--surface); }
+.others { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.others li { font-size: 12.5px; border-radius: 7px; padding: 3px 8px; background: var(--surface-2); border: 1px solid var(--line); max-width: 100%; overflow-wrap: anywhere; }
+.others li.okv { border-color: var(--ok); }
+.others li.badv { border-color: var(--bad); }
+.hint { font-size: 12.5px; color: var(--muted); }
+.empty-list { padding: 40px 0; text-align: center; color: var(--muted); }
+
+/* lightbox */
+.lb { position: fixed; inset: 0; z-index: 20; background: rgba(10, 8, 16, .88); display: flex; align-items: center; justify-content: center; padding: max(12px, env(safe-area-inset-top, 0px)) max(12px, env(safe-area-inset-right, 0px)) max(12px, env(safe-area-inset-bottom, 0px)) max(12px, env(safe-area-inset-left, 0px)); overflow: auto; }
+.lb[hidden] { display: none; }
+.lb img { max-width: 100%; max-height: 100%; cursor: zoom-in; }
+.lb.zoom { align-items: flex-start; justify-content: flex-start; }
+.lb.zoom img { max-width: none; max-height: none; width: 1600px; cursor: zoom-out; }
+.lb .close { position: fixed; top: calc(10px + env(safe-area-inset-top, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); background: #fff; color: #111; border: 0; border-radius: 99px; padding: 6px 12px; cursor: pointer; }
+
+@media (max-width: 760px) {
+  .card { grid-template-columns: 1fr; }
+  .photo { border-right: 0; border-bottom: 1px solid var(--line); }
+  .photo img { max-height: 380px; }
+  .bar .count { margin-left: 0; }
+}
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <h1>Purchase Bill Scan Review</h1>
+    <p>Each bill photo beside what the scanner would send to the ERP, in the ERP's own import format. Bills marked
+      <strong>Ready to post</strong> passed every check; the rest list why a person should look. Synthetic bills have exact
+      answers, so wrong values are marked with the right one. Mark each bill <em>Looks right</em> or <em>Has an error</em>;
+      everyone reviewing sees the same marks.</p>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<nav class="bar" aria-label="Filters">
+  <div class="wrap">
+    <div class="seg" role="group" aria-label="Which bills" id="f-set"></div>
+    <div class="seg" role="group" aria-label="Status" id="f-status"></div>
+    <select id="f-review" aria-label="Review">
+      <option value="all">All reviews</option>
+      <option value="mine-open">Not reviewed by me</option>
+      <option value="flagged">Marked "Has an error"</option>
+      <option value="okd">Marked "Looks right"</option>
+    </select>
+    <select id="f-acc" aria-label="Accuracy">
+      <option value="all">Any accuracy</option>
+      <option value="wrong">Synthetic: has wrong values</option>
+      <option value="right">Synthetic: all values right</option>
+    </select>
+    <input type="search" id="f-q" placeholder="Search supplier, invoice no., item, bill id" aria-label="Search">
+    <span class="count" id="count"></span>
+  </div>
+</nav>
+
+<main><div class="wrap" id="list"></div></main>
+<div class="lb" id="lb" hidden><button class="close" id="lb-close" type="button">Close</button><img id="lb-img" alt=""></div>
+
+<script>
+const DATA = /*__DATA__*/;
+const BILLS = DATA.bills;
+const byId = Object.fromEntries(BILLS.map(b => [b.id, b]));
+const ui = { set: "all", status: "all", review: "all", acc: "all", q: "" };
+let reviews = {};           // billId -> [{uid, verdict, note, at}]
+let me = { uid: null, canWrite: false, ready: false, msg: "Loading reviews..." };
+let db = null, user = null, myDocExists = false, writing = Promise.resolve();
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const money = x => (x === null || x === undefined || x === "") ? "" : Number(x).toLocaleString("en-IN", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const qty = x => (x === null || x === undefined) ? "" : Number(x).toLocaleString("en-IN", { maximumFractionDigits: 3 });
+const TEMPLATE = { handbook: "Handwritten bill book", gst_modern: "GST tax invoice", tally: "Tally invoice", dotmatrix: "Dot-matrix sheet", software: "Billing software", carbon: "Carbon copy" };
+
+/* ---------- summary ---------- */
+function stats() {
+  const real = BILLS.filter(b => b.set === "real"), syn = BILLS.filter(b => b.set === "synthetic");
+  const ready = a => a.filter(b => b.status === "auto_ok").length;
+  const postedWrong = a => a.filter(b => b.status === "auto_ok" && b.truth && !billRight(b)).length;
+  let truthRows = 0, rightRows = 0;
+  syn.forEach(b => { b.truth.rows.forEach(r => { if (!r.extra) { truthRows++; if (r.perfect) rightRows++; } }); truthRows += b.truth.missed.length; });
+  const reviewed = BILLS.filter(b => (reviews[b.id] || []).length).length;
+  const flagged = BILLS.filter(b => (reviews[b.id] || []).some(r => r.verdict === "wrong")).length;
+  const cost = BILLS.reduce((s, b) => s + (b.costInr || 0), 0) / BILLS.length;
+  document.getElementById("stats").innerHTML = [
+    ["Real bills", real.length, `${ready(real)} ready to post · ${real.length - ready(real)} sent for review`],
+    ["Synthetic bills", syn.length, `${ready(syn)} ready to post · held-out set, never tuned on`],
+    ["Wrong bills posted", postedWrong(real) + postedWrong(syn), "bills marked ready that had a wrong value", "good"],
+    ["Rows exactly right", (100 * rightRows / truthRows).toFixed(1) + "%", `${rightRows} of ${truthRows} synthetic rows: qty, rate and amount`],
+    ["Reviewed", `${reviewed} / ${BILLS.length}`, flagged ? `${flagged} marked "Has an error"` : "by anyone on this page"],
+    ["Model cost", "₹" + cost.toFixed(2), "average per bill"],
+  ].map(([k, v, s, cls]) => `<div class="stat"><span class="k">${esc(k)}</span><span class="v num ${cls || ""}">${esc(v)}</span><span class="s">${esc(s)}</span></div>`).join("");
+}
+function billRight(b) {
+  if (b.set === "synthetic") return b.truth.allRight;
+  const h = b.truth.header;
+  return Object.values(h).every(v => !v || v.ok) && b.erp.productDetail.length === b.truth.lineCount;
+}
+
+/* ---------- filters ---------- */
+function seg(id, key, opts) {
+  const el = document.getElementById(id);
+  el.innerHTML = opts.map(([v, label]) => `<button type="button" data-v="${v}" aria-pressed="${ui[key] === v}">${esc(label)}</button>`).join("");
+  el.onclick = e => { const b = e.target.closest("button"); if (!b) return; ui[key] = b.dataset.v; seg(id, key, opts); renderList(); remember(); };
+}
+function remember() { try { localStorage.setItem("bill-review-ui", JSON.stringify(ui)); } catch (e) {} }
+function restore() { try { Object.assign(ui, JSON.parse(localStorage.getItem("bill-review-ui") || "{}")); } catch (e) {} }
+
+function matches(b) {
+  if (ui.set !== "all" && b.set !== ui.set) return false;
+  if (ui.status !== "all" && b.status !== ui.status) return false;
+  if (ui.acc !== "all") { if (b.set !== "synthetic") return false; if ((ui.acc === "right") !== b.truth.allRight) return false; }
+  const rv = reviews[b.id] || [];
+  if (ui.review === "mine-open" && rv.some(r => r.uid === me.uid)) return false;
+  if (ui.review === "flagged" && !rv.some(r => r.verdict === "wrong")) return false;
+  if (ui.review === "okd" && !rv.some(r => r.verdict === "ok")) return false;
+  if (ui.q) {
+    const hay = [b.id, b.erp.invoiceDetails.invoiceNo, b.erp.invoiceDetails.supplierName, b.template || "", ...b.erp.productDetail.map(p => p.name)].join(" ").toLowerCase();
+    if (!hay.includes(ui.q.toLowerCase())) return false;
+  }
+  return true;
+}
+
+/* ---------- one card ---------- */
+function markField(t) {
+  if (!t || t.ok === null || t.ok === undefined) return "";
+  return t.ok ? ` <span class="mark ok" title="Matches the bill">✓</span>`
+              : ` <span class="mark no" title="Wrong">✗</span><span class="truth">on the bill: ${esc(t.truth ?? "none")}</span>`;
+}
+function field(k, v, t, fmt) {
+  const shown = fmt ? fmt(v) : v;
+  const empty = shown === "" || shown === null || shown === undefined;
+  return `<div class="field"><span class="k">${esc(k)}</span><span class="v ${empty ? "empty" : ""}">${empty ? "—" : esc(shown)}${markField(t)}</span></div>`;
+}
+function card(b) {
+  const d = b.erp.invoiceDetails, t = b.truth, h = t ? t.header : {};
+  const ready = b.status === "auto_ok";
+  const wrongCount = b.set === "synthetic"
+    ? t.rows.filter(r => r.extra || !r.perfect).length + t.missed.length + Object.values(h).filter(v => v && v.ok === false).length
+    : (t ? Object.values(h).filter(v => v && v.ok === false).length + (b.erp.productDetail.length !== t.lineCount ? 1 : 0) : 0);
+  const kind = b.set === "real" ? "Real bill" : `Synthetic · ${TEMPLATE[b.template] || b.template} · ${b.difficulty}`;
+  const accChip = t ? (wrongCount ? `<span class="chip wrong">${wrongCount} wrong value${wrongCount > 1 ? "s" : ""}</span>` : `<span class="chip right">✓ all checked values right</span>`) : "";
+
+  const rows = b.erp.productDetail.map((p, i) => {
+    const tr = b.set === "synthetic" ? t.rows[i] : null;
+    const tv = k => tr && tr.truth ? tr.truth[k] : null;   // the true value; none for rows the scan invented
+    const bad = (ok, val) => tr && !tr.extra && ok === false ? ` class="r bad" title="On the bill: ${esc(val)}"` : ` class="r"`;
+    const tval = (ok, val, f) => tr && !tr.extra && ok === false ? `<span class="truth">bill: ${esc(f(val))}</span>` : "";
+    const tags = (b.rowsChecked[i] ? "" : `<span class="tag warn">doesn't add up</span>`) + (tr && tr.extra ? `<span class="tag bad">not on bill</span>` : "");
+    return `<tr class="${tr && tr.extra ? "extra" : ""}">
+      <td class="r">${i + 1}</td><td>${esc(p.name)}${tags}</td>
+      <td${bad(tr && tr.qty, tv("qty"))}>${qty(p.qty)}${tval(tr && tr.qty, tv("qty"), qty)}</td>
+      <td${bad(tr && tr.rate, tv("rate"))}>${money(p.purchasePrice)}${tval(tr && tr.rate, tv("rate"), money)}</td>
+      <td class="r">${money(p.taxable)}</td><td class="r">${money(p.tax)}</td>
+      <td${bad(tr && tr.amount, tv("amount"))}>${money(p.total)}${tval(tr && tr.amount, tv("amount"), money)}</td>
+      <td class="r">${money(p.landingCost)}</td><td class="r">${p.mrp ? money(p.mrp) : ""}</td></tr>`;
+  }).join("");
+  const missed = (t && t.missed || []).map(m => `<tr class="missed"><td></td><td>${esc(m.name)}<span class="tag bad">missed by the scan</span></td>
+      <td class="r">${qty(m.qty)}</td><td class="r">${money(m.rate)}</td><td></td><td></td><td class="r">${money(m.amount)}</td><td></td><td></td></tr>`).join("");
+  const lineNote = b.set === "real" && t ? `<span class="hint">Rows read: ${b.erp.productDetail.length} · on the bill: ${t.lineCount} ${b.erp.productDetail.length === t.lineCount ? "✓" : "✗"}</span>` : "";
+  const x = b.extra;
+
+  return `<article class="card" id="${esc(b.id)}">
+    <div class="photo">
+      <button type="button" data-zoom="${esc(b.photo)}" aria-label="Open the photo of ${esc(b.id)} larger"><img src="${esc(b.photo)}" loading="lazy" alt="Photo of bill ${esc(b.id)}"></button>
+      <span class="cap">${esc(kind)} · turned upright by the scanner · ₹${(b.costInr || 0).toFixed(2)} to scan</span>
+    </div>
+    <div class="body">
+      <div class="head">
+        <h2 class="mono">${esc(b.id)}</h2>
+        <span class="chip ${ready ? "ready" : "review"}">${ready ? "Ready to post" : "Needs review"}</span>
+        ${accChip}
+      </div>
+      ${b.issues.length ? `<ul class="issues">${b.issues.map(i => `<li>${esc(i)}</li>`).join("")}</ul>` : ""}
+      <div>
+        <div class="sub">invoiceDetails</div>
+        <div class="grid">
+          ${field("supplierName", d.supplierName)}
+          ${field("invoiceNo", d.invoiceNo, h.invoiceNo)}
+          ${field("invoiceDate", d.invoiceDate, h.invoiceDate)}
+          ${field("supplierMobileNo", d.supplierMobileNo)}
+          ${field("dueDate", d.dueDate)}
+          ${field("shippingDate", d.shippingDate)}
+          ${field("flatDiscount", d.flatDiscount, null, money)}
+        </div>
+      </div>
+      <div>
+        <div class="sub">Also read from the bill (not in the ERP format)</div>
+        <div class="grid">
+          ${field("GSTIN", x.gstin ? x.gstin + (x.gstinConfirmed ? "" : " (not confirmed)") : "", h.gstin)}
+          ${field("Grand total", x.grandTotal, h.grandTotal, money)}
+          ${field("Receiver's note", x.receiverRef)}
+          ${x.notes.length ? field("Other pen notes", x.notes.join(" · ")) : ""}
+        </div>
+      </div>
+      <div>
+        <div class="sub">productDetail · ${b.erp.productDetail.length} row${b.erp.productDetail.length === 1 ? "" : "s"} ${lineNote}</div>
+        <div class="tablebox"><table>
+          <thead><tr><th class="r">#</th><th>name</th><th class="r">qty</th><th class="r">purchasePrice</th><th class="r">taxable</th><th class="r">tax</th><th class="r">total</th><th class="r">landingCost</th><th class="r">mrp</th></tr></thead>
+          <tbody>${rows || `<tr><td colspan="9" class="hint">No item rows were read.</td></tr>`}${missed}</tbody>
+        </table></div>
+      </div>
+      <div class="actions">
+        <button type="button" class="btn" data-copy="${esc(b.id)}">Copy ERP JSON</button>
+        <details><summary>Show ERP JSON</summary><pre id="json-${esc(b.id)}">${esc(JSON.stringify(b.erp, null, 2))}</pre></details>
+      </div>
+      <div class="review" id="rv-${esc(b.id)}">${reviewBox(b.id)}</div>
+    </div>
+  </article>`;
+}
+
+/* ---------- reviews ---------- */
+function reviewBox(id) {
+  const list = reviews[id] || [];
+  const mine = list.find(r => r.uid === me.uid);
+  const others = list.filter(r => r.uid !== me.uid);
+  const v = mine ? mine.verdict : null;
+  const controls = me.canWrite
+    ? `<div class="mine">
+        <button type="button" class="btn okv" data-verdict="ok" data-id="${esc(id)}" aria-pressed="${v === "ok"}">Looks right</button>
+        <button type="button" class="btn badv" data-verdict="wrong" data-id="${esc(id)}" aria-pressed="${v === "wrong"}">Has an error</button>
+        <input type="text" id="note-${esc(id)}" data-note="${esc(id)}" placeholder="What's wrong? e.g. row 3 rate should be 1,295.24" value="${esc(mine && mine.note || "")}" aria-label="Review note for ${esc(id)}">
+        <button type="button" class="btn" data-save="${esc(id)}">Save note</button>
+      </div>`
+    : `<span class="hint">${esc(me.msg)}</span>`;
+  const chips = others.map(r => `<li class="${r.verdict === "ok" ? "okv" : "badv"}"><strong data-uid="${esc(r.uid)}">Someone</strong>: ${r.verdict === "ok" ? "Looks right" : "Has an error"}${r.note ? " · " + esc(r.note) : ""}</li>`).join("");
+  return controls + (chips ? `<ul class="others">${chips}</ul>` : "");
+}
+async function nameChips(root) {
+  if (!user) return;
+  const els = [...root.querySelectorAll("[data-uid]")];
+  if (!els.length) return;
+  const ps = await user.profiles([...new Set(els.map(e => e.dataset.uid))]);
+  els.forEach(e => { e.textContent = (ps[e.dataset.uid] && ps[e.dataset.uid].name) || "Someone"; });
+}
+function refreshReviews() {
+  BILLS.forEach(b => { const el = document.getElementById("rv-" + b.id); if (el && !el.contains(document.activeElement)) el.innerHTML = reviewBox(b.id); });
+  nameChips(document.getElementById("list"));
+  stats();
+  document.getElementById("count").textContent = countText();
+}
+function save(id, verdict) {
+  if (!db || !me.uid) return;
+  const note = (document.getElementById("note-" + id) || {}).value || "";
+  const entry = verdict === null ? null : { verdict, note: note.slice(0, 500), at: new Date().toISOString() };
+  const ref = db.doc("reviews/" + me.uid);
+  writing = writing.then(async () => {
+    try {
+      if (myDocExists) await ref.update({ verdicts: { [id]: entry } });
+      else { await ref.set({ verdicts: { [id]: entry } }); myDocExists = true; }
+    } catch (e) {
+      if (e && e.code === "invalid_argument" && !myDocExists) { me.canWrite = false; me.msg = "You can read reviews here but not add one."; refreshReviews(); }
+      else console.warn("review not saved", e);
+    }
+  });
+}
+async function startReviews() {
+  try {
+    [db, user] = await Promise.all([claude.use("db"), claude.use("user")]);
+  } catch (e) { db = null; }
+  if (!db) { me.msg = "Reviews are available when this page is opened on claude.ai while signed in."; refreshReviews(); return; }
+  me.uid = user ? await user.id() : null;
+  const can = user ? await user.can("data.write") : null;
+  me.canWrite = !!me.uid && can !== false;
+  me.msg = me.uid ? "You can read reviews here but not add one." : "Sign in to add your review.";
+  db.collection("reviews").onSnapshot(snap => {
+    const next = {};
+    snap.docs.forEach(doc => {
+      if (doc.id === me.uid) myDocExists = true;
+      const v = (doc.data() || {}).verdicts || {};
+      Object.entries(v).forEach(([billId, r]) => { if (r && byId[billId]) (next[billId] = next[billId] || []).push({ uid: doc.id, ...r }); });
+    });
+    reviews = next;
+    refreshReviews();
+    if (ui.review !== "all") renderList();
+  }, err => { me.canWrite = false; me.msg = "Reviews could not be loaded right now."; refreshReviews(); });
+}
+
+/* ---------- list ---------- */
+function countText() { const n = BILLS.filter(matches).length; return `${n} of ${BILLS.length} bills`; }
+function renderList() {
+  const shown = BILLS.filter(matches);
+  const list = document.getElementById("list");
+  list.innerHTML = shown.length ? shown.map(card).join("") : `<p class="empty-list">No bills match these filters.</p>`;
+  document.getElementById("count").textContent = countText();
+  nameChips(list);
+}
+
+document.addEventListener("click", async e => {
+  const z = e.target.closest("[data-zoom]");
+  if (z) { const lb = document.getElementById("lb"); document.getElementById("lb-img").src = z.dataset.zoom; lb.classList.remove("zoom"); lb.hidden = false; return; }
+  if (e.target.id === "lb-img") { document.getElementById("lb").classList.toggle("zoom"); return; }
+  if (e.target.id === "lb-close" || e.target.id === "lb") { document.getElementById("lb").hidden = true; return; }
+  const c = e.target.closest("[data-copy]");
+  if (c) {
+    const text = JSON.stringify(byId[c.dataset.copy].erp, null, 2);
+    try { await navigator.clipboard.writeText(text); c.textContent = "Copied"; }
+    catch (err) { const pre = document.getElementById("json-" + c.dataset.copy); pre.closest("details").open = true; const r = document.createRange(); r.selectNodeContents(pre); const s = getSelection(); s.removeAllRanges(); s.addRange(r); c.textContent = "Selected - press Ctrl/⌘+C"; }
+    setTimeout(() => { c.textContent = "Copy ERP JSON"; }, 1800);
+    return;
+  }
+  const v = e.target.closest("[data-verdict]");
+  if (v) {
+    const id = v.dataset.id, mine = (reviews[id] || []).find(r => r.uid === me.uid);
+    const verdict = mine && mine.verdict === v.dataset.verdict ? null : v.dataset.verdict;   // click again to clear
+    save(id, verdict);
+    return;
+  }
+  const s = e.target.closest("[data-save]");
+  if (s) { const id = s.dataset.save, mine = (reviews[id] || []).find(r => r.uid === me.uid); save(id, mine ? mine.verdict : "wrong"); s.textContent = "Saved"; setTimeout(() => { s.textContent = "Save note"; }, 1500); }
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") document.getElementById("lb").hidden = true;
+  if (e.key === "Enter" && e.target.dataset && e.target.dataset.note) { const id = e.target.dataset.note, mine = (reviews[id] || []).find(r => r.uid === me.uid); save(id, mine ? mine.verdict : "wrong"); }
+});
+
+restore();
+seg("f-set", "set", [["all", "All"], ["real", "Real (15)"], ["synthetic", "Synthetic (100)"]]);
+seg("f-status", "status", [["all", "Any status"], ["auto_ok", "Ready to post"], ["needs_review", "Needs review"]]);
+for (const [id, key] of [["f-review", "review"], ["f-acc", "acc"]]) {
+  const el = document.getElementById(id); el.value = ui[key];
+  el.onchange = () => { ui[key] = el.value; renderList(); remember(); };
+}
+const q = document.getElementById("f-q"); q.value = ui.q;
+q.oninput = () => { ui.q = q.value.trim(); renderList(); };
+stats();
+renderList();
+if (location.hash && byId[location.hash.slice(1)]) {
+  ui.set = "all"; ui.status = "all"; ui.review = "all"; ui.acc = "all"; ui.q = ""; renderList();
+  const el = document.getElementById(location.hash.slice(1)); if (el) { el.scrollIntoView(); el.classList.add("flash"); }
+}
+startReviews();
+</script>
